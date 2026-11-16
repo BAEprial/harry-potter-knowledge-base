@@ -24,7 +24,7 @@ slug: "haywood-sisters-father"
 | 性别 | 男 |
 | 出生 | Before  1973 |
 | 国籍 | 英国人 |
-| 家庭成员 | Winifred Haywood (step-mother)； Wife； [[Penny]] Haywood (daughter)； [[Beatrice]] Haywood (daughter)； Haywood family |
+| 家庭成员 | Winifred Haywood (step-mother)； Wife； [[Penny|Penny]] Haywood (daughter)； [[Beatrice]] Haywood (daughter)； Haywood family |
 | 婚姻状况 | Married (possibly) |
 
 ## 关联

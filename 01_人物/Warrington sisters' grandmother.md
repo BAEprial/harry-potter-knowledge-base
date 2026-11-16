@@ -24,7 +24,7 @@ slug: "warrington-sisters-grandmother"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Nana (by Ivy Warrington) |
-| 家庭成员 | Daughter； Son-in-law； [[Ivy Warrington]] (granddaughter)； Winifred Warrington (granddaughter)； Warrington family |
+| 家庭成员 | Daughter； Son-in-law； [[Ivy Warrington|Ivy Warrington]] (granddaughter)； Winifred Warrington (granddaughter)； Warrington family |
 | 肤色 | Light |
 
 ## 关联

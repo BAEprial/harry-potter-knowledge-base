@@ -30,7 +30,7 @@ slug: "winifred-warrington"
 | 头发颜色 | Silver |
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Winnie (by Ivy and Cassandra Vole) |
-| 家庭成员 | Father； Mother； [[Ivy Warrington]] (younger twin sister)； Grandmother； [[Cassius Warrington]] (possible relative)； Warrington family |
+| 家庭成员 | Father； Mother； [[Ivy Warrington|Ivy Warrington]] (younger twin sister)； Grandmother； [[Cassius Warrington]] (possible relative)； Warrington family |
 | 肤色 | Light |
 
 ## 关联

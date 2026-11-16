@@ -28,7 +28,7 @@ slug: "nora-treadwell"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Archaeologist； Merlin historian； Author |
-| 家庭成员 | [[Priya Treadwell]] (wife) |
+| 家庭成员 | [[Priya Treadwell|Priya Treadwell]] (wife) |
 | 恋情 | Priya Treadwell (wife) |
 | 肤色 | Light |
 | 婚姻状况 | Married |

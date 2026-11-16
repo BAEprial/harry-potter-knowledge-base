@@ -24,7 +24,7 @@ slug: "marcus-turner"
 | 性别 | 男 |
 | 出生 | Between 1 September  1976 and 31 August 1978 |
 | 国籍 | British or Irish |
-| 家庭成员 | Ambrose Turner † (possibly)； Mrs Turner (possibly)； [[Darrel Turner]] (possibly)； [[Lottie Turner]] (possibly)； Turner family |
+| 家庭成员 | Ambrose Turner † (possibly)； Mrs Turner (possibly)； [[Darrel Turner]] (possibly)； [[Lottie Turner|Lottie Turner]] (possibly)； Turner family |
 | 头衔 | Prefect |
 
 ## 关联

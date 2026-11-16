@@ -23,7 +23,7 @@ slug: "ranrok"
 | 眼睛颜色 | Red |
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood,，and core |
-| 家庭成员 | [[Lodgok]] (younger brother) †； [[Bragbor the Boastful]] (ancestor) †； Family |
+| 家庭成员 | [[Lodgok|Lodgok]] (younger brother) †； [[Bragbor the Boastful]] (ancestor) †； Family |
 | 肤色 | Light |
 
 ## 关联

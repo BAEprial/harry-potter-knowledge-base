@@ -28,7 +28,7 @@ slug: "mudiwa-onai"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Divination at Uagadou (?–c. 1889)； Professor of Divination at Hogwarts School (c. 1889–?) |
-| 家庭成员 | Husband †； [[Natsai Onai]] (daughter)； Onai family |
+| 家庭成员 | Husband †； [[Natsai Onai|Natsai Onai]] (daughter)； Onai family |
 | 肤色 | Dark |
 | 头衔 | Professor |
 

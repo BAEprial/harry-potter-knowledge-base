@@ -23,7 +23,7 @@ slug: "g-weasley"
 | 性别 | 男 |
 | 出生 | Before 1875 |
 | 国籍 | 英国人 |
-| 家庭成员 | Matilda Weasley (sister)； [[Garreth Weasley]] (son)； Daughter； Sons and/or nephews； Weasley family |
+| 家庭成员 | Matilda Weasley (sister)； [[Garreth Weasley|Garreth Weasley]] (son)； Daughter； Sons and/or nephews； Weasley family |
 
 ## 关联
 

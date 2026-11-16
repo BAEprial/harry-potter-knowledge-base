@@ -27,7 +27,7 @@ slug: "grant-page"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Hazel |
 | 头发颜色 | Red |
-| 家庭成员 | [[Gorman Page]] (possible relative)； Kaleena Page (possible relative)； Reggie Page (possible relative)； [[Esme Page]] (possible relative)； [[Dan]]iel Page (possible relative)； Page family |
+| 家庭成员 | [[Gorman Page]] (possible relative)； Kaleena Page (possible relative)； Reggie Page (possible relative)； [[Esme Page|Esme Page]] (possible relative)； [[Dan]]iel Page (possible relative)； Page family |
 | 肤色 | White |
 | 头衔 | Keeper |
 

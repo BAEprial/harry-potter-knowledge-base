@@ -27,7 +27,7 @@ slug: "susan-bones"
 | 博格特（恐惧之物） | Lord Voldemort |
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core |
-| 家庭成员 | Amelia [[Bones]] (aunt) †； [[Edgar]] Bones (uncle) †； Aunt by marriage †； First cousins †； Grandfather †； Grandmother †； [[Seraphina Bones]] (possible relative)； [[Effie Bones]] (possible relative)； Bones family |
+| 家庭成员 | Amelia [[Bones]] (aunt) †； [[Edgar]] Bones (uncle) †； Aunt by marriage †； First cousins †； Grandfather †； Grandmother †； [[Seraphina Bones]] (possible relative)； [[Effie Bones|Effie Bones]] (possible relative)； Bones family |
 
 ## 关联
 

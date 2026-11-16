@@ -23,7 +23,7 @@ slug: "lily-moon"
 | 性别 | 女 |
 | 出生 | Between 1 September 1979 and 31 August 1980 |
 | 国籍 | British or Irish |
-| 家庭成员 | [[Dennis]] Moon (possible relative)； [[Gladwin Moon]] (possible relative)； [[Leon]]ard Spencer-Moon (possible relative)； Moon family |
+| 家庭成员 | [[Dennis]] Moon (possible relative)； [[Gladwin Moon|Gladwin Moon]] (possible relative)； [[Leon]]ard Spencer-Moon (possible relative)； Moon family |
 
 ## 关联
 

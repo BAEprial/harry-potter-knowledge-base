@@ -24,7 +24,7 @@ slug: "patrick-redding"
 | 国籍 | 英国人 |
 | 头发颜色 | Brown and grey |
 | 职业 | Co-shopkeeper of Honeydukes |
-| 家庭成员 | [[Olivia Redding]] (daughter)； Redding family |
+| 家庭成员 | [[Olivia Redding|Olivia Redding]] (daughter)； Redding family |
 | 肤色 | Light |
 
 ## 关联

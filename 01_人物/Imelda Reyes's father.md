@@ -24,7 +24,7 @@ slug: "imelda-reyes-s-father"
 | 性别 | 男 |
 | 出生 | Before 31 August 1875 |
 | 国籍 | British or Irish |
-| 家庭成员 | [[Imelda Reyes]] (daughter)； Father or father-in-law； Reyes family |
+| 家庭成员 | [[Imelda Reyes|Imelda Reyes]] (daughter)； Father or father-in-law； Reyes family |
 | 头衔 | Chaser |
 
 ## 关联

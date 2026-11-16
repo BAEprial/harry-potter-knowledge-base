@@ -26,7 +26,7 @@ slug: "petra"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Auburn |
-| 家庭成员 | [[Kaliope]] (grandson) |
+| 家庭成员 | [[Kaliope|Kaliope]] (grandson) |
 | 肤色 | White |
 
 ## 关联

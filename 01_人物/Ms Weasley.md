@@ -23,7 +23,7 @@ slug: "garreth-weasley-s-sister"
 | 性别 | 女 |
 | 出生 | Between 1875 and 1890 |
 | 国籍 | British or Irish |
-| 家庭成员 | [[G. Weasley]] (father)； [[Garreth Weasley]] (brother)； Siblings and/or cousins； [[Matilda Weasley]] (paternal aunt)； Weasley family |
+| 家庭成员 | [[G. Weasley]] (father)； [[Garreth Weasley|Garreth Weasley]] (brother)； Siblings and/or cousins； [[Matilda Weasley|Matilda Weasley]] (paternal aunt)； Weasley family |
 
 ## 关联
 

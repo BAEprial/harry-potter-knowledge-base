@@ -22,7 +22,7 @@ slug: "grace-pinch-smedley-s-grandfather"
 | 性别 | 男 |
 | 出生 | Before 1890,，Bath (possibly) |
 | 国籍 | 英国人 |
-| 家庭成员 | Wife †； Son； [[Grace Pinch-Smedley]] (granddaughter)； Pinch-Smedley family |
+| 家庭成员 | Wife †； Son； [[Grace Pinch-Smedley|Grace Pinch-Smedley]] (granddaughter)； Pinch-Smedley family |
 | 婚姻状况 | Married |
 
 ## 关联

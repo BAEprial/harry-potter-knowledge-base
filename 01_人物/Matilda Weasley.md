@@ -32,7 +32,7 @@ slug: "matilda-weasley"
 | 头发颜色 | Red |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Curse-Breaker (?-pre 1890)； Professor of Transfiguration at Hogwarts School of Witchcraft and Wizardry； Deputy Headmistress at Hogwarts School of Witchcraft and Wizardry |
-| 家庭成员 | [[G. Weasley]] (brother)； [[Garreth Weasley]] (nephew)； Niece； Other nephews； Weasley family |
+| 家庭成员 | [[G. Weasley]] (brother)； [[Garreth Weasley|Garreth Weasley]] (nephew)； Niece； Other nephews； Weasley family |
 | 恋情 | Paul (formerly) |
 | 肤色 | Light |
 | 头衔 | Professor； Deputy Headmistress |

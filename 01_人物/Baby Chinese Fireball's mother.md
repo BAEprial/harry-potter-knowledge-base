@@ -21,7 +21,7 @@ slug: "chinese-fireball-who-burned-long-shouren-s-arm"
 | 性别 | 女 |
 | 出生 | Before the 2010s |
 | 眼睛颜色 | White (pupilless) |
-| 家庭成员 | [[Baby Chinese Fireball]] (possible daughter) |
+| 家庭成员 | [[Baby Chinese Fireball|Baby Chinese Fireball]] (possible daughter) |
 | 肤色 | Red |
 
 ## 关联

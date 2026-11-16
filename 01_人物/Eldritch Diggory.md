@@ -31,7 +31,7 @@ slug: "eldritch-diggory"
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown length,，poplar,，unknown core |
 | 职业 | Minister for Magic |
-| 家庭成员 | Helen Thistlewood (great-niece)； [[Eddie Thistlewood]] (great-nephew)； Amos Diggory (relative)； Cedric Diggory (relative) †； Diggory family |
+| 家庭成员 | Helen Thistlewood (great-niece)； [[Eddie Thistlewood|Eddie Thistlewood]] (great-nephew)； Amos Diggory (relative)； Cedric Diggory (relative) †； Diggory family |
 | 肤色 | Light |
 
 ## 关联

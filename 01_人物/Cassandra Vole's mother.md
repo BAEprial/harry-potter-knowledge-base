@@ -26,7 +26,7 @@ slug: "cassandra-vole-s-mother"
 | 性别 | 女 |
 | 出生 | Before 1 September 1978 |
 | 国籍 | British or Irish |
-| 家庭成员 | Brother or brother-in-law； Husband； [[Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
+| 家庭成员 | Brother or brother-in-law； Husband； [[Cassandra Vole|Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
 | 婚姻状况 | Married |
 
 ## 关联

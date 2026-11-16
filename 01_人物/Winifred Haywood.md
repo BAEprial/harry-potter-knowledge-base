@@ -25,7 +25,7 @@ slug: "winifred-haywood"
 | 头发颜色 | Grey |
 | 职业 | Potioneer |
 | 别名与绰号 | Gran； Granny Haywood |
-| 家庭成员 | Step-son； [[Penny]] Haywood (step-granddaughter)； [[Beatrice]] Haywood (step-granddaughter)； Haywood family |
+| 家庭成员 | Step-son； [[Penny|Penny]] Haywood (step-granddaughter)； [[Beatrice]] Haywood (step-granddaughter)； Haywood family |
 | 肤色 | Light |
 | 婚姻状况 | Married |
 

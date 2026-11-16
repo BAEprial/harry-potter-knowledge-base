@@ -19,7 +19,7 @@ slug: "matthew-jenkins"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | British Ministry of Magic employee |
-| 家庭成员 | [[Hector Jenkins]] (possibly)； [[Eugenia Jenkins]] (possibly)； Joey Jenkins (possibly)； [[Karl]] Jenkins (possibly)； Jenkins family |
+| 家庭成员 | [[Hector Jenkins|Hector Jenkins]] (possibly)； [[Eugenia Jenkins]] (possibly)； Joey Jenkins (possibly)； [[Karl]] Jenkins (possibly)； Jenkins family |
 
 ## 关联
 

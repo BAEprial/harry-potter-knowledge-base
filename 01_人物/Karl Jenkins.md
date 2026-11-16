@@ -25,7 +25,7 @@ slug: "karl-jenkins"
 | 性别 | 男 |
 | 出生 | Between 1 September 2005 and 31 August 2006 |
 | 国籍 | British or Irish |
-| 家庭成员 | [[Eugenia Jenkins]] (possibly)； Joey Jenkins (possibly)； [[Hector Jenkins]] (possibly)； Matthew Jenkins (possibly)； [[Gwenlyn Jenkins]] (possibly)； Jenkins family |
+| 家庭成员 | [[Eugenia Jenkins]] (possibly)； Joey Jenkins (possibly)； [[Hector Jenkins|Hector Jenkins]] (possibly)； Matthew Jenkins (possibly)； [[Gwenlyn Jenkins]] (possibly)； Jenkins family |
 
 ## 关联
 

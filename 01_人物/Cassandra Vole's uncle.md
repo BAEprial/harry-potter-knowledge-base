@@ -20,7 +20,7 @@ slug: "cassandra-vole-s-uncle"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 男 |
-| 家庭成员 | Brother or brother-in-law； Sister or sister-in-law； [[Cassandra Vole]] (niece)； Vole family (possibly) |
+| 家庭成员 | Brother or brother-in-law； Sister or sister-in-law； [[Cassandra Vole|Cassandra Vole]] (niece)； Vole family (possibly) |
 
 ## 关联
 

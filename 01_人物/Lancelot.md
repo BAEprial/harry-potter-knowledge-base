@@ -23,7 +23,7 @@ slug: "lancelot-healer"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Healer |
-| 家庭成员 | Muriel (cousin)； [[Leander Prewett]] (possible cousin)； Aunt |
+| 家庭成员 | Muriel (cousin)； [[Leander Prewett|Leander Prewett]] (possible cousin)； Aunt |
 
 ## 关联
 

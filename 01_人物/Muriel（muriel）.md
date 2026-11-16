@@ -25,7 +25,7 @@ slug: "muriel"
 | 出生 | Between 2 August 1889 and 31 July 1890 |
 | 国籍 | 英国人 |
 | 头发颜色 | Red (possibly,，originally),，Light grey |
-| 家庭成员 | Mother； Possible grandson,，great-nephew or great-nephew by marriage； Nephew or nephew by marriage； [[Lancelot]] (cousin)； [[Ignatius Prewett]] (possible nephew)； Tessie (possible niece or niece by marriage)； Possible relative； [[Leander Prewett]] (possible relative)； J. E. Prewitt (possible relative) |
+| 家庭成员 | Mother； Possible grandson,，great-nephew or great-nephew by marriage； Nephew or nephew by marriage； [[Lancelot]] (cousin)； [[Ignatius Prewett]] (possible nephew)； Tessie (possible niece or niece by marriage)； Possible relative； [[Leander Prewett|Leander Prewett]] (possible relative)； J. E. Prewitt (possible relative) |
 | 肤色 | Light |
 
 ## 关联

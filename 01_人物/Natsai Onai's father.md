@@ -23,7 +23,7 @@ slug: "natsai-onai-s-father"
 | 逝世 | Before 1890 |
 | 阿尼马格斯 | Giraffe |
 | 国籍 | African |
-| 家庭成员 | Mudiwa Onai (wife)； [[Natsai Onai]] (daughter)； Onai family |
+| 家庭成员 | Mudiwa Onai (wife)； [[Natsai Onai|Natsai Onai]] (daughter)； Onai family |
 | 婚姻状况 | Married |
 
 ## 关联

@@ -22,7 +22,7 @@ slug: "miriam-fig"
 | 性别 | 女 |
 | 逝世 | Between September 1889 and 1 September 1890 |
 | 魔杖 | Unknown length,，wood,，and core |
-| 家庭成员 | [[Eleazar Fig]] (husband) † |
+| 家庭成员 | [[Eleazar Fig|Eleazar Fig]] (husband) † |
 | 恋情 | Eleazar Fig (husband) † |
 | 婚姻状况 | Married |
 

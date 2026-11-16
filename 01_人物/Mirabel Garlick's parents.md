@@ -23,7 +23,7 @@ slug: "mirabel-garlick-s-parents"
 | 性别 | Male and Female |
 | 出生 | Before 1890 |
 | 国籍 | 英国人 |
-| 家庭成员 | [[Mirabel Garlick]] (daughter)； Garlick family |
+| 家庭成员 | [[Mirabel Garlick|Mirabel Garlick]] (daughter)； Garlick family |
 
 ## 关联
 

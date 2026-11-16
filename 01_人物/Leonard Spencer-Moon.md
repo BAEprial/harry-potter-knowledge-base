@@ -23,7 +23,7 @@ slug: "leonard-spencer-moon"
 | 性别 | 男 |
 | 出生 | Before 1922 |
 | 职业 | Tea-boy in the Department of Magical Accidents and Catastrophes (formerly)； British Minister for Magic (1939–1948) |
-| 家庭成员 | [[Gladwin Moon]] (possibly)； Lily Moon (possibly)； [[Dennis]] Moon (possibly)； [[Cole Spencer]] (possibly)； Moon family |
+| 家庭成员 | [[Gladwin Moon|Gladwin Moon]] (possibly)； Lily Moon (possibly)； [[Dennis]] Moon (possibly)； [[Cole Spencer]] (possibly)； Moon family |
 | 头衔 | Minister for Magic |
 
 ## 关联

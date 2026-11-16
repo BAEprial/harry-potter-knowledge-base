@@ -19,7 +19,7 @@ slug: "ellie-peck-s-parents"
 | 物种 | Humans |
 | 性别 | Male,，女 |
 | 出生 | Long before 1890 |
-| 家庭成员 | [[Ellie Peck]] (daughter) |
+| 家庭成员 | [[Ellie Peck|Ellie Peck]] (daughter) |
 
 ## 关联
 

@@ -25,7 +25,7 @@ slug: "percival-pratt"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown |
 | 职业 | Poet |
-| 家庭成员 | [[Ferdinand Octavius Pratt]] (possibly) |
+| 家庭成员 | [[Ferdinand Octavius Pratt|Ferdinand Octavius Pratt]] (possibly) |
 | 肤色 | White |
 
 ## 关联

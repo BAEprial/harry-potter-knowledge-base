@@ -29,7 +29,7 @@ slug: "oliver-wood"
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Reserve Keeper for Puddlemere United |
-| 家庭成员 | Father； Mother； Robert Wood (possible relative)； Possible relatives †； [[Eunon Blackwood (né Wood)]] (possible relative)； Artemisia Blackwood (née Black) (possible relative) †； [[Lysandra Blackwood]] (possible relative)； Wood family |
+| 家庭成员 | Father； Mother； Robert Wood (possible relative)； Possible relatives †； [[Eunon Blackwood (né Wood)]] (possible relative)； Artemisia Blackwood (née Black) (possible relative) †； [[Lysandra Blackwood|Lysandra Blackwood]] (possible relative)； Wood family |
 | 头衔 | Keeper； Captain； Reserve Keeper |
 
 ## 关联

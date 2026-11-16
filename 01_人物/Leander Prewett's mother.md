@@ -22,7 +22,7 @@ slug: "leander-prewett-s-mother"
 | 性别 | 女 |
 | 出生 | Before 1874 |
 | 头发颜色 | Red (possibly) |
-| 家庭成员 | [[Leander Prewett]] (son)； Possible relative； [[Ignatius Prewett]] (possible relative)； [[Lucretia Prewett (née Black)]] (possible relative) †； [[Gideon Prewett]] (possible relative) †； [[Fabian Prewett]] (possible relative) †； Molly Weasley (née Prewett) (possible relative)； J. E. Prewitt (possible relative) †； Prewett family |
+| 家庭成员 | [[Leander Prewett|Leander Prewett]] (son)； Possible relative； [[Ignatius Prewett]] (possible relative)； [[Lucretia Prewett (née Black)]] (possible relative) †； [[Gideon Prewett]] (possible relative) †； [[Fabian Prewett]] (possible relative) †； Molly Weasley (née Prewett) (possible relative)； J. E. Prewitt (possible relative) †； Prewett family |
 
 ## 关联
 

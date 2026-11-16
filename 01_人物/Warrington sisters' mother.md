@@ -25,7 +25,7 @@ slug: "warrington-sisters-mother"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
-| 家庭成员 | Mother； Husband； [[Ivy Warrington]] (daughter)； Winifred Warrington (daughter)； Warrington family |
+| 家庭成员 | Mother； Husband； [[Ivy Warrington|Ivy Warrington]] (daughter)； Winifred Warrington (daughter)； Warrington family |
 | 恋情 | Husband |
 | 肤色 | Light |
 

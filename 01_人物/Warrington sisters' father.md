@@ -20,7 +20,7 @@ slug: "warrington-sisters-father"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 男 |
-| 家庭成员 | Wife； [[Ivy Warrington]] (daughter)； Winifred Warrington (daughter)； Mother-in-law； Warrington family |
+| 家庭成员 | Wife； [[Ivy Warrington|Ivy Warrington]] (daughter)； Winifred Warrington (daughter)； Mother-in-law； Warrington family |
 
 ## 关联
 

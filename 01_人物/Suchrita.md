@@ -23,7 +23,7 @@ slug: "suchrita"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 国籍 | British or Irish |
-| 家庭成员 | [[Satyavati Shah]] (sister) |
+| 家庭成员 | [[Satyavati Shah|Satyavati Shah]] (sister) |
 
 ## 关联
 

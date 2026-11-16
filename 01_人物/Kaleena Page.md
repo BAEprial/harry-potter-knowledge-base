@@ -23,7 +23,7 @@ slug: "kaleena-page"
 | 性别 | 女 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Auburn |
-| 家庭成员 | [[Gorman Page]] (husband)； Reggie Page (son)； [[Esme Page]] ((daughter)； [[Dan]]iel Page (son)； Page family |
+| 家庭成员 | [[Gorman Page]] (husband)； Reggie Page (son)； [[Esme Page|Esme Page]] ((daughter)； [[Dan]]iel Page (son)； Page family |
 | 恋情 | Gorman Page (husband) |
 | 肤色 | Light |
 | 婚姻状况 | Married |

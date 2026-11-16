@@ -20,7 +20,7 @@ slug: "nellie-oggspire-s-mother"
 | 血统 | Muggle (implied) |
 | 物种 | 人类 |
 | 性别 | 女 |
-| 家庭成员 | [[Nellie Oggspire]] (daughter)； Oggspire family |
+| 家庭成员 | [[Nellie Oggspire|Nellie Oggspire]] (daughter)； Oggspire family |
 
 ## 关联
 

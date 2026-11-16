@@ -21,7 +21,7 @@ slug: "matilda-weasley-s-nephews"
 | 物种 | Humans |
 | 性别 | Males |
 | 出生 | Before 1890 |
-| 家庭成员 | [[Matilda Weasley]] (aunt)； [[G. Weasley]] (father and/or uncle)； [[Garreth Weasley]] (brother and/or cousin)； Sister and/or cousin； Weasley family |
+| 家庭成员 | [[Matilda Weasley|Matilda Weasley]] (aunt)； [[G. Weasley]] (father and/or uncle)； [[Garreth Weasley|Garreth Weasley]] (brother and/or cousin)； Sister and/or cousin； Weasley family |
 
 ## 关联
 

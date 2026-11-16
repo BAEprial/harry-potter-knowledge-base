@@ -32,7 +32,7 @@ slug: "amos-diggory"
 | 身高 | Tall |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Employee of the Department for the Regulation and Control of Magical Creatures |
-| 家庭成员 | Wife； Cedric Diggory (son) †； [[Eldritch Diggory]] (relative) †； Diggory family |
+| 家庭成员 | Wife； Cedric Diggory (son) †； [[Eldritch Diggory|Eldritch Diggory]] (relative) †； Diggory family |
 | 恋情 | Wife |
 | 肤色 | Ruddy |
 | 婚姻状况 | Married |

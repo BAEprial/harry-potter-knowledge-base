@@ -21,7 +21,7 @@ slug: "valmai-morgan"
 | 性别 | 女 |
 | 出生 | 1982 or earlier |
 | 职业 | Chaser for the Holyhead Harpies |
-| 家庭成员 | [[Elsie]] Morgan (possible relative)； [[Iona Morgan]] (possible relative)； [[Gwendolyn]] Morgan (possible relative)； Morgan family |
+| 家庭成员 | [[Elsie]] Morgan (possible relative)； [[Iona Morgan|Iona Morgan]] (possible relative)； [[Gwendolyn]] Morgan (possible relative)； Morgan family |
 | 头衔 | Chaser |
 
 ## 关联

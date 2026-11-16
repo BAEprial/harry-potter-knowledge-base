@@ -21,7 +21,7 @@ slug: "johanna-bickle-s-husband"
 | 性别 | 男 |
 | 出生 | Before 1890 |
 | 逝世 | 1890/1891 |
-| 家庭成员 | [[Johanna Bickle]] (wife)； Archie Bickle (son)； Bickle family |
+| 家庭成员 | [[Johanna Bickle|Johanna Bickle]] (wife)； Archie Bickle (son)； Bickle family |
 | 婚姻状况 | Married |
 
 ## 关联

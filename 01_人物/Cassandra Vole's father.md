@@ -27,7 +27,7 @@ slug: "cassandra-vole-s-father"
 | 出生 | Before 1 September 1978 |
 | 国籍 | 英国人 |
 | 职业 | British Ministry of Magic employee |
-| 家庭成员 | Brother or brother-in-law； Wife； [[Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
+| 家庭成员 | Brother or brother-in-law； Wife； [[Cassandra Vole|Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
 | 婚姻状况 | Married |
 
 ## 关联

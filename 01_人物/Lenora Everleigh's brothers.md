@@ -24,7 +24,7 @@ slug: "lenora-everleigh-s-brothers"
 | 出生 | Before 1 September 1871 |
 | 国籍 | 英国人 |
 | 职业 | Employees of the British Ministry of Magic |
-| 家庭成员 | [[Eleanor Everleigh]] (aunt)； [[Lenora Everleigh]] (younger sister)； Everleigh family |
+| 家庭成员 | [[Eleanor Everleigh]] (aunt)； [[Lenora Everleigh|Lenora Everleigh]] (younger sister)； Everleigh family |
 
 ## 关联
 

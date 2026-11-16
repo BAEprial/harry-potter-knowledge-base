@@ -27,7 +27,7 @@ slug: "helen-thistlewood"
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror (formerly) |
-| 家庭成员 | [[Eddie Thistlewood]] (brother)； [[Eldritch Diggory]] (great-uncle)； Thistlewood family |
+| 家庭成员 | [[Eddie Thistlewood|Eddie Thistlewood]] (brother)； [[Eldritch Diggory|Eldritch Diggory]] (great-uncle)； Thistlewood family |
 | 肤色 | Light |
 
 ## 关联

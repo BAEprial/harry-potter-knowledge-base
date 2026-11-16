@@ -21,7 +21,7 @@ slug: "grace-pinch-smedley-s-father"
 | 性别 | 男 |
 | 出生 | Before 1890,，Bath (possibly) |
 | 国籍 | 英国人 |
-| 家庭成员 | Father †； Mother †； [[Grace Pinch-Smedley]] (daughter)； Pinch-Smedley family |
+| 家庭成员 | Father †； Mother †； [[Grace Pinch-Smedley|Grace Pinch-Smedley]] (daughter)； Pinch-Smedley family |
 
 ## 关联
 

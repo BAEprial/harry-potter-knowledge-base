@@ -20,7 +20,7 @@ slug: "imelda-reyes-s-grandfather"
 | 性别 | 男 |
 | 出生 | Before 31 August 1875 |
 | 职业 | Quidditch player for Puddlemere United |
-| 家庭成员 | Son or son-in-law； [[Imelda Reyes]] (granddaughter) |
+| 家庭成员 | Son or son-in-law； [[Imelda Reyes|Imelda Reyes]] (granddaughter) |
 
 ## 关联
 

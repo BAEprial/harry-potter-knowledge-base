@@ -20,7 +20,7 @@ slug: "j-e-prewitt"
 | 物种 | 人类 |
 | 出生 | Between 1 September 1959 and 31 August 1966 |
 | 国籍 | British or Irish |
-| 家庭成员 | Possible relative； [[Leander Prewett]] (possible relative)； Possible relative； [[Muriel]] (possible relative)； [[Lancelot]] (possible relative)； Possible relative； [[Ignatius Prewett]] (possible relative)； [[Lucretia Prewett (née Black)]] (possible relative)； Tessie (possible relative)； Molly Weasley (née Prewett) (possible relative)； [[Gideon Prewett]] (possible relative) †； [[Fabian Prewett]] (possible relative) †； [[Bilius]] (possible relative) †； Possible relative； Possible relative； Possible relative； Possible relative； [[Mafalda]] (possible relative)； Prewett family (possible relatives) |
+| 家庭成员 | Possible relative； [[Leander Prewett|Leander Prewett]] (possible relative)； Possible relative； [[Muriel]] (possible relative)； [[Lancelot]] (possible relative)； Possible relative； [[Ignatius Prewett]] (possible relative)； [[Lucretia Prewett (née Black)]] (possible relative)； Tessie (possible relative)； Molly Weasley (née Prewett) (possible relative)； [[Gideon Prewett]] (possible relative) †； [[Fabian Prewett]] (possible relative) †； [[Bilius]] (possible relative) †； Possible relative； Possible relative； Possible relative； Possible relative； [[Mafalda]] (possible relative)； Prewett family (possible relatives) |
 | 头衔 | Seeker |
 
 ## 关联

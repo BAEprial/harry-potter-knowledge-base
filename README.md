@@ -19,10 +19,15 @@ An Obsidian vault for the Harry Potter series, in Chinese with original English 
 | 读物清单 / Reading list | 148 条 / entries | 仓库所有者整理 / compiled by the owner |
 | 组织清单 / Organizations | 73 条 / entries | 仓库所有者整理 / compiled by the owner |
 | 番外故事 / 题库 / 专题 / Extra stories, quizzes, topics | 约 20 | Leo555 条目索引 + 互动题库 |
+| 霍格沃茨之遗（游戏）/ Hogwarts Legacy (game) | 475 | Hogwarts Legacy Wiki (Fandom) |
+| 魔法觉醒（游戏）/ Magic Awakened (game) | 162 | Magic Awakened Wiki + F2P guide |
 | 时间线 / 模板 / Timeline, templates | 约 5 | 通用知识 / General reference |
 
-全库约 6230 篇笔记、8700 余条双向链接。
-Around 6,230 notes and 8,700+ wikilinks in total.
+全库约 6880 篇笔记、9700 余条双向链接。
+Around 6,880 notes and 9,700+ wikilinks in total.
+
+正典与两个游戏板块独立存放；游戏条目与正典重名时加「·遗 / ·觉醒」后缀，正典优先。共享世界的条目按相关度双链到正典卡片。
+Canon and the two game worlds are stored separately; game entries sharing a name with canon use a "·遗 / ·觉醒" suffix. Entries from the shared world are wikilinked to canon where relevant.
 
 ## 目录结构 / Folder structure
 
@@ -36,6 +41,8 @@ Around 6,230 notes and 8,700+ wikilinks in total.
 06_时间线与事件/   大事年表、学年 / Timeline and school years
 07_专题研究/      关系分析、组织清单、番外故事索引、互动题库 / Topics, organizations, extra-story index, quizzes
 08_魔法物品/      魂器、魔杖、道具 / Magical items, Horcruxes, wands
+09_霍格沃茨之遗/   游戏《霍格沃茨之遗》独立板块 / Hogwarts Legacy game (separate section)
+10_魔法觉醒/      游戏《魔法觉醒》独立板块 / Magic Awakened game (separate section)
 99_模板与附件/     人物卡、书籍卡、咒语卡模板 / Note templates
 ```
 
@@ -73,6 +80,9 @@ Plugin binaries are not included (third-party code). Install them from Obsidian'
 | [hogwarts-api](https://github.com/ivopauly/hogwarts-api) | 人物、书籍、电影、咒语、魔药、生物的字段数据 / Character, book, film, spell, potion, creature data |
 | [potter-db](https://github.com/danielschuster-muc/potter-db) | 备用校验 / Cross-check |
 | [Leo555/harrypotter](https://github.com/Leo555/harrypotter) | 中文原创整理：人物传记、魔法物品、地点、中文咒语魔药、番外故事索引、互动题库 / Original Chinese content: biographies, magical items, places, spells, potions, extra-story index, quizzes |
+| [Hogwarts Legacy Wiki](https://hogwarts-legacy.fandom.com/wiki/Hogwarts_Legacy_Wiki) | 游戏《霍格沃茨之遗》条目（Fandom，CC BY-SA）/ Hogwarts Legacy game entries |
+| [Magic Awakened Wiki](https://magic-awakened.fandom.com/wiki/Magic_Awakened_Wiki) | 游戏《魔法觉醒》卡牌、回响、角色条目（Fandom）/ Magic Awakened cards, echoes, characters |
+| [Magic Awakened F2P Guide](https://philipsnows.github.io/quartz/) | 「十诫」玩法攻略（本库为中文导读）/ "10 Commandments" gameplay guide (Chinese digest here) |
 | [Knowledge_Graph_Harry_Potter](https://github.com/AmrinKareem/Knowledge_Graph_Harry_Potter) | 人物关系的共现网络方法 / Co-occurrence approach for character relations |
 | [Harry-Potter-Dialogue-Dataset](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset) | 角色对白与说话风格参考 / Dialogue and speaking style reference |
 | 通用知识 / General reference | 部分经典条目、地点、时间线 / Some classic entries, places, timeline |

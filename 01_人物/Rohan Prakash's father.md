@@ -19,7 +19,7 @@ slug: "rohan-prakash-s-father"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Shopkeeper |
-| 家庭成员 | [[Rohan Prakash]] (son) |
+| 家庭成员 | [[Rohan Prakash|Rohan Prakash]] (son) |
 
 ## 关联
 

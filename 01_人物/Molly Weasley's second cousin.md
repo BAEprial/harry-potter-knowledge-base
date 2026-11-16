@@ -26,7 +26,7 @@ slug: "molly-weasley-s-second-cousin"
 | 出生 | Before 1974 |
 | 国籍 | English (presumably) |
 | 职业 | Accountant； Stockbroker |
-| 家庭成员 | Wife； [[Mafalda]] (daughter)； [[Muriel]] (possible grandmother,，great-aunt,，or great-aunt by marriage)； First cousin once removed or first cousin once removed-in-law； Possible relative； [[Leander Prewett]] (possible relative)； [[J. E. Prewitt]] (possible relative) |
+| 家庭成员 | Wife； [[Mafalda]] (daughter)； [[Muriel]] (possible grandmother,，great-aunt,，or great-aunt by marriage)； First cousin once removed or first cousin once removed-in-law； Possible relative； [[Leander Prewett|Leander Prewett]] (possible relative)； [[J. E. Prewitt]] (possible relative) |
 | 恋情 | Wife |
 | 婚姻状况 | Married |
 

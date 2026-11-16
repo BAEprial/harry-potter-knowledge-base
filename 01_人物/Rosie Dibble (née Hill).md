@@ -23,7 +23,7 @@ slug: "rosie-hill"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 国籍 | 英国人 |
-| 家庭成员 | Augustus Hill (father)； [[Otto Dibble]] (husband)； Hill family； Dibble family |
+| 家庭成员 | Augustus Hill (father)； [[Otto Dibble|Otto Dibble]] (husband)； Hill family； Dibble family |
 | 恋情 | Otto Dibble (husband) |
 | 婚姻状况 | Married |
 

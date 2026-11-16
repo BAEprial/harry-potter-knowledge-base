@@ -19,7 +19,7 @@ slug: "duncan-hobhouse-s-grandfather"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 出生 | Before 1890 |
-| 家庭成员 | [[Duncan Hobhouse]] (grandson) |
+| 家庭成员 | [[Duncan Hobhouse|Duncan Hobhouse]] (grandson) |
 
 ## 关联
 
