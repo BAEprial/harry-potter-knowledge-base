@@ -6,6 +6,8 @@ slug: "elspeth-macgillony"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "elspeth-macgillony"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Substitute professor of Study of Ancient Runes at Hogwarts School of Witchcraft and Wizardry (briefly) |
 | 家庭成员 | Father |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

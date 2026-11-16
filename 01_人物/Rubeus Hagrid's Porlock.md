@@ -4,6 +4,7 @@
 英文名: "Rubeus Hagrid's Porlock"
 slug: "british-ministry-of-magic-s-porlock"
 物种: "Porlock"
+肤色: "Orange"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "british-ministry-of-magic-s-porlock"
 |---|---|
 | 物种 | Porlock |
 | 眼睛颜色 | Blue |
+| 肤色 | Orange |
 
 ## 关联
 

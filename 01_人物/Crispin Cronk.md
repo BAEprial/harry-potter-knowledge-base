@@ -6,6 +6,7 @@ slug: "crispin-cronk"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "crispin-cronk"
 | 逝世 | 1872 (age 76-77) |
 | 国籍 | 英国人 |
 | 头发颜色 | Red |
+| 肤色 | Pale |
 
 ## 关联
 

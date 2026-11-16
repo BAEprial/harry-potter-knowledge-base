@@ -8,6 +8,8 @@ slug: "satyavati-shah"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "satyavati-shah"
 | 头发颜色 | Black (greying) |
 | 职业 | Professor of Astronomy at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Suchrita (sister)； [[Poonima Shah]] (possibly)； Shah family |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

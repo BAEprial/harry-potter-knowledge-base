@@ -5,6 +5,7 @@
 slug: "virgil-fowler-s-moke"
 物种: "Moke"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "virgil-fowler-s-moke"
 | 性别 | 男 |
 | 出生 | Before or in the 1986–1987 school year |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

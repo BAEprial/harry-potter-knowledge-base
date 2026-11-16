@@ -6,6 +6,7 @@ slug: "rowesley-s-father"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Prefect； Head Boy"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "rowesley-s-father"
 | 出生 | Before 1980 |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Rowesley]] (daughter)； Rowesley family |
+| 头衔 | Prefect； Head Boy |
 
 ## 关联
 

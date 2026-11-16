@@ -5,6 +5,7 @@
 slug: "eliana-s-parents"
 物种: "Humans"
 性别: "Male,，女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "eliana-s-parents"
 | 物种 | Humans |
 | 性别 | Male,，女 |
 | 家庭成员 | [[Eliana]] (daughter)； Illyius (son-in-law) |
+| 婚姻状况 | Married |
 
 ## 关联
 

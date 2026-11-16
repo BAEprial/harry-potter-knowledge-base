@@ -4,6 +4,7 @@
 英文名: "Chupacabra at the Magical Creatures Reserve"
 slug: "chupacabra-at-the-magical-creatures-reserve"
 物种: "Chupacabra"
+肤色: "Blue and red"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "chupacabra-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Chupacabra |
 | 眼睛颜色 | Green |
+| 肤色 | Blue and red |
 
 ## 关联
 

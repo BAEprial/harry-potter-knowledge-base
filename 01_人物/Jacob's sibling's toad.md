@@ -4,6 +4,7 @@
 英文名: "Jacob's sibling's toad"
 slug: "jacob-s-sibling-s-toad"
 物种: "Toad"
+肤色: "Light-green"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "jacob-s-sibling-s-toad"
 | 物种 | Toad |
 | 出生 | 1987 or earlier |
 | 眼睛颜色 | Light-green |
+| 肤色 | Light-green |
 
 ## 关联
 

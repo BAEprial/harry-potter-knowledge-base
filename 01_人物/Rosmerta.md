@@ -7,6 +7,8 @@ slug: "rosmerta"
 国籍: "英国人"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "White"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "rosmerta"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 职业 | Landlady of the Three Broomsticks Inn |
+| 肤色 | White |
+| 头衔 | Madam |
 
 ## 关联
 

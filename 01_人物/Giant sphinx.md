@@ -5,6 +5,7 @@
 slug: "giant-sphinx"
 物种: "Sphinx"
 性别: "女"
+肤色: "Orange"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "giant-sphinx"
 | 逝世 | 1992 |
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Brown |
+| 肤色 | Orange |
 
 ## 关联
 

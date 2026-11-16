@@ -7,6 +7,7 @@ slug: "jacob-hogwarts-expellee"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Olivia Green (girlfriend)"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "jacob-hogwarts-expellee"
 | 国籍 | British or Irish |
 | 魔杖 | 10',，Maple,，dragon heartstring (formerly)； Unknown length,，wood and core |
 | 家庭成员 | Peregrine (father)； Mother； Younger sibling； [[Lynn]] (maternal relative)； Relatives in America； His family |
+| 恋情 | Olivia Green (girlfriend) |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "nozea-lestrange-nee-trouche"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "nozea-lestrange-nee-trouche"
 | 逝世 | 1799 (aged 45) |
 | 国籍 | 法国人 |
 | 家庭成员 | Trouche family； [[Lestrange]] family |
+| 婚姻状况 | Married |
 
 ## 关联
 

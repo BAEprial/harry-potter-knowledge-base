@@ -7,6 +7,7 @@ slug: "george-osric"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "george-osric"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | High-ranking British Ministry of Magic official |
+| 肤色 | Light |
 
 ## 关联
 

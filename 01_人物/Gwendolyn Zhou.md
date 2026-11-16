@@ -6,6 +6,7 @@ slug: "gwendolyn-zhou"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "gwendolyn-zhou"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | British Ministry of Magic employee (formerly)； Master thief |
 | 家庭成员 | Ya Zhou (possibly)； Zhou family |
+| 肤色 | Light |
 
 ## 关联
 

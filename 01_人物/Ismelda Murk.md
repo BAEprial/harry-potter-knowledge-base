@@ -7,6 +7,8 @@ slug: "ismelda-murk"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Barnaby Lee (crush) (formerly)； Ben Copper (Formerly)； Unidentified partner (1992-)"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "ismelda-murk"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Poisonous plant expert |
 | 家庭成员 | Father； Mother； Annalena Gleam (née Murk) (older sister)； Sibling-in-law； Grandmother； Murk family |
+| 恋情 | Barnaby Lee (crush) (formerly)； Ben Copper (Formerly)； Unidentified partner (1992-) |
+| 肤色 | White |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "bernadette"
 物种: "人类"
 国籍: "American"
 性别: "女"
+头衔: "Executioner"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "bernadette"
 | 国籍 | American |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Executioner for the Magical Congress of the United States of America |
+| 头衔 | Executioner |
 
 ## 关联
 

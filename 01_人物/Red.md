@@ -6,6 +6,7 @@ slug: "red-goblin"
 物种: "妖精"
 国籍: "American"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "red-goblin"
 | 国籍 | American |
 | 眼睛颜色 | Black |
 | 职业 | Bellboy for the Magical Congress of the United States of America |
+| 肤色 | Light |
 
 ## 关联
 

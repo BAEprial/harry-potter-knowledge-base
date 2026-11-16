@@ -5,6 +5,8 @@
 slug: "calliope-snelling"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "calliope-snelling"
 | 魔杖 | Unknown core,，length and wood |
 | 职业 | Hairdresser； Proprietor of Madam Snelling's Tress Emporium |
 | 别名与绰号 | Snelly |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

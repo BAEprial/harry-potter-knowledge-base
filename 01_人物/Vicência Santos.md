@@ -6,6 +6,7 @@ slug: "vicencia-santos"
 物种: "人类"
 国籍: "Brazilian"
 性别: "女"
+头衔: "Minister for Magic； Supreme Mugwump"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "vicencia-santos"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Brazilian Minister for Magic； Supreme Mugwump of the International Confederation of Wizards (1932-?) |
 | 家庭成员 | [[Rafael Santos]] (possibly)； Santos family |
+| 头衔 | Minister for Magic； Supreme Mugwump |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "eunon-blackwood-s-parents"
 血统: "麻瓜"
 物种: "人类"
 性别: "Male,，女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "eunon-blackwood-s-parents"
 | 物种 | 人类 |
 | 性别 | Male,，女 |
 | 家庭成员 | Eunon Blackwood (son)； Artemisia Blackwood (daughter-in-law) †； Lysandra Blackwood (granddaughter)； Wood family； Blackwood family |
+| 婚姻状况 | Married |
 
 ## 关联
 

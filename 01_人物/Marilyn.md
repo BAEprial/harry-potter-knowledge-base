@@ -7,6 +7,7 @@ slug: "marilyn"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "marilyn"
 | 国籍 | British or Irish |
 | 头发颜色 | Blonde |
 | 家庭成员 | Arthur (younger brother)； [[Albert]] (possibly) |
+| 肤色 | White |
 
 ## 关联
 

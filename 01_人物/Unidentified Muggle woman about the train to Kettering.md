@@ -7,6 +7,7 @@ slug: "unidentified-muggle-woman-about-the-train-to-kettering"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-muggle-woman-about-the-train-to-kettering"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown |
+| 肤色 | Light |
 
 ## 关联
 

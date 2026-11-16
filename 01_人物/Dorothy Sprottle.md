@@ -6,6 +6,9 @@ slug: "dorothy-sprottle"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+恋情: "Aidan Sprottle (husband) †"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "dorothy-sprottle"
 | 职业 | Potioneer |
 | 别名与绰号 | Dot (by Sirona Ryan) |
 | 家庭成员 | Aidan Sprottle (husband) † |
+| 恋情 | Aidan Sprottle (husband) † |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

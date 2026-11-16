@@ -5,6 +5,7 @@
 slug: "alasdair-maddock"
 物种: "人类"
 性别: "男"
+头衔: "Chaser (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "alasdair-maddock"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Chaser for the Montrose Magpies (formerly) |
+| 头衔 | Chaser (formerly) |
 
 ## 关联
 

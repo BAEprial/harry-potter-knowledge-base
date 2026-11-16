@@ -5,6 +5,7 @@
 slug: "otto-obermeier"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "otto-obermeier"
 | 性别 | 男 |
 | 出生 | Before 1997,，Liechtenstein (possibly) |
 | 职业 | Liechtensteiner Minister for Magic (c. 2014) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

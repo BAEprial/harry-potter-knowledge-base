@@ -5,6 +5,7 @@
 slug: "tarquin-mctavish"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "tarquin-mctavish"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Red |
 | 家庭成员 | Torquil McTavish (possibly)； McTavish family |
+| 肤色 | White |
 
 ## 关联
 

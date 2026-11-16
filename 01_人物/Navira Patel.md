@@ -6,6 +6,8 @@ slug: "navira-patel"
 物种: "人类"
 国籍: "Canadian"
 性别: "女"
+肤色: "Medium"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "navira-patel"
 | 头发颜色 | Dark brown |
 | 职业 | Chaser for the Canadian National Quidditch team |
 | 家庭成员 | Ashish Patel (possible relative)； Bhavana Patel (possible relative)； Riya Patel (possible relative)； Patel family |
+| 肤色 | Medium |
+| 头衔 | Chaser |
 
 ## 关联
 

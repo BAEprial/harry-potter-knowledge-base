@@ -7,6 +7,7 @@ slug: "liza-loonifellow"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "liza-loonifellow"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Light Brown |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

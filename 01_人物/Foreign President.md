@@ -6,6 +6,7 @@ slug: "foreign-president"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "foreign-president"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | President of a foreign country |
+| 头衔 | President |
 
 ## 关联
 

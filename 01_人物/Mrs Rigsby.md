@@ -5,6 +5,7 @@
 slug: "rigsby"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "rigsby"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 魔杖 | Unknown length,，wood,，and core |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

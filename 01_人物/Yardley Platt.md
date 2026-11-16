@@ -5,6 +5,7 @@
 slug: "yardley-platt"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "yardley-platt"
 | 逝世 | 1557 (aged 110-111) |
 | 眼睛颜色 | Purple |
 | 头发颜色 | Black |
+| 肤色 | White |
 
 ## 关联
 

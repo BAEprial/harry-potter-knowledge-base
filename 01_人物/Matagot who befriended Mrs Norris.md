@@ -4,6 +4,7 @@
 英文名: "Matagot who befriended Mrs Norris"
 slug: "matagot-who-befriended-mrs-norris"
 物种: "Matagot"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "matagot-who-befriended-mrs-norris"
 |---|---|
 | 物种 | Matagot |
 | 眼睛颜色 | Blue |
+| 肤色 | Black |
 
 ## 关联
 

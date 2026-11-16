@@ -7,6 +7,7 @@ slug: "earl-of-paunchley-s-forced-servants"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "earl-of-paunchley-s-forced-servants"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 职业 | Forced servants of the Earl of Paunchley |
+| 肤色 | Light |
 
 ## 关联
 

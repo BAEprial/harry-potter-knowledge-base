@@ -4,6 +4,7 @@
 英文名: "Unidentified Leucrotta"
 slug: "unidentified-leucrotta"
 物种: "Leucrotta"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-leucrotta"
 |---|---|
 | 物种 | Leucrotta |
 | 出生 | In or before 1987–1988 school year |
+| 肤色 | Brown |
 
 ## 关联
 

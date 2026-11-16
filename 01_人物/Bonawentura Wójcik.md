@@ -5,6 +5,7 @@
 slug: "bonawentura-wojcik"
 物种: "人类"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "bonawentura-wojcik"
 | 性别 | 男 |
 | 出生 | before 1997,，Poland |
 | 职业 | Seeker for the Polish National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

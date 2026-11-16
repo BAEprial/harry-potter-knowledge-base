@@ -6,6 +6,7 @@ slug: "samuel-equiano"
 物种: "人类"
 国籍: "Nigerian"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "samuel-equiano"
 | 出生 | After 1976,，Nigeria (possibly) |
 | 国籍 | Nigerian |
 | 职业 | Seeker for the Nigerian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

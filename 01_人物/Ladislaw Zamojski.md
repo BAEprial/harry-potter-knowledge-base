@@ -6,6 +6,7 @@ slug: "ladislaw-zamojski"
 物种: "人类"
 国籍: "Polish"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ladislaw-zamojski"
 | 性别 | 男 |
 | 国籍 | Polish |
 | 职业 | Chaser for the Polish National Quidditch team (formerly) |
+| 头衔 | Chaser |
 
 ## 关联
 

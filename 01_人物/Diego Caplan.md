@@ -7,6 +7,8 @@ slug: "diego-caplan"
 物种: "Human,，Sphinx (temporarily)"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Nymphadora Tonks (Crush) (Unrequited)"
+肤色: "White (tanned)"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "diego-caplan"
 | 头发颜色 | Dark brown (formerly),，Light brown |
 | 别名与绰号 | Best Dueller at Hogwarts； Dancer Extraordinaire |
 | 家庭成员 | Father； Grandfather； Grandmother； Caplan family |
+| 恋情 | Nymphadora Tonks (Crush) (Unrequited) |
+| 肤色 | White (tanned) |
 
 ## 关联
 

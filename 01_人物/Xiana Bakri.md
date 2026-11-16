@@ -6,6 +6,7 @@ slug: "xiana-bakri"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "xiana-bakri"
 | 国籍 | 法国人 |
 | 职业 | Potioneer |
 | 家庭成员 | [[Joséphine Bakri]] (mother)； Bakri family |
+| 头衔 | Madame |
 
 ## 关联
 

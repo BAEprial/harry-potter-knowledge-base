@@ -5,6 +5,7 @@
 slug: "waiter-in-the-leaky-cauldron"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "waiter-in-the-leaky-cauldron"
 | 出生 | pre-1976 |
 | 头发颜色 | Brown |
 | 职业 | Waiter at the Leaky Cauldron |
+| 肤色 | White |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "dennis-toad"
 物种: "Toad"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "dennis-toad"
 | 出生 | Before 1986 |
 | 眼睛颜色 | Yellow |
 | 别名与绰号 | Prince Dennis of Hogwarts |
+| 肤色 | Green |
 
 ## 关联
 

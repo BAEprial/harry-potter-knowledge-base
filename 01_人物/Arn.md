@@ -5,6 +5,7 @@
 slug: "arn"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "arn"
 | 眼睛颜色 | Black |
 | 头发颜色 | White |
 | 职业 | Painter； Merchant |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "boris-the-bewildered"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "boris-the-bewildered"
 | 性别 | 男 |
 | 逝世 | Before 1995 |
 | 头发颜色 | Black |
+| 肤色 | White |
 
 ## 关联
 

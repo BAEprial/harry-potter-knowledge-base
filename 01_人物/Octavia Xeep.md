@@ -5,6 +5,7 @@
 slug: "octavia-xeep"
 物种: "人类"
 性别: "女"
+恋情: "Lydian Xeep (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "octavia-xeep"
 | 性别 | 女 |
 | 职业 | Opera singer |
 | 家庭成员 | Zenith Xeep (daughter) |
+| 恋情 | Lydian Xeep (uncertain relationship) |
 
 ## 关联
 

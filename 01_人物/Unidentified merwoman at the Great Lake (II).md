@@ -5,6 +5,7 @@
 slug: "unidentified-merwoman-at-the-great-lake-ii"
 物种: "Merperson"
 性别: "女"
+肤色: "Silvery grey (skin), Gun-metal (scales)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-merwoman-at-the-great-lake-ii"
 | 出生 | Before 1992 |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
+| 肤色 | Silvery grey (skin), Gun-metal (scales) |
 
 ## 关联
 

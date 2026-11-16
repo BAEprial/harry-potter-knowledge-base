@@ -6,6 +6,7 @@ slug: "achilles-tolliver"
 物种: "人类"
 国籍: "American"
 性别: "男"
+恋情: "Porpentina Goldstein (dated)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "achilles-tolliver"
 | 出生 | 1910 or earlier |
 | 国籍 | American |
 | 职业 | Auror |
+| 恋情 | Porpentina Goldstein (dated) |
 
 ## 关联
 

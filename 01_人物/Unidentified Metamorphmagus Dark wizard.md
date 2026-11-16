@@ -5,6 +5,8 @@
 slug: "unidentified-metamorphmagus-dark-wizard"
 物种: "人类"
 性别: "男"
+肤色: "Variable (biologically white)"
+体重: "Variable"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "unidentified-metamorphmagus-dark-wizard"
 | 头发颜色 | Variable (biologically black and grey) |
 | 身高 | Variable |
 | 别名与绰号 | Garrick Ollivander (disguised) |
+| 肤色 | Variable (biologically white) |
+| 体重 | Variable |
 
 ## 关联
 

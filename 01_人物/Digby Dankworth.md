@@ -5,6 +5,7 @@
 slug: "digby-dankworth"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "digby-dankworth"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Black |
 | 职业 | Department of Magical Maintenance employee (possibly) |
+| 肤色 | White |
 
 ## 关联
 

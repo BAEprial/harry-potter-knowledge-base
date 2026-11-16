@@ -7,6 +7,8 @@ slug: "alexia-walkin-black"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+肤色: "White"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "alexia-walkin-black"
 | 出生 | 1800s-1810s (possibly) |
 | 逝世 | Before 1996 |
 | 家庭成员 | House of Black |
+| 肤色 | White |
+| 婚姻状况 | Single |
 
 ## 关联
 

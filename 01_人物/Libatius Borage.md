@@ -5,6 +5,7 @@
 slug: "libatius-borage"
 物种: "人类"
 性别: "男"
+肤色: "Tanned"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "libatius-borage"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Brown |
 | 职业 | Potioneer； Author |
+| 肤色 | Tanned |
 
 ## 关联
 

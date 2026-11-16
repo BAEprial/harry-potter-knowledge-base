@@ -5,6 +5,8 @@
 slug: "mary"
 物种: "人类"
 性别: "女"
+头衔: "Saint"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "mary"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Jesus (son) |
+| 头衔 | Saint |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

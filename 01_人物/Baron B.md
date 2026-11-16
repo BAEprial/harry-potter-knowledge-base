@@ -6,6 +6,7 @@ slug: "baron-b"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Auror"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "baron-b"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Chief of Surveillance |
+| 头衔 | Auror |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "yvette-coquelot"
 血统: "Non-Magique"
 物种: "人类"
 性别: "女"
+头衔: "Madame"
+婚姻状况: "Married or widowed (most likely)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "yvette-coquelot"
 | 血统 | Non-Magique |
 | 物种 | 人类 |
 | 性别 | 女 |
+| 头衔 | Madame |
+| 婚姻状况 | Married or widowed (most likely) |
 
 ## 关联
 

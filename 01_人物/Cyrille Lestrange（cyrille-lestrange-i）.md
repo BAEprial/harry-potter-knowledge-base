@@ -7,6 +7,7 @@ slug: "cyrille-lestrange-i"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "cyrille-lestrange-i"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Corvus Lestrange]] (brother) †； [[Darenne Lestrange (née Moreau)]] (wife)； [[Cyrille Lestrange]] (son)； Fulcran Lestrange (son)； [[Balbine Lestrange]] (née Leroy) (daughter-in-law)； Pucine Lestrange (née Leroy) (daughter-in-law)； Corvus Lestrange (nephew)； Falco Lestrange (nephew)； Cyrille Lestrange (grandson)； Fulcran Lestrange (grandson)； Fulcran Lestrange (grandson)； Balbine Lestrange (granddaughter)； Pucine Lestrange (granddaughter)； Lestrange family； Moreau family (in-laws) |
+| 肤色 | Light |
 
 ## 关联
 

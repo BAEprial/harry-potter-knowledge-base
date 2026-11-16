@@ -6,6 +6,9 @@ slug: "nora-treadwell"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Priya Treadwell (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "nora-treadwell"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Archaeologist； Merlin historian； Author |
 | 家庭成员 | [[Priya Treadwell]] (wife) |
+| 恋情 | Priya Treadwell (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

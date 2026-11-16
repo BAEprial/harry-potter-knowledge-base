@@ -7,6 +7,8 @@ slug: "valeria-myriadd"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Professor； Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "valeria-myriadd"
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
 | 职业 | Head of Gryffindor House |
+| 肤色 | White |
+| 头衔 | Professor； Head of Gryffindor House |
 
 ## 关联
 

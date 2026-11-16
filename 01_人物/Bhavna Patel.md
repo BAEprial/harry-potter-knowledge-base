@@ -7,6 +7,7 @@ slug: "bhavana-patel"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "bhavana-patel"
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
 | 家庭成员 | Ashish Patel (possible relative)； Riya Patel (possible relative)； Navira Patel (possible relative)； Patel family |
+| 肤色 | Fair |
 
 ## 关联
 

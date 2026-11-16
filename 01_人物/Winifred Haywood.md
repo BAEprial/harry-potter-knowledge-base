@@ -5,6 +5,8 @@
 slug: "winifred-haywood"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "winifred-haywood"
 | 职业 | Potioneer |
 | 别名与绰号 | Gran； Granny Haywood |
 | 家庭成员 | Step-son； [[Penny]] Haywood (step-granddaughter)； [[Beatrice]] Haywood (step-granddaughter)； Haywood family |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

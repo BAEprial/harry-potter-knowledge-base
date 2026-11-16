@@ -7,6 +7,7 @@ slug: "evangeline-orpington"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "evangeline-orpington"
 | 魔杖 | Poplar,，unknown core and length |
 | 职业 | Minister for Magic (1849–1855) |
 | 家庭成员 | Nerys Orpington (possibly)； Orpington family |
+| 头衔 | Minister |
 
 ## 关联
 

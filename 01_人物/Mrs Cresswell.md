@@ -6,6 +6,7 @@ slug: "dirk-cresswell-s-wife"
 血统: "Pure-blood,，half-blood or Squib"
 物种: "人类"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "dirk-cresswell-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Dirk]] Cresswell (husband) †； More than one son； Cresswell family |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

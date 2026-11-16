@@ -5,6 +5,7 @@
 slug: "unidentified-giant-at-the-battle-of-hogwarts-iii"
 物种: "Giant"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-giant-at-the-battle-of-hogwarts-iii"
 | 性别 | 男 |
 | 逝世 | 2 May 1998,，Hogwarts Castle |
 | 头发颜色 | Bald (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

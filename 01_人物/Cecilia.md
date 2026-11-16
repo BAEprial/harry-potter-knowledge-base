@@ -7,6 +7,7 @@ slug: "cecilia"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Tom Riddle Senior †"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "cecilia"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | 英国人 |
+| 恋情 | Tom Riddle Senior † |
 
 ## 关联
 

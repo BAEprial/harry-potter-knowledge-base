@@ -6,6 +6,7 @@ slug: "jeremiah-garnet"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "jeremiah-garnet"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Blond |
 | 职业 | Reporter for the Wizarding Wireless Network |
+| 肤色 | White |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "karkaroff-s-aide"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "karkaroff-s-aide"
 | 眼睛颜色 | Hazel |
 | 头发颜色 | Black |
 | 职业 | Aide to Igor Karkaroff |
+| 肤色 | Light |
 
 ## 关联
 

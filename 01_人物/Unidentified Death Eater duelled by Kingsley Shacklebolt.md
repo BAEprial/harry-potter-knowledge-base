@@ -6,6 +6,7 @@ slug: "unidentified-death-eater-duelled-by-kingsley-shacklebolt"
 物种: "人类"
 性别: "男"
 守护神: "无"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-death-eater-duelled-by-kingsley-shacklebolt"
 | 逝世 | 2 May 1998,，The Quad,，Hogwarts Castle (possibly) |
 | 守护神 | 无 |
 | 头发颜色 | Dark (mostly bald) |
+| 肤色 | White |
 
 ## 关联
 

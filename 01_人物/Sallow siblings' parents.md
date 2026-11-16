@@ -6,6 +6,8 @@ slug: "sallow-siblings-parents"
 物种: "人类"
 国籍: "Scottish"
 性别: "Male,，female"
+头衔: "Professor"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "sallow-siblings-parents"
 | 国籍 | Scottish |
 | 职业 | Professors |
 | 家庭成员 | Solomon Sallow (brother/brother-in-law) †； Sebastian Sallow (son)； Anne Sallow (daughter)； Sallow family |
+| 头衔 | Professor |
+| 婚姻状况 | Married |
 
 ## 关联
 

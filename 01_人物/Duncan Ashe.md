@@ -7,6 +7,7 @@ slug: "duncan-ashe"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "duncan-ashe"
 | 逝世 | 1970s - 1980s |
 | 国籍 | British or Irish |
 | 家庭成员 | Ashe family |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "alicia-spinnet"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "alicia-spinnet"
 | 出生 | Between 1 September 1977 and 31 August 1978 |
 | 博格特（恐惧之物） | Lord Voldemort |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

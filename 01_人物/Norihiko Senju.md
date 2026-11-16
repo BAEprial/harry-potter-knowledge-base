@@ -6,6 +6,7 @@ slug: "norihiko-senju"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "norihiko-senju"
 | 眼睛颜色 | Black |
 | 头发颜色 | White |
 | 职业 | Headmaster of Mahoutokoro |
+| 肤色 | Light |
 
 ## 关联
 

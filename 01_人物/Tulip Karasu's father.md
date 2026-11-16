@@ -7,6 +7,7 @@ slug: "tulip-karasu-s-father"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "tulip-karasu-s-father"
 | 国籍 | British or Irish |
 | 职业 | Auror |
 | 家庭成员 | [[Mary]] Karasu； Rosa Karasu； [[Iris]] (sister or sister-in-law)； Wife； [[Tulip Karasu]] (daughter)； Karasu family |
+| 婚姻状况 | Married |
 
 ## 关联
 

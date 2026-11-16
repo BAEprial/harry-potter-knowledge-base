@@ -6,6 +6,8 @@ slug: "lorre-gustafson"
 物种: "人类"
 国籍: "Swedish"
 性别: "女"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "lorre-gustafson"
 | 国籍 | Swedish |
 | 头发颜色 | Black |
 | 职业 | Chaser for the Nordic National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

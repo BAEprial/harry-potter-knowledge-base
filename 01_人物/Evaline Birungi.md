@@ -6,6 +6,8 @@ slug: "evaline-birungi"
 物种: "人类"
 国籍: "Ugandan"
 性别: "女"
+肤色: "Dark"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "evaline-birungi"
 | 国籍 | Ugandan |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Light Brown |
+| 肤色 | Dark |
+| 头衔 | Beater |
 
 ## 关联
 

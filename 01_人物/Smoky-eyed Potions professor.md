@@ -5,6 +5,7 @@
 slug: "smoky-eyed-potions-professor"
 物种: "人类"
 性别: "女"
+头衔: "Potions Master； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "smoky-eyed-potions-professor"
 | 性别 | 女 |
 | 眼睛颜色 | Smoky |
 | 职业 | Potions Master at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Potions Master； Professor |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "rhys-maybury"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "rhys-maybury"
 | 头发颜色 | Blond |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Mother |
+| 肤色 | White |
 
 ## 关联
 

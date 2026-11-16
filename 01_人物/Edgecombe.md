@@ -6,6 +6,8 @@ slug: "edgecombe"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "edgecombe"
 | 国籍 | 英国人 |
 | 职业 | Floo Network Regulator |
 | 家庭成员 | Mr Edgecombe (husband)； Marietta Edgecombe (daughter) |
+| 头衔 | Madam |
+| 婚姻状况 | Married |
 
 ## 关联
 

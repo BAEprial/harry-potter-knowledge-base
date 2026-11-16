@@ -5,6 +5,7 @@
 slug: "firenze"
 物种: "马人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "firenze"
 | 头发颜色 | White-blond |
 | 职业 | Professor of Divination at Hogwarts School of Witchcraft and Wizardry (1996-?) |
 | 别名与绰号 | Dobbin (by Sybill Trelawney)； The nag (by Sybill Trelawney) |
+| 头衔 | Professor |
 
 ## 关联
 

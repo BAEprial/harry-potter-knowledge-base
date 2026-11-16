@@ -6,6 +6,7 @@ slug: "nyle-golding"
 血统: "哑炮"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "nyle-golding"
 | 头发颜色 | Light brown |
 | 职业 | Puppeteer |
 | 家庭成员 | [[Shane Golding]] (father) †； [[Glen]]na Golding (née Merriweather) (mother)； [[Tiburon Merriweather]] (maternal grandfather) †； Maternal grandmother； Golding family； Merriweather family (maternal family) |
+| 肤色 | Light |
 
 ## 关联
 

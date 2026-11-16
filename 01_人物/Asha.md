@@ -5,6 +5,7 @@
 slug: "asha"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "asha"
 | 性别 | 女 |
 | 头发颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | White |
 
 ## 关联
 

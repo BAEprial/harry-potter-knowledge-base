@@ -8,6 +8,8 @@ slug: "ruby-honeysuckle"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Eris Foxglove (ex-girlfriend)"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +33,8 @@ slug: "ruby-honeysuckle"
 | 职业 | Trainee Healer (formerly)； Agent of the Rare,，Obscure,，and Confounding Case Division (formerly)； Employee of Department of Magical Maintenance |
 | 别名与绰号 | Agent Honeysuckle； Pepper Copperbottom |
 | 家庭成员 | Parents； Grandfather； Honeysuckle family |
+| 恋情 | Eris Foxglove (ex-girlfriend) |
+| 肤色 | White |
 
 ## 关联
 

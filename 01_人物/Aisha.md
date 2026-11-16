@@ -5,6 +5,7 @@
 slug: "aisha"
 物种: "人类"
 性别: "女"
+恋情: "Mathilda Grimblehawk"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "aisha"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Mother |
+| 恋情 | Mathilda Grimblehawk |
 
 ## 关联
 

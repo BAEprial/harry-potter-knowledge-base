@@ -4,6 +4,7 @@
 英文名: "Ashwinder at the Magical Creatures Reserve"
 slug: "ashwinder-at-the-magical-creatures-reserve"
 物种: "Ashwinder"
+肤色: "Blue-grey"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "ashwinder-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Ashwinder |
 | 眼睛颜色 | Red |
+| 肤色 | Blue-grey |
 
 ## 关联
 

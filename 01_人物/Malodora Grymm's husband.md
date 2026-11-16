@@ -6,6 +6,8 @@ slug: "malodora-grymm-s-husband"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "malodora-grymm-s-husband"
 | 出生 | Middle Ages |
 | 逝世 | Middle Ages |
 | 家庭成员 | [[Malodora Grymm]] (wife) † |
+| 头衔 | King |
+| 婚姻状况 | Married |
 
 ## 关联
 

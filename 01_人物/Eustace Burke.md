@@ -6,6 +6,7 @@ slug: "eustace-burke"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "eustace-burke"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Healer at St Mungo's Hospital for Magical Maladies and Injuries (formerly) |
 | 家庭成员 | [[Eliza]]beth Burke (possibly)； Caractacus Burke (possibly)； Herbert Burke (possibly)； Belvina Burke (possibly)； Burke brothers (possibly)； Ms Burke (possibly)； Burke family |
+| 肤色 | Light |
 
 ## 关联
 

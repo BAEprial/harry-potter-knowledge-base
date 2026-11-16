@@ -6,6 +6,7 @@ slug: "unidentified-gryffindor-prefect-2010s"
 学院: "格兰芬多"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-gryffindor-prefect-2010s"
 | 物种 | 人类 |
 | 出生 | Before 1 September 1996 |
 | 国籍 | British or Irish |
+| 头衔 | Prefect |
 
 ## 关联
 

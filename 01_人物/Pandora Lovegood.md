@@ -7,6 +7,9 @@ slug: "pandora-lovegood"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Xenophilius Lovegood (husband)"
+肤色: "Light (likely)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "pandora-lovegood"
 | 眼睛颜色 | Pale silvery (likely) |
 | 头发颜色 | Blonde |
 | 家庭成员 | Xenophilius Lovegood (husband)； Luna Lovegood (daughter)； Rolf Scamander (son-in-law)； [[Lorcan Scamander]] (grandson)； [[Lysander Scamander]] (grandson)； Lovegood family |
+| 恋情 | Xenophilius Lovegood (husband) |
+| 肤色 | Light (likely) |
+| 婚姻状况 | Married |
 
 ## 关联
 

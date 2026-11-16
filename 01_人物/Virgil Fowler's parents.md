@@ -9,6 +9,7 @@ slug: "virgil-fowler-s-parents"
 国籍: "British or Irish"
 性别: "Male,，女"
 守护神: "无"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "virgil-fowler-s-parents"
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core (father's) |
 | 家庭成员 | Brother/brother-in-law； [[Virgil Fowler]] (son)； Fowler family |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

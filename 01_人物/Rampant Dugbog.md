@@ -4,6 +4,7 @@
 英文名: "Rampant Dugbog"
 slug: "rampant-dugbog"
 物种: "Dugbog (Stoneback Dugbog)"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "rampant-dugbog"
 | 物种 | Dugbog (Stoneback Dugbog) |
 | 逝世 | 1890 or 1891 |
 | 眼睛颜色 | Red |
+| 肤色 | Grey |
 
 ## 关联
 

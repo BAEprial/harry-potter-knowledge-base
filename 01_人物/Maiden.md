@@ -6,6 +6,7 @@ slug: "maiden-the-warlock-s-hairy-heart"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "maiden-the-warlock-s-hairy-heart"
 | 逝世 | On her wedding day |
 | 头发颜色 | Long,，blonde and straight |
 | 家庭成员 | Her kinsfolk |
+| 肤色 | White |
 
 ## 关联
 

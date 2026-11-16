@@ -5,6 +5,7 @@
 slug: "bandon-banshee"
 物种: "Banshee"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "bandon-banshee"
 | 物种 | Banshee |
 | 性别 | 女 |
 | 头发颜色 | 黑暗 |
+| 肤色 | Green |
 
 ## 关联
 

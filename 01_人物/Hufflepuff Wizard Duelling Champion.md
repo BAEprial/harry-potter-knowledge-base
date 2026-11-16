@@ -6,6 +6,8 @@ slug: "hufflepuff-wizard-duelling-champion"
 学院: "赫奇帕奇"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Hufflepuff Wizard Duelling Champion"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "hufflepuff-wizard-duelling-champion"
 | 出生 | 31 August 1981 or earlier |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Red |
+| 肤色 | White |
+| 头衔 | Hufflepuff Wizard Duelling Champion |
 
 ## 关联
 

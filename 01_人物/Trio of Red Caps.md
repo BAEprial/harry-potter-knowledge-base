@@ -4,6 +4,7 @@
 英文名: "Trio of Red Caps"
 slug: "trio-of-red-caps"
 物种: "Red Caps"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "trio-of-red-caps"
 | 出生 | In or before the 2000s |
 | 眼睛颜色 | Red |
 | 头发颜色 | White |
+| 肤色 | Grey |
 
 ## 关联
 

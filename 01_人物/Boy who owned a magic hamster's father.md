@@ -6,6 +6,7 @@ slug: "father-of-boy-who-owned-a-magic-hamster"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "father-of-boy-who-owned-a-magic-hamster"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 家庭成员 | Wife； Son |
+| 婚姻状况 | Married |
 
 ## 关联
 

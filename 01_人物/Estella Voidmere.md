@@ -6,6 +6,7 @@ slug: "estella-voidmere"
 物种: "人类"
 国籍: "British or Irish (presumably)"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "estella-voidmere"
 | 眼睛颜色 | Purple |
 | 头发颜色 | Auburn |
 | 家庭成员 | Mother (presumably) |
+| 肤色 | White |
 
 ## 关联
 

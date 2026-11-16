@@ -9,6 +9,10 @@ slug: "william-weasley"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+恋情: "Fleur Weasley (wife)"
+肤色: "Light"
+头衔: "Prefect； Head Boy"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -34,6 +38,10 @@ slug: "william-weasley"
 | 职业 | Curse-Breaker for Gringotts Wizarding Bank； Author |
 | 别名与绰号 | Bill |
 | 家庭成员 | Arthur Weasley (father)； [[Molly]] Weasley (née Prewett) (mother)； [[Charles Weasley]] (younger brother)； Percy Weasley (younger brother)； [[Fred Weasley]] (younger brother) †； [[George]] Weasley (younger brother)； Ronald Weasley (younger brother)； Ginevra Potter (née Weasley) (younger sister)； Fleur Weasley (née Delacour) (wife)； Victoire Weasley (daughter)； [[Dominique Weasley]] (daughter)； [[Louis Weasley]] (son)； Father-in-law； [[Apolline Delacour]] (mother-in-law)； [[Gabrielle Delacour]] (sister-in-law)； [[Audrey Weasley]] (sister-in-law)； Angelina Weasley (née [[John]]son) (sister-in-law)； Hermione Granger (sister-in-law)； Harry Potter (brother-in-law)； [[Padma Patil]] (sister-in-law in alternate timeline)； Molly Weasley (II) (niece)； [[Lucy Weasley]] (niece)； Fred Weasley (II) (nephew)； Roxanne Weasley (niece)； Rose Granger-Weasley (niece)； [[Hugo Granger-Weasley]] (nephew)； [[James]] Potter (II) (nephew)； Albus Potter (nephew)； Lily Potter (II) (niece)； [[Panju Weasley]] (nephew in alternate timeline)； Two paternal uncles； [[Fabian Prewett]] (maternal uncle) †； [[Gideon Prewett]] (maternal uncle) †； [[Bilius]] (uncle or uncle by marriage) †； Uncle or uncle by marriage； First cousin； [[Septimus Weasley]] (paternal grandfather)； [[Cedrella Weasley (née Black)]] (paternal grandmother)； Maternal grandfather； [[Matilda Weasley]] (possible relative)； [[G. Weasley]] (possible relative)； [[Garreth Weasley]] (possible relative)； Possible relative； Possible relatives； Hector Weasley (possible relative)； Weasley family (paternal family)； Prewett family (maternal family)； Delacour family (in-laws) |
+| 恋情 | Fleur Weasley (wife) |
+| 肤色 | Light |
+| 头衔 | Prefect； Head Boy |
+| 婚姻状况 | Married |
 
 ## 关联
 

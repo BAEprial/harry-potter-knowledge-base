@@ -4,6 +4,7 @@
 英文名: "Abraxan at the Magical Creatures Reserve"
 slug: "abraxan-at-the-magical-creatures-reserve"
 物种: "Abraxan"
+肤色: "Palomino"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "abraxan-at-the-magical-creatures-reserve"
 | 物种 | Abraxan |
 | 眼睛颜色 | Black |
 | 头发颜色 | White |
+| 肤色 | Palomino |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "vicky-bishopper"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "vicky-bishopper"
 | 性别 | 女 |
 | 出生 | Between 1 September 1713 and 31 August 1716 |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

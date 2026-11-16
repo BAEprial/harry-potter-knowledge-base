@@ -6,6 +6,7 @@ slug: "headmaster-of-mahoutokoro-during-1990"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+头衔: "Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "headmaster-of-mahoutokoro-during-1990"
 | 性别 | 男 |
 | 国籍 | Japanese |
 | 职业 | Headmaster of Mahoutokoro (c. 1990) |
+| 头衔 | Headmaster |
 
 ## 关联
 

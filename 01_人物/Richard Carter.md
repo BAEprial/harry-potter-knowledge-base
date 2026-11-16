@@ -7,6 +7,7 @@ slug: "richard-carter"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "richard-carter"
 | 性别 | 男 |
 | 国籍 | British or Irish |
 | 家庭成员 | Carter family |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

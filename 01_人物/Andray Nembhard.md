@@ -6,6 +6,8 @@ slug: "andray-nembhard"
 物种: "人类"
 国籍: "Jamaican"
 性别: "男"
+肤色: "Dark"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "andray-nembhard"
 | 国籍 | Jamaican |
 | 头发颜色 | Black |
 | 职业 | Beater for the Jamaican National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Beater |
 
 ## 关联
 

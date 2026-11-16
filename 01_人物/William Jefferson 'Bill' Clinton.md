@@ -7,6 +7,7 @@ slug: "bill-clinton"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "bill-clinton"
 | 国籍 | American |
 | 头发颜色 | Grey |
 | 职业 | President of the United States of America |
+| 肤色 | Light |
 
 ## 关联
 

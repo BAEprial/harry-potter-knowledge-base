@@ -6,6 +6,8 @@ slug: "blaise-zabini-s-mother"
 学院: "Slytherin (possibly)"
 物种: "人类"
 性别: "女"
+恋情: "Seven husbands †"
+婚姻状况: "Widowed (seven times)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "blaise-zabini-s-mother"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Seven husbands †； [[Blaise Zabini]] (son)； Zabini family |
+| 恋情 | Seven husbands † |
+| 婚姻状况 | Widowed (seven times) |
 
 ## 关联
 

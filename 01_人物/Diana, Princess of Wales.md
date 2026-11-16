@@ -7,6 +7,8 @@ slug: "diana-princess-of-wales"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Princess of Wales"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "diana-princess-of-wales"
 | 逝世 | 31 August 1997 (aged 36),，Paris,，France |
 | 国籍 | 英国人 |
 | 家庭成员 | Elizabeth II (former mother-in-law) †； British royal family |
+| 头衔 | Princess of Wales |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

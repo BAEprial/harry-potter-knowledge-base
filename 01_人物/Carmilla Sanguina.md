@@ -5,6 +5,8 @@
 slug: "carmilla-sanguina"
 物种: "吸血鬼"
 性别: "女"
+肤色: "Pale"
+头衔: "Lady"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "carmilla-sanguina"
 | 逝世 | 1757 (aged 195–196) |
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Black |
+| 肤色 | Pale |
+| 头衔 | Lady |
 
 ## 关联
 

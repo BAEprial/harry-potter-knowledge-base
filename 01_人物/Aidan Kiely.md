@@ -6,6 +6,7 @@ slug: "aidan-kiely"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "aidan-kiely"
 | 性别 | 男 |
 | 国籍 | 爱尔兰人 |
 | 职业 | Seeker of the Kenmare Kestrels |
+| 头衔 | Seeker |
 
 ## 关联
 

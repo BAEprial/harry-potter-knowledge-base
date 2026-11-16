@@ -7,6 +7,7 @@ slug: "m-young"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Lieutenant"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "m-young"
 | 出生 | United States of America |
 | 国籍 | American |
 | 职业 | Lieutenant at the United States Armed Forces |
+| 头衔 | Lieutenant |
 
 ## 关联
 

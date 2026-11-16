@@ -5,6 +5,7 @@
 slug: "fortinbras"
 物种: "人类"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "fortinbras"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Charms Master at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "paloma-proudfoot"
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "paloma-proudfoot"
 | 身高 | 5' 8' |
 | 职业 | Surveillor of Activity |
 | 家庭成员 | Possible relative； Possible relative； Proudfoot family |
+| 肤色 | White |
 
 ## 关联
 

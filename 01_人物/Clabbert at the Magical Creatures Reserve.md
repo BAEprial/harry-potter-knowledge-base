@@ -4,6 +4,7 @@
 英文名: "Clabbert at the Magical Creatures Reserve"
 slug: "clabbert-at-the-magical-creatures-reserve"
 物种: "Clabbert"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "clabbert-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Clabbert |
 | 眼睛颜色 | Red |
+| 肤色 | Green |
 
 ## 关联
 

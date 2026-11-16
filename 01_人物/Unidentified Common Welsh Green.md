@@ -4,6 +4,7 @@
 英文名: "Unidentified Common Welsh Green"
 slug: "unidentified-common-welsh-green"
 物种: "Common Welsh Green"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-common-welsh-green"
 |---|---|
 | 物种 | Common Welsh Green |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

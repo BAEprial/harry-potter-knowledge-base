@@ -5,6 +5,7 @@
 slug: "zygmunt-budge-s-great-grandmother"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "zygmunt-budge-s-great-grandmother"
 | 性别 | 女 |
 | 头发颜色 | Grey |
 | 家庭成员 | [[Mrs Budge]] (granddaughter or granddaughter-in-law)； [[Zygmunt Budge]] (great-grandson) |
+| 肤色 | Light |
 
 ## 关联
 

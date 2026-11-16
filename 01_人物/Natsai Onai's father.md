@@ -6,6 +6,7 @@ slug: "natsai-onai-s-father"
 物种: "人类"
 国籍: "African"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "natsai-onai-s-father"
 | 阿尼马格斯 | Giraffe |
 | 国籍 | African |
 | 家庭成员 | Mudiwa Onai (wife)； [[Natsai Onai]] (daughter)； Onai family |
+| 婚姻状况 | Married |
 
 ## 关联
 

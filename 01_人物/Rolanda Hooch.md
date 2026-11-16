@@ -7,6 +7,9 @@ slug: "rolanda-hooch"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "White"
+头衔: "Madam"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "rolanda-hooch"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Hogwarts Quidditch referee (before 1967 - ?)； Flying Instructor at Hogwarts School of Witchcraft and Wizardry (before 1975 - ?)； Hogwarts Quidditch coach (before 1985 - ?) |
+| 肤色 | White |
+| 头衔 | Madam |
+| 婚姻状况 | Single |
 
 ## 关联
 

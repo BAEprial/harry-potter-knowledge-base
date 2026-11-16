@@ -6,6 +6,7 @@ slug: "cecil-anderson"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cecil-anderson"
 | 性别 | 男 |
 | 国籍 | British or Irish |
 | 家庭成员 | Billie Anderson (possibly)； Possible relative； Anderson family |
+| 头衔 | Beater |
 
 ## 关联
 

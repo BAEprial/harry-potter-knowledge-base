@@ -7,6 +7,7 @@ slug: "molly-weasley-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "molly-weasley-s-father"
 | 国籍 | 英国人 |
 | 头发颜色 | Red (possibly) |
 | 家庭成员 | [[Ignatius Prewett]] (brother)； Tessie (sister or sister-in-law)； Molly Weasley (née Prewett) (daughter)； [[Gideon Prewett]] (son) †； [[Fabian Prewett]] (son) †； [[Bilius]] (possible son) †； Possible son； Lucretia Black (sister-in-law) †； Arthur Weasley (son-in-law)； William Weasley (grandson)； [[Charles Weasley]] (grandson)； Percy Weasley (grandson)； [[Fred Weasley]] (grandson) †； [[George]] Weasley (grandson)； Ronald Weasley (grandson)； Ginevra Potter (née Weasley) (granddaughter)； [[Muriel]] (possible aunt)； Possible grandmother； Possible relative； [[Leander Prewett]] (possible relative)； [[J. E. Prewitt]] (possible relative)； Prewett family |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

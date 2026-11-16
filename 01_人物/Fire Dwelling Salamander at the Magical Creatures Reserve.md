@@ -4,6 +4,7 @@
 英文名: "Fire Dwelling Salamander at the Magical Creatures Reserve"
 slug: "fire-dwelling-salamander-at-the-magical-creatures-reserve"
 物种: "Fire Dwelling Salamander"
+肤色: "Red and orange"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "fire-dwelling-salamander-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Fire Dwelling Salamander |
 | 眼睛颜色 | Yellow |
+| 肤色 | Red and orange |
 
 ## 关联
 

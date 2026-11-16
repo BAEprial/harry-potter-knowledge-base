@@ -8,6 +8,8 @@ slug: "jae-kim"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "jae-kim"
 | 头发颜色 | Dark brown |
 | 职业 | Cake Charmer at Fitzy Flourpuff's Enchanted Cakery |
 | 家庭成员 | Father； Mother； Grandmother； Kim family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

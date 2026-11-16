@@ -7,6 +7,8 @@ slug: "lucian-bole"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Fair"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "lucian-bole"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Green |
 | 头发颜色 | Light brown |
+| 肤色 | Fair |
+| 头衔 | Beater |
 
 ## 关联
 

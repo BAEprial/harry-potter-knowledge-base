@@ -7,6 +7,7 @@ slug: "eldon-pembroke"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "eldon-pembroke"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blond |
 | 家庭成员 | Sylvia Pembroke (possibly) |
+| 肤色 | Fair |
 
 ## 关联
 

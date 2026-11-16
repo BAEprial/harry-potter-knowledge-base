@@ -5,6 +5,10 @@
 slug: "malodora-grymm"
 物种: "Hag"
 性别: "女"
+恋情: "King (husband) †"
+肤色: "Pale (after using a Beautification Potion)"
+头衔: "Queen"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +27,10 @@ slug: "malodora-grymm"
 | 眼睛颜色 | Green (after using a Beautification Potion) |
 | 头发颜色 | Black (after using a Beautification Potion) |
 | 家庭成员 | [[King]] (husband) † |
+| 恋情 | King (husband) † |
+| 肤色 | Pale (after using a Beautification Potion) |
+| 头衔 | Queen |
+| 婚姻状况 | Married |
 
 ## 关联
 

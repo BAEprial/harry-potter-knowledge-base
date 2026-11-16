@@ -6,6 +6,8 @@ slug: "mudiwa-onai"
 物种: "人类"
 国籍: "Ugandan or Zimbabwean (possibly)"
 性别: "女"
+肤色: "Dark"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "mudiwa-onai"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Divination at Uagadou (?–c. 1889)； Professor of Divination at Hogwarts School (c. 1889–?) |
 | 家庭成员 | Husband †； [[Natsai Onai]] (daughter)； Onai family |
+| 肤色 | Dark |
+| 头衔 | Professor |
 
 ## 关联
 

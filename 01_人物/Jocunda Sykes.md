@@ -5,6 +5,7 @@
 slug: "jocunda-sykes"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "jocunda-sykes"
 | 头发颜色 | Blonde |
 | 职业 | Broom flyer |
 | 家庭成员 | Alex Sykes (I) (possibly)； Alex Sykes (II) (possibly)； Sykes family |
+| 肤色 | White |
 
 ## 关联
 

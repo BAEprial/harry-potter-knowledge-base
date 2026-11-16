@@ -6,6 +6,7 @@ slug: "duc-de-trefle-picques-1920s"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Duc"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "duc-de-trefle-picques-1920s"
 | 国籍 | 法国人 |
 | 职业 | Nobleman |
 | 家庭成员 | Vincent Duc de Trefle-Picques (most likely) |
+| 头衔 | Duc |
 
 ## 关联
 

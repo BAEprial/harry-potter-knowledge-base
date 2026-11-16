@@ -6,6 +6,9 @@ slug: "henry-vii"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Elizabeth of York (wife) †"
+头衔: "King of England"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +26,9 @@ slug: "henry-vii"
 | 逝世 | 21 April 1509 (aged 52),，England,，Great Britain |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Henry]] VIII (son) †； Anne Boleyn (daughter-in-law) †； Mary I (granddaughter) †； [[Eliza]]beth I (granddaughter) †； Henry VI (half-uncle) †； Mary II (descendant) †； William III (descendant) †； [[George]] III (descendant) †； Victoria (descendant) †； [[Elizabeth II]] (descendant) †； House of Tudor； British royal family |
+| 恋情 | Elizabeth of York (wife) † |
+| 头衔 | King of England |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "nomsa-gumede"
 物种: "人类"
 国籍: "South African"
 性别: "女"
+肤色: "Dark"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "nomsa-gumede"
 | 性别 | 女 |
 | 国籍 | South African |
 | 职业 | Keeper for the South African National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Keeper |
 
 ## 关联
 

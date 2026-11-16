@@ -6,6 +6,8 @@ slug: "peony-aperture"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "peony-aperture"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Photographer |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

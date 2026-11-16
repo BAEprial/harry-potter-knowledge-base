@@ -5,6 +5,8 @@
 slug: "qizilbash"
 物种: "人类"
 性别: "女"
+肤色: "Tan"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "qizilbash"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Company owner (likely) |
+| 肤色 | Tan |
+| 婚姻状况 | Married |
 
 ## 关联
 

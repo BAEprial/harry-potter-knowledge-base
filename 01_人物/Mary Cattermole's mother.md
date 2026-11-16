@@ -6,6 +6,7 @@ slug: "mary-cattermole-s-mother"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "mary-cattermole-s-mother"
 | 性别 | 女 |
 | 职业 | Greengrocer |
 | 家庭成员 | Husband； [[Mary]] Cattermole (daughter)； Reginald Cattermole (son-in-law)； Maisie Cattermole (granddaughter)； [[Ellie Cattermole]] (granddaughter)； Alfred Cattermole (grandson) |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "ingrid-rosen"
 物种: "人类"
 国籍: "Swedish"
 性别: "女"
+肤色: "Bronze"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "ingrid-rosen"
 | 性别 | 女 |
 | 国籍 | Swedish |
 | 职业 | Chaser for the Swedish National Quidditch team |
+| 肤色 | Bronze |
+| 头衔 | Chaser |
 
 ## 关联
 

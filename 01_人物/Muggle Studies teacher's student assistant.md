@@ -8,6 +8,8 @@ slug: "male-muggle-studies-professor-s-student-assistant"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Student assistant"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "male-muggle-studies-professor-s-student-assistant"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blond |
+| 肤色 | White |
+| 头衔 | Student assistant |
 
 ## 关联
 

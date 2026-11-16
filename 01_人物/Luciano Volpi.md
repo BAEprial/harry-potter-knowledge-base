@@ -6,6 +6,7 @@ slug: "luciano-volpi"
 物种: "人类"
 国籍: "Italian"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "luciano-volpi"
 | 出生 | After 1976,，Italy (possibly) |
 | 国籍 | Italian |
 | 职业 | Seeker for the Italian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

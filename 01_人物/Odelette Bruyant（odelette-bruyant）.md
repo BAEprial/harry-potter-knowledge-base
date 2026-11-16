@@ -6,6 +6,7 @@ slug: "odelette-bruyant"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "odelette-bruyant"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Opera singer |
+| 头衔 | Madame |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "vlad-drakul"
 物种: "吸血鬼"
 性别: "男"
+肤色: "White"
+头衔: "Count"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "vlad-drakul"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Light brown |
 | 家庭成员 | Vlad the Impaler (son) |
+| 肤色 | White |
+| 头衔 | Count |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "lorcan-mclaird"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "lorcan-mclaird"
 | 出生 | Before 31 August 1906 |
 | 国籍 | British or Irish |
 | 职业 | Minister for Magic (1923–1925) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

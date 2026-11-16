@@ -8,6 +8,8 @@ slug: "mary-cattermole"
 国籍: "英国人"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "Fair"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "mary-cattermole"
 | 头发颜色 | Dark brown |
 | 魔杖 | 8¾',，Cherry,，unicorn hair |
 | 家庭成员 | Father； Mother； Reginald Cattermole (husband)； Maisie Cattermole (daughter)； [[Ellie Cattermole]] (daughter)； Alfred Cattermole (son)； Father-in-law； Cattermole family |
+| 肤色 | Fair |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "busisiwe-zwane"
 物种: "人类"
 国籍: "South African"
 性别: "女"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "busisiwe-zwane"
 | 国籍 | South African |
 | 头发颜色 | Black |
 | 职业 | Chaser for the South African National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

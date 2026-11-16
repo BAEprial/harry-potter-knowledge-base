@@ -5,6 +5,8 @@
 slug: "mungo-bonham"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
+头衔: "Saint"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "mungo-bonham"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Healer |
+| 肤色 | Dark |
+| 头衔 | Saint |
 
 ## 关联
 

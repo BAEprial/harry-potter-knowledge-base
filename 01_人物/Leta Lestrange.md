@@ -8,6 +8,8 @@ slug: "leta-lestrange"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Theseus Scamander (fiancé)"
+婚姻状况: "Engaged"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "leta-lestrange"
 | 魔杖 | Unknown length,，Ebony,，unknown core |
 | 职业 | Employee of the Department of Magical Law Enforcement； Assistant to Torquil Travers |
 | 家庭成员 | Corvus [[Lestrange]] (IV) (father;，paternal first cousin once removed-in-law) †； Laurena Kama (mother) †； Clarisse Tremblay (paternal stepmother;，paternal first cousin once removed) †； Corvus Lestrange (V) (paternal half-brother;，paternal second cousin) †； Yusuf Kama (maternal half-brother)； [[Falco Tremblay]] (maternal step-uncle;，first cousin once removed)； Corvus Lestrange (III) (paternal grandfather)； [[Eglantine Lestrange]] (paternal grandmother)； [[Bernard Tremblay]] (step-grandfather)； Lestrange family； Kama family (maternal family) |
+| 恋情 | Theseus Scamander (fiancé) |
+| 婚姻状况 | Engaged |
 
 ## 关联
 

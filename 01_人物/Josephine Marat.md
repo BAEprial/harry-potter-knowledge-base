@@ -6,6 +6,8 @@ slug: "josephine-marat"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+肤色: "Tan"
+头衔: "Chaser； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "josephine-marat"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blonde |
 | 职业 | Chaser and Captain of the French National Quidditch team |
+| 肤色 | Tan |
+| 头衔 | Chaser； Captain |
 
 ## 关联
 

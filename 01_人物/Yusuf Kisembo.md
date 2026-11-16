@@ -6,6 +6,8 @@ slug: "yusuf-kisembo"
 物种: "人类"
 国籍: "Ugandan"
 性别: "男"
+肤色: "Dark"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "yusuf-kisembo"
 | 出生 | 20th century |
 | 国籍 | Ugandan |
 | 头发颜色 | Brown |
+| 肤色 | Dark |
+| 头衔 | Seeker |
 
 ## 关联
 

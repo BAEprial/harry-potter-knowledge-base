@@ -8,6 +8,7 @@ slug: "marcus-flint"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Chaser； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "marcus-flint"
 | 博格特（恐惧之物） | Lord Voldemort |
 | 国籍 | British or Irish |
 | 家庭成员 | Ursula Flint (possible relative)； [[Josephina Flint]] (possible relative)； [[Flavius Flint]] (possible relative)； Flint family |
+| 头衔 | Chaser； Captain |
 
 ## 关联
 

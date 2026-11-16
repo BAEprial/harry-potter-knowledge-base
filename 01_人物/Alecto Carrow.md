@@ -9,6 +9,7 @@ slug: "alecto-carrow"
 国籍: "British or Irish"
 性别: "女"
 守护神: "无"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "alecto-carrow"
 | 魔杖 | Unknown length,，wood and core materials |
 | 职业 | Professor of Muggle Studies at Hogwarts (1997—1998)； Deputy Headmistress at Hogwarts (1997—1998) |
 | 家庭成员 | Amycus Carrow (brother)； Carrow (possible relative)； Flora Carrow (possible relative)； Hestia Carrow (possible relative)； Carrow family |
+| 头衔 | Professor |
 
 ## 关联
 

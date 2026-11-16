@@ -5,6 +5,7 @@
 slug: "ngapo-ponika"
 物种: "人类"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "ngapo-ponika"
 | 性别 | 男 |
 | 出生 | Between 21 May,，1992 and 20 May,，1993,，New Zealand |
 | 职业 | Seeker for the New Zealand National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

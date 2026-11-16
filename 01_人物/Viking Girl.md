@@ -6,6 +6,7 @@ slug: "viking-girl"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "viking-girl"
 | 性别 | 女 |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
+| 肤色 | Light |
 
 ## 关联
 

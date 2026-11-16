@@ -6,6 +6,7 @@ slug: "mervyn-wynch"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "mervyn-wynch"
 | 性别 | 男 |
 | 出生 | Between 1 September 1975 and 31 August 1978 |
 | 国籍 | British or Irish |
+| 头衔 | Prefect |
 
 ## 关联
 

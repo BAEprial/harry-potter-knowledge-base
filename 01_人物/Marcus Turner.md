@@ -7,6 +7,7 @@ slug: "marcus-turner"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "marcus-turner"
 | 出生 | Between 1 September  1976 and 31 August 1978 |
 | 国籍 | British or Irish |
 | 家庭成员 | Ambrose Turner † (possibly)； Mrs Turner (possibly)； [[Darrel Turner]] (possibly)； [[Lottie Turner]] (possibly)； Turner family |
+| 头衔 | Prefect |
 
 ## 关联
 

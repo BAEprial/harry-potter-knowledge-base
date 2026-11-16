@@ -7,6 +7,7 @@ slug: "jim-hamilton"
 物种: "人类"
 国籍: "English,，Scottish"
 性别: "男"
+体重: "126 kg"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "jim-hamilton"
 | 身高 | 6'9' |
 | 职业 | Rugby union player |
 | 家庭成员 | Possible relative †； Rubeus Hagrid (possible relative) |
+| 体重 | 126 kg |
 
 ## 关联
 

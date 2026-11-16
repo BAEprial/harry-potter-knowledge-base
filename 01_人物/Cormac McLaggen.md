@@ -8,6 +8,8 @@ slug: "cormac-mclaggen"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Hermione Granger (date)"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "cormac-mclaggen"
 | 国籍 | British or Irish |
 | 别名与绰号 | King Slug (by Ron Weasley) |
 | 家庭成员 | Father； Tiberius (uncle)； McClaggan (possible grandfather)； Tasmina McLaggen (possibly)； McLaggen family |
+| 恋情 | Hermione Granger (date) |
+| 头衔 | Keeper |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "eloise-mintumble"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "eloise-mintumble"
 | 逝世 | 1899,St Mungo's Hospital for Magical Maladies and Injuries,，London |
 | 国籍 | 英国人 |
 | 职业 | Unspeakable |
+| 头衔 | Madam |
 
 ## 关联
 

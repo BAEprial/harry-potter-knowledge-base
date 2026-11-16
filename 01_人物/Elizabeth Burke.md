@@ -8,6 +8,8 @@ slug: "elizabeth-burke"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Professor； Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "elizabeth-burke"
 | 头发颜色 | Red |
 | 职业 | Headmistress of Hogwarts (before 1943) |
 | 家庭成员 | Caractacus Burke (possibly)； Herbert Burke (possibly)； Herbert Burke's sons (possibly)； Herbert Burke's daughter (possibly)； Burke family； Malfoy family (possibly) |
+| 肤色 | White |
+| 头衔 | Professor； Headmistress |
 
 ## 关联
 

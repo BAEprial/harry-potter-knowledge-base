@@ -7,6 +7,9 @@ slug: "sebastien-perrot"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+恋情: "Manon Perrot (wife)"
+肤色: "Light"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +27,9 @@ slug: "sebastien-perrot"
 | 国籍 | 法国人 |
 | 头发颜色 | Brown |
 | 家庭成员 | Manon Perrot (née [[Lestrange]]) (wife)； Odile Perrot (daughter)； [[Huguette Perrot]] (daughter)； [[Laurel]]le Perrot (daughter)； [[Corvus Lestrange]] (father-in-law)； [[Minette Lestrange (née Rosier)]] (mother-in-law)； [[Josette Gage (née Lestrange)]] (sister-in-law)； Corvus Lestrange (brother-in-law)； [[Reynard Gage]] (brother-in-law by marriage)； [[Eglantine Lestrange]] (sister-in-law by marriage)； [[Mathis Gage]] (nephew by marriage)； [[Louis Gage]] (nephew by marriage)； Corvus Lestrange (nephew by marriage) †； Perrot family； Lestrange family (in-laws) |
+| 恋情 | Manon Perrot (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

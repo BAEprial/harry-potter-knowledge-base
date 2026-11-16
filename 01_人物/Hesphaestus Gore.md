@@ -7,6 +7,8 @@ slug: "hesphaestus-gore"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "hesphaestus-gore"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror； British Minister for Magic (1752–1770) |
+| 肤色 | Light |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

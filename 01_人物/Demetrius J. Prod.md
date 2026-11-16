@@ -6,6 +6,8 @@ slug: "demetrius-prod"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Warlock"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "demetrius-prod"
 | 逝世 | 27 November 1998 |
 | 国籍 | 英国人 |
 | 家庭成员 | Elsie Prod (wife) |
+| 头衔 | Warlock |
+| 婚姻状况 | Married |
 
 ## 关联
 

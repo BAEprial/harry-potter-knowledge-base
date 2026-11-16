@@ -6,6 +6,8 @@ slug: "koldovstoretz-potions-champion"
 物种: "人类"
 国籍: "Russian"
 性别: "男"
+肤色: "Light"
+头衔: "Potions Champion"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "koldovstoretz-potions-champion"
 | 性别 | 男 |
 | 国籍 | Russian |
 | 眼睛颜色 | Brown |
+| 肤色 | Light |
+| 头衔 | Potions Champion |
 
 ## 关联
 

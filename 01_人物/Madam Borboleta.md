@@ -5,6 +5,8 @@
 slug: "borboleta"
 物种: "人类"
 性别: "女"
+肤色: "White"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "borboleta"
 | 出生 | Before 1913 |
 | 头发颜色 | Brown |
 | 职业 | Founder of Madam Borboleta Candies Ltd. (presumably) |
+| 肤色 | White |
+| 头衔 | Madam |
 
 ## 关联
 

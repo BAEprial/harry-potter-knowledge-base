@@ -5,6 +5,7 @@
 slug: "magenta-comstock"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "magenta-comstock"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Black |
 | 职业 | Experimental artist |
+| 肤色 | Light |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "stephen-hawking"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "stephen-hawking"
 | 头发颜色 | Brown |
 | 职业 | Theoretical physicist； Author |
 | 家庭成员 | Hawking family[[Robert Hawking]] (possibly)； Robert Hawking (possibly) |
+| 肤色 | White |
 
 ## 关联
 

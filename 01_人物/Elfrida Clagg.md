@@ -6,6 +6,8 @@ slug: "elfrida-clagg"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+头衔: "Chieftainess"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "elfrida-clagg"
 | 眼睛颜色 | Green |
 | 头发颜色 | Green (youth),，Grey (old age) |
 | 职业 | Chieftainess of the Wizards' Council |
+| 肤色 | White |
+| 头衔 | Chieftainess |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "horned-serpent-at-the-magical-creatures-reserve"
 物种: "Horned Serpent"
 性别: "男"
+肤色: "Purple"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "horned-serpent-at-the-magical-creatures-reserve"
 | 性别 | 男 |
 | 眼睛颜色 | Turquoise |
 | 家庭成员 | Red (mate)； Child |
+| 肤色 | Purple |
 
 ## 关联
 

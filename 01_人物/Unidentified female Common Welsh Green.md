@@ -5,6 +5,7 @@
 slug: "unidentified-female-common-welsh-green"
 物种: "Common Welsh Green"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-female-common-welsh-green"
 | 性别 | 女 |
 | 出生 | Pre 1994 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

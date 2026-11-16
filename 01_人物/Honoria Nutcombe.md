@@ -5,6 +5,7 @@
 slug: "honoria-nutcombe"
 物种: "人类"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "honoria-nutcombe"
 | 头发颜色 | Grey |
 | 职业 | Founder of the Society for the Reformation of Hags |
 | 别名与绰号 | Honouria Nutcombe |
+| 肤色 | Green |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "nicolas-flamel"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "nicolas-flamel"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Alchemist |
 | 家庭成员 | [[Perenelle Flamel]] (wife) †； Flamel family |
+| 婚姻状况 | Married |
 
 ## 关联
 

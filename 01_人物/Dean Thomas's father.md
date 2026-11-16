@@ -6,6 +6,8 @@ slug: "dean-thomas-s-father"
 血统: "Pure-blood or half-blood (presumably)"
 物种: "人类"
 性别: "男"
+恋情: "Widowed wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "dean-thomas-s-father"
 | 性别 | 男 |
 | 逝世 | c. 1980 |
 | 家庭成员 | Wife； Dean Thomas (son) |
+| 恋情 | Widowed wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

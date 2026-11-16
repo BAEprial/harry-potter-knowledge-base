@@ -5,6 +5,7 @@
 slug: "h-knighton"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "h-knighton"
 | 逝世 | Before 24 December 1997 |
 | 职业 | Philosopher |
 | 家庭成员 | Wife； At least one child； Hamish Knighton (possibly)； Knighton family |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "elora-dunn"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "elora-dunn"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Blue |
 | 家庭成员 | [[Craig Dunn]] (possibly)； Dunn family |
+| 肤色 | White |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "harper"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "harper"
 | 出生 | Between 1 September 1980 and 31 August 1981 |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 头衔 | Seeker |
 
 ## 关联
 

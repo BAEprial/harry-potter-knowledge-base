@@ -5,6 +5,7 @@
 slug: "unidentified-hard-faced-grey-centaur"
 物种: "马人"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-hard-faced-grey-centaur"
 | 物种 | 马人 |
 | 性别 | 男 |
 | 头发颜色 | Grey |
+| 肤色 | Grey |
 
 ## 关联
 

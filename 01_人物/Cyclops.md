@@ -5,6 +5,7 @@
 slug: "cyclops"
 物种: "Giant"
 性别: "男"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cyclops"
 | 出生 | Ancient Greece |
 | 逝世 | Ancient Greece |
 | 眼睛颜色 | Brown |
+| 肤色 | Tan |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "warlock-the-warlock-s-hairy-heart"
 血统: "Pure-blood or half-blood (most likely)"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "warlock-the-warlock-s-hairy-heart"
 | 头发颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Parents and ancestors |
+| 肤色 | Light |
+| 头衔 | Warlock |
 
 ## 关联
 

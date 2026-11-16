@@ -6,6 +6,8 @@ slug: "noriyuki-sato"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "noriyuki-sato"
 | 头发颜色 | Blue |
 | 职业 | Chaser for the Japanese National Quidditch team |
 | 家庭成员 | [[Noriko Sato]] (possibly)； Sato family |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

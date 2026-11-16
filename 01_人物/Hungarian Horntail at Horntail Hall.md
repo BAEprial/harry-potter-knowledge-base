@@ -4,6 +4,7 @@
 英文名: "Hungarian Horntail at Horntail Hall"
 slug: "hungarian-horntail-at-horntail-hall"
 物种: "Dragon (Hungarian Horntail)"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "hungarian-horntail-at-horntail-hall"
 |---|---|
 | 物种 | Dragon (Hungarian Horntail) |
 | 出生 | Before 1890 |
+| 肤色 | Black |
 
 ## 关联
 

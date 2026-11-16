@@ -5,6 +5,7 @@
 slug: "herman-wintringham"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "herman-wintringham"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
 | 职业 | Lutenist for the Weird Sisters |
+| 肤色 | White |
 
 ## 关联
 

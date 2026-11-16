@@ -4,6 +4,7 @@
 英文名: "Giant rat (creature)"
 slug: "giant-rat-creature"
 物种: "Rat"
+肤色: "Pink"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "giant-rat-creature"
 | 出生 | In or before 1993 |
 | 眼睛颜色 | Red |
 | 头发颜色 | Grey |
+| 肤色 | Pink |
 
 ## 关联
 

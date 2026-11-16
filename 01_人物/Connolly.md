@@ -6,6 +6,8 @@ slug: "connolly"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "connolly"
 | 性别 | 男 |
 | 国籍 | 爱尔兰人 |
 | 职业 | Beater for the Irish National Quidditch team |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

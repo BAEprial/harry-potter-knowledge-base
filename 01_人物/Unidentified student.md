@@ -5,6 +5,7 @@
 slug: "unidentified-female-hogwarts-student-who-helped-the-unidentified-female-hogwarts-teacher-xii"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light brown"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-female-hogwarts-student-who-helped-the-unidentified-female-h
 | 出生 | On or before 31 August 1986 |
 | 国籍 | British or Irish |
 | 头发颜色 | 黑暗 |
+| 肤色 | Light brown |
 
 ## 关联
 

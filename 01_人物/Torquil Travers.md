@@ -7,6 +7,7 @@ slug: "torquil-travers"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "torquil-travers"
 | 国籍 | 英国人 |
 | 职业 | Head of the Department of Magical Law Enforcement |
 | 家庭成员 | Thaddeus Travers (possibly)； Ailsa Travers (possibly)； Travers (possibly)； Sloan Travers (possibly)； Travers family |
+| 头衔 | Minister |
 
 ## 关联
 

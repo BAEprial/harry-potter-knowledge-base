@@ -5,6 +5,7 @@
 slug: "red-cap-in-the-forbidden-forest"
 物种: "Red Cap"
 性别: "男"
+肤色: "Pale blue"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "red-cap-in-the-forbidden-forest"
 | 性别 | 男 |
 | 眼睛颜色 | Red |
 | 头发颜色 | White |
+| 肤色 | Pale blue |
 
 ## 关联
 

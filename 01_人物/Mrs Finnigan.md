@@ -7,6 +7,8 @@ slug: "seamus-finnigan-s-mother"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "seamus-finnigan-s-mother"
 | 国籍 | 爱尔兰人 |
 | 头发颜色 | Sandy |
 | 家庭成员 | Husband； Seamus [[Finn]]igan (son)； [[Fergus]] (nephew)； Finnigan family |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

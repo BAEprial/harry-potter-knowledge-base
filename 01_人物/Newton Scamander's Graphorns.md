@@ -5,6 +5,7 @@
 slug: "newton-scamander-s-graphorns"
 物种: "Graphorns"
 性别: "Male,，Female,，Two others of unknown gender"
+肤色: "Greyish-purple"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "newton-scamander-s-graphorns"
 | 物种 | Graphorns |
 | 性别 | Male,，Female,，Two others of unknown gender |
 | 出生 | Before December 1926 |
+| 肤色 | Greyish-purple |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "mildred-1920s"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Jacob Kowalski (ex-fiancé)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "mildred-1920s"
 | 国籍 | American |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
+| 恋情 | Jacob Kowalski (ex-fiancé) |
+| 肤色 | Light |
 
 ## 关联
 

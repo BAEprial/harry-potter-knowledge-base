@@ -6,6 +6,7 @@ slug: "brian-gagwilde-iii"
 血统: "Pure-blood (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "brian-gagwilde-iii"
 | 逝世 | Before 1993 |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Brian]] Gagwilde (ancestor) †； Gagwilde family； Malfoy family (possibly) |
+| 肤色 | White |
 
 ## 关联
 

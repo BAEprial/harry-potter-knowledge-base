@@ -5,6 +5,7 @@
 slug: "henry-s-wife"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "henry-s-wife"
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown wood,，length and core |
 | 家庭成员 | [[Henry]] (husband) |
+| 肤色 | Light |
 
 ## 关联
 

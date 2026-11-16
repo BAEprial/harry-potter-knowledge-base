@@ -5,6 +5,7 @@
 slug: "miraforum-american-witch"
 物种: "人类"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "miraforum-american-witch"
 | 性别 | 女 |
 | 别名与绰号 | Big Hands |
 | 家庭成员 | Miraforum (possibly) |
+| 头衔 | Madam |
 
 ## 关联
 

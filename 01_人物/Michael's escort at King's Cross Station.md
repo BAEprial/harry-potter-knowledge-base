@@ -6,6 +6,7 @@ slug: "michael-s-escort-at-king-s-cross-station"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "michael-s-escort-at-king-s-cross-station"
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Michael]] (possibly) |
+| 肤色 | White |
 
 ## 关联
 

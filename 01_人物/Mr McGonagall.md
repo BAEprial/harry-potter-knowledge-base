@@ -6,6 +6,7 @@ slug: "robert-mcgonagall-senior-s-father"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "robert-mcgonagall-senior-s-father"
 | 性别 | 男 |
 | 出生 | Before 1892 |
 | 家庭成员 | Wife； [[Robert McGonagall Senior]] (son)； [[Isobel McGonagall (née Ross)]] (daughter-in-law)； [[Minerva]] McGonagall (granddaughter)； [[Malcolm]] McGonagall (grandson)； [[Robert McGonagall Junior]] (grandson)； William McGonagall (possible relative)； [[M. G. McGonagall]] (possible relative)； McGonagall family |
+| 恋情 | Wife |
 
 ## 关联
 

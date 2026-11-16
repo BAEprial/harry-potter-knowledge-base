@@ -8,6 +8,7 @@ slug: "kaliope"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +32,7 @@ slug: "kaliope"
 | 职业 | Street musician |
 | 别名与绰号 | Kal |
 | 家庭成员 | Petra (grandmother) |
+| 肤色 | White |
 
 ## 关联
 

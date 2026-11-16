@@ -6,6 +6,7 @@ slug: "unidentified-female-snatcher-during-the-battle-of-hogwarts"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-female-snatcher-during-the-battle-of-hogwarts"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Blonde |
 | 职业 | Snatcher |
+| 肤色 | Light |
 
 ## 关联
 

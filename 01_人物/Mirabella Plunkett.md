@@ -6,6 +6,8 @@ slug: "mirabella-plunkett"
 物种: "Human (formerly),，Haddock"
 国籍: "英国人"
 性别: "女"
+恋情: "Unidentified merman"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "mirabella-plunkett"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Red |
 | 家庭成员 | Father； Mother； Unidentified merman (possible husband) |
+| 恋情 | Unidentified merman |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "eugenie-maxine"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "eugenie-maxine"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Author |
+| 头衔 | Professor |
 
 ## 关联
 

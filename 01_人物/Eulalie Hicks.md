@@ -8,6 +8,7 @@ slug: "eulalie-hicks"
 物种: "人类"
 国籍: "American"
 性别: "女"
+头衔: "Professor； Keeper of the Keys"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "eulalie-hicks"
 | 职业 | Charms professor at Ilvermorny School of Witchcraft and Wizardry； Author |
 | 别名与绰号 | Lally |
 | 家庭成员 | Stanley (cousin)； Grandmother |
+| 头衔 | Professor； Keeper of the Keys |
 
 ## 关联
 

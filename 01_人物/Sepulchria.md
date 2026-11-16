@@ -5,6 +5,7 @@
 slug: "sepulchria"
 物种: "Thestral"
 性别: "女"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "sepulchria"
 | 出生 | Before 1890 |
 | 眼睛颜色 | White |
 | 头发颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

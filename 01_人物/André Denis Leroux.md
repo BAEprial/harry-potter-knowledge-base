@@ -7,6 +7,7 @@ slug: "andre-leroux"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "andre-leroux"
 | 头发颜色 | Blond |
 | 魔杖 | 10',，Cherry,，phoenix feather |
 | 职业 | Pastry chef； Confiserie owner |
+| 肤色 | White |
 
 ## 关联
 

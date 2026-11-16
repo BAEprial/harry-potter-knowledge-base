@@ -6,6 +6,7 @@ slug: "zhang-lijun"
 物种: "人类"
 国籍: "Chinese"
 性别: "男"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "zhang-lijun"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Player for the Chinese National Quidditch team |
+| 肤色 | Tan |
 
 ## 关联
 

@@ -9,6 +9,9 @@ slug: "walburga-black"
 国籍: "英国人"
 性别: "女"
 守护神: "无"
+恋情: "Orion Black †"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +34,9 @@ slug: "walburga-black"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown (naturally),，Grey |
 | 家庭成员 | [[Pollux Black]] (father;，first cousin once removed-in-law) †； Irma Black (née [[Crabbe]]) (mother;，first cousin once removed-in-law)； Alphard Black (younger brother;，second cousin-in-law) †； [[Cygnus Black]] (III) (younger brother;，second cousin-in-law) †； [[Orion Black]] (husband;，paternal second cousin)； [[Sirius Black]] (son;，paternal second cousin once removed) †； [[Regulus Black]] (son;，paternal second cousin once removed) †； [[Arcturus Black]] (III) (father-in-law;，paternal first cousin once removed) †； [[Melania Black (née Macmillan)]] (mother-in-law;，paternal first cousin once removed-in-law)； [[Lucretia Prewett (née Black)]] (sister-in-law;，paternal second cousin) †； [[Ignatius Prewett]] (brother-in-law by marriage;，paternal second cousin-in-law)； [[Druella Black (née Rosier)]] (sister-in-law by marriage;，second cousin-in-law)； [[Bell]]atrix [[Lestrange]] (niece;，second cousin once removed-in-law) †； Andromeda Tonks (niece;，second cousin once removed-in-law)； Narcissa Malfoy (niece;，second cousin once removed-in-law)； [[Cassiopeia Black]] (paternal aunt;，first cousin once removed-in-law) †； [[Marius]] Black (paternal uncle;，first cousin once removed-in-law) †； [[Dorea Potter (née Black)]] (paternal aunt;，first cousin once removed-in-law) †； [[Charlus Potter]] (paternal uncle by marriage;，first cousin once removed-in-law) †； Potter (paternal first cousin;，second cousin-in-law) †； [[Araminta Meliflua Black]] (paternal cousin)； Cygnus Black (II) (paternal grandfather;，granduncle-in-law) †； Violetta Black (née Bulstrode) (paternal grandmother;，grandaunt-in-law)； House of Black (paternal family/in-laws)； Crabbe family (maternal family) |
+| 恋情 | Orion Black † |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

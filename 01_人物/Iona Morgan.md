@@ -6,6 +6,7 @@ slug: "iona-morgan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "iona-morgan"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Elsie]] Morgan (possible relative)； Valmai Morgan (possible relative)； [[Gwendolyn]] Morgan (possible relative)； Morgan family |
+| 肤色 | Dark |
 
 ## 关联
 

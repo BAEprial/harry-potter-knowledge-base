@@ -6,6 +6,7 @@ slug: "rawya-zaghloul"
 物种: "人类"
 国籍: "Egyptian"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "rawya-zaghloul"
 | 出生 | Before 1985,，Egypt |
 | 国籍 | Egyptian |
 | 职业 | Seeker for the Egyptian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

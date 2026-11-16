@@ -6,6 +6,7 @@ slug: "juliette-accambray"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Auror"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "juliette-accambray"
 | 国籍 | 法国人 |
 | 职业 | Assistant Auror |
 | 家庭成员 | Dr Gauthier Accambray (possibly)； Accambray family |
+| 头衔 | Auror |
 
 ## 关联
 

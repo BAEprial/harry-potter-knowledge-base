@@ -5,6 +5,7 @@
 slug: "sphinx-in-the-red-cap-s-hole"
 物种: "Sphinx"
 性别: "女"
+肤色: "Orange"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sphinx-in-the-red-cap-s-hole"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Brown |
 | 别名与绰号 | Madam Sphinx |
+| 肤色 | Orange |
 
 ## 关联
 

@@ -8,6 +8,8 @@ slug: "alphard-black"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "alphard-black"
 | 逝世 | Between 3 November 1976 and 3 November 1977 (aged 38–52) |
 | 国籍 | 英国人 |
 | 家庭成员 | Pollux Black (father) †； Irma Black (née [[Crabbe]]) (mother)； Walburga Black (older sister) †； [[Cygnus Black]] (III) (younger brother) †； Orion Black (brother-in-law/paternal second cousin) †； [[Druella Black (née Rosier)]] (sister-in-law) †； [[Bell]]atrix Lestrange (née Black) (niece) †； Andromeda Tonks (née Black) (niece)； Narcissa Malfoy (née Black) (niece)； Sirius Black (nephew/second cousin once removed) †； Regulus Black (nephew/second cousin once removed) †； Cassiopeia Black (paternal aunt) †； Marius Black (paternal uncle)； [[Dorea Potter (née Black)]] (paternal aunt) †； [[Charlus Potter]] (paternal uncle by marriage) †； Paternal first cousin †； Cygnus Black (II) (paternal grandfather) †； Violetta Black (née Bulstrode) (paternal grandmother)； House of Black； Crabbe family (maternal family)； Bulstrode family (paternal relatives) |
+| 肤色 | White |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

@@ -6,6 +6,9 @@ slug: "mathilda-grimblehawk"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Aisha"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "mathilda-grimblehawk"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Investigator for the British Ministry of Magic Beast Division； Magizoologist |
 | 家庭成员 | Abraham Grimblehawk (uncle)； Grimblehawk family |
+| 恋情 | Aisha |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

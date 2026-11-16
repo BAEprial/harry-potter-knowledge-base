@@ -6,6 +6,7 @@ slug: "pieter-talli"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "pieter-talli"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood,，phoenix feather |
 | 别名与绰号 | Lunk (by Merula Snyde) |
+| 肤色 | White |
 
 ## 关联
 

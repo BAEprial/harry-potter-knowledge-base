@@ -5,6 +5,7 @@
 slug: "merwyn-the-malicious"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "merwyn-the-malicious"
 | 逝世 | Before 1993 |
 | 眼睛颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Pale |
 
 ## 关联
 

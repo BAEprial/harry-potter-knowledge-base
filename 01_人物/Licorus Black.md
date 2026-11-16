@@ -7,6 +7,9 @@ slug: "licorus-black"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Magenta Black (née Tripe) (wife) †"
+肤色: "Light"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "licorus-black"
 | 逝世 | 1872 (aged 63 - 64) |
 | 国籍 | 英国人 |
 | 家庭成员 | Magenta Black (née Tripe) (wife) †； House of Black； Tripe family (in-laws) |
+| 恋情 | Magenta Black (née Tripe) (wife) † |
+| 肤色 | Light |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

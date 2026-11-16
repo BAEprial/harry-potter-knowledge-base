@@ -5,6 +5,7 @@
 slug: "cosa"
 物种: "家养小精灵"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cosa"
 | 出生 | Before 1820sHungary |
 | 眼睛颜色 | Grey |
 | 职业 | Hogwarts kitchens worker |
+| 肤色 | Light |
 
 ## 关联
 

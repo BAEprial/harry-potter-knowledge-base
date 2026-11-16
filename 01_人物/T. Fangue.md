@@ -6,6 +6,7 @@ slug: "t-fangue"
 物种: "吸血鬼"
 国籍: "法国人"
 性别: "女"
+头衔: "Mademoiselle"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "t-fangue"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | President of the Society for the Tolerance of Vampires |
+| 头衔 | Mademoiselle |
 
 ## 关联
 

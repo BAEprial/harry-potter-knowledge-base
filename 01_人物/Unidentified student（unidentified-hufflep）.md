@@ -8,6 +8,7 @@ slug: "unidentified-hufflepuff-boy-who-carried-a-body-during-the-battle-of-hogwa
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "unidentified-hufflepuff-boy-who-carried-a-body-during-the-battle-of-hogwa
 | 出生 | between 1 September 1979 and 2 May 1981 (most likely) |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

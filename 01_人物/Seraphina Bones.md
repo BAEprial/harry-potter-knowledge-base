@@ -6,6 +6,7 @@ slug: "seraphina-bones"
 学院: "Hufflepuff (possibly)"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "seraphina-bones"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Red |
 | 家庭成员 | Amelia [[Bones]] (possible descendant) †； [[Edgar]] Bones (possible descendant) †； Possible descendants †； Susan Bones (possible descendant)； Bones family |
+| 肤色 | White |
 
 ## 关联
 

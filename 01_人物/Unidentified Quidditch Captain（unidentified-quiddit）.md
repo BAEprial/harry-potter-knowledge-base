@@ -7,6 +7,8 @@ slug: "unidentified-quidditch-captain-ii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Tan"
+头衔: "Beater； Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "unidentified-quidditch-captain-ii"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Grey |
 | 头发颜色 | Brown |
+| 肤色 | Tan |
+| 头衔 | Beater； Quidditch Captain |
 
 ## 关联
 

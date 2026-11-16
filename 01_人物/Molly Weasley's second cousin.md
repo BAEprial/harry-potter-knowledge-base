@@ -7,6 +7,8 @@ slug: "molly-weasley-s-second-cousin"
 物种: "人类"
 国籍: "English (presumably)"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "molly-weasley-s-second-cousin"
 | 国籍 | English (presumably) |
 | 职业 | Accountant； Stockbroker |
 | 家庭成员 | Wife； [[Mafalda]] (daughter)； [[Muriel]] (possible grandmother,，great-aunt,，or great-aunt by marriage)； First cousin once removed or first cousin once removed-in-law； Possible relative； [[Leander Prewett]] (possible relative)； [[J. E. Prewitt]] (possible relative) |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

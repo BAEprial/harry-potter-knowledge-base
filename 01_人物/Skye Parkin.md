@@ -7,6 +7,8 @@ slug: "skye-parkin"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "skye-parkin"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Chaser for the Wigtown Wanderers |
 | 家庭成员 | Ethan [[Parkin]] (father)； Brothers； Cousin； Parkin family |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

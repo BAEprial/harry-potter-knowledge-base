@@ -6,6 +6,7 @@ slug: "helene-a-plasse"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Grand Sorceress"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "helene-a-plasse"
 | 性别 | 女 |
 | 出生 | Before 1920s |
 | 国籍 | 法国人 |
+| 头衔 | Grand Sorceress |
 
 ## 关联
 

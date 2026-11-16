@@ -4,6 +4,7 @@
 英文名: "Graphorn at the Magical Creatures Reserve's baby"
 slug: "graphorn-at-the-magical-creatures-reserve-s-baby"
 物种: "Graphorn"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "graphorn-at-the-magical-creatures-reserve-s-baby"
 | 出生 | 1980s |
 | 眼睛颜色 | Black |
 | 家庭成员 | Mother |
+| 肤色 | Brown |
 
 ## 关联
 

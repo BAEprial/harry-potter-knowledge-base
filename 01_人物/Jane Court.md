@@ -7,6 +7,8 @@ slug: "jane-court"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "jane-court"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blonde |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Light |
+| 头衔 | Prefect |
 
 ## 关联
 

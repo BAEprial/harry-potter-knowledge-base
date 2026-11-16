@@ -6,6 +6,8 @@ slug: "yoshihiro-suzuki"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "yoshihiro-suzuki"
 | 头发颜色 | Brown |
 | 职业 | Chaser for the Japanese National Quidditch team |
 | 家庭成员 | [[Natsumi Suzuki]] (possibly) |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "albert-boot"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "albert-boot"
 | 出生 | Before 1730 |
 | 职业 | British Minister for Magic (1747–1752) |
 | 家庭成员 | Boot family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

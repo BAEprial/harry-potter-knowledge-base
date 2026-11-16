@@ -5,6 +5,8 @@
 slug: "sion"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "sion"
 | 性别 | 男 |
 | 逝世 | Unknown date |
 | 家庭成员 | Wife |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

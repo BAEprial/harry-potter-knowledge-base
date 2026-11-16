@@ -5,6 +5,7 @@
 slug: "unidentified-falling-man"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-falling-man"
 | 性别 | 男 |
 | 出生 | Prior to 1994 |
 | 头发颜色 | Black |
+| 肤色 | Dark |
 
 ## 关联
 

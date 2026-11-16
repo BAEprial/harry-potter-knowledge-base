@@ -5,6 +5,7 @@
 slug: "unidentified-grey-haired-man-during-the-battle-of-hogwarts"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-grey-haired-man-during-the-battle-of-hogwarts"
 | 性别 | 男 |
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | White |
 
 ## 关联
 

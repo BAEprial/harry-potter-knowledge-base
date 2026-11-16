@@ -4,6 +4,7 @@
 英文名: "Giant Dung Beetle at the Magical Creatures Reserve"
 slug: "giant-dung-beetle-at-the-magical-creatures-reserve"
 物种: "Giant Dung Beetle"
+肤色: "Bronze and yellow"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "giant-dung-beetle-at-the-magical-creatures-reserve"
 | 物种 | Giant Dung Beetle |
 | 眼睛颜色 | Red |
 | 别名与绰号 | Super Beetle |
+| 肤色 | Bronze and yellow |
 
 ## 关联
 

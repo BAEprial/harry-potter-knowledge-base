@@ -5,6 +5,7 @@
 slug: "unidentified-pet-owner-in-knockturn-alley"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-pet-owner-in-knockturn-alley"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 头发颜色 | 黑暗 |
+| 肤色 | Light |
 
 ## 关联
 

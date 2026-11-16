@@ -7,6 +7,8 @@ slug: "iola-black"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+恋情: "Bob Hitchens (husband)"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "iola-black"
 | 性别 | 女 |
 | 出生 | Between 1850 and 1852 |
 | 家庭成员 | Sirius Black (I) (older brother) †； Phineas Nigellus Black (older brother) †； [[Elladora Black]] (older sister) †； [[Bob]] Hitchens (husband)； Ursula Black (née Flint) (sister-in-law)； Sirius Black (II) (nephew) †； Phineas Black (nephew) †； Arcturus Black (II) (nephew) †； Belvina Black (niece) †； [[Cygnus Black]] (II) (nephew) †； House of Black |
+| 恋情 | Bob Hitchens (husband) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

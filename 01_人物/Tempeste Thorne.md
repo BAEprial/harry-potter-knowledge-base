@@ -6,6 +6,7 @@ slug: "tempeste-thorne"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "tempeste-thorne"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Wizard poacher |
 | 家庭成员 | Yubert Thorne (possibly)； Thorne family |
+| 肤色 | Light |
 
 ## 关联
 

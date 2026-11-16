@@ -6,6 +6,7 @@ slug: "cobb"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "cobb"
 | 头发颜色 | Black |
 | 职业 | Liason to the Merpeople (formerly)； Employee of the Spirit Division |
 | 别名与绰号 | Miss Cobb |
+| 肤色 | Dark |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "cressida-blume-s-parents"
 物种: "Humans"
 国籍: "英国人"
 性别: "Male,，female"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cressida-blume-s-parents"
 | 性别 | Male,，female |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Cressida Blume]] (daughter)； Son； Blume family |
+| 婚姻状况 | Married |
 
 ## 关联
 

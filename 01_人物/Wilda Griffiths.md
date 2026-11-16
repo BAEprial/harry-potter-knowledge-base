@@ -5,6 +5,7 @@
 slug: "wilda-griffiths"
 物种: "人类"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "wilda-griffiths"
 | 出生 | Before 1982 |
 | 职业 | Chaser for the Holyhead Harpies (formerly)； Chaser for Puddlemere United |
 | 家庭成员 | Glynnis [[Griffith]]s (possibly) |
+| 头衔 | Chaser |
 
 ## 关联
 

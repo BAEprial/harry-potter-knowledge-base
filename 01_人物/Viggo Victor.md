@@ -7,6 +7,7 @@ slug: "viggo-victor"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "viggo-victor"
 | 头发颜色 | Red |
 | 魔杖 | 13',，Red oak,，Horned Serpent horn |
 | 家庭成员 | Father； Grandfather； [[Victor]] family |
+| 肤色 | White |
 
 ## 关联
 

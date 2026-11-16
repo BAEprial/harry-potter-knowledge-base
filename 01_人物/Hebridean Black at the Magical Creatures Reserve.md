@@ -5,6 +5,7 @@
 slug: "hebridean-black-at-the-magical-creatures-reserve"
 物种: "Hebridean Black"
 性别: "女"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "hebridean-black-at-the-magical-creatures-reserve"
 | 物种 | Hebridean Black |
 | 性别 | 女 |
 | 眼睛颜色 | Purple |
+| 肤色 | Grey |
 
 ## 关联
 

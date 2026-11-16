@@ -5,6 +5,7 @@
 slug: "elek"
 物种: "马人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "elek"
 | 性别 | 男 |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
+| 肤色 | Light |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "leander-prewett"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "leander-prewett"
 | 头发颜色 | Red |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Mother； Possible relative； [[Ignatius Prewett]] (possible relative)； [[Lucretia Prewett (née Black)]] (possible relative) †； [[Gideon Prewett]] (possible relative) †； [[Fabian Prewett]] (possible relative) †； Molly Weasley (née Prewett) (possible relative)； J. E. Prewitt (possible relative)； Prewett family |
+| 肤色 | Light |
 
 ## 关联
 

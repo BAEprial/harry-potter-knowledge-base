@@ -5,6 +5,7 @@
 slug: "unidentified-ghosts"
 物种: "Humans (formerly),，Ghosts"
 性别: "Females"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-ghosts"
 | 物种 | Humans (formerly),，Ghosts |
 | 性别 | Females |
 | 逝世 | Before 1991 |
+| 肤色 | Pale |
 
 ## 关联
 

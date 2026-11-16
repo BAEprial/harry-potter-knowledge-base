@@ -7,6 +7,9 @@ slug: "rolf-scamander"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Luna Scamander (wife)"
+肤色: "'Swarthy'"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "rolf-scamander"
 | 国籍 | 英国人 |
 | 职业 | Magizoologist； Chief Consulting Magizoologist to the Daily Prophet |
 | 家庭成员 | Luna Scamander (née Lovegood) (wife)； [[Lorcan Scamander]] (son)； [[Lysander Scamander]] (son)； Xenophilius Lovegood (father-in-law)； [[Pandora Lovegood]] (mother-in-law) †； [[Newt]] Scamander (paternal grandfather)； Porpentina Scamander (née Goldstein) (paternal grandmother)； Anthony Goldstein (distant relative)； Scamander family； Lovegood family (in-laws) |
+| 恋情 | Luna Scamander (wife) |
+| 肤色 | 'Swarthy' |
+| 婚姻状况 | Married |
 
 ## 关联
 

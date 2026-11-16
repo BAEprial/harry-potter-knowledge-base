@@ -8,6 +8,8 @@ slug: "donaghan-tremlett"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "donaghan-tremlett"
 | 头发颜色 | Brown |
 | 职业 | Bass player for the Weird Sisters |
 | 家庭成员 | Father； Mother； Spouse； Tremlett family |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

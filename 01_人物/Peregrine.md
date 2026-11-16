@@ -7,6 +7,9 @@ slug: "peregrine"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Corporeal"
+恋情: "Estranged wife"
+头衔: "Prefect； Head Boy"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "peregrine"
 | 职业 | Tracker |
 | 别名与绰号 | R |
 | 家庭成员 | Wife； [[Jacob]] (son)； Child； Relatives； His family |
+| 恋情 | Estranged wife |
+| 头衔 | Prefect； Head Boy |
+| 婚姻状况 | Married |
 
 ## 关联
 

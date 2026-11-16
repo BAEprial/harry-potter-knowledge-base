@@ -7,6 +7,7 @@ slug: "merlin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "merlin"
 | 魔杖 | Unknown length and core,，probably English oak wood |
 | 职业 | Advisor to King Arthur and his court |
 | 别名与绰号 | Prince of Enchanters |
+| 肤色 | Light |
 
 ## 关联
 

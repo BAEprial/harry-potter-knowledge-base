@@ -5,6 +5,7 @@
 slug: "portrait-of-the-healers"
 物种: "Humans"
 性别: "Males"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "portrait-of-the-healers"
 | 逝世 | Prior to 1993 |
 | 头发颜色 | Grey,，brown |
 | 职业 | Healers |
+| 肤色 | Light |
 
 ## 关联
 

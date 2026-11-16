@@ -7,6 +7,9 @@ slug: "dougal-mcgregor"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+恋情: "Minerva McGonagall (formerly)； Wife †"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "dougal-mcgregor"
 | 逝世 | c. 1970s |
 | 国籍 | Scottish |
 | 家庭成员 | Father； Wife †； Children †； Father-in-law； McGregor family |
+| 恋情 | Minerva McGonagall (formerly)； Wife † |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

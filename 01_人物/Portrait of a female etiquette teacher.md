@@ -7,6 +7,7 @@ slug: "portrait-of-a-female-etiquette-teacher"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "portrait-of-a-female-etiquette-teacher"
 | 逝世 | Prior to 1991 |
 | 国籍 | British or Irish |
 | 职业 | Etiquette teacher |
+| 肤色 | Light |
 
 ## 关联
 

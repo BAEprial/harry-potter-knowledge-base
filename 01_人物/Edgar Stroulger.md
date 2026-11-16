@@ -5,6 +5,7 @@
 slug: "edgar-stroulger"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "edgar-stroulger"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey,，formerly brown |
 | 职业 | Inventor |
+| 肤色 | White |
 
 ## 关联
 

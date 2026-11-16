@@ -6,6 +6,7 @@ slug: "cho-chang-s-father"
 血统: "Half-blood,，Pure-blood or Squib"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "cho-chang-s-father"
 | 性别 | 男 |
 | 出生 | Before 1962 (most likely) |
 | 家庭成员 | Father； Wife； Cho [[Chang]] (daughter)； Child-in-law； Chang family |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "unidentified-muggle-worthy-excuse-committee-clerk"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-muggle-worthy-excuse-committee-clerk"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Muggle-Worthy Excuse Committee employee |
+| 肤色 | Dark |
 
 ## 关联
 

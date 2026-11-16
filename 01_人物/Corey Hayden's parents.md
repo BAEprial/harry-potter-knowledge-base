@@ -6,6 +6,7 @@ slug: "corey-hayden-s-parents"
 物种: "Humans"
 国籍: "英国人"
 性别: "Female,，male"
+婚姻状况: "Married (presumably)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "corey-hayden-s-parents"
 | 国籍 | 英国人 |
 | 职业 | Shopkeepers |
 | 家庭成员 | [[Corey Hayden]] (child)； Hayden family |
+| 婚姻状况 | Married (presumably) |
 
 ## 关联
 

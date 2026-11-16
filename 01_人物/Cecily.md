@@ -6,6 +6,7 @@ slug: "cecily"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Sam"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "cecily"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | American |
+| 恋情 | Sam |
 
 ## 关联
 

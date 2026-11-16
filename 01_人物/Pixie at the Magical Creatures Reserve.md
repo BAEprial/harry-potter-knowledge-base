@@ -4,6 +4,7 @@
 英文名: "Pixie at the Magical Creatures Reserve"
 slug: "pixie-at-the-magical-creatures-reserve"
 物种: "Pixie"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "pixie-at-the-magical-creatures-reserve"
 | 物种 | Pixie |
 | 出生 | Before or during the 1980s |
 | 眼睛颜色 | Black |
+| 肤色 | Blue |
 
 ## 关联
 

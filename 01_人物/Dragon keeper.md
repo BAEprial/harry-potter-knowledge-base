@@ -6,6 +6,7 @@ slug: "unidentified-dragon-keeper"
 物种: "人类"
 性别: "男"
 守护神: "Non-corporeal"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-dragon-keeper"
 | 守护神 | Non-corporeal |
 | 博格特（恐惧之物） | Lord Voldemort |
 | 职业 | Dragonologist |
+| 肤色 | Pale |
 
 ## 关联
 

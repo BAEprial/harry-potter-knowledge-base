@@ -6,6 +6,7 @@ slug: "eekins"
 学院: "Hufflepuff,，Ravenclaw or Slytherin"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "eekins"
 | 物种 | 人类 |
 | 出生 | 1970s |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

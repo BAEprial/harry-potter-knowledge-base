@@ -6,6 +6,7 @@ slug: "unidentified-slug-club-wizard"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-slug-club-wizard"
 | 出生 | Before 1970 |
 | 国籍 | British or Irish |
 | 头发颜色 | White |
+| 肤色 | Light |
 
 ## 关联
 

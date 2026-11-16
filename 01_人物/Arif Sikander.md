@@ -6,6 +6,8 @@ slug: "arif-sikander"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "arif-sikander"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Muggle Studies Professor at Hogwarts School of Witchcraft and Wizardry (1990–1991 school year) |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

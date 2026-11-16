@@ -6,6 +6,8 @@ slug: "nathan-redleif"
 物种: "人类"
 国籍: "Canadian"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "nathan-redleif"
 | 出生 | 20th century |
 | 国籍 | Canadian |
 | 职业 | Keeper for the Canadian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

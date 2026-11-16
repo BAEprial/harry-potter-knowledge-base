@@ -7,6 +7,7 @@ slug: "catherine-tyler"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Horatio Cloke"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "catherine-tyler"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 家庭成员 | Megan Scott (granddaughter) |
+| 恋情 | Horatio Cloke |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "vasil-stena"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Fair"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "vasil-stena"
 | 性别 | 男 |
 | 出生 | 20th century |
 | 头发颜色 | Blonde |
+| 肤色 | Fair |
+| 头衔 | Keeper |
 
 ## 关联
 

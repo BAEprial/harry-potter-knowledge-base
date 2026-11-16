@@ -6,6 +6,7 @@ slug: "janus-god"
 物种: "Deity"
 国籍: "Roman"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "janus-god"
 | 国籍 | Roman |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Dark and brown |
+| 肤色 | White |
 
 ## 关联
 

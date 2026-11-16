@@ -8,6 +8,8 @@ slug: "lee-jordan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Dark"
+头衔: "Quidditch commentator"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "lee-jordan"
 | 职业 | Host of Potterwatch |
 | 别名与绰号 | River (Potterwatch) |
 | 家庭成员 | Mr Jordan (father) |
+| 肤色 | Dark |
+| 头衔 | Quidditch commentator |
 
 ## 关联
 

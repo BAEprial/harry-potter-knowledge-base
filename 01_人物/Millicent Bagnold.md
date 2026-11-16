@@ -7,6 +7,8 @@ slug: "millicent-bagnold"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "millicent-bagnold"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown wood,，length and core |
 | 职业 | Minister for Magic (1980–1990) |
+| 肤色 | White |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

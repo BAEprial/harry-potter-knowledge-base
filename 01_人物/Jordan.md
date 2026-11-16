@@ -6,6 +6,7 @@ slug: "jordan"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "jordan"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Brown |
 | 职业 | Club referee of the Toothill Duelling Club |
+| 肤色 | Light |
 
 ## 关联
 

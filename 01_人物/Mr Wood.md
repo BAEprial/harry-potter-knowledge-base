@@ -5,6 +5,8 @@
 slug: "oliver-wood-s-father"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "oliver-wood-s-father"
 | 性别 | 男 |
 | 出生 | Before 1975 |
 | 家庭成员 | Wife； Oliver Wood (son)； Robert Wood (possibly)； Wood family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

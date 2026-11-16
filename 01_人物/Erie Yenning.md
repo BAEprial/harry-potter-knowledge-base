@@ -5,6 +5,7 @@
 slug: "erie-yenning"
 物种: "人类"
 国籍: "英国人"
+头衔: "Officer"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "erie-yenning"
 | 出生 | Before 2003 |
 | 国籍 | 英国人 |
 | 职业 | Employee in the Misuse of Muggle Artefacts Office |
+| 头衔 | Officer |
 
 ## 关联
 

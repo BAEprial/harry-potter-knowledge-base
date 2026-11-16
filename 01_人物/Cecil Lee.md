@@ -7,6 +7,7 @@ slug: "cecil-lee"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "cecil-lee"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Member of the Werewolf Capture Unit |
 | 家庭成员 | Mother †； Leah Lee (older sister)； Younger brother； Sister-in-law； Barnaby Lee (nephew)； Lee family |
+| 肤色 | Light |
 
 ## 关联
 

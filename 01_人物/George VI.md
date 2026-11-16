@@ -6,6 +6,8 @@ slug: "george-vi"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "King"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "george-vi"
 | 国籍 | 英国人 |
 | 职业 | King of the United Kingdom and other Commonwealth countries |
 | 家庭成员 | [[Eliza]]beth II (daughter) †； British royal family |
+| 头衔 | King |
+| 婚姻状况 | Married |
 
 ## 关联
 

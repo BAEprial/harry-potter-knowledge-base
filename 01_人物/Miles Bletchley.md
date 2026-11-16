@@ -7,6 +7,7 @@ slug: "miles-bletchley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "miles-bletchley"
 | 出生 | c. 1977-1979 |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Bletchley]] (possibly)； [[Kevin]] Bletchley (possibly)； [[Madame Bletchley]] (possibly)； Bletchley family |
+| 头衔 | Keeper |
 
 ## 关联
 

@@ -9,6 +9,7 @@ slug: "abigail-grey"
 国籍: "British or Irish"
 性别: "女"
 守护神: "狼"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +32,7 @@ slug: "abigail-grey"
 | 头发颜色 | Red |
 | 魔杖 | 11¼',，Cypress,，unicorn hair |
 | 家庭成员 | Gerard Grey (father)； Diana Grey (mother)； Siblings； Grey family |
+| 肤色 | White |
 
 ## 关联
 

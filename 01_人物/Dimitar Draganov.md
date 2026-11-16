@@ -6,6 +6,7 @@ slug: "dimitar-draganov"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "dimitar-draganov"
 | 出生 | After 1976 |
 | 国籍 | 保加利亚人 |
 | 职业 | Beater for the Bulgarian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

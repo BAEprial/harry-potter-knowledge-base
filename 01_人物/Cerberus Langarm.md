@@ -6,6 +6,8 @@ slug: "cerberus-langarm"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Dark"
+头衔: "Officer"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "cerberus-langarm"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Hit Wizard (formerly)； Auror |
+| 肤色 | Dark |
+| 头衔 | Officer |
 
 ## 关联
 

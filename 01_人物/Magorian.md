@@ -5,6 +5,7 @@
 slug: "magorian"
 物种: "马人"
 性别: "男"
+肤色: "Chestnut"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "magorian"
 | 物种 | 马人 |
 | 性别 | 男 |
 | 头发颜色 | Black |
+| 肤色 | Chestnut |
 
 ## 关联
 

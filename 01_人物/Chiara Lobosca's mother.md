@@ -6,6 +6,7 @@ slug: "chiara-lobosca-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Mr Lobosca (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "chiara-lobosca-s-mother"
 | 国籍 | 英国人 |
 | 职业 | Obliviator |
 | 家庭成员 | [[Chiara Lobosca]] (daughter)； Lobosca family |
+| 恋情 | Mr Lobosca (uncertain relationship) |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "headteacher-of-hogwarts-school-of-witchcraft-and-wizardry-during-1792"
 物种: "人类"
 国籍: "英国人"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "headteacher-of-hogwarts-school-of-witchcraft-and-wizardry-during-1792"
 | 出生 | 18th century or earlier |
 | 国籍 | 英国人 |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (1792 or earlier -?) |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

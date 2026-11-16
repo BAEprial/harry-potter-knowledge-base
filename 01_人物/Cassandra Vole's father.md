@@ -8,6 +8,7 @@ slug: "cassandra-vole-s-father"
 物种: "Human or part-human/quarter-Veela"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "cassandra-vole-s-father"
 | 国籍 | 英国人 |
 | 职业 | British Ministry of Magic employee |
 | 家庭成员 | Brother or brother-in-law； Wife； [[Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
+| 婚姻状况 | Married |
 
 ## 关联
 

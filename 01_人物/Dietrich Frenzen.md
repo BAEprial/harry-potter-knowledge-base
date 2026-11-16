@@ -5,6 +5,7 @@
 slug: "dietrich-frenzen"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "dietrich-frenzen"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
 | 职业 | Quidditch referee |
+| 肤色 | Light |
 
 ## 关联
 

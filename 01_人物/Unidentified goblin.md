@@ -6,6 +6,7 @@ slug: "unidentified-goblin-at-gringotts-in-1998-i"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-goblin-at-gringotts-in-1998-i"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Black |
 | 职业 | Banker at Gringotts Wizarding Bank |
+| 肤色 | Light |
 
 ## 关联
 

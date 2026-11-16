@@ -6,6 +6,8 @@ slug: "jacob-troll"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Martha Troll"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "jacob-troll"
 | 出生 | Before 1990 |
 | 国籍 | 英国人 |
 | 家庭成员 | Troll familyMartha Troll (wife)[[Gertie Troll]] (daughter)[[Glen]] Troll (son)； Martha Troll (wife)； Gertie Troll (daughter)； Glen Troll (son) |
+| 恋情 | Martha Troll |
+| 婚姻状况 | Married |
 
 ## 关联
 

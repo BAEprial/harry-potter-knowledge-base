@@ -6,6 +6,7 @@ slug: "perkins"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "perkins"
 | 国籍 | 英国人 |
 | 头发颜色 | Fluffy white |
 | 职业 | Employee in the Misuse of Muggle Artefacts Office |
+| 头衔 | Warlock |
 
 ## 关联
 

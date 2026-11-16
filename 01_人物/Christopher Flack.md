@@ -6,6 +6,7 @@ slug: "christopher-flack"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "christopher-flack"
 | 出生 | Between 1 September,，1975 and 31 August,，1978 |
 | 国籍 | British or Irish |
 | 家庭成员 | Basil Flack (possibly)； Flack family |
+| 头衔 | Prefect |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "wilhelmina-tuft"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "wilhelmina-tuft"
 | 国籍 | 英国人 |
 | 职业 | Minister for Magic (1948–1959) |
 | 家庭成员 | [[Ignatius Tuft]] (son)； Tuft family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

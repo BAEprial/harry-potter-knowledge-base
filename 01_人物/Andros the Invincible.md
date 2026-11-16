@@ -7,6 +7,7 @@ slug: "andros-the-invincible"
 国籍: "Greek"
 性别: "男"
 守护神: "Unknown form;，giant-sized"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "andros-the-invincible"
 | 守护神 | Unknown form;，giant-sized |
 | 国籍 | Greek |
 | 头发颜色 | Red |
+| 肤色 | White |
 
 ## 关联
 

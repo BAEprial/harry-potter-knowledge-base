@@ -5,6 +5,7 @@
 slug: "baruffio-s-wife"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "baruffio-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Baruffio]] (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

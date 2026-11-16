@@ -5,6 +5,7 @@
 slug: "todoroki"
 物种: "人类"
 国籍: "Japanese"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "todoroki"
 | 出生 | After 1976 |
 | 国籍 | Japanese |
 | 职业 | Keeper for the Japanese National Quidditch team |
+| 头衔 | Keeper |
 
 ## 关联
 

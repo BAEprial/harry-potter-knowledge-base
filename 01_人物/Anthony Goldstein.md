@@ -9,6 +9,7 @@ slug: "anthony-goldstein"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "anthony-goldstein"
 | 眼睛颜色 | Black |
 | 头发颜色 | Auburn |
 | 家庭成员 | Porpentina Scamander (née Goldstein) (distant relative)； Queenie Goldstein (distant relative)； Rolf Scamander (distant relative)； Lorcan Scamander (distant relative)； Lysander Scamander (distant relative)； Quentin Kowalski (possible relative)； Goldstein family |
+| 头衔 | Prefect |
 
 ## 关联
 

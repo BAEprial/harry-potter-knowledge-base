@@ -5,6 +5,7 @@
 slug: "unidentified-japanese-national-quidditch-captain"
 物种: "人类"
 国籍: "Japanese"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-japanese-national-quidditch-captain"
 | 物种 | 人类 |
 | 国籍 | Japanese |
 | 职业 | Quidditch Captain for the Japanese National Quidditch team |
+| 头衔 | Captain |
 
 ## 关联
 

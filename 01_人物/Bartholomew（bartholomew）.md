@@ -5,6 +5,7 @@
 slug: "bartholomew"
 物种: "人类"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "bartholomew"
 | 性别 | 男 |
 | 逝世 | Before 1787 |
 | 职业 | Potions Master at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

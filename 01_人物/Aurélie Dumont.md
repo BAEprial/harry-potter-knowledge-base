@@ -7,6 +7,8 @@ slug: "aurelie-dumont"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "aurelie-dumont"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Davet Dumont]] (older brother)； Dumont family |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

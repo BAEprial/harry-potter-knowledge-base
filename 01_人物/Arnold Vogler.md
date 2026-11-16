@@ -6,6 +6,7 @@ slug: "arnold-vogler"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "arnold-vogler"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown |
 | 职业 | Professional Quidditch player for the Heidelberg Harriers (formerly)； Quidditch commentator |
+| 肤色 | White |
 
 ## 关联
 

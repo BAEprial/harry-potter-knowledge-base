@@ -5,6 +5,7 @@
 slug: "headmaster-of-castelobruxo-during-1989"
 物种: "人类"
 性别: "男"
+头衔: "Headmaster； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "headmaster-of-castelobruxo-during-1989"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Headmaster of Castelobruxo (c. 1989) |
+| 头衔 | Headmaster； Professor |
 
 ## 关联
 

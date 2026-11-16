@@ -8,6 +8,7 @@ slug: "hestia-carrow"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "hestia-carrow"
 | 眼睛颜色 | Blue-Grey |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Flora Carrow]] (twin sister)； Amycus Carrow (possible relative)； [[Alecto Carrow]] (possible relative)； Carrow |
+| 肤色 | White |
 
 ## 关联
 

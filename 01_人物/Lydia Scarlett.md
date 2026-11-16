@@ -6,6 +6,7 @@ slug: "lydia-scarlett"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lydia-scarlett"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Brown |
 | 别名与绰号 | The Slip |
+| 肤色 | White |
 
 ## 关联
 

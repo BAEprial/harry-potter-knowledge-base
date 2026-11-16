@@ -6,6 +6,7 @@ slug: "rowan-khanna-s-father"
 物种: "人类"
 国籍: "British or Irish (possibly)"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "rowan-khanna-s-father"
 | 国籍 | British or Irish (possibly) |
 | 职业 | Farmer |
 | 家庭成员 | Brother or brother-in-law； Wife； Rowan Khanna (child) †； Son； Khanna family |
+| 婚姻状况 | Married |
 
 ## 关联
 

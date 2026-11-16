@@ -7,6 +7,8 @@ slug: "angelica-cole"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
+头衔: "Prefect； Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "angelica-cole"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Security troll trainer for the British Ministry of Magic |
 | 家庭成员 | Cole family |
+| 肤色 | Dark |
+| 头衔 | Prefect； Quidditch Captain |
 
 ## 关联
 

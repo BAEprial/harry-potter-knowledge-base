@@ -7,6 +7,8 @@ slug: "rionach-steward"
 物种: "人类"
 国籍: "American"
 性别: "女"
+头衔: "Professor"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "rionach-steward"
 | 国籍 | American |
 | 职业 | Defence Against the Dark Arts professor at Ilvermorny School of Witchcraft and Wizardry |
 | 家庭成员 | [[James]] Steward (father) †； [[Isolt Steward (née Sayre)]] (mother) †； [[Martha]] Steward (II) (older twin sister)； [[Chadwick Boot]] (adoptive older brother)； Webster Boot (adoptive older brother)； [[Josefina Calderon]] (adoptive sister-in-law)； Adoptive sister-in-law； Brother-in-law； Martha Steward (paternal grandmother) †； William Sayre (maternal grandfather) †； [[Rionach Sayre (née Gaunt)]] (maternal grandmother) †； [[Gormlaith Gaunt]] (maternal great-aunt) †； Morrigan (maternal ancestor)； Salazar Slytherin (maternal ancestor)； [[Cadmus]] Peverell (maternal ancestor) †； Steward family； Sayre family (maternal family) |
+| 头衔 | Professor |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

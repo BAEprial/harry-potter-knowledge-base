@@ -4,6 +4,7 @@
 英文名: "Unidentified three successive Chief Warlocks of the Wizengamot"
 slug: "unidentified-three-successive-chief-warlocks-of-the-wizengamot"
 物种: "Humans"
+头衔: "Chief Warlocks"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "unidentified-three-successive-chief-warlocks-of-the-wizengamot"
 | 物种 | Humans |
 | 魔杖 | Unknown lengths,，Chestnut,，Unicorn hair |
 | 职业 | Chief Warlocks of the Wizengamot |
+| 头衔 | Chief Warlocks |
 
 ## 关联
 

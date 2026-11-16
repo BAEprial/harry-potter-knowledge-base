@@ -6,6 +6,7 @@ slug: "quentin-kowalski"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "quentin-kowalski"
 | 国籍 | American |
 | 职业 | Chaser for the American National Quidditch team |
 | 家庭成员 | Possible relative †； Possible relative †； [[Dominic]] (possible relative) †； [[Jacob]] [[Kowalski]] (possible relative)； Queenie Goldstein (possible relative)； Kowalski (possible relative) †； [[Jan Kowalski]] (possible relative)； Porpentina Scamander (née Goldstein) (possible relative)； Anthony Goldstein (possible relative)； Rolf Scamander (possible relative)； [[Lorcan Scamander]] (possible relative)； [[Lysander Scamander]] (possible relative)； Kowalski family |
+| 头衔 | Chaser |
 
 ## 关联
 

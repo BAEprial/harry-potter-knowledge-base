@@ -7,6 +7,7 @@ slug: "secret-student-sweetshop-manager"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "secret-student-sweetshop-manager"
 | 出生 | Between 1 September 1974 and 31 August 1980 (most likely) |
 | 国籍 | British or Irish |
 | 眼睛颜色 | 黑暗 |
+| 肤色 | Pale |
 
 ## 关联
 

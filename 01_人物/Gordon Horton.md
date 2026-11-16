@@ -6,6 +6,8 @@ slug: "gordon-horton"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Dark"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "gordon-horton"
 | 头发颜色 | Brown |
 | 职业 | Keeper for the Chudley Cannons |
 | 家庭成员 | [[Basil]] Horton (possibly)； Horton family |
+| 肤色 | Dark |
+| 头衔 | Keeper |
 
 ## 关联
 

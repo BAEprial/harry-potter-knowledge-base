@@ -6,6 +6,7 @@ slug: "nozea-lestrange"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nozea-lestrange"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Quintilla [[Lestrange]] (mother)； [[Fulcran Lestrange]] (father)； [[Balbine Lestrange]] (paternal aunt)； [[Pucine Lestrange]] (paternal aunt)； Fulcran Lestrange (paternal grandfather)； [[Sotère Lestrange (née Petit)]] (paternal grandmother)； [[Jodelle Lestrange (née Volant)]] (maternal grandmother)； [[Floxel Lestrange]] (maternal grandfather)； [[Cyrille Lestrange]] (maternal great-uncle)； Lestrange family |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

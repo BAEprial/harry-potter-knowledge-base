@@ -8,6 +8,10 @@ slug: "newton-scamander"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Porpentina Goldstein (wife)"
+肤色: "Light"
+体重: "161 lbs"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -33,6 +37,10 @@ slug: "newton-scamander"
 | 职业 | Magizoologist； Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures； Employee in the Office for House-Elf Relocation (formerly)； Author |
 | 别名与绰号 | Newt (by friends & family)； Theseus Scamander (under disguise of Polyjuice) |
 | 家庭成员 | Father； Mother； Theseus Scamander (older brother)； Porpentina Goldstein (wife)； At least one child； Father-in-law †； Mother-in-law †； Queenie Goldstein (sister-in-law)； [[Jacob]] [[Kowalski]] (brother-in-law by marriage)； Rolf Scamander (grandson)； Luna Lovegood (granddaughter-in-law)； [[Lorcan Scamander]] (great-grandson)； [[Lysander Scamander]] (great-grandson)； Scamander family； Goldstein family (in-laws) |
+| 恋情 | Porpentina Goldstein (wife) |
+| 肤色 | Light |
+| 体重 | 161 lbs |
+| 婚姻状况 | Married |
 
 ## 关联
 

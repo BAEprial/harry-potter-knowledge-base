@@ -5,6 +5,7 @@
 slug: "idris-oakby"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "idris-oakby"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
 | 职业 | Philanthropist |
+| 肤色 | White |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "unidentified-muggle-man"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-muggle-man"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
+| 肤色 | Light |
 
 ## 关联
 

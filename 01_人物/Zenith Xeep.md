@@ -5,6 +5,8 @@
 slug: "zenith-xeep"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "zenith-xeep"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Opera diva (formerly)； Businesswoman (formerly) |
 | 家庭成员 | [[Lydian Xeep]] (father)； [[Octavia Xeep]] (mother) |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

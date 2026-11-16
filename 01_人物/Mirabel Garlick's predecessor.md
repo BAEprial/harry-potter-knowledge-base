@@ -6,6 +6,7 @@ slug: "mirabel-garlick-s-predecessor"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "mirabel-garlick-s-predecessor"
 | 出生 | Before 1890 |
 | 国籍 | British or Irish |
 | 职业 | Professor of Herbology at Hogwarts School of Witchcraft and Wizardry (formerly) |
+| 头衔 | Professor |
 
 ## 关联
 

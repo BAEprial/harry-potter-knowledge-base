@@ -7,6 +7,8 @@ slug: "grant-page"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "grant-page"
 | 眼睛颜色 | Hazel |
 | 头发颜色 | Red |
 | 家庭成员 | [[Gorman Page]] (possible relative)； Kaleena Page (possible relative)； Reggie Page (possible relative)； [[Esme Page]] (possible relative)； [[Dan]]iel Page (possible relative)； Page family |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

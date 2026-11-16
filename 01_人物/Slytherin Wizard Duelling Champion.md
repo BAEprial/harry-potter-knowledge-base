@@ -7,6 +7,8 @@ slug: "slytherin-wizard-duelling-champion"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Slytherin Wizard Duelling Champion"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "slytherin-wizard-duelling-champion"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
+| 肤色 | White |
+| 头衔 | Slytherin Wizard Duelling Champion |
 
 ## 关联
 

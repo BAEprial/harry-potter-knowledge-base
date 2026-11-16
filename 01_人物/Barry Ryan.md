@@ -5,6 +5,8 @@
 slug: "barry-ryan"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "barry-ryan"
 | 出生 | Before 1977 |
 | 职业 | Keeper for the Irish National Quidditch team (formerly) |
 | 家庭成员 | Sirona Ryan (possibly)； Ryan family |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

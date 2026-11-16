@@ -4,6 +4,7 @@
 英文名: "Dr Goosander"
 slug: "dr-goosander"
 物种: "人类"
+头衔: "Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "dr-goosander"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Magizoologist (possibly) |
+| 头衔 | Doctor |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "bob-hitchens"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Iola Black (wife)"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "bob-hitchens"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Iola Hitchens (née Black) (wife)； Sirius Black (I) (brother-in-law) †； Phineas Nigellus Black (brother-in-law) †； Elladora Black (sister-in-law) †； Ursula Black (née Flint) (sister-in-law by marriage)； Sirius Black (II) (nephew by marriage) †； Phineas Black (nephew by marriage) †； Arcturus Black (II) (nephew by marriage) †； [[Belvina Burke (née Black)]] (niece by marriage) †； [[Cygnus Black]] (II) (nephew by marriage) †； Hitchens family； House of Black (in-laws) |
+| 恋情 | Iola Black (wife) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

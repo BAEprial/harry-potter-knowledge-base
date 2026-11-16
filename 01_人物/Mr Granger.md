@@ -7,6 +7,8 @@ slug: "hermione-granger-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "hermione-granger-s-father"
 | 职业 | Dentist |
 | 别名与绰号 | Wendell Wilkins (1997–1998) |
 | 家庭成员 | Wife； Hermione Granger (daughter)； Ronald Weasley (son-in-law)； Rose Granger-Weasley (granddaughter)； [[Hugo Granger-Weasley]] (grandson)； [[Hector Dagworth-Granger]] (possibly)； Granger family； Granger-Weasley family (descendants) |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

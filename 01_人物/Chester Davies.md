@@ -8,6 +8,8 @@ slug: "chester-davies"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "chester-davies"
 | 头发颜色 | Brown |
 | 职业 | Employee in the Improper Use of Magic Office |
 | 家庭成员 | Roger Davies (younger brother)； Lawrence Davies (possible relative)； Davies (possible relative)； Davies family |
+| 肤色 | White |
+| 头衔 | Prefect |
 
 ## 关联
 

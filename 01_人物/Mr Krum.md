@@ -7,6 +7,7 @@ slug: "viktor-krum-s-father"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "viktor-krum-s-father"
 | 国籍 | 保加利亚人 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Father or father-in-law †； Wife； Viktor Krum (son)； Krum family |
+| 婚姻状况 | Married |
 
 ## 关联
 

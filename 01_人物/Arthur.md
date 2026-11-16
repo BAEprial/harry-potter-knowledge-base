@@ -6,6 +6,7 @@ slug: "arthur-king"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "arthur-king"
 | 国籍 | 英国人 |
 | 职业 | King of Britain |
 | 家庭成员 | Morgan le Fay (half-sister)； Agravaine (nephew) |
+| 头衔 | King |
 
 ## 关联
 

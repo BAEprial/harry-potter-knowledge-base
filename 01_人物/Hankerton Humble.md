@@ -7,6 +7,7 @@ slug: "hankerton-humble"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Caretaker"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hankerton-humble"
 | 国籍 | British or Irish |
 | 职业 | Hogwarts caretaker |
 | 家庭成员 | Humble family |
+| 头衔 | Caretaker |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "melania-macmillan"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+恋情: "Arcturus Black (III) (husband) †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "melania-macmillan"
 | 出生 | Before 1925 |
 | 逝世 | In or before 1995 |
 | 家庭成员 | Arcturus Black (III) (husband) †； [[Lucretia Prewett (née Black)]] (daughter) †； Orion Black (son) †； Sirius Black (II) (father-in-law) †； [[Hesper Black]] (née Gamp) (mother-in-law)； [[Lycoris Black]] (sister-in-law) †； Regulus Black (I) (brother-in-law) †； [[Ignatius Prewett]] (son-in-law)； Walburga Black (daughter-in-law) †； Sirius Black (grandson) †； Regulus Black (grandson) †； Pippa Macmillan (possibly)； [[Ernest Macmillan]] (possibly)； Macmillan family； House of Black |
+| 恋情 | Arcturus Black (III) (husband) † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

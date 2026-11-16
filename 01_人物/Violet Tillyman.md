@@ -6,6 +6,8 @@ slug: "violet-tillyman"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+恋情: "Albert Tillyman (formerly) †； Myron Otherhaus"
+婚姻状况: "Estranged"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "violet-tillyman"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Mother； Albert Tillyman (husband) †； [[Myron Otherhaus]] (lover)； Seven children |
+| 恋情 | Albert Tillyman (formerly) †； Myron Otherhaus |
+| 婚姻状况 | Estranged |
 
 ## 关联
 

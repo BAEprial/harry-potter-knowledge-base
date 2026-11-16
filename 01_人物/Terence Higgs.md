@@ -7,6 +7,7 @@ slug: "terence-higgs"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "terence-higgs"
 | 出生 | 31 August 1979 or earlier |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Bertie Higgs]] (possible relative)； Higgs family |
+| 头衔 | Seeker |
 
 ## 关联
 

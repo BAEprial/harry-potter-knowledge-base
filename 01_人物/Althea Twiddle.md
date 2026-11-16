@@ -5,6 +5,9 @@
 slug: "althea-twiddle"
 物种: "人类"
 性别: "女"
+恋情: "Greville Twiddle (husband) †"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +25,9 @@ slug: "althea-twiddle"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Grey |
 | 家庭成员 | Greville Twiddle (husband) † |
+| 恋情 | Greville Twiddle (husband) † |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

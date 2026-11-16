@@ -5,6 +5,7 @@
 slug: "portrait-of-wailing-women"
 物种: "Humans"
 性别: "Females"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "portrait-of-wailing-women"
 | 物种 | Humans |
 | 性别 | Females |
 | 逝世 | Prior to 1993 |
+| 肤色 | Dark |
 
 ## 关联
 

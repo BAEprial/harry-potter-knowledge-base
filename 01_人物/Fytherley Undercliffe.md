@@ -5,6 +5,8 @@
 slug: "fytherley-undercliffe"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "fytherley-undercliffe"
 | 逝世 | In or before 1984 |
 | 头发颜色 | White |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (formerly) |
+| 肤色 | White |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

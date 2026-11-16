@@ -5,6 +5,7 @@
 slug: "barnabas-the-barmy"
 物种: "人类"
 性别: "男"
+肤色: "Light (according to the Troll Tapestry)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "barnabas-the-barmy"
 | 性别 | 男 |
 | 出生 | Before 1890 |
 | 头发颜色 | Brown (according to the Troll Tapestry) |
+| 肤色 | Light (according to the Troll Tapestry) |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "gawrloc"
 血统: "Half-breed (half-giant)"
 物种: "Half-human/half-giant"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "gawrloc"
 | 出生 | Before 2012 |
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
+| 肤色 | Light |
 
 ## 关联
 

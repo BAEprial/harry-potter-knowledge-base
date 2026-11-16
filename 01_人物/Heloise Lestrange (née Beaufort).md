@@ -6,6 +6,7 @@ slug: "heloise-beaufort"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "heloise-beaufort"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Corvus Lestrange]] (husband) †； Corvus Lestrange (son)； [[Falco Lestrange]] (son)； [[Cyrille Lestrange]] (brother-in-law)； [[Darenne Lestrange (née Moreau)]] (sister-in-law)； Cyrille Lestrange (nephew)； [[Fulcran Lestrange]] (nephew)； Minette Lestrange (née Rosier) (daughter-in-law)； Salomé Lestrange (née Volant) (daughter-in-law)； Manon Perrot (née Lestrange) (granddaughter)； Josette Gage (née Lestrange) (granddaughter)； [[Eglantine Lestrange]] (granddaughter)； Leonie Tremblay (née Lestrange) (granddaughter)； Corvus Lestrange (grandson)； Beaufort family； Lestrange family (in-laws) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

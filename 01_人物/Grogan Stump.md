@@ -8,6 +8,8 @@ slug: "grogan-stump"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +33,8 @@ slug: "grogan-stump"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Minister for Magic (1811–1819) |
 | 家庭成员 | Tobias Stump (possibly)； Google Stump (possibly)； Stump family |
+| 肤色 | Light |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "kurt-todt"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "kurt-todt"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blond |
 | 职业 | Chaser for the German National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

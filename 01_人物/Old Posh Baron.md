@@ -7,6 +7,8 @@ slug: "old-posh-baron"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Baron"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "old-posh-baron"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Light brown |
+| 肤色 | White |
+| 头衔 | Baron |
 
 ## 关联
 

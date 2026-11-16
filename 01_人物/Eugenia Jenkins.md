@@ -6,6 +6,7 @@ slug: "eugenia-jenkins"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "eugenia-jenkins"
 | 国籍 | 英国人 |
 | 职业 | British Minister for Magic (1968–1975) |
 | 家庭成员 | Hector Jenkins (possibly)； Matthew Jenkins (possibly)； Karl Jenkins (possibly)； Joey Jenkins (possibly)； Jenkins family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

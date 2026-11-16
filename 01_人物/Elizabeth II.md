@@ -7,6 +7,8 @@ slug: "elizabeth-ii"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Queen"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "elizabeth-ii"
 | 国籍 | 英国人 |
 | 职业 | Queen of the United Kingdom and other Commonwealth countries |
 | 家庭成员 | William the Conqueror (ancestor) †； Henry VII (ancestor) †； George III (ancestor) †； George VI (father) †； Diana,，Princess of Wales (former daughter-in-law) †； British royal family |
+| 头衔 | Queen |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

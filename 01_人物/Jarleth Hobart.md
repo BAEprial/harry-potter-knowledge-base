@@ -6,6 +6,8 @@ slug: "jarleth-hobart"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "jarleth-hobart"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
+| 肤色 | Light |
+| 头衔 | Warlock |
 
 ## 关联
 

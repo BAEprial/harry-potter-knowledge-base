@@ -6,6 +6,7 @@ slug: "fatima-al-eryani"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "fatima-al-eryani"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Reddish-brown |
+| 肤色 | Dark |
 
 ## 关联
 

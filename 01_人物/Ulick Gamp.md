@@ -7,6 +7,7 @@ slug: "ulick-gamp"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Chief Warlock； Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "ulick-gamp"
 | 头发颜色 | Black (formerly),，Silver (wig) |
 | 职业 | Chief Warlock of the Wizengamot (before 1707)； Minister for Magic (1707–1718) |
 | 家庭成员 | [[Hesper Black]] (possibly)； Gamp family |
+| 头衔 | Chief Warlock； Minister for Magic |
 
 ## 关联
 

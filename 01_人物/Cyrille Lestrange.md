@@ -6,6 +6,8 @@ slug: "cyrille-lestrange-iv"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "cyrille-lestrange-iv"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Cyrille Lestrange (father)； Luminosa Lestrange (née Trouche) (mother)； Floxel Lestrange (brother)； Jodelle Lestrange (née Volant) (sister-in-law)； Quintilla Lestrange (niece)； Fulcran Lestrange (second cousin)； Cyrille Lestrange (paternal grandfather)； [[Balbine Lestrange]] (née Leroy) (paternal grandmother)； Lestrange family； Trouche family (maternal family) |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

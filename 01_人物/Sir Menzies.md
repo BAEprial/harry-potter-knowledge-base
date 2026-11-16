@@ -5,6 +5,7 @@
 slug: "menzies"
 物种: "人类"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "menzies"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Leader of the Liberal Party |
+| 头衔 | Sir |
 
 ## 关联
 

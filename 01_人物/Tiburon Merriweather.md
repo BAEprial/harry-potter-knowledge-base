@@ -6,6 +6,7 @@ slug: "tiburon-merriweather"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "tiburon-merriweather"
 | 逝世 | Before the 2008–2009 school year |
 | 国籍 | British or Irish |
 | 家庭成员 | Wife； Daughter； [[Glen]]na Golding (née Merriweather) (daughter)； Shane Golding (son-in-law) †； Granddaughter； Nyle Golding (grandson)； Merriweather family |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

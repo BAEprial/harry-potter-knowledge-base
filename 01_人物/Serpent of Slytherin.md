@@ -5,6 +5,7 @@
 slug: "serpent-of-slytherin"
 物种: "Basilisk"
 性别: "女"
+肤色: "Poisonous green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "serpent-of-slytherin"
 | 出生 | c. 993,，Chamber of Secrets,，Hogwarts Castle,，Highlands,，Scotland |
 | 逝世 | 29 May 1993 (aged around 1000),，Chamber of Secrets,，Hogwarts Castle,，Highlands,，Scotland |
 | 眼睛颜色 | Yellow |
+| 肤色 | Poisonous green |
 
 ## 关联
 

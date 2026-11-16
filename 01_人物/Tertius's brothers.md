@@ -7,6 +7,7 @@ slug: "tertius-s-brothers"
 物种: "Humans"
 国籍: "Scottish"
 性别: "Males"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "tertius-s-brothers"
 | 国籍 | Scottish |
 | 头发颜色 | Blond,，Black |
 | 家庭成员 | Parents †； Tertius (younger brother) |
+| 肤色 | Fair |
 
 ## 关联
 

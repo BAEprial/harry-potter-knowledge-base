@@ -6,6 +6,7 @@ slug: "kay-hurwitz"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "kay-hurwitz"
 | 出生 | c. 1920 |
 | 职业 | Violist |
 | 家庭成员 | [[Emanuel Hurwitz]] (husband) |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

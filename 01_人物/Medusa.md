@@ -4,6 +4,7 @@
 英文名: "Medusa"
 slug: "medusa"
 物种: "人类"
+头衔: "Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "medusa"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Advice columnist for the Daily Prophet (possibly) |
+| 头衔 | Doctor |
 
 ## 关联
 

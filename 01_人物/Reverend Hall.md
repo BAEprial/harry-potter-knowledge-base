@@ -7,6 +7,9 @@ slug: "hall"
 物种: "人类"
 国籍: "American"
 性别: "男"
+恋情: "Mrs Hall (wife)"
+头衔: "Reverend"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "hall"
 | 国籍 | American |
 | 职业 | Christian minister |
 | 家庭成员 | [[Mrs Hall]] (wife) |
+| 恋情 | Mrs Hall (wife) |
+| 头衔 | Reverend |
+| 婚姻状况 | Married |
 
 ## 关联
 

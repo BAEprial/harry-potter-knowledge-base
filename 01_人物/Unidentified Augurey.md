@@ -4,6 +4,7 @@
 英文名: "Unidentified Augurey"
 slug: "unidentified-augurey"
 物种: "Augurey"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "unidentified-augurey"
 | 物种 | Augurey |
 | 出生 | In or before 1987–1988 school year |
 | 眼睛颜色 | Black |
+| 肤色 | Brown |
 
 ## 关联
 

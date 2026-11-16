@@ -5,6 +5,7 @@
 slug: "antonio"
 物种: "Chupacabra"
 性别: "男"
+肤色: "Blue and red"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "antonio"
 | 物种 | Chupacabra |
 | 性别 | 男 |
 | 出生 | Pre 1927 |
+| 肤色 | Blue and red |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "alderton"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "alderton"
 | 国籍 | 英国人 |
 | 头发颜色 | Grey |
 | 家庭成员 | William Alderton (claimed father)； Arkie Alderton (possible relative)； Alderton (possible relative)； [[Archibald Alderton]] (possible relative)； Alderton family |
+| 肤色 | Pale |
 
 ## 关联
 

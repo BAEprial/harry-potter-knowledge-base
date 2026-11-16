@@ -6,6 +6,7 @@ slug: "josephine-bakri"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "josephine-bakri"
 | 国籍 | 法国人 |
 | 职业 | Singer |
 | 家庭成员 | Xiana Bakri (daughter)； Bakri family |
+| 头衔 | Madam |
 
 ## 关联
 

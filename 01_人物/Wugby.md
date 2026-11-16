@@ -5,6 +5,7 @@
 slug: "wugby"
 物种: "家养小精灵"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "wugby"
 | 出生 | In or after 12th century |
 | 眼睛颜色 | Black |
 | 家庭成员 | [[Wooby]] (possible father)； Son； Grandson； [[Wigby]] (great-great-grandson) |
+| 肤色 | Light |
 
 ## 关联
 

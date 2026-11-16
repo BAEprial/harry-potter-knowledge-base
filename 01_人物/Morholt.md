@@ -6,6 +6,7 @@ slug: "morholt"
 物种: "Giant"
 国籍: "爱尔兰人"
 性别: "男"
+肤色: "Pink"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "morholt"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Dirty blond |
 | 家庭成员 | Brother † |
+| 肤色 | Pink |
 
 ## 关联
 

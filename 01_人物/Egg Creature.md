@@ -3,6 +3,7 @@
 姓名: "Egg Creature"
 英文名: "Egg Creature"
 slug: "egg-creature"
+肤色: "Dark grey"
 资料来源: hogwarts-api
 ---
 
@@ -14,6 +15,7 @@ slug: "egg-creature"
 
 | 项目 | 内容 |
 |---|---|
+| 肤色 | Dark grey |
 
 ## 关联
 

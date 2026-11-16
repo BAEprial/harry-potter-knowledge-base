@@ -7,6 +7,7 @@ slug: "gryffindor-lad"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "gryffindor-lad"
 | 出生 | 1960s - 1970s |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

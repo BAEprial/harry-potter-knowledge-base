@@ -7,6 +7,7 @@ slug: "qui-leblanc"
 物种: "Half-vampire/half-human"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "qui-leblanc"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Photographer； Thief |
 | 家庭成员 | Father； Mother †； [[Mateo Leblanc]] (possible relative)； LeBlanc family |
+| 肤色 | Dark |
 
 ## 关联
 

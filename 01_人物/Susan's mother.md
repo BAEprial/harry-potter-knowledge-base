@@ -6,6 +6,7 @@ slug: "susan-s-mother"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+恋情: "William (lover)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "susan-s-mother"
 | 性别 | 女 |
 | 国籍 | Scottish |
 | 家庭成员 | [[Susan]] (daughter) |
+| 恋情 | William (lover) |
 
 ## 关联
 

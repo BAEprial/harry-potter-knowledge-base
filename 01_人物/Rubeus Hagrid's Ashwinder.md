@@ -4,6 +4,7 @@
 英文名: "Rubeus Hagrid's Ashwinder"
 slug: "rubeus-hagrid-s-ashwinder"
 物种: "Ashwinder"
+肤色: "Blue-grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "rubeus-hagrid-s-ashwinder"
 | 出生 | 1989-1990 |
 | 逝世 | 1989-1990 |
 | 眼睛颜色 | Red |
+| 肤色 | Blue-grey |
 
 ## 关联
 

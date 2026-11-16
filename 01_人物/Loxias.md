@@ -5,6 +5,7 @@
 slug: "loxias"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "loxias"
 | 逝世 | Unknown point |
 | 魔杖 | Unknown wand； Elder,，Thestral tail hair core |
 | 家庭成员 | Mother； Family |
+| 肤色 | Pale |
 
 ## 关联
 

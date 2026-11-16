@@ -6,6 +6,7 @@ slug: "unidentified-princess"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+恋情: "Young wizard (possibly)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-princess"
 | 出生 | Middle Ages |
 | 逝世 | Middle Ages |
 | 家庭成员 | Father |
+| 恋情 | Young wizard (possibly) |
 
 ## 关联
 

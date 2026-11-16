@@ -5,6 +5,8 @@
 slug: "brutus-scrimgeour"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Headmaster； Beater (possibly)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "brutus-scrimgeour"
 | 头发颜色 | Grey |
 | 职业 | Author； Headmaster of Hogwarts School |
 | 家庭成员 | Rufus Scrimgeour (possibly) †； Scrimgeour family |
+| 肤色 | White |
+| 头衔 | Professor； Headmaster； Beater (possibly) |
 
 ## 关联
 

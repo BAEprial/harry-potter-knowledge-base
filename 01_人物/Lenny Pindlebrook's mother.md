@@ -7,6 +7,8 @@ slug: "lenny-pindlebrook-s-mother"
 物种: "人类"
 国籍: "Icelander,，英国人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "lenny-pindlebrook-s-mother"
 | 性别 | 女 |
 | 国籍 | Icelander,，英国人 |
 | 家庭成员 | Husband； [[Lenny Pindlebrook]] (son)； Pindlebrook family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

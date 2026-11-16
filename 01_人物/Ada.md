@@ -6,6 +6,8 @@ slug: "ada"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+恋情: "Tarek (fiancé)"
+婚姻状况: "Engaged (as of February 1890)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "ada"
 | 性别 | 女 |
 | 国籍 | Scottish |
 | 家庭成员 | Tarek (fiancé)； Unborn child |
+| 恋情 | Tarek (fiancé) |
+| 婚姻状况 | Engaged (as of February 1890) |
 
 ## 关联
 

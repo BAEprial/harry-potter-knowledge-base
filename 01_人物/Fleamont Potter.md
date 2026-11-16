@@ -8,6 +8,8 @@ slug: "fleamont-potter"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Euphemia Potter (wife) †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "fleamont-potter"
 | 国籍 | 英国人 |
 | 职业 | Potioneer； Businessman (formerly) |
 | 家庭成员 | Henry Potter (father) †； Mother †； Euphemia Potter (wife) †； James Potter (I) (son) †； Lily Potter (I) (née Evans) (daughter-in-law) †； Harry Potter (grandson)； Paternal grandfather †； Paternal grandmother †； Linfred of Stinchcombe (paternal ancestor) †； Ignotus Peverell (paternal ancestor) †； Paternal ancestor †； Hardwin Potter (paternal ancestor) †； Iolanthe Peverell (paternal ancestor) †； [[Charlus Potter]] (possible relative) †； [[Dorea Potter (née Black)]] (possible relative) †； Possible relative †； Potter family |
+| 恋情 | Euphemia Potter (wife) † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

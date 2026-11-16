@@ -6,6 +6,10 @@ slug: "anne-boleyn"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "King Henry VIII (ex-husband) †"
+肤色: "Pale"
+头衔: "Lady Anne Boleyn； Marquess of Pembroke； Queen Consort of England"
+婚姻状况: "Annulled"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +29,10 @@ slug: "anne-boleyn"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Henry VIII (ex-husband) †； Elizabeth I (daughter) †； Mary I (ex-stepdaughter) †； Henry VII (ex-father-in-law) †； William the Conqueror (ancestor) †； Boleyn family； British royal familyHouse of Tudor (in-laws/descendants)； House of Tudor (in-laws/descendants) |
+| 恋情 | King Henry VIII (ex-husband) † |
+| 肤色 | Pale |
+| 头衔 | Lady Anne Boleyn； Marquess of Pembroke； Queen Consort of England |
+| 婚姻状况 | Annulled |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "unidentified-appleby-arrows-keeper"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "unidentified-appleby-arrows-keeper"
 | 出生 | Before 1972 |
 | 头发颜色 | Black |
 | 职业 | Keeper for the Appleby Arrows |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

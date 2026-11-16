@@ -7,6 +7,8 @@ slug: "isobel-mcgonagall-s-father"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "isobel-mcgonagall-s-father"
 | 出生 | Before 1892 |
 | 国籍 | Scottish |
 | 家庭成员 | [[Minerva]] (mother or mother-in-law)； Wife； [[Isobel McGonagall (née Ross)]] (daughter)； Robert McGonagall Senior (son-in-law)； Minerva McGonagall (granddaughter)； [[Malcolm]] McGonagall (grandson)； Robert McGonagall Junior (grandson) †； Possible relative； [[M. G. McGonagall]] (possible relative)； Ross family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

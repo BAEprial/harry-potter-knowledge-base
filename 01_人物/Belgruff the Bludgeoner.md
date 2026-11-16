@@ -5,6 +5,7 @@
 slug: "belgruff-the-bludgeoner"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "belgruff-the-bludgeoner"
 | 眼睛颜色 | Red |
 | 头发颜色 | Grey |
 | 职业 | Goblin rights activist (formerly) |
+| 肤色 | Light |
 
 ## 关联
 

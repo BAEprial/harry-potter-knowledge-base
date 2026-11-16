@@ -5,6 +5,7 @@
 slug: "ethel-wigley"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "ethel-wigley"
 | 头发颜色 | Black |
 | 职业 | Proprietor of Scrivenshaft's Quill Shop |
 | 家庭成员 | Gertrude Wigley (possible relative) |
+| 肤色 | Light |
 
 ## 关联
 

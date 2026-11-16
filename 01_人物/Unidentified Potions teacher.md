@@ -5,6 +5,7 @@
 slug: "unidentified-potions-teacher"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-potions-teacher"
 | 出生 | Before 1945 |
 | 国籍 | British or Irish |
 | 职业 | Professor at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

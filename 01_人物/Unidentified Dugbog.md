@@ -4,6 +4,7 @@
 英文名: "Unidentified Dugbog"
 slug: "unidentified-dugbog"
 物种: "Dugbog"
+肤色: "Dark green"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "unidentified-dugbog"
 | 物种 | Dugbog |
 | 出生 | In or before 1987–1988 school year |
 | 眼睛颜色 | Orange |
+| 肤色 | Dark green |
 
 ## 关联
 

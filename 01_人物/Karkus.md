@@ -5,6 +5,7 @@
 slug: "karkus"
 物种: "Giant"
 性别: "男"
+头衔: "Gurg"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "karkus"
 | 身高 | c. 23 feet |
 | 职业 | Gurg of the giant colony |
 | 家庭成员 | Wife |
+| 头衔 | Gurg |
 
 ## 关联
 

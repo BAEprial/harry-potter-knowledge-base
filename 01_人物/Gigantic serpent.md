@@ -4,6 +4,7 @@
 英文名: "Gigantic serpent"
 slug: "gigantic-serpent"
 物种: "Snake (with characteristics of dragons and Basilisks)"
+肤色: "Purple and green"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "gigantic-serpent"
 | 出生 | Before 1965 (presumably) |
 | 眼睛颜色 | Blue |
 | 职业 | Guardian of the enchanted garden |
+| 肤色 | Purple and green |
 
 ## 关联
 

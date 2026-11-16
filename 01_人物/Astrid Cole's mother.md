@@ -6,6 +6,8 @@ slug: "astrid-cole-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "astrid-cole-s-mother"
 | 国籍 | 英国人 |
 | 职业 | Employee at the Department of Magical Accidents and Catastrophes |
 | 家庭成员 | Husband； Astrid Cole (daughter)； Possible relative； [[Angelica Cole]] (possibly)； Cole family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

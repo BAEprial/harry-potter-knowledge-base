@@ -4,6 +4,7 @@
 英文名: "Defence Against the Dark Arts Professor"
 slug: "unidentified-1987-1988-defence-against-the-dark-arts-professor"
 物种: "人类"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-1987-1988-defence-against-the-dark-arts-professor"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Professor of Defence Against the Dark Arts (1987–1988) |
+| 头衔 | Professor |
 
 ## 关联
 

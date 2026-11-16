@@ -6,6 +6,7 @@ slug: "bogle-banshee"
 物种: "Banshee"
 国籍: "Nepali"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "bogle-banshee"
 | 性别 | 女 |
 | 国籍 | Nepali |
 | 头发颜色 | Black |
+| 肤色 | Green |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "manticore-in-the-erkstag"
 物种: "Manticore"
 性别: "女"
+肤色: "Red"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "manticore-in-the-erkstag"
 | 性别 | 女 |
 | 出生 | Before 1932 |
 | 家庭成员 | Multiple offspring |
+| 肤色 | Red |
 
 ## 关联
 

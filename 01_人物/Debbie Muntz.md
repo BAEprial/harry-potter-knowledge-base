@@ -6,6 +6,8 @@ slug: "debbie-muntz"
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "debbie-muntz"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black (Braided) |
 | 职业 | Chaser for the American National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

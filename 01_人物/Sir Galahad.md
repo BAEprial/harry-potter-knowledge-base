@@ -5,6 +5,7 @@
 slug: "galahad"
 物种: "人类"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "galahad"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Knight of the Round Table |
+| 头衔 | Sir |
 
 ## 关联
 

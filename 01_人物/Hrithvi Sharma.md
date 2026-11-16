@@ -8,6 +8,7 @@ slug: "hrithvi-sharma"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "hrithvi-sharma"
 | 头发颜色 | Brown |
 | 职业 | Zonko's Joke Shop employee |
 | 家庭成员 | Priya Sharma (younger sister)； Younger brother； Sharma family |
+| 肤色 | Brown |
 
 ## 关联
 

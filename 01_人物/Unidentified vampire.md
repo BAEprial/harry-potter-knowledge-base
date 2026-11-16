@@ -5,6 +5,7 @@
 slug: "unidentified-vampire"
 物种: "Human (Formerly),，吸血鬼"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-vampire"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Platinum blonde |
 | 别名与绰号 | Many names |
+| 肤色 | Pale |
 
 ## 关联
 

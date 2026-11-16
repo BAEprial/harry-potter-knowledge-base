@@ -5,6 +5,7 @@
 slug: "derwent-shimpling"
 物种: "人类"
 性别: "男"
+肤色: "White (formerly), Purple (permanently)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "derwent-shimpling"
 | 眼睛颜色 | Green |
 | 头发颜色 | Black |
 | 职业 | Comedian |
+| 肤色 | White (formerly), Purple (permanently) |
 
 ## 关联
 

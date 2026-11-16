@@ -6,6 +6,8 @@ slug: "ben-copper-s-father"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "ben-copper-s-father"
 | 出生 | Before 1973 |
 | 职业 | Actuary |
 | 家庭成员 | Wife； [[Ben Copper]] (son)； Brothers or brothers-in-law； Tinnie (sister or sister-in-law)； Copper family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

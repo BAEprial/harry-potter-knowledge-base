@@ -5,6 +5,7 @@
 slug: "overweight-british-ministry-of-magic-worker"
 物种: "人类"
 国籍: "英国人"
+体重: "Overweight"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "overweight-british-ministry-of-magic-worker"
 | 物种 | 人类 |
 | 国籍 | 英国人 |
 | 职业 | British Ministry of Magic worker |
+| 体重 | Overweight |
 
 ## 关联
 

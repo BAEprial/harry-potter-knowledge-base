@@ -7,6 +7,7 @@ slug: "unidentified-gryffindor-member-of-dumbledore-s-army-i"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-gryffindor-member-of-dumbledore-s-army-i"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

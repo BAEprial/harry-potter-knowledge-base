@@ -7,6 +7,7 @@ slug: "unidentified-two-ministry-guards"
 物种: "Humans"
 国籍: "英国人"
 性别: "Males"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-two-ministry-guards"
 | 性别 | Males |
 | 国籍 | 英国人 |
 | 职业 | Ministry Guards |
+| 肤色 | White |
 
 ## 关联
 

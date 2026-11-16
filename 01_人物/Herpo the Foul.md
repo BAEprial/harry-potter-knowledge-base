@@ -6,6 +6,7 @@ slug: "herpo-the-foul"
 物种: "人类"
 国籍: "Greek"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "herpo-the-foul"
 | 国籍 | Greek |
 | 眼睛颜色 | Dark (formerly),，Yellow |
 | 头发颜色 | Red (formerly),，White |
+| 肤色 | Light |
 
 ## 关联
 

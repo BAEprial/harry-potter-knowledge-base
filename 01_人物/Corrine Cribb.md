@@ -5,6 +5,9 @@
 slug: "corrine-cribb"
 物种: "人类"
 性别: "女"
+恋情: "Todd Cribb (husband)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +26,9 @@ slug: "corrine-cribb"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Todd Cribb (husband) |
+| 恋情 | Todd Cribb (husband) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

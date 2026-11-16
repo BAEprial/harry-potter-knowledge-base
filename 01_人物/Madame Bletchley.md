@@ -6,6 +6,7 @@ slug: "bletchley-musician"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "bletchley-musician"
 | 国籍 | British or Irish |
 | 职业 | Musician |
 | 家庭成员 | [[Bletchley]] (possibly)； Kevin Bletchley (possibly)； Miles Bletchley (possibly)； Bletchley family |
+| 头衔 | Madame |
 
 ## 关联
 

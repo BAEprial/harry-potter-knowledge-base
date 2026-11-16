@@ -5,6 +5,8 @@
 slug: "kevin-broadmoor"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "kevin-broadmoor"
 | 头发颜色 | 黑暗 |
 | 职业 | Beater for the Falmouth Falcons |
 | 家庭成员 | [[Karl]] Broadmoor (brother)； Broadmoor family |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

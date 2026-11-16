@@ -5,6 +5,7 @@
 slug: "unidentified-young-wizard"
 物种: "人类"
 性别: "男"
+恋情: "Unidentified princess (possibly)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-young-wizard"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 出生 | Middle Ages |
+| 恋情 | Unidentified princess (possibly) |
 
 ## 关联
 

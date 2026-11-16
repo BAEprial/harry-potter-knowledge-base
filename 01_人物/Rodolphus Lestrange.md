@@ -7,6 +7,7 @@ slug: "rodolphus-lestrange-i"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "rodolphus-lestrange-i"
 | 国籍 | 英国人 |
 | 职业 | Minister for Magic (1835–1841) |
 | 家庭成员 | [[Lestrange]] (descendant)； Rodolphus Lestrange (descendant)； [[Rabastan Lestrange]] (descendant)； [[F. Lestrange]] (possible relative)； [[R. Lestrange]] (possible relative)； Lestrange family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

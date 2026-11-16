@@ -8,6 +8,8 @@ slug: "giffard-abbott"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "giffard-abbott"
 | 头发颜色 | Red |
 | 职业 | Headmaster of Hogwarts School |
 | 家庭成员 | Abbott (possibly) †； Mrs Abbott (possibly) †； Hannah Abbott (possibly)； Abbott family |
+| 肤色 | White |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

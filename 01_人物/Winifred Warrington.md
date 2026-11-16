@@ -8,6 +8,7 @@ slug: "winifred-warrington"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "winifred-warrington"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Winnie (by Ivy and Cassandra Vole) |
 | 家庭成员 | Father； Mother； [[Ivy Warrington]] (younger twin sister)； Grandmother； [[Cassius Warrington]] (possible relative)； Warrington family |
+| 肤色 | Light |
 
 ## 关联
 

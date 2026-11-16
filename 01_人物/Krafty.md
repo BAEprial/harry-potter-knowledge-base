@@ -4,6 +4,7 @@
 英文名: "Krafty"
 slug: "krafty"
 物种: "家养小精灵"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "krafty"
 |---|---|
 | 物种 | 家养小精灵 |
 | 职业 | Hogwarts kitchens worker |
+| 肤色 | Light |
 
 ## 关联
 

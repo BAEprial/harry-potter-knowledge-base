@@ -6,6 +6,8 @@ slug: "orford-umbridge"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Ellen Cracknell (ex-wife)"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "orford-umbridge"
 | 国籍 | 英国人 |
 | 职业 | Department of Magical Maintenance floor cleaner (formerly) |
 | 家庭成员 | [[Ellen Cracknell]] (ex-wife)； Dolores Umbridge (daughter)； Son； Umbridge family； Selwyn family (alleged relatives) |
+| 恋情 | Ellen Cracknell (ex-wife) |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

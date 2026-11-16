@@ -6,6 +6,8 @@ slug: "ryotaro-tanaka"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "ryotaro-tanaka"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black with a gold ponytail |
 | 职业 | Chaser and Captain of the Japanese National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Chaser； Captain |
 
 ## 关联
 

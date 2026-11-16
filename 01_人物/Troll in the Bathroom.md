@@ -4,6 +4,7 @@
 英文名: "Troll in the Bathroom"
 slug: "troll-in-the-bathroom"
 物种: "Mountain troll"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "troll-in-the-bathroom"
 | 物种 | Mountain troll |
 | 出生 | Before 31 October 1991 |
 | 身高 | Twelve feet |
+| 肤色 | Grey |
 
 ## 关联
 

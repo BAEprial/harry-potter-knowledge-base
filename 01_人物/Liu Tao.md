@@ -6,6 +6,7 @@ slug: "liu-tao"
 物种: "人类"
 国籍: "Chinese"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "liu-tao"
 | 国籍 | Chinese |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Chinese Minister for Magic |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

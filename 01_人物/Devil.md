@@ -5,6 +5,7 @@
 slug: "devil"
 物种: "Deity"
 性别: "男"
+肤色: "Red (as most commonly depicted)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "devil"
 | 出生 | Amortal (presumably,，if real) |
 | 逝世 | Amortal (presumably,，if real) |
 | 别名与绰号 | Lucifer |
+| 肤色 | Red (as most commonly depicted) |
 
 ## 关联
 

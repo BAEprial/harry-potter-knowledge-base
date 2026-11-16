@@ -6,6 +6,7 @@ slug: "agilbert-fontaine"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Headmaster； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "agilbert-fontaine"
 | 国籍 | American |
 | 职业 | Headmaster of Ilvermorny School of Witchcraft and Wizardry (c. 2016) |
 | 家庭成员 | Theodard Fontaine (ancestor)； Fontaine family |
+| 头衔 | Headmaster； Professor |
 
 ## 关联
 

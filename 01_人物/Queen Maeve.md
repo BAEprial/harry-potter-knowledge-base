@@ -6,6 +6,8 @@ slug: "maeve"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "White"
+头衔: "Queen"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "maeve"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Red |
 | 职业 | Instructor of Magic |
+| 肤色 | White |
+| 头衔 | Queen |
 
 ## 关联
 

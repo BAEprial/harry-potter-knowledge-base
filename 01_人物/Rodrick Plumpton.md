@@ -6,6 +6,8 @@ slug: "roderick-plumpton"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "roderick-plumpton"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Seeker for the Tutshill Tornados (formerly)； Seeker for the English National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Seeker |
 
 ## 关联
 

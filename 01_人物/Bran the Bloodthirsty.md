@@ -5,6 +5,7 @@
 slug: "bran-the-bloodthirsty"
 物种: "Giant"
 性别: "男"
+肤色: "Pink"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "bran-the-bloodthirsty"
 | 出生 | Medieval times |
 | 逝世 | Medieval times |
 | 眼睛颜色 | Brown |
+| 肤色 | Pink |
 
 ## 关联
 

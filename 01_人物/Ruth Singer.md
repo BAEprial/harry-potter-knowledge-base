@@ -6,6 +6,8 @@ slug: "ruth-singer"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+头衔: "Officer"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "ruth-singer"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Employee of the Department of Magical Law Enforcement (1890s) |
+| 肤色 | Light |
+| 头衔 | Officer |
 
 ## 关联
 

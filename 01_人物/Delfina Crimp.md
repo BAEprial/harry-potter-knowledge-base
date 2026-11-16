@@ -6,6 +6,8 @@ slug: "delfina-crimp"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "delfina-crimp"
 | 头发颜色 | Reddish-brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Dressmaker |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

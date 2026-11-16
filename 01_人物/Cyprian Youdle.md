@@ -6,6 +6,7 @@ slug: "cyprian-youdle"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "cyprian-youdle"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
 | 职业 | Quidditch referee |
+| 肤色 | White |
 
 ## 关联
 

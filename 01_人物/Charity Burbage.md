@@ -8,6 +8,8 @@ slug: "charity-burbage"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+头衔: "Professor"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "charity-burbage"
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Muggle Studies at Hogwarts (c. 1993–1997) |
+| 头衔 | Professor |
+| 婚姻状况 | Single |
 
 ## 关联
 

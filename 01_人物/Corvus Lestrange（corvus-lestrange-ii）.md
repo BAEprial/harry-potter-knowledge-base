@@ -6,6 +6,8 @@ slug: "corvus-lestrange-ii"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+恋情: "Minette Lestrange (wife)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "corvus-lestrange-ii"
 | 性别 | 男 |
 | 出生 | Between 28 May 1746 and June 1769 |
 | 家庭成员 | [[Corvus Lestrange]] (father) †； Heloise Lestrange (née Beaufort) (mother)； Falco Lestrange (brother)； Minette Lestrange (née Rosier) (wife)； Manon Perrot (née Lestrange) (daughter)； Josette Gage (née Lestrange) (daughter)； Corvus Lestrange (son)； Salomé Lestrange (née Volant) (sister-in-law)； Leonie Tremblay (née Lestrange) (niece)； [[Eglantine Lestrange]] (niece/daughter-in-law)； Sebastien Perrot (son-in-law)； Reynard Gage (son-in-law)； Corvus Lestrange (grandson) †； Odile Perrot (granddaughter)； Laurelle Perrot (granddaughter)； Huguette Perrot (granddaughter)； Mathis Gage (grandson)； Louis Gage (grandson)； Lestrange family； Beaufort family (maternal family)； Rosier family (in-laws) |
+| 恋情 | Minette Lestrange (wife) |
+| 肤色 | Light |
 
 ## 关联
 

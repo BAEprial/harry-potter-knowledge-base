@@ -7,6 +7,9 @@ slug: "eileen-prince"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
+头衔: "Captain of the Hogwarts Gobstones Team； President of the Hogwarts Gobstone Club"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +27,9 @@ slug: "eileen-prince"
 | 出生 | c. 1930 |
 | 国籍 | British or Irish |
 | 家庭成员 | Tobias Snape (husband)； Severus Snape (son) †； Prince family； Snape family |
+| 肤色 | Pale |
+| 头衔 | Captain of the Hogwarts Gobstones Team； President of the Hogwarts Gobstone Club |
+| 婚姻状况 | Married |
 
 ## 关联
 

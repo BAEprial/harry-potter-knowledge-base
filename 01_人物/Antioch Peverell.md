@@ -6,6 +6,8 @@ slug: "antioch-peverell"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "antioch-peverell"
 | 魔杖 | Unknown length,，wood,，and core (formerly)； 15',，Elder,，Thestral tail hair core |
 | 别名与绰号 | First Brother |
 | 家庭成员 | [[Cadmus]] Peverell (younger brother) †； Ignotus Peverell (younger brother) †； Nephew †； At least one other niece and/or nephew †； Peverell family |
+| 肤色 | Light |
+| 婚姻状况 | Single |
 
 ## 关联
 

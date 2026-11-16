@@ -5,6 +5,7 @@
 slug: "naasz"
 物种: "人类"
 性别: "女"
+头衔: "Headmistress； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "naasz"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Magizoologist |
+| 头衔 | Headmistress； Professor |
 
 ## 关联
 

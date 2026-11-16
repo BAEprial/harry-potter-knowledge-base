@@ -5,6 +5,7 @@
 slug: "hogwarts-house-elves"
 物种: "House-elves"
 性别: "Males,，females"
+肤色: "Varies"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "hogwarts-house-elves"
 | 性别 | Males,，females |
 | 身高 | Varies |
 | 职业 | Hogwarts kitchens staff and cleaners |
+| 肤色 | Varies |
 
 ## 关联
 

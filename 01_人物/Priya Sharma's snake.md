@@ -4,6 +4,7 @@
 英文名: "Priya Sharma's snake"
 slug: "priya-sharma-s-snake"
 物种: "蛇"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "priya-sharma-s-snake"
 | 物种 | 蛇 |
 | 出生 | In or before 2011 |
 | 眼睛颜色 | Green |
+| 肤色 | Green |
 
 ## 关联
 

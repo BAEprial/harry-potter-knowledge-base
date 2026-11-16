@@ -7,6 +7,7 @@ slug: "j-cornell"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Lieutenant Colonel"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "j-cornell"
 | 国籍 | American |
 | 眼睛颜色 | Grey |
 | 职业 | Soldier |
+| 头衔 | Lieutenant Colonel |
 
 ## 关联
 

@@ -8,6 +8,10 @@ slug: "chadwick-boot"
 物种: "人类"
 国籍: "Irish-American"
 性别: "男"
+恋情: "Josefina Calderon (wife)"
+肤色: "Light"
+头衔: "Founder"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +34,10 @@ slug: "chadwick-boot"
 | 魔杖 | Unknown length,，Prickly ash,，Horned Serpent horn |
 | 职业 | Founder of Ilvermorny School of Witchcraft and Wizardry； Author |
 | 家庭成员 | Father †； Mother †； Isolt Steward (née Sayre) (adoptive mother) †； James Steward (adoptive father) †； Webster Boot (younger brother)； Martha Steward (II) (adoptive sister)； Rionach Steward (adoptive sister)； Josefina Calderon (wife)； At least one child； Sister-in-law； Adoptive brother-in-law； At least one niece or nephew； Boot family； Steward family (adoptive family)； Calderon family (in-laws)； Calderon-Boot family (descendants) |
+| 恋情 | Josefina Calderon (wife) |
+| 肤色 | Light |
+| 头衔 | Founder |
+| 婚姻状况 | Married |
 
 ## 关联
 

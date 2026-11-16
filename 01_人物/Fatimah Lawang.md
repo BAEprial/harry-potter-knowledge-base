@@ -5,6 +5,8 @@
 slug: "fatimah-lawang"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "fatimah-lawang"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Potioneer； Manager of a potions shop |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

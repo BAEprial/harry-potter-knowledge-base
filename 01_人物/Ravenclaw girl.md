@@ -8,6 +8,7 @@ slug: "unidentified-ravenclaw-black-girl-during-the-battle-of-hogwarts"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "unidentified-ravenclaw-black-girl-during-the-battle-of-hogwarts"
 | 国籍 | British or Irish |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

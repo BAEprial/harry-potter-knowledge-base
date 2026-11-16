@@ -6,6 +6,8 @@ slug: "kursten-blijk"
 物种: "人类"
 国籍: "德国人"
 性别: "女"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "kursten-blijk"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Light Blonde |
 | 职业 | Chaser for the German National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "arthur-plummly-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "arthur-plummly-s-mother"
 | 出生 | Pre 1875 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband； Arthur Plummly (son) |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

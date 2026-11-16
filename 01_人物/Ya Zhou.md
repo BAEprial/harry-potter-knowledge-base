@@ -6,6 +6,7 @@ slug: "ya-zhou"
 物种: "人类"
 国籍: "Chinese (possibly)"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "ya-zhou"
 | 国籍 | Chinese (possibly) |
 | 职业 | Delegate of the International Confederation of Wizards |
 | 家庭成员 | [[Gwendolyn]] Zhou (possibly)； Zhou family (possibly) |
+| 头衔 | Madam |
 
 ## 关联
 

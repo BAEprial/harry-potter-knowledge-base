@@ -8,6 +8,8 @@ slug: "noreen-blainey"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Nurse"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "noreen-blainey"
 | 头发颜色 | Brown |
 | 职业 | Healer； Matron at Hogwarts School |
 | 别名与绰号 | Nurse Blainey |
+| 肤色 | Light |
+| 头衔 | Nurse |
 
 ## 关联
 

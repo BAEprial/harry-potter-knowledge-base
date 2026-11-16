@@ -5,6 +5,7 @@
 slug: "emeric-switch"
 物种: "人类"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "emeric-switch"
 | 性别 | 男 |
 | 逝世 | Before 1991 |
 | 职业 | Author |
+| 头衔 | Professor |
 
 ## 关联
 

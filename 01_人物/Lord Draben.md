@@ -6,6 +6,8 @@ slug: "lord-draben"
 物种: "Human (formerly),，幽灵"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
+头衔: "Lord"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "lord-draben"
 | 国籍 | 英国人 |
 | 头发颜色 | Blond |
 | 别名与绰号 | Ghost of the Cavalier |
+| 肤色 | Pale |
+| 头衔 | Lord |
 
 ## 关联
 

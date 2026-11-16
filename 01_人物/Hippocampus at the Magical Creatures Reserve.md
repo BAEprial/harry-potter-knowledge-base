@@ -4,6 +4,7 @@
 英文名: "Hippocampus at the Magical Creatures Reserve"
 slug: "hippocampus-at-the-magical-creatures-reserve"
 物种: "Hippocampus"
+肤色: "Grey and brown"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "hippocampus-at-the-magical-creatures-reserve"
 | 物种 | Hippocampus |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Pink |
+| 肤色 | Grey and brown |
 
 ## 关联
 

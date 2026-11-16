@@ -6,6 +6,7 @@ slug: "david-yates-in-universe"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Mayor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "david-yates-in-universe"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Mayor of London |
+| 头衔 | Mayor |
 
 ## 关联
 

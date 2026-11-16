@@ -4,6 +4,7 @@
 英文名: "Billywig at the Magical Creatures Reserve"
 slug: "billywig-at-the-magical-creatures-reserve"
 物种: "Billywig"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "billywig-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Billywig |
 | 眼睛颜色 | Blue |
+| 肤色 | Blue |
 
 ## 关联
 

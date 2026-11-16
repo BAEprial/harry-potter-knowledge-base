@@ -6,6 +6,7 @@ slug: "petrova-porskoff"
 物种: "人类"
 国籍: "Russian"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "petrova-porskoff"
 | 性别 | 女 |
 | 国籍 | Russian |
 | 职业 | Chaser |
+| 头衔 | Chaser |
 
 ## 关联
 

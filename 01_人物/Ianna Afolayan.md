@@ -7,6 +7,7 @@ slug: "ianna-afolayan"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "ianna-afolayan"
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
 | 职业 | Senior Human Resources Specialist |
+| 肤色 | Brown |
 
 ## 关联
 

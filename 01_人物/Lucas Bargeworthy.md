@@ -5,6 +5,7 @@
 slug: "lucas-bargeworthy"
 物种: "人类"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "lucas-bargeworthy"
 | 性别 | 男 |
 | 出生 | Before 1860,，England |
 | 职业 | Beater for the English National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "priscilla-dupont"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "priscilla-dupont"
 | 出生 | Before 1838 |
 | 国籍 | 英国人 |
 | 职业 | British Minister for Magic (1855–17 February 1858) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

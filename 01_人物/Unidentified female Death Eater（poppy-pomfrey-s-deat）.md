@@ -7,6 +7,7 @@ slug: "poppy-pomfrey-s-death-eater-opponent"
 物种: "人类"
 性别: "女"
 守护神: "无"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "poppy-pomfrey-s-death-eater-opponent"
 | 守护神 | 无 |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
+| 肤色 | White |
 
 ## 关联
 

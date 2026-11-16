@@ -7,6 +7,8 @@ slug: "phoebe-black"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+肤色: "White"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "phoebe-black"
 | 出生 | 1810 |
 | 逝世 | 1882 (aged 71 - 72) |
 | 家庭成员 | House of Black |
+| 肤色 | White |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

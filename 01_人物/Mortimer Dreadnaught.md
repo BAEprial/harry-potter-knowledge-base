@@ -6,6 +6,7 @@ slug: "mortimer-dreadnaught"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light, Green (temporarily)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "mortimer-dreadnaught"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Reddish-brown |
 | 别名与绰号 | Reginald Billings (by Peeves) |
+| 肤色 | Light, Green (temporarily) |
 
 ## 关联
 

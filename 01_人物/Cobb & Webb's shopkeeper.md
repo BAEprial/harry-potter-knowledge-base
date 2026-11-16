@@ -6,6 +6,7 @@ slug: "cobb-webb-s-shopkeeper"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "cobb-webb-s-shopkeeper"
 | 眼睛颜色 | Green |
 | 头发颜色 | Grey |
 | 职业 | Shopkeeper at Cobb & Webb's |
+| 肤色 | Light |
 
 ## 关联
 

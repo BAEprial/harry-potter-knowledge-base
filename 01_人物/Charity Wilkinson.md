@@ -6,6 +6,7 @@ slug: "charity-wilkinson"
 物种: "人类"
 国籍: "American"
 性别: "女"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "charity-wilkinson"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror (formerly)； President of the Magical Congress of the United States of America |
 | 家庭成员 | Saranna Wilkinson (possibly)； Wilkinson family |
+| 头衔 | President |
 
 ## 关联
 

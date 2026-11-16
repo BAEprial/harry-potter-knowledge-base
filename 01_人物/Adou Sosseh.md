@@ -5,6 +5,7 @@
 slug: "adou-sosseh"
 物种: "人类"
 国籍: "Senegalese"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "adou-sosseh"
 | 物种 | 人类 |
 | 国籍 | Senegalese |
 | 职业 | Captain for the Senegalese National Quidditch team |
+| 头衔 | Captain |
 
 ## 关联
 

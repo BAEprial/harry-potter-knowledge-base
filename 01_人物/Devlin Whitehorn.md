@@ -6,6 +6,7 @@ slug: "devlin-whitehorn"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "devlin-whitehorn"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown |
 | 职业 | Broom-maker； Founder of Nimbus Racing Broom Company |
+| 肤色 | White |
 
 ## 关联
 

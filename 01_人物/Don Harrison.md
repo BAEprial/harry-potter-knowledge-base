@@ -7,6 +7,7 @@ slug: "don-harrison"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "don-harrison"
 | 头发颜色 | Brown |
 | 职业 | Construction foreman |
 | 家庭成员 | Bethany Harrison (daugther) |
+| 肤色 | White |
 
 ## 关联
 

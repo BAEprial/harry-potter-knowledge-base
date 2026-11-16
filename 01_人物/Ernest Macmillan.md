@@ -9,6 +9,8 @@ slug: "ernest-macmillan"
 国籍: "British or Irish"
 性别: "男"
 守护神: "野猪"
+肤色: "White"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +34,8 @@ slug: "ernest-macmillan"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Ernie (by friends) |
 | 家庭成员 | Melania Black (née Macmillan) (possible relative)； Pippa Macmillan (possible relative)； Macmillan family |
+| 肤色 | White |
+| 头衔 | Prefect |
 
 ## 关联
 

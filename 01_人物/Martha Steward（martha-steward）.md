@@ -7,6 +7,7 @@ slug: "martha-steward"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "martha-steward"
 | 逝世 | Before 1632 |
 | 国籍 | 英国人 |
 | 家庭成员 | [[James]] Steward (son) †； Isolt Sayre (daughter-in-law) †； [[Chadwick Boot]] (adoptive grandson)； Webster Boot (adoptive grandson)； [[Martha]] Steward (II) (granddaughter)； Rionach Steward (granddaughter)； Steward family |
+| 婚姻状况 | Married |
 
 ## 关联
 

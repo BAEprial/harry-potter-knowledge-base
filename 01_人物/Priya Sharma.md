@@ -7,6 +7,7 @@ slug: "priya-sharma"
 血统: "麻瓜出身"
 物种: "人类"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "priya-sharma"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Hrithvi Sharma]] (older sister)； Brother； Sharma family |
+| 肤色 | Brown |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "lemus-pinutius"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "lemus-pinutius"
 | 出生 | Before 1926 |
 | 职业 | People smuggler |
 | 别名与绰号 | The Vampire |
+| 肤色 | Light |
 
 ## 关联
 

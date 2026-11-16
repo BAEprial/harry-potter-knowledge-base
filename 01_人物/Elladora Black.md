@@ -7,6 +7,8 @@ slug: "elladora-black"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+肤色: "White"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "elladora-black"
 | 逝世 | 1931 (aged 80 - 81) |
 | 别名与绰号 | Aunt Elladora |
 | 家庭成员 | Sirius Black (I) (older brother) †； Phineas Nigellus Black (older brother) †； Iola Hitchens (née Black) (younger sister)； Ursula Black (née Flint) (sister-in-law)； [[Bob]] Hitchens (brother-in-law)； Sirius Black (II) (nephew) †； Phineas Black (nephew) †； Arcturus Black (II) (nephew) †； Belvina Black (niece) †； [[Cygnus Black]] (II) (nephew) †； House of Black |
+| 肤色 | White |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

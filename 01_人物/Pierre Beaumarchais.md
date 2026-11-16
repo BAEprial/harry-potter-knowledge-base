@@ -7,6 +7,7 @@ slug: "pierre-beaumarchais"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "pierre-beaumarchais"
 | 逝世 | 18 May 1799 |
 | 国籍 | 法国人 |
 | 职业 | Playwright |
+| 婚姻状况 | Married |
 
 ## 关联
 

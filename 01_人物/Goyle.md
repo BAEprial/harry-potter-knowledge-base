@@ -8,6 +8,7 @@ slug: "goyle"
 物种: "人类"
 性别: "男"
 守护神: "无"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "goyle"
 | 出生 | Before 1962 or 1963 |
 | 守护神 | 无 |
 | 家庭成员 | Wife； Gregory Goyle (son)； Goyle family |
+| 婚姻状况 | Married |
 
 ## 关联
 

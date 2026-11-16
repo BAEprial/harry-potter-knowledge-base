@@ -8,6 +8,9 @@ slug: "leah-lee"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+头衔: "Outskirts Greenhouse Caretaker； Professor"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +34,9 @@ slug: "leah-lee"
 | 职业 | Field Herbologist； Substitute Herbology Professor at Hogwarts School of Witchcraft and Wizardry |
 | 别名与绰号 | Aunt Leah (by Barnaby Lee)； Miss Lee (by Jacob's sibling)； Professor Lee (by Hogwarts students) |
 | 家庭成员 | Mother； [[Cecil Lee]] (younger brother)； Youngest brother； Sister-in-law； Barnaby Lee (nephew)； Lee family |
+| 肤色 | Light |
+| 头衔 | Outskirts Greenhouse Caretaker； Professor |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

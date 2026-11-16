@@ -5,6 +5,7 @@
 slug: "fastidio"
 物种: "Poltergeist"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "fastidio"
 | 逝世 | Amortal |
 | 眼睛颜色 | Orange |
 | 头发颜色 | Grey |
+| 肤色 | Light |
 
 ## 关联
 

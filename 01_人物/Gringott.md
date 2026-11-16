@@ -5,6 +5,7 @@
 slug: "gringott"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "gringott"
 | 出生 | 15th century or earlier |
 | 眼睛颜色 | Brown |
 | 职业 | Founder of Gringotts Wizarding Bank |
+| 肤色 | Light |
 
 ## 关联
 

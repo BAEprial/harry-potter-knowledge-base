@@ -6,6 +6,8 @@ slug: "denison-frisby"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "denison-frisby"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Keeper for the English National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

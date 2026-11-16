@@ -6,6 +6,9 @@ slug: "gunhilda-kneen"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Goodwin Kneen (husband)"
+头衔: "Catcher"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +26,9 @@ slug: "gunhilda-kneen"
 | 国籍 | 英国人 |
 | 职业 | Catcher |
 | 家庭成员 | [[Goodwin Kneen]] (husband)； Olaf (cousin-in-law)； Kneen family |
+| 恋情 | Goodwin Kneen (husband) |
+| 头衔 | Catcher |
+| 婚姻状况 | Married |
 
 ## 关联
 

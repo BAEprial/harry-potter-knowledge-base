@@ -6,6 +6,7 @@ slug: "rutherford-poke"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Healer"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "rutherford-poke"
 | 国籍 | 英国人 |
 | 职业 | Healer and spokeperson for St Mungo's Hospital for Magical Maladies and Injuries |
 | 家庭成员 | [[Roy]]den Poke (possibly) |
+| 头衔 | Healer |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "hestia-jones"
 国籍: "英国人"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "hestia-jones"
 | 守护神 | Non-corporeal |
 | 国籍 | 英国人 |
 | 头发颜色 | Black |
+| 肤色 | Pale |
 
 ## 关联
 

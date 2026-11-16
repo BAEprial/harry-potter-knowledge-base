@@ -5,6 +5,7 @@
 slug: "unidentified-merman-at-the-great-lake"
 物种: "Selkie"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-merman-at-the-great-lake"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Green |
 | 身高 | Around 7 feet |
+| 肤色 | Grey |
 
 ## 关联
 

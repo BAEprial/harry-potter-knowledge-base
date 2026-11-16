@@ -5,6 +5,9 @@
 slug: "norville-bezerko"
 物种: "人类"
 性别: "男"
+恋情: "Daisy Twemlove (formerly)"
+肤色: "Pale"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +23,9 @@ slug: "norville-bezerko"
 | 性别 | 男 |
 | 头发颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
+| 恋情 | Daisy Twemlove (formerly) |
+| 肤色 | Pale |
+| 婚姻状况 | Single |
 
 ## 关联
 

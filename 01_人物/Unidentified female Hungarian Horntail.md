@@ -5,6 +5,7 @@
 slug: "unidentified-female-hungarian-horntail"
 物种: "Hungarian Horntail"
 性别: "女"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-female-hungarian-horntail"
 | 性别 | 女 |
 | 出生 | Pre-1994 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Black |
 
 ## 关联
 

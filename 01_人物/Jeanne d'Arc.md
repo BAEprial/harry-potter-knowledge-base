@@ -6,6 +6,7 @@ slug: "jeanne-d-arc"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Maid of Orleans； Jeanne la Pucelle (Joan the Maiden)； La Pucelle (The maiden)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "jeanne-d-arc"
 | 出生 | 1412 Domrémy,，France |
 | 逝世 | 30 May 1431 Rouen,，France |
 | 国籍 | 法国人 |
+| 头衔 | Maid of Orleans； Jeanne la Pucelle (Joan the Maiden)； La Pucelle (The maiden) |
 
 ## 关联
 

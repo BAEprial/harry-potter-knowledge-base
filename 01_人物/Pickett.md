@@ -5,6 +5,7 @@
 slug: "pickett"
 物种: "Bowtruckle"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "pickett"
 | 眼睛颜色 | Black |
 | 别名与绰号 | Pick |
 | 家庭成员 | Titus； [[Finn]]； Poppy； [[Marlow]]； Tom |
+| 肤色 | Green |
 
 ## 关联
 

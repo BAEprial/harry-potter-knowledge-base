@@ -5,6 +5,7 @@
 slug: "unidentified-mackled-malaclaw"
 物种: "Mackled Malaclaw"
 性别: "Male (possibly)"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-mackled-malaclaw"
 | 出生 | In or before the late 1980s |
 | 眼睛颜色 | Black |
 | 别名与绰号 | Mr Mackled Malacaw (by Lenny Pindlebrook) |
+| 肤色 | Blue |
 
 ## 关联
 

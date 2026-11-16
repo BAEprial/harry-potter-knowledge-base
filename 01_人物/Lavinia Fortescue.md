@@ -6,6 +6,8 @@ slug: "lavinia-fortescue"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Crush"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "lavinia-fortescue"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 家庭成员 | [[Florean Fortescue]] (distant relative) †； [[Dexter Fortescue]] (ancestor) †； Fortescue family |
+| 恋情 | Crush |
+| 肤色 | White |
 
 ## 关联
 

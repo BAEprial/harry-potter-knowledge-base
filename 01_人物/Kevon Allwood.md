@@ -6,6 +6,8 @@ slug: "kevon-allwood"
 物种: "人类"
 国籍: "Jamaican"
 性别: "男"
+肤色: "Bronze"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "kevon-allwood"
 | 国籍 | Jamaican |
 | 眼睛颜色 | Black |
 | 职业 | Chaser for the Jamaican National Quidditch team |
+| 肤色 | Bronze |
+| 头衔 | Chaser |
 
 ## 关联
 

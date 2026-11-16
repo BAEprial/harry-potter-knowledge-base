@@ -7,6 +7,8 @@ slug: "william-shakespeare"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "william-shakespeare"
 | 头发颜色 | Brown |
 | 职业 | Poet,，playwright,，astrologer |
 | 家庭成员 | Anne Hathaway (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

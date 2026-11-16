@@ -6,6 +6,7 @@ slug: "wigby"
 物种: "家养小精灵"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "wigby"
 | 职业 | Hogwarts kitchens worker |
 | 别名与绰号 | Dessert Master |
 | 家庭成员 | Wooby (great-great-great grandfather)； Wugby (paternal great-great-grandfather)； Paternal grandfather； Father |
+| 肤色 | Light |
 
 ## 关联
 

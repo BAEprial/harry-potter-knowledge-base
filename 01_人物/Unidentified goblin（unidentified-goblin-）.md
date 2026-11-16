@@ -5,6 +5,7 @@
 slug: "unidentified-goblin-stockbroker"
 物种: "妖精"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-goblin-stockbroker"
 | 眼睛颜色 | Black |
 | 头发颜色 | Brown |
 | 职业 | Stockbroker (presumably) |
+| 肤色 | White |
 
 ## 关联
 

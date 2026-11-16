@@ -6,6 +6,8 @@ slug: "yvonne-peart"
 物种: "人类"
 国籍: "Jamaican"
 性别: "女"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "yvonne-peart"
 | 国籍 | Jamaican |
 | 头发颜色 | Black |
 | 职业 | Chaser for the Jamaican National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

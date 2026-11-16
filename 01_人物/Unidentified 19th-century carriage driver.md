@@ -5,6 +5,7 @@
 slug: "unidentified-19th-century-carriage-driver"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-19th-century-carriage-driver"
 | 眼睛颜色 | Brown |
 | 头发颜色 | 黑暗 |
 | 职业 | Carriage driver |
+| 肤色 | Light |
 
 ## 关联
 

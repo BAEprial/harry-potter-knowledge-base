@@ -6,6 +6,8 @@ slug: "lindiwe-ndlovu"
 物种: "人类"
 国籍: "South African"
 性别: "女"
+肤色: "Dark"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "lindiwe-ndlovu"
 | 国籍 | South African |
 | 头发颜色 | 黑暗 |
 | 职业 | Seeker for the South African National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Seeker |
 
 ## 关联
 

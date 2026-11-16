@@ -7,6 +7,9 @@ slug: "edward-tonks"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Andromeda Tonks (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "edward-tonks"
 | 头发颜色 | Blond |
 | 别名与绰号 | Ted (by family and friends) |
 | 家庭成员 | Father †； Andromeda Tonks (née Black) (wife)； Nymphadora Lupin (née Tonks) (daughter) †； Remus Lupin (son-in-law) †； [[Edward]] Lupin (grandson)； Cygnus Black (III) (father-in-law) †； [[Druella Black (née Rosier)]] (mother-in-law)； [[Bell]]atrix Lestrange (née Black) (sister-in-law) †； Narcissa Malfoy (née Black) (sister-in-law)； Rodolphus Lestrange (brother-in-law by marriage)； Lucius Malfoy (brother-in-law by marriage)； [[Delphini]] (niece by marriage)； Draco Malfoy (nephew by marriage)； Tonks family； House of Black (in-laws) |
+| 恋情 | Andromeda Tonks (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

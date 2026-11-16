@@ -6,6 +6,8 @@ slug: "pink-faced-hogwarts-headmaster"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor； Headmaster； Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "pink-faced-hogwarts-headmaster"
 | 头发颜色 | Blond |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head of Gryffindor House at Hogwarts School of Witchcraft and Wizardry (formerly)； Headmaster of Hogwarts School of Witchcraft and Wizardry (formerly) |
+| 肤色 | Light |
+| 头衔 | Professor； Headmaster； Head of Gryffindor House |
 
 ## 关联
 

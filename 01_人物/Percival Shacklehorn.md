@@ -6,6 +6,7 @@ slug: "percival-shacklehorn"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "percival-shacklehorn"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
 | 职业 | Adventurer； Poacher |
+| 肤色 | White |
 
 ## 关联
 

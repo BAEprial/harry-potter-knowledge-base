@@ -7,6 +7,7 @@ slug: "james-hufflepuff-quidditch-player"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "james-hufflepuff-quidditch-player"
 | 出生 | On or before 31 August 1982 |
 | 国籍 | British or Irish |
 | 头发颜色 | 发光 |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "count-dracula"
 物种: "吸血鬼"
 性别: "男"
+头衔: "Count"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "count-dracula"
 |---|---|
 | 物种 | 吸血鬼 |
 | 性别 | 男 |
+| 头衔 | Count |
 
 ## 关联
 

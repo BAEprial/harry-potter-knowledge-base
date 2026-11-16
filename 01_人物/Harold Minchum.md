@@ -6,6 +6,7 @@ slug: "harold-minchum"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "harold-minchum"
 | 出生 | Before 1958 |
 | 国籍 | 英国人 |
 | 职业 | British Minister for Magic (1975–1980) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

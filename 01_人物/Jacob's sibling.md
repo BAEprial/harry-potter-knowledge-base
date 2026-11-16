@@ -7,6 +7,8 @@ slug: "jacob-s-sibling"
 物种: "人类"
 国籍: "British or Irish"
 守护神: "Either a White Stallion,，unicorn,，Abraxan,，tiger,，cheetah,，leopard,，Spotted Hare,，Mountain Hare,，or Lop-Eared Rabbit"
+恋情: "Merula Snyde； Andre Egwu； Badeea Ali； Barnaby Lee； Chiara Lobosca； Jae Kim； Penny Haywood； Talbott Winger； Callum McClintock"
+头衔: "Chaser； Student guide； Beater； Lead volunteer； Keeper； Acting Captain (formerly)； Prefect (possibly)； Seeker； Captain； Sir； Festival Ambassador； All-Wizard Victor； Head Boy or Girl； Keeper of The Hogwarts Diary； British Ministry of Magic visitor no. 60039； Toast Giver's guest"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "jacob-s-sibling"
 | 职业 | Agent of the Rare,，Obscure,，and Confounding Case Division |
 | 别名与绰号 | Cursed kid (by unidentified sixth-year Gryffindor)； The Hero of Hogwarts (by Penny Haywood and The Quibbler)； The Clobberer of Curses (by Bill Weasley)； The Pulverizer of Polar Platemail (by Bill Weasley)； Curse-Breaker (by many including Andre Egwu,，Skye Parkin and Patricia Rakepick)； New Fan (formerly by Face Paint Kid)； Breaker of Records (by Orion Amari)； Helpful elf (by Bilton Bilmes)； Coach (by Murphy McNully)； Severus Snape/Felix Rosier (under disguise of Polyjuice Potion)； Pip (by Jacob)； Assistant Thunderbird Investigator； Hero of Slytherin (by the Bloody Baron) |
 | 家庭成员 | Peregrine (father)； Mother； [[Jacob]] (older brother)； [[Lynn]] (maternal relative)； Relatives； Their family |
+| 恋情 | Merula Snyde； Andre Egwu； Badeea Ali； Barnaby Lee； Chiara Lobosca； Jae Kim； Penny Haywood； Talbott Winger； Callum McClintock |
+| 头衔 | Chaser； Student guide； Beater； Lead volunteer； Keeper； Acting Captain (formerly)； Prefect (possibly)； Seeker； Captain； Sir； Festival Ambassador； All-Wizard Victor； Head Boy or Girl； Keeper of The Hogwarts Diary； British Ministry of Magic visitor no. 60039； Toast Giver's guest |
 
 ## 关联
 

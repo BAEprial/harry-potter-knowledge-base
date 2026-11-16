@@ -8,6 +8,10 @@ slug: "zola-farrell"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Milo Farrell (husband)"
+肤色: "White"
+头衔: "Chaser"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +34,10 @@ slug: "zola-farrell"
 | 魔杖 | 12¼',，Cedar,，unicorn hair |
 | 职业 | Chaser for the Holyhead Harpies |
 | 家庭成员 | Brother or brother-in-law； [[Milo]] Farrell (husband)； [[Kevin]] Farrell (son)； Farrell family |
+| 恋情 | Milo Farrell (husband) |
+| 肤色 | White |
+| 头衔 | Chaser |
+| 婚姻状况 | Married |
 
 ## 关联
 

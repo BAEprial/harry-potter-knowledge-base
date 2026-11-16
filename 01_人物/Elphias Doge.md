@@ -8,6 +8,8 @@ slug: "elphias-doge"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+肤色: "Fair"
+体重: "176 lbs"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "elphias-doge"
 | 身高 | 5'9.5' |
 | 职业 | Special Advisor to the Wizengamot |
 | 别名与绰号 | Darling Dodgy (by Rita Skeeter)； Dodgy Doge (by Rita Skeeter)； Dogbreath Doge) (by Rita Skeeter |
+| 肤色 | Fair |
+| 体重 | 176 lbs |
 
 ## 关联
 

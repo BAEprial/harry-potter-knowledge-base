@@ -7,6 +7,7 @@ slug: "morfin-gaunt"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "morfin-gaunt"
 | 眼睛颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Marvolo Gaunt]] (father) †； [[Merope Riddle (née Gaunt)]] (sister) †； Tom Riddle Senior (brother-in-law) †； Lord Voldemort (nephew) †； Salazar Slytherin (paternal ancestor) †； [[Cadmus]] Peverell (paternal ancestor) †； House of Gaunt |
+| 婚姻状况 | Single |
 
 ## 关联
 

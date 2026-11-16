@@ -7,6 +7,7 @@ slug: "selina-sapworthy"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "selina-sapworthy"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
 | 职业 | Servant to the International Quidditch Team； Author |
+| 肤色 | Pale |
 
 ## 关联
 

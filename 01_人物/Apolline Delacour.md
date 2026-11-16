@@ -7,6 +7,9 @@ slug: "apolline-delacour"
 物种: "Half-human/half-Veela"
 国籍: "法国人"
 性别: "女"
+恋情: "Husband"
+头衔: "Madame"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "apolline-delacour"
 | 国籍 | 法国人 |
 | 头发颜色 | Blonde |
 | 家庭成员 | Mother； Husband； Fleur Delacour (daughter)； Gabrielle Delacour (daughter)； William Weasley (son-in-law)； Victoire Weasley (granddaughter)； Dominique Weasley (granddaughter)； Louis Weasley (grandson)； Two possible nieces； Delacour family (in-laws/descendants) |
+| 恋情 | Husband |
+| 头衔 | Madame |
+| 婚姻状况 | Married |
 
 ## 关联
 

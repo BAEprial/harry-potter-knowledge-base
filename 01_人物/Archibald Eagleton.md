@@ -6,6 +6,8 @@ slug: "archibald-eagleton"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "archibald-eagleton"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Magizoologist； Entrepreneur； British Ministry of Magic official； Counsellor of Field Studies at Hogwarts School of Witchcraft and Wizardry |
 | 别名与绰号 | Archie |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

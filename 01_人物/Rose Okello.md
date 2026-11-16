@@ -6,6 +6,8 @@ slug: "rose-okello"
 物种: "人类"
 国籍: "Ugandan"
 性别: "女"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "rose-okello"
 | 国籍 | Ugandan |
 | 眼睛颜色 | Light Brown |
 | 头发颜色 | Light Brown |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

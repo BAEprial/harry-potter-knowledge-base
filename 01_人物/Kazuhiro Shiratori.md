@@ -6,6 +6,7 @@ slug: "kazuhiro-shiratori"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "kazuhiro-shiratori"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Assassin |
 | 别名与绰号 | White-robed wizard |
+| 肤色 | Pale |
 
 ## 关联
 

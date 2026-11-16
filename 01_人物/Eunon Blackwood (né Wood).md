@@ -8,6 +8,8 @@ slug: "eunon-blackwood"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Artemisia Blackwood (late wife) †"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "eunon-blackwood"
 | 国籍 | British or Irish |
 | 职业 | Horticulturalist |
 | 家庭成员 | Parents †； Artemisia Blackwood (née Black) (wife) †； Lysandra Blackwood (daughter)； Father-in-law； Mother-in-law； Wood family； House of Black (in-laws)； Blackwood family |
+| 恋情 | Artemisia Blackwood (late wife) † |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "augustus-hill"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "augustus-hill"
 | 头发颜色 | Brown |
 | 职业 | Shopkeeper of Gladrags Wizardwear |
 | 家庭成员 | Rosie Hill (daughter)； Otto Dibble (son-in-law)； Hill family |
+| 肤色 | Light |
 
 ## 关联
 

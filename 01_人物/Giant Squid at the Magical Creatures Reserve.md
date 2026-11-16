@@ -4,6 +4,7 @@
 英文名: "Giant Squid at the Magical Creatures Reserve"
 slug: "giant-squid-at-the-magical-creatures-reserve"
 物种: "Giant Squid"
+肤色: "Red"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "giant-squid-at-the-magical-creatures-reserve"
 | 物种 | Giant Squid |
 | 出生 | Before or during the 1980s |
 | 眼睛颜色 | Yellow |
+| 肤色 | Red |
 
 ## 关联
 

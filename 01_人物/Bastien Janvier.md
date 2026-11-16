@@ -6,6 +6,8 @@ slug: "bastien-janvier"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "bastien-janvier"
 | 性别 | 男 |
 | 国籍 | 法国人 |
 | 职业 | Keeper for the French National Quidditch team |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "sotere-petit"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "sotere-petit"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Fulcran [[Lestrange]] (husband)； Fulcran Lestrange (son)； [[Balbine Lestrange]] (daughter)； [[Pucine Lestrange]] (daughter)； Fulcran Lestrange (father-in-law)； Pucine Lestrange (mother-in-law)； [[Quintilla Lestrange]] (daughter-in-law)； Nozéa Lestrange (granddaughter)； Petit family； Lestrange family (in-laws) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

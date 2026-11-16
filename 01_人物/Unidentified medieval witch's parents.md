@@ -5,6 +5,7 @@
 slug: "unidentified-medieval-witch-s-parents"
 物种: "Humans"
 性别: "Male,，female"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-medieval-witch-s-parents"
 | 性别 | Male,，female |
 | 出生 | Before or during the Middle Ages |
 | 家庭成员 | [[Unidentified medieval witch]] (daughter) |
+| 婚姻状况 | Married |
 
 ## 关联
 

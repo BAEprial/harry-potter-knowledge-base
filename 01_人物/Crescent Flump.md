@@ -6,6 +6,8 @@ slug: "crescent-flump"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Auror"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "crescent-flump"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror (formerly)； Managing supervisor in the Rare,，Obscure,，and Confounding Case Division |
+| 肤色 | Light |
+| 头衔 | Auror |
 
 ## 关联
 

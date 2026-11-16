@@ -5,6 +5,7 @@
 slug: "d-l-boot"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "d-l-boot"
 | 出生 | c. 1967 or earlier |
 | 国籍 | British or Irish |
 | 家庭成员 | Webster Boot (possible ancestor)； Albert Boot (possible relative)； Terry Boot (possible relative)； Boot family |
+| 头衔 | Seeker |
 
 ## 关联
 

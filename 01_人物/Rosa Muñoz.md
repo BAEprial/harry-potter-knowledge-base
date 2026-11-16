@@ -6,6 +6,7 @@ slug: "rosa-munoz"
 物种: "人类"
 国籍: "Mexican"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "rosa-munoz"
 | 出生 | 20th century |
 | 国籍 | Mexican |
 | 职业 | Chaser for the Mexican National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

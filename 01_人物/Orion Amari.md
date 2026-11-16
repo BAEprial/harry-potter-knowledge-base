@@ -6,6 +6,8 @@ slug: "orion-amari"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser； Captain (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "orion-amari"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Life coach |
+| 肤色 | Light |
+| 头衔 | Chaser； Captain (formerly) |
 
 ## 关联
 

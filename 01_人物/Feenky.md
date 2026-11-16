@@ -6,6 +6,7 @@ slug: "feenky"
 物种: "家养小精灵"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "feenky"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Grey |
 | 职业 | Hogwarts kitchens employee |
+| 肤色 | Light |
 
 ## 关联
 

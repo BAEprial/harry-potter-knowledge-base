@@ -6,6 +6,7 @@ slug: "william-cragcroft-resident"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Susan (lover)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "william-cragcroft-resident"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 国籍 | 英国人 |
+| 恋情 | Susan (lover) |
 
 ## 关联
 

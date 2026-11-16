@@ -7,6 +7,7 @@ slug: "frank-bryce"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "frank-bryce"
 | 逝世 | 16 August 1994 (aged 76),，Riddle House,，Little Hangleton,，England,，Great Britain |
 | 国籍 | 英国人 |
 | 职业 | Soldier (formerly)； Riddle House caretaker/gardener |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

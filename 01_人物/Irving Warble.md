@@ -5,6 +5,8 @@
 slug: "irving-warble"
 物种: "人类"
 性别: "男"
+恋情: "Celestina Warbeck (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "irving-warble"
 | 性别 | 男 |
 | 职业 | Composer |
 | 家庭成员 | [[Celestina Warbeck]] (wife)； Stepson； Father-in-law； Mother-in-law； Warble family； Warbeck family (in-laws) |
+| 恋情 | Celestina Warbeck (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

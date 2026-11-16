@@ -7,6 +7,7 @@ slug: "roland-abberley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "roland-abberley"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Light Brown |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

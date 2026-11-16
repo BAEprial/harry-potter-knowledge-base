@@ -5,6 +5,7 @@
 slug: "elsie-prod"
 物种: "人类"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "elsie-prod"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Demetrius Prod (husband)† |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

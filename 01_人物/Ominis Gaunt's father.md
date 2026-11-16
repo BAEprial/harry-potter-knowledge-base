@@ -8,6 +8,8 @@ slug: "ominis-gaunt-s-father"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Wife †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "ominis-gaunt-s-father"
 | 逝世 | Before June 1925 |
 | 国籍 | British or Irish |
 | 家庭成员 | Noctua Gaunt (sister) †； Wife †； Children †； [[Ominis Gaunt]] (son) †； Salazar Slytherin (ancestor) †； [[Cadmus]] Peverell (ancestor) †； House of Gaunt |
+| 恋情 | Wife † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

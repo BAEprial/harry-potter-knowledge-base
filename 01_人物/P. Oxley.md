@@ -6,6 +6,7 @@ slug: "p-oxley"
 血统: "No-Maj"
 物种: "人类"
 性别: "男"
+肤色: "hidef"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "p-oxley"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Clerk |
+| 肤色 | hidef |
 
 ## 关联
 

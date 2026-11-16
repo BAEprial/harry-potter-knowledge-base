@@ -6,6 +6,7 @@ slug: "bridget-wenlock-s-cousin"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "bridget-wenlock-s-cousin"
 | 逝世 | After 1202 |
 | 国籍 | Scottish |
 | 家庭成员 | [[Bridget]] Wenlock (cousin) |
+| 肤色 | Pale |
 
 ## 关联
 

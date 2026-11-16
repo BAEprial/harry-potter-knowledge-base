@@ -5,6 +5,7 @@
 slug: "hebridean-black-at-horntail-hall"
 物种: "Dragon (Hebridean Black)"
 性别: "女"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "hebridean-black-at-horntail-hall"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 眼睛颜色 | Purple |
+| 肤色 | Black |
 
 ## 关联
 

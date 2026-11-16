@@ -8,6 +8,7 @@ slug: "dirk-cresswell"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "dirk-cresswell"
 | 国籍 | British or Irish |
 | 职业 | Head of the Goblin Liaison Office |
 | 家庭成员 | Wife； More than one son； Cresswell family |
+| 婚姻状况 | Married |
 
 ## 关联
 

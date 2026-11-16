@@ -6,6 +6,7 @@ slug: "lottie-turner-s-mother"
 物种: "人类"
 国籍: "South American"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "lottie-turner-s-mother"
 | 性别 | 女 |
 | 国籍 | South American |
 | 家庭成员 | Ambrose Turner † (husband)； [[Lottie Turner]] (daughter)； Marcus Turner (possibly)； [[Darrel Turner]] (possibly)； Turner family |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "darren-o-hare"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "男"
+头衔: "Captain； Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "darren-o-hare"
 | 国籍 | 爱尔兰人 |
 | 头发颜色 | Black |
 | 职业 | Captain and Keeper of the Kenmare Kestrels (formerly)； Captain of the Irish National Quidditch team |
+| 头衔 | Captain； Keeper |
 
 ## 关联
 

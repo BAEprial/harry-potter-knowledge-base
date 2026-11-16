@@ -7,6 +7,9 @@ slug: "olivia-green"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Jacob (boyfriend)"
+肤色: "Tanned"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "olivia-green"
 | 职业 | Unspeakable； Defence Against the Dark Arts professor (1990–1991 school year)； Agent of the Rare,，Obscure,，and Confounding Case Division |
 | 别名与绰号 | Liv (by Jacob) |
 | 家庭成员 | Robert Green (possibly)； [[Beatrice]] Green (possibly)； Green family |
+| 恋情 | Jacob (boyfriend) |
+| 肤色 | Tanned |
+| 头衔 | Professor |
 
 ## 关联
 

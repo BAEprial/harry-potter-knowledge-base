@@ -6,6 +6,8 @@ slug: "alberta-toothill"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+头衔: "Duelling Champion"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "alberta-toothill"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey (formerly ginger) |
 | 职业 | Professional Duellist |
+| 肤色 | White |
+| 头衔 | Duelling Champion |
 
 ## 关联
 

@@ -8,6 +8,8 @@ slug: "chiara-lobosca"
 物种: "Human (werewolf)"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "chiara-lobosca"
 | 职业 | Healer at St Mungo's Hospital for Magical Maladies and Injuries |
 | 别名与绰号 | Grandma Chiara (by Muggle children) |
 | 家庭成员 | Mother； Father； Lobosca family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

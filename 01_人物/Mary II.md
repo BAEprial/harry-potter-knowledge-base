@@ -5,6 +5,7 @@
 slug: "mary-ii"
 物种: "人类"
 性别: "女"
+头衔: "Queen of England"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "mary-ii"
 | 出生 | 30 April 1662 |
 | 逝世 | 28 December 1694 (aged 32) |
 | 家庭成员 | William III (husband) †； William the Conqueror (ancestor) †； [[Henry]] VII (ancestor) †； British royal family |
+| 头衔 | Queen of England |
 
 ## 关联
 

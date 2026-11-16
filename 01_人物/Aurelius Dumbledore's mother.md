@@ -6,6 +6,7 @@ slug: "aurelius-dumbledore-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Aberforth Dumbledore (ex-lover)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "aurelius-dumbledore-s-mother"
 | 出生 | In or before 31 August 1884,，Godric's Hollow,，West Country,，England,，Great Britain (presumably) |
 | 国籍 | 英国人 |
 | 家庭成员 | Sister †； Aurelius Dumbledore (biological son) |
+| 恋情 | Aberforth Dumbledore (ex-lover) |
 
 ## 关联
 

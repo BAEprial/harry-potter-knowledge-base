@@ -6,6 +6,8 @@ slug: "amrose-swott"
 物种: "Human,，Ghost (possibly)"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "amrose-swott"
 | 国籍 | British or Irish |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (formerly) |
 | 别名与绰号 | Ambrose Swott |
+| 肤色 | White |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

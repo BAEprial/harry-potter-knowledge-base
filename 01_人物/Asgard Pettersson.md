@@ -5,6 +5,8 @@
 slug: "asgard-pettersson"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "asgard-pettersson"
 | 性别 | 男 |
 | 头发颜色 | Blond |
 | 职业 | Beater for the Nordic National Quidditch team |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

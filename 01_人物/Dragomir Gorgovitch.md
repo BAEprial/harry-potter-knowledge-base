@@ -5,6 +5,7 @@
 slug: "dragomir-gorgovitch"
 物种: "人类"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "dragomir-gorgovitch"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Chaser for the Chudley Cannons |
+| 头衔 | Chaser |
 
 ## 关联
 

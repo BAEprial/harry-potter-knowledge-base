@@ -6,6 +6,7 @@ slug: "perseus-parkinson"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "perseus-parkinson"
 | 出生 | Pre-1709 |
 | 职业 | British Minister for Magic (1726–1733) |
 | 家庭成员 | Pansy [[Parkin]]son (possible relative)； Parkinson family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

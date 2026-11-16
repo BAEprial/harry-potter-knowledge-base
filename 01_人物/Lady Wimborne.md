@@ -6,6 +6,7 @@ slug: "lady-wimborne"
 血统: "Muggle-born or half-blood (possibly)"
 物种: "人类"
 性别: "女"
+头衔: "Lady； President"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lady-wimborne"
 | 性别 | 女 |
 | 出生 | In or before 1892 |
 | 职业 | President of the Witches' League |
+| 头衔 | Lady； President |
 
 ## 关联
 

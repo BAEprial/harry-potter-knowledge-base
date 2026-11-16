@@ -8,6 +8,9 @@ slug: "andre-egwu"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Bronze"
+头衔: "Reserve Seeker； Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "andre-egwu"
 | 职业 | Employee of Gladrags Wizardwear |
 | 别名与绰号 | Style Wizard |
 | 家庭成员 | Parents； Sister； Uncle and aunt； Jules Egwu (cousin)； Grandmother； Egwu family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Bronze |
+| 头衔 | Reserve Seeker； Keeper |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "torvus"
 物种: "马人"
 性别: "男"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "torvus"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | Father |
+| 肤色 | Fair |
 
 ## 关联
 

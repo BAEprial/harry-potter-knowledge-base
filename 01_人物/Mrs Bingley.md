@@ -7,6 +7,8 @@ slug: "gilbert-bingley-s-wife"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Gilbert Bingley (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "gilbert-bingley-s-wife"
 | 性别 | 女 |
 | 国籍 | American |
 | 家庭成员 | Gilbert Bingley (husband) |
+| 恋情 | Gilbert Bingley (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

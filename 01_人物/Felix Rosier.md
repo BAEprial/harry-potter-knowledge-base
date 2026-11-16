@@ -8,6 +8,8 @@ slug: "felix-rosier"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "felix-rosier"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Dragonologist |
 | 家庭成员 | Father； Minette Lestrange (née Rosier) (possible relative)； Vinda Rosier (possible relative)； Rosier (possible relative)； [[Druella Black (née Rosier)]] (possible relative)； [[Evan Rosier]] (possible relative) †； Rosier family |
+| 肤色 | White |
+| 头衔 | Prefect |
 
 ## 关联
 

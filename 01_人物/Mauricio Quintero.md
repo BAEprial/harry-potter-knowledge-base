@@ -6,6 +6,7 @@ slug: "mauricio-quintero"
 物种: "人类"
 国籍: "Mexican"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "mauricio-quintero"
 | 出生 | 20th century |
 | 国籍 | Mexican |
 | 职业 | Beater for the Mexican National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

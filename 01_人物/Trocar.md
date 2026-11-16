@@ -6,6 +6,7 @@ slug: "trocar"
 物种: "吸血鬼"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "trocar"
 | 性别 | 男 |
 | 国籍 | British or Irish |
 | 职业 | Teacher at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

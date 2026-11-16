@@ -8,6 +8,8 @@ slug: "albus-potter"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "albus-potter"
 | 魔杖 | Unknown length,，Cherry and core |
 | 别名与绰号 | Al (by Harry Potter)； Slytherin Squib (by Karl Jenkins)； Ronald Weasley (under disguise of Polyjuice Potion) |
 | 家庭成员 | Harry Potter (father)； Ginevra Potter (née Weasley) (mother)； James Potter (II) (older brother)； Lily Potter (II) (younger sister)； William Weasley (maternal uncle)； [[Charles Weasley]] (maternal uncle)； Percy Weasley (maternal uncle)； Fred Weasley (maternal uncle) †； George Weasley (maternal uncle)； Ronald Weasley (maternal uncle)； Fleur Weasley (née Delacour) (maternal aunt by marriage)； Audrey Weasley (maternal aunt by marriage)； [[Angelina Weasley (née Johnson)]] (maternal aunt by marriage)； Hermione Granger (maternal aunt by marriage)； Padma Patil (maternal aunt by marriage in alternate timeline)； Victoire Weasley (maternal first cousin)； [[Dominique Weasley]] (maternal first cousin)； Louis Weasley (maternal first cousin)； Molly Weasley (II) (maternal first cousin)； Lucy Weasley (maternal first cousin)； Fred Weasley (II) (maternal first cousin)； Roxanne Weasley (maternal first cousin)； Rose Granger-Weasley (maternal first cousin)； Hugo Granger-Weasley (maternal first cousin)； Panju Weasley (maternal first cousin in alternate timeline)； James Potter (I) (paternal grandfather) †； Lily Potter (I) (née Evans) (paternal grandmother) †； Arthur Weasley (maternal grandfather)； Molly Weasley (née Prewett) (maternal grandmother)； Linfred of Stinchcombe (paternal ancestor) †； Ignotus Peverell (paternal ancestor) †； Paternal ancestor †； Hardwin Potter (paternal ancestor) †； Iolanthe Potter (née Peverell) (paternal ancestor) †； [[Charlus Potter]] (possible paternal relative) †； Possible paternal relative †； Potter family (paternal family)； Weasley family (maternal family) |
+| 肤色 | Light |
+| 婚姻状况 | Single |
 
 ## 关联
 

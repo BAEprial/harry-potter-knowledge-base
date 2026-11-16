@@ -4,6 +4,7 @@
 英文名: "Newton Scamander's Murtlap"
 slug: "newton-scamander-s-murtlap"
 物种: "Murtlap"
+肤色: "Pale pink"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "newton-scamander-s-murtlap"
 |---|---|
 | 物种 | Murtlap |
 | 出生 | Before 1926 |
+| 肤色 | Pale pink |
 
 ## 关联
 

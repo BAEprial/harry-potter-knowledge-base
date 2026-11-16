@@ -6,6 +6,7 @@ slug: "blodwyn-bludd"
 物种: "吸血鬼"
 国籍: "Welsh"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "blodwyn-bludd"
 | 头发颜色 | Black |
 | 职业 | Singer |
 | 别名与绰号 | Vampire from the Valleys |
+| 肤色 | Pale |
 
 ## 关联
 

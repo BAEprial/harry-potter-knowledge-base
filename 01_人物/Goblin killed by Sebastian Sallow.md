@@ -5,6 +5,7 @@
 slug: "goblin-killed-by-sebastian-sallow"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "goblin-killed-by-sebastian-sallow"
 | 性别 | 男 |
 | 逝世 | 1890s |
 | 眼睛颜色 | Red |
+| 肤色 | Light |
 
 ## 关联
 

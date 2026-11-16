@@ -6,6 +6,9 @@ slug: "verucca-buckthorn-snyde"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "Variable (biologically pale)"
+头衔: "Madam"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "verucca-buckthorn-snyde"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Director； Reginald Cattermole (disguised)； Amos Diggory (disguised)； Nymphadora Tonks (disguised)； Wilkie Twycross (disguised) |
 | 家庭成员 | Brother-in-law； Sister； [[Merula Snyde]] (niece)； Snyde family； Buckthorn family (in-laws) |
+| 肤色 | Variable (biologically pale) |
+| 头衔 | Madam |
+| 婚姻状况 | Married |
 
 ## 关联
 

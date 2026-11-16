@@ -5,6 +5,7 @@
 slug: "tall-goblin"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "tall-goblin"
 | 眼睛颜色 | Black |
 | 头发颜色 | Grey |
 | 职业 | Bank Teller at Gringotts Wizarding Bank |
+| 肤色 | Light |
 
 ## 关联
 

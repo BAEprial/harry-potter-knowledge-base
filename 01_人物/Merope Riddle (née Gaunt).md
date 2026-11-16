@@ -7,6 +7,9 @@ slug: "merope-riddle"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Tom Riddle Senior (separated husband) †"
+肤色: "Pale"
+婚姻状况: "Married (separated)"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "merope-riddle"
 | 头发颜色 | Dull |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Marvolo Gaunt]] (father) †； Morfin Gaunt (brother) †； Tom Riddle Senior (husband) †； Tom Riddle (son) †； Thomas Riddle (father-in-law) †； [[Mary]] Riddle (mother-in-law) †； [[Delphini]] (granddaughter)； Salazar Slytherin (paternal ancestor) †； [[Cadmus]] Peverell (paternal ancestor) †； House of Gaunt； Riddle family (in-laws/descendants) |
+| 恋情 | Tom Riddle Senior (separated husband) † |
+| 肤色 | Pale |
+| 婚姻状况 | Married (separated) |
 
 ## 关联
 

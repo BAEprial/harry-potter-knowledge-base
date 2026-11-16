@@ -6,6 +6,7 @@ slug: "saul-croaker"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "saul-croaker"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Unspeakable |
+| 头衔 | Professor |
 
 ## 关联
 

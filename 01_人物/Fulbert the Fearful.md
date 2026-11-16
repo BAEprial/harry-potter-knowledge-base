@@ -5,6 +5,7 @@
 slug: "fulbert-the-fearful"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "fulbert-the-fearful"
 | 眼睛颜色 | Bright blue |
 | 头发颜色 | Bald (formerly brown) |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Light |
 
 ## 关联
 

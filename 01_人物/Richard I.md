@@ -6,6 +6,7 @@ slug: "richard-i"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King of England"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "richard-i"
 | 出生 | 8 September 1157,，Oxford,，England |
 | 逝世 | 6 April 1199,，Limousin,，France (aged 41) |
 | 家庭成员 | William the Conqueror (ancestor) †； British royal family |
+| 头衔 | King of England |
 
 ## 关联
 

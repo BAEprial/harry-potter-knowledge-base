@@ -5,6 +5,7 @@
 slug: "barnabas-deverill"
 物种: "人类"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "barnabas-deverill"
 | 出生 | 17th century (most likely) |
 | 魔杖 | Unknown wand； Elder,，Thestral tail hair core |
 | 家庭成员 | Philbert Deverill (possibly) |
+| 头衔 | Warlock |
 
 ## 关联
 

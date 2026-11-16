@@ -6,6 +6,7 @@ slug: "lenelle-paraison"
 物种: "人类"
 国籍: "Haitian"
 性别: "女"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lenelle-paraison"
 | 出生 | after 1976,，Haiti (possibly) |
 | 国籍 | Haitian |
 | 职业 | Keeper for the Haitian National Quidditch team |
+| 头衔 | Keeper |
 
 ## 关联
 

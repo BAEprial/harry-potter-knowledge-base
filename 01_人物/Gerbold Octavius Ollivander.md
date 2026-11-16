@@ -7,6 +7,7 @@ slug: "gerbold-ollivander"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "gerbold-ollivander"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Wandmaker |
 | 家庭成员 | Gervaise Ollivander (son)； Daughter-in-law； Great-aunt； [[Garrick Ollivander]] (grandson)； Ollivander (ancestor)； [[Geraint Ollivander]] (ancestor)； Ollivander family |
+| 肤色 | Light |
 
 ## 关联
 

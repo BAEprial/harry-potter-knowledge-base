@@ -6,6 +6,8 @@ slug: "prabal-ram"
 物种: "人类"
 国籍: "Indian"
 性别: "男"
+肤色: "Light"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "prabal-ram"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blond |
 | 职业 | Beater for the Indian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Beater |
 
 ## 关联
 

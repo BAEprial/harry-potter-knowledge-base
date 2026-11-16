@@ -6,6 +6,8 @@ slug: "love-hakansson"
 物种: "人类"
 国籍: "Swedish"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "love-hakansson"
 | 国籍 | Swedish |
 | 头发颜色 | Blond |
 | 职业 | Chaser for the Swedish National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

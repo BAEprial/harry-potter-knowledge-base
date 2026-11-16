@@ -5,6 +5,7 @@
 slug: "manager-at-eeylops-owl-emporium"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "manager-at-eeylops-owl-emporium"
 | 性别 | 男 |
 | 头发颜色 | Bald |
 | 职业 | Manager at Eeylops Owl Emporium |
+| 肤色 | Light |
 
 ## 关联
 

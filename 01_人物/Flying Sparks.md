@@ -5,6 +5,7 @@
 slug: "flying-sparks"
 物种: "Firedrakes"
 性别: "多种"
+肤色: "Brown and yellow"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "flying-sparks"
 | 出生 | Before the late 1980s |
 | 眼睛颜色 | Yellow |
 | 家庭成员 | [[Firedrake at the Magical Creatures Reserve]] |
+| 肤色 | Brown and yellow |
 
 ## 关联
 

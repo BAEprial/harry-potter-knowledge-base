@@ -5,6 +5,7 @@
 slug: "sir-ribbithe"
 物种: "Frog"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "sir-ribbithe"
 | 性别 | 男 |
 | 出生 | In or prior to 1985 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

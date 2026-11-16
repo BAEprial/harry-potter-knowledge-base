@@ -4,6 +4,7 @@
 英文名: "Sea serpent at the Magical Creatures Reserve"
 slug: "sea-serpent-at-the-magical-creatures-reserve"
 物种: "Sea serpent"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "sea-serpent-at-the-magical-creatures-reserve"
 | 物种 | Sea serpent |
 | 眼睛颜色 | Black |
 | 别名与绰号 | Kee-oo (A Mermish name given by an unidentified merkid) |
+| 肤色 | Blue |
 
 ## 关联
 

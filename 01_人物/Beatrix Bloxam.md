@@ -6,6 +6,8 @@ slug: "beatrix-bloxam"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "beatrix-bloxam"
 | 头发颜色 | Grey (formerly brown) |
 | 职业 | Children's author |
 | 家庭成员 | Father； Nobby (uncle)； Aunt； Cousins |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

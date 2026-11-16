@@ -6,6 +6,8 @@ slug: "lachlan-mackenzie"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper (formerly)； Captain (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "lachlan-mackenzie"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Keeper and Captain for the Banchory Bangers (formerly) |
+| 肤色 | Light |
+| 头衔 | Keeper (formerly)； Captain (formerly) |
 
 ## 关联
 

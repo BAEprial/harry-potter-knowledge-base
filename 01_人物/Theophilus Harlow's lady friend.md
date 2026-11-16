@@ -6,6 +6,7 @@ slug: "theophilus-harlow-s-lady-friend"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Theophilus Harlow"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "theophilus-harlow-s-lady-friend"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 国籍 | British or Irish |
+| 恋情 | Theophilus Harlow |
 
 ## 关联
 

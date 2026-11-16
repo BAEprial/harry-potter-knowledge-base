@@ -6,6 +6,7 @@ slug: "prendergast"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor； Head of House"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "prendergast"
 | 出生 | 1890 or earlier |
 | 国籍 | British or Irish |
 | 职业 | Hogwarts School of Witchcraft and Wizardry professor |
+| 头衔 | Professor； Head of House |
 
 ## 关联
 

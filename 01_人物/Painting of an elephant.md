@@ -4,6 +4,7 @@
 英文名: "Painting of an elephant"
 slug: "painting-of-an-elephant"
 物种: "Elephant"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "painting-of-an-elephant"
 |---|---|
 | 物种 | Elephant |
 | 逝世 | Before 1993 (possibly) |
+| 肤色 | Grey |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "badger-picklish-iii"
 物种: "Ghost (formerly human)"
 性别: "男"
+肤色: "Pale"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "badger-picklish-iii"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | 黑暗 |
 | 职业 | Seeker |
+| 肤色 | Pale |
+| 头衔 | Seeker |
 
 ## 关联
 

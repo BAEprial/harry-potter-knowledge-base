@@ -7,6 +7,8 @@ slug: "tobias-stump"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Head of House"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "tobias-stump"
 | 头发颜色 | Light brown |
 | 职业 | Head of Gryffindor House (?–pre-1991) |
 | 家庭成员 | [[Google Stump]] (possibly)； [[Grogan Stump]] (possibly)； Stump family |
+| 肤色 | Light |
+| 头衔 | Head of House |
 
 ## 关联
 

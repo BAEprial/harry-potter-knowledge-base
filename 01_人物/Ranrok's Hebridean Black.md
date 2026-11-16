@@ -4,6 +4,7 @@
 英文名: "Ranrok's Hebridean Black"
 slug: "ranrok-s-hebridean-black"
 物种: "Hebridean Black"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "ranrok-s-hebridean-black"
 | 物种 | Hebridean Black |
 | 出生 | Pre 1890 |
 | 眼睛颜色 | Red |
+| 肤色 | Black |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Thestral at the Magical Creatures Reserve"
 slug: "thestral-at-the-magical-creatures-reserve"
 物种: "Thestral"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "thestral-at-the-magical-creatures-reserve"
 | 物种 | Thestral |
 | 眼睛颜色 | White |
 | 头发颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

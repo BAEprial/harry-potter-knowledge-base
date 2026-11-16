@@ -6,6 +6,8 @@ slug: "roland-kegg"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "roland-kegg"
 | 出生 | 1903 |
 | 国籍 | 英国人 |
 | 头发颜色 | Blond |
+| 肤色 | White |
+| 头衔 | President |
 
 ## 关联
 

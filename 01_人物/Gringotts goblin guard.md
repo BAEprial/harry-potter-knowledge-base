@@ -5,6 +5,8 @@
 slug: "unidentified-gringotts-goblin-guard"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
+头衔: "Guard"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "unidentified-gringotts-goblin-guard"
 | 性别 | 男 |
 | 头发颜色 | White |
 | 职业 | Goblin guard of Gringotts Wizarding Bank |
+| 肤色 | Light |
+| 头衔 | Guard |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "unidentified-female-death-eater-at-malfoy-manor-ii"
 物种: "人类"
 性别: "女"
 守护神: "无"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-female-death-eater-at-malfoy-manor-ii"
 | 性别 | 女 |
 | 守护神 | 无 |
 | 头发颜色 | White |
+| 肤色 | Pale |
 
 ## 关联
 

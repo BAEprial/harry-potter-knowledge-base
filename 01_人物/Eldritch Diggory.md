@@ -8,6 +8,7 @@ slug: "eldritch-diggory"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +32,7 @@ slug: "eldritch-diggory"
 | 魔杖 | Unknown length,，poplar,，unknown core |
 | 职业 | Minister for Magic |
 | 家庭成员 | Helen Thistlewood (great-niece)； [[Eddie Thistlewood]] (great-nephew)； Amos Diggory (relative)； Cedric Diggory (relative) †； Diggory family |
+| 肤色 | Light |
 
 ## 关联
 

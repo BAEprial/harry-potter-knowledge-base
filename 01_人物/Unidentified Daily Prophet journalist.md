@@ -5,6 +5,7 @@
 slug: "unidentified-daily-prophet-journalist"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-daily-prophet-journalist"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
 | 职业 | Journalist for the Daily Prophet |
+| 肤色 | Light |
 
 ## 关联
 

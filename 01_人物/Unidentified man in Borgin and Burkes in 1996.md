@@ -5,6 +5,7 @@
 slug: "unidentified-man-in-borgin-and-burkes-in-1996"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-man-in-borgin-and-burkes-in-1996"
 | 性别 | 男 |
 | 头发颜色 | 发光 |
 | 职业 | Shop assistant in Borgin and Burkes |
+| 肤色 | Light |
 
 ## 关联
 

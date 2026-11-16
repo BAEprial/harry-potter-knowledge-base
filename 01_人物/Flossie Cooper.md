@@ -7,6 +7,7 @@ slug: "flossie-cooper"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "flossie-cooper"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | British or Irish |
+| 头衔 | Seeker |
 
 ## 关联
 

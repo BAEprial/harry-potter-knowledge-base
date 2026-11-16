@@ -7,6 +7,8 @@ slug: "ominis-gaunt-s-mother"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Husband †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "ominis-gaunt-s-mother"
 | 逝世 | Before June 1925 |
 | 国籍 | British or Irish |
 | 家庭成员 | Husband †； Children †； [[Ominis Gaunt]] (son) †； Noctua Gaunt (sister-in-law) †； House of Gaunt (in-laws/descendants) |
+| 恋情 | Husband † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "flora-fernsby"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "flora-fernsby"
 | 眼睛颜色 | Green |
 | 头发颜色 | Light brown |
 | 家庭成员 | Lottie Fernsby (possibly) |
+| 肤色 | White |
 
 ## 关联
 

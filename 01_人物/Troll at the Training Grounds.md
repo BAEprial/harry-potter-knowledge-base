@@ -4,6 +4,7 @@
 英文名: "Troll at the Training Grounds"
 slug: "troll-at-the-training-grounds"
 物种: "Troll"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "troll-at-the-training-grounds"
 |---|---|
 | 物种 | Troll |
 | 出生 | Before 1989 |
+| 肤色 | Grey |
 
 ## 关联
 

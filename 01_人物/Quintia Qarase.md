@@ -6,6 +6,7 @@ slug: "quintia-qarase"
 物种: "人类"
 国籍: "Fijian"
 性别: "女"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "quintia-qarase"
 | 出生 | after 1976 |
 | 国籍 | Fijian |
 | 职业 | Beater for the Fijian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

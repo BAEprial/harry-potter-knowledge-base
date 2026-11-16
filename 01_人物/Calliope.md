@@ -5,6 +5,7 @@
 slug: "calliope-fairy"
 物种: "Fairy"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "calliope-fairy"
 | 出生 | Before the 1980s |
 | 眼睛颜色 | Black |
 | 头发颜色 | Pink |
+| 肤色 | Light |
 
 ## 关联
 

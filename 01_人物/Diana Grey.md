@@ -6,6 +6,8 @@ slug: "diana-grey"
 血统: "Half-blood or Muggle-born"
 物种: "人类"
 性别: "女"
+恋情: "Gerard Grey (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "diana-grey"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Gerard Grey (husband)； Abigail Grey (daughter)； Other children； Grey family |
+| 恋情 | Gerard Grey (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Unidentified Chinese Fireball youngling"
 slug: "unidentified-female-chinese-fireball-s-offspring"
 物种: "Chinese Fireball"
+肤色: "Red"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-female-chinese-fireball-s-offspring"
 | 出生 | 1994 |
 | 眼睛颜色 | Black |
 | 家庭成员 | Mother |
+| 肤色 | Red |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "gruffyd-wellnelly"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "gruffyd-wellnelly"
 | 头发颜色 | Brown |
 | 别名与绰号 | Gruff (by Baglan Wellnelly) |
 | 家庭成员 | [[Baglan Wellnelly]] (twin brother)； [[Dai Llewellyn]] (ancestor)； [[Dilys Llewellyn]] (ancestor)； Wellnelly family |
+| 肤色 | Light |
+| 头衔 | Seeker |
 
 ## 关联
 

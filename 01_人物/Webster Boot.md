@@ -8,6 +8,10 @@ slug: "webster-boot"
 物种: "人类"
 国籍: "Irish-American"
 性别: "男"
+恋情: "Wife"
+肤色: "Light"
+头衔: "Founder"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +35,10 @@ slug: "webster-boot"
 | 魔杖 | Unknown length,，wood,，Horned Serpent horn |
 | 职业 | Founder of Ilvermorny School of Witchcraft and Wizardry； Auror for hire |
 | 家庭成员 | Father †； Mother †； [[Isolt Steward (née Sayre)]] (adoptive mother) †； [[James]] Steward (adoptive father) †； [[Chadwick Boot]] (older brother)； [[Martha]] Steward (II) (adoptive younger sister)； [[Rionach Steward]] (adoptive younger sister)； Wife； At least one child； [[Josefina Calderon]] (sister-in-law)； Adoptive brother-in-law； At least one niece or nephew； [[Albert]] Boot (possible descendant)； [[D. L. Boot]] (possible descendant)； Terry Boot (possible descendant)； Boot family； Steward family (adoptive family) |
+| 恋情 | Wife |
+| 肤色 | Light |
+| 头衔 | Founder |
+| 婚姻状况 | Married |
 
 ## 关联
 

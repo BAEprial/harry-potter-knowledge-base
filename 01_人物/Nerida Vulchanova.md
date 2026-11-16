@@ -7,6 +7,7 @@ slug: "nerida-vulchanova"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "女"
+头衔: "Founder； Headmistress； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "nerida-vulchanova"
 | 国籍 | 保加利亚人 |
 | 职业 | Founder and Headmistress of Durmstrang Institute |
 | 家庭成员 | Pyotr Vulchanov (possibly)； [[Boris Vulchanov]] (possibly)； Vulchanov family |
+| 头衔 | Founder； Headmistress； Professor |
 
 ## 关联
 

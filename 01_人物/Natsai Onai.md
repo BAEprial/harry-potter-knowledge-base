@@ -8,6 +8,7 @@ slug: "natsai-onai"
 物种: "人类"
 国籍: "African (Matabeleland)"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +33,7 @@ slug: "natsai-onai"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Natty； My little gazelle (by Mudiwa Onai) |
 | 家庭成员 | Mudiwa Onai (mother)； Father †； Onai family |
+| 肤色 | Dark |
 
 ## 关联
 

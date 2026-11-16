@@ -6,6 +6,7 @@ slug: "effie-bones"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "effie-bones"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 家庭成员 | Seraphina Bones (possible relation)； Amelia Bones (possible relative) †； [[Edgar]] Bones (possible relative) †； Possible relatives †； Susan Bones (possible relative)； Bones family |
+| 肤色 | Light |
 
 ## 关联
 

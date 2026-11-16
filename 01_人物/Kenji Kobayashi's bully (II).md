@@ -6,6 +6,7 @@ slug: "kenji-kobayashi-s-bully-ii"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "kenji-kobayashi-s-bully-ii"
 | 国籍 | Japanese |
 | 眼睛颜色 | Black |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "archibald-bienbon"
 物种: "人类"
 性别: "男"
+头衔: "Co-president"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "archibald-bienbon"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Co-president of a Académie française des sorciers committee |
+| 头衔 | Co-president |
 
 ## 关联
 

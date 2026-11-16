@@ -5,6 +5,7 @@
 slug: "mulpepper"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "mulpepper"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
 | 职业 | Potioneer； Owner of Mr Mulpepper's Apothecary |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "second-semi-finalist-of-the-1379-duelling-contest"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "second-semi-finalist-of-the-1379-duelling-contest"
 | 逝世 | 1379 (most likely) |
 | 头发颜色 | Grey |
 | 职业 | Duellist |
+| 肤色 | White |
 
 ## 关联
 

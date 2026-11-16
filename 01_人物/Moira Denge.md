@@ -6,6 +6,7 @@ slug: "moira-denge"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Daniel Denge (husband)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "moira-denge"
 | 出生 | Before 1975 |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Dan]]iel Denge (husband) |
+| 恋情 | Daniel Denge (husband) |
 
 ## 关联
 

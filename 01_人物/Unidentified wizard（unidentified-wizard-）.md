@@ -5,6 +5,7 @@
 slug: "unidentified-wizard-at-platform-nine-and-three-quarters-i"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married (most likely)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-wizard-at-platform-nine-and-three-quarters-i"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Children |
+| 婚姻状况 | Married (most likely) |
 
 ## 关联
 

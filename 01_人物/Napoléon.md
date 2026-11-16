@@ -6,6 +6,7 @@ slug: "napoleon"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Emperor of the FrenchFirst Consul of French Republic (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "napoleon"
 | 逝世 | 5 May 1821,，Longwood,，Saint Helena,，British Empire |
 | 国籍 | 法国人 |
 | 职业 | French emperor and military leader |
+| 头衔 | Emperor of the FrenchFirst Consul of French Republic (formerly) |
 
 ## 关联
 

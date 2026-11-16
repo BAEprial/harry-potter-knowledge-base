@@ -6,6 +6,7 @@ slug: "hogwarts-express-operator"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hogwarts-express-operator"
 | 头发颜色 | Brown |
 | 职业 | Operator of the Honeydukes Express |
 | 家庭成员 | Sister |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "warrington-sisters-mother"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+恋情: "Husband"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "warrington-sisters-mother"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Mother； Husband； [[Ivy Warrington]] (daughter)； Winifred Warrington (daughter)； Warrington family |
+| 恋情 | Husband |
+| 肤色 | Light |
 
 ## 关联
 

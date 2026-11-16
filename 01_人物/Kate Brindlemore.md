@@ -5,6 +5,8 @@
 slug: "kate-brindlemore"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "kate-brindlemore"
 | 性别 | 女 |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Defence Against the Dark Arts |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

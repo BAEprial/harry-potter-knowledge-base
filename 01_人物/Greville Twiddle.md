@@ -5,6 +5,8 @@
 slug: "greville-twiddle"
 物种: "人类"
 性别: "男"
+恋情: "Althea Twiddle (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "greville-twiddle"
 | 出生 | Before 1890 |
 | 逝世 | Before 1890 |
 | 家庭成员 | Althea Twiddle (wife) |
+| 恋情 | Althea Twiddle (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

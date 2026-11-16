@@ -7,6 +7,7 @@ slug: "ailsa-travers"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "ailsa-travers"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Ashwinder |
 | 家庭成员 | Thaddeus Travers (possible relative)； Torquil Travers (possible relative) †； Possible relative； Sloan Travers (possible relative)； Travers family |
+| 肤色 | White |
 
 ## 关联
 

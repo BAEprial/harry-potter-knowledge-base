@@ -6,6 +6,8 @@ slug: "wilhelmina-farrell"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Calvin Farrell (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "wilhelmina-farrell"
 | 国籍 | 英国人 |
 | 职业 | Co-owner of Uncommon Creatures Pet Shop |
 | 家庭成员 | Calvin Farrell (husband)； [[Milo]] Farrell (possible relative)； Zola Farrell (possible relative)； [[Kevin]] Farrell (possible relative)； Farrell family |
+| 恋情 | Calvin Farrell (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

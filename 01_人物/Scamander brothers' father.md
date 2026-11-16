@@ -5,6 +5,7 @@
 slug: "scamander-brothers-father"
 物种: "人类"
 性别: "男"
+恋情: "Scamander brothers' mother (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "scamander-brothers-father"
 | 性别 | 男 |
 | 出生 | In or before 1872 |
 | 家庭成员 | [[Newt]]on Scamander (son)； Theseus Scamander (son)； Porpentina Scamander (née Goldstein) (daughter-in-law)； At least one grandchild； Scamander family |
+| 恋情 | Scamander brothers' mother (uncertain relationship) |
 
 ## 关联
 

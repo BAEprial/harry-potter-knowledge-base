@@ -7,6 +7,9 @@ slug: "glenna-golding"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Shane Golding (husband) †"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "glenna-golding"
 | 头发颜色 | Ginger with light brown streak |
 | 职业 | Employee of the Muggle-Worthy Excuse Committee (formerly) |
 | 家庭成员 | Tiburon Merriweather (father) †； Mother； Older sister； Shane Golding (husband) †； Nyle Golding (son)； Merriweather family； Golding family |
+| 恋情 | Shane Golding (husband) † |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

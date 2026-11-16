@@ -6,6 +6,9 @@ slug: "daisy-twemlove"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Perseus Ecklington (husband)； Norville Bezerko (formerly)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +24,9 @@ slug: "daisy-twemlove"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 家庭成员 | Perseus Ecklington (husband) |
+| 恋情 | Perseus Ecklington (husband)； Norville Bezerko (formerly) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

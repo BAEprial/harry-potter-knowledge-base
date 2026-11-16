@@ -7,6 +7,7 @@ slug: "mills"
 物种: "人类"
 国籍: "American"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "mills"
 | 性别 | 女 |
 | 逝世 | 14 September 1926 |
 | 国籍 | American |
+| 婚姻状况 | Married |
 
 ## 关联
 

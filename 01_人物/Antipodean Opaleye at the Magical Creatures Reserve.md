@@ -4,6 +4,7 @@
 英文名: "Antipodean Opaleye at the Magical Creatures Reserve"
 slug: "antipodean-opaleye-at-the-magical-creatures-reserve"
 物种: "Antipodean Opaleye"
+肤色: "Pearlescent"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "antipodean-opaleye-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Antipodean Opaleye |
 | 眼睛颜色 | Multi-colored |
+| 肤色 | Pearlescent |
 
 ## 关联
 

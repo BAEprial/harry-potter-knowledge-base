@@ -5,6 +5,7 @@
 slug: "paul-curse-breaker"
 物种: "人类"
 性别: "男"
+恋情: "Matilda Weasley (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "paul-curse-breaker"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Freelance Curse-Breaker |
+| 恋情 | Matilda Weasley (formerly) |
 
 ## 关联
 

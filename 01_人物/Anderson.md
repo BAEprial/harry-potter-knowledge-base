@@ -7,6 +7,7 @@ slug: "anderson"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Police Constable"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "anderson"
 | 国籍 | 英国人 |
 | 职业 | Policeman |
 | 家庭成员 | Billie Anderson (possibly)； Cecil Anderson (possibly)； Anderson family |
+| 头衔 | Police Constable |
 
 ## 关联
 

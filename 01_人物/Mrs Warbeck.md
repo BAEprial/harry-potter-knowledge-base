@@ -7,6 +7,7 @@ slug: "celestina-warbeck-s-mother"
 物种: "人类"
 国籍: "Welsh"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "celestina-warbeck-s-mother"
 | 国籍 | Welsh |
 | 职业 | Actress (formerly) |
 | 家庭成员 | Mr Warbeck (husband)； [[Celestina Warbeck]] (daughter)； First son-in-law； Second son-in-law； [[Irving Warble]] (third son-in-law)； One grandson |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "daniel-denge"
 物种: "Human,，Toad (briefly)"
 国籍: "英国人"
 性别: "男"
+恋情: "Moira Denge (wife)"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "daniel-denge"
 | 国籍 | 英国人 |
 | 职业 | Unknown position at a financial services organisation |
 | 家庭成员 | Moira Denge (wife) |
+| 恋情 | Moira Denge (wife) |
 
 ## 关联
 

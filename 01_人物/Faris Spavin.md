@@ -6,6 +6,7 @@ slug: "faris-spavin"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "faris-spavin"
 | 出生 | 1755 or 1756 |
 | 职业 | Minister for Magic (1865–1903) |
 | 别名与绰号 | Spout-hole |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

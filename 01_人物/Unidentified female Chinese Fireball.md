@@ -5,6 +5,7 @@
 slug: "unidentified-female-chinese-fireball"
 物种: "Chinese Fireball"
 性别: "女"
+肤色: "Red and black"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-female-chinese-fireball"
 | 出生 | Pre 1994 |
 | 眼睛颜色 | Yellow |
 | 家庭成员 | Child |
+| 肤色 | Red and black |
 
 ## 关联
 

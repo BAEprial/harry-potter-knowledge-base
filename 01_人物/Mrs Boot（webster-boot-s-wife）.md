@@ -6,6 +6,8 @@ slug: "webster-boot-s-wife"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+恋情: "Webster Boot (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "webster-boot-s-wife"
 | 国籍 | Scottish |
 | 职业 | British Ministry of Magic employee |
 | 家庭成员 | Webster Boot (husband)； At least one child； Father-in-law †； Mother-in-law †； Isolt Sayre (adoptive mother-in-law) †； [[James]] Steward (adoptive father-in-law) †； [[Chadwick Boot]] (brother-in-law)； [[Josefina Calderon]] (sister-in-law)； [[Martha]] Steward (adoptive sister-in-law)； Rionach Steward (adoptive sister-in-law)； Adoptive brother-in-law； At least one niece or nephew by marriage； [[D. L. Boot]] (possible descendant)； Terry Boot (possible descendant)； Boot family |
+| 恋情 | Webster Boot (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

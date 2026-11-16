@@ -6,6 +6,8 @@ slug: "aidan-lynch"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "男"
+肤色: "White"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "aidan-lynch"
 | 国籍 | 爱尔兰人 |
 | 头发颜色 | Blond |
 | 职业 | Seeker for the Irish National Quidditch team |
+| 肤色 | White |
+| 头衔 | Seeker |
 
 ## 关联
 

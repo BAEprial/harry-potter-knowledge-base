@@ -6,6 +6,8 @@ slug: "unidentified-resting-headmaster"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "unidentified-resting-headmaster"
 | 国籍 | British or Irish |
 | 头发颜色 | Grey |
 | 职业 | Headmaster of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | White |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

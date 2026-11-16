@@ -6,6 +6,7 @@ slug: "hippocrates-smethwyck"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Healer-in-charge"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "hippocrates-smethwyck"
 | 国籍 | 英国人 |
 | 职业 | Healer； Healer-in-charge of the 'Dangerous' Dai Llewellyn Ward |
 | 家庭成员 | [[Elliot Smethwyck]] (possibly)； Leopoldina Smethwyck (possibly)； Smethwyck family |
+| 头衔 | Healer-in-charge |
 
 ## 关联
 

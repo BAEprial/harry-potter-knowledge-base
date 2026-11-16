@@ -6,6 +6,7 @@ slug: "house-of-black-house-elves"
 物种: "House-elves"
 国籍: "英国人"
 性别: "Males,，Females"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "house-of-black-house-elves"
 | 国籍 | 英国人 |
 | 身高 | 3 feet |
 | 职业 | Servants of the House of Black |
+| 肤色 | Light |
 
 ## 关联
 

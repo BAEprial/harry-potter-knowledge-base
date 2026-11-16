@@ -5,6 +5,9 @@
 slug: "amata"
 物种: "人类"
 性别: "女"
+恋情: "Lover (formerly)； Sir Luckless (husband)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +24,9 @@ slug: "amata"
 | 头发颜色 | Blonde and wavy |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Sir Luckless (husband) |
+| 恋情 | Lover (formerly)； Sir Luckless (husband) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

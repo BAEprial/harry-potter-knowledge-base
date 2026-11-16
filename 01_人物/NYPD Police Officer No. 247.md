@@ -7,6 +7,7 @@ slug: "nypd-police-officer-no-247"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "nypd-police-officer-no-247"
 | 国籍 | American |
 | 职业 | Police officer for the New York Police Department |
 | 别名与绰号 | No. 247 |
+| 肤色 | Light |
 
 ## 关联
 

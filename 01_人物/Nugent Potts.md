@@ -5,6 +5,7 @@
 slug: "nugent-potts"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "nugent-potts"
 | 性别 | 男 |
 | 逝世 | 1894 |
 | 职业 | Quidditch referee |
+| 肤色 | Light |
 
 ## 关联
 

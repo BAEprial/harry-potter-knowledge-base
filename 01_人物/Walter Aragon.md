@@ -5,6 +5,8 @@
 slug: "walter-aragon"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Headmaster； Chess master"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "walter-aragon"
 | 逝世 | In or before 1995 |
 | 头发颜色 | Black |
 | 职业 | Headmaster of Hogwarts School of Witchcraft and Wizardry； Author； Chess player； Professor |
+| 肤色 | White |
+| 头衔 | Professor； Headmaster； Chess master |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "unidentified-head-boy"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Unidentified Head Girl"
+头衔: "Head Boy"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "unidentified-head-boy"
 | 性别 | 男 |
 | 出生 | Between 1 September 1968 and 31 August 1969 |
 | 国籍 | British or Irish |
+| 恋情 | Unidentified Head Girl |
+| 头衔 | Head Boy |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "nikola-vassileva"
 物种: "人类"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "nikola-vassileva"
 | 性别 | 女 |
 | 出生 | After 1976 |
 | 职业 | Chaser for the Bulgarian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

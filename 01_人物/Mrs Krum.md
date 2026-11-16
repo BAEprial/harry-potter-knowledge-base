@@ -7,6 +7,8 @@ slug: "viktor-krum-s-mother"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "viktor-krum-s-mother"
 | 国籍 | 保加利亚人 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Father or father-in-law †； Husband； Viktor Krum (son)； Krum family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

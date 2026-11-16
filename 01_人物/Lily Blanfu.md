@@ -6,6 +6,8 @@ slug: "lily-blanfu"
 物种: "人类"
 国籍: "Canadian"
 性别: "女"
+肤色: "Tan"
+头衔: "Beater for the Canadian National Quidditch team"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "lily-blanfu"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Beater for the Canadian National Quidditch team |
+| 肤色 | Tan |
+| 头衔 | Beater for the Canadian National Quidditch team |
 
 ## 关联
 

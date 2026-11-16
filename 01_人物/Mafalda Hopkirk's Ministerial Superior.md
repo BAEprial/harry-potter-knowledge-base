@@ -4,6 +4,7 @@
 英文名: "Mafalda Hopkirk's Ministerial Superior"
 slug: "mafalda-hopkirk-s-ministerial-superior"
 物种: "人类"
+头衔: "Ministry of Magic Official"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "mafalda-hopkirk-s-ministerial-superior"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Improper Use of Magic Office employee |
+| 头衔 | Ministry of Magic Official |
 
 ## 关联
 

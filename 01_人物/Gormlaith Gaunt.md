@@ -8,6 +8,8 @@ slug: "gormlaith-gaunt"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "Pale"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +33,8 @@ slug: "gormlaith-gaunt"
 | 魔杖 | Unknown length,，Snakewood,，Basilisk horn (formerly)； Unknown length,，wood and dragon heartstring |
 | 别名与绰号 | William Sayre |
 | 家庭成员 | Rionach Sayre (née Gaunt) (sister) †； William Sayre (brother-in-law) †； Isolt Sayre (niece) †； Salazar Slytherin (ancestor)； [[Cadmus]] Peverell (ancestor) †； House of Gaunt |
+| 肤色 | Pale |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

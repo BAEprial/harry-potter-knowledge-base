@@ -7,6 +7,7 @@ slug: "magee"
 物种: "人类"
 国籍: "American"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "magee"
 | 性别 | 女 |
 | 国籍 | American |
 | 职业 | Entertainer |
+| 头衔 | Madame |
 
 ## 关联
 

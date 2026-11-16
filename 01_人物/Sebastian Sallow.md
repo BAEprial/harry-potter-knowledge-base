@@ -8,6 +8,7 @@ slug: "sebastian-sallow"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "sebastian-sallow"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Your father's son (by Solomon Sallow) |
 | 家庭成员 | Parents †； Anne Sallow (twin sister)； Solomon Sallow (paternal uncle) †； [[Albert]] Sallow (possible relative)； Sallow family |
+| 肤色 | Light |
 
 ## 关联
 

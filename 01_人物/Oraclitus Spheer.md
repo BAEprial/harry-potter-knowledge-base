@@ -6,6 +6,7 @@ slug: "oraclitus-spheer"
 学院: "Gryffindor (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "oraclitus-spheer"
 | 性别 | 男 |
 | 逝世 | Before 1991 |
 | 头发颜色 | Red |
+| 肤色 | White |
 
 ## 关联
 

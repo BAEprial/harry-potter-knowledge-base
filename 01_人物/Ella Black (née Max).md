@@ -7,6 +7,7 @@ slug: "ella-max"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "ella-max"
 | 逝世 | Before 1995 (possibly) |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Cygnus Black]] (I) (husband) †； Max family； House of Black |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

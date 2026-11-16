@@ -7,6 +7,7 @@ slug: "hepzibah-smith"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam (by Hokey)"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hepzibah-smith"
 | 国籍 | 英国人 |
 | 身高 | Short |
 | 家庭成员 | Helga Hufflepuff (claimed ancestor) †； Mr Smith (possible relative)； Sally Smith (possible relative)； Zacharias Smith (possible relative) |
+| 头衔 | Madam (by Hokey) |
 
 ## 关联
 

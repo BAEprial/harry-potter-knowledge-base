@@ -5,6 +5,7 @@
 slug: "maud-ashborn"
 物种: "人类"
 性别: "女"
+头衔: "Healer"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "maud-ashborn"
 | 性别 | 女 |
 | 逝世 | 2002 |
 | 职业 | Healer |
+| 头衔 | Healer |
 
 ## 关联
 

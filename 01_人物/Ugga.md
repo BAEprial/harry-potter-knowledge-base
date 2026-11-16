@@ -6,6 +6,7 @@ slug: "ugga"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ugga"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Beater |
+| 头衔 | Beater |
 
 ## 关联
 

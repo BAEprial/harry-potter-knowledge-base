@@ -7,6 +7,7 @@ slug: "mike-boon"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "mike-boon"
 | 性别 | 男 |
 | 出生 | Between 1701 and 1705 |
 | 国籍 | British or Irish |
+| 头衔 | Captain |
 
 ## 关联
 

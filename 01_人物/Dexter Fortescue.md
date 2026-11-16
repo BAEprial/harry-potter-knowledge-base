@@ -6,6 +6,8 @@ slug: "dexter-fortescue"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor； Headmaster"
+体重: "Corpulent"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "dexter-fortescue"
 | 国籍 | British or Irish |
 | 职业 | Headmaster of Hogwarts School of Witchcraft and Wizardry (formerly) |
 | 家庭成员 | Florean Fortescue † (descendant)； Lavinia Fortescue (descendant)； Fortescue family |
+| 头衔 | Professor； Headmaster |
+| 体重 | Corpulent |
 
 ## 关联
 

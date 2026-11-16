@@ -6,6 +6,7 @@ slug: "silvanus-kettleburn-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "silvanus-kettleburn-s-mother"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband； [[Silvanus Kettleburn]] (son)； Kettleburn family |
+| 婚姻状况 | Married |
 
 ## 关联
 

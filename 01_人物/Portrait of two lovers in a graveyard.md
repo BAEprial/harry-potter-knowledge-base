@@ -5,6 +5,7 @@
 slug: "portrait-of-two-lovers-in-a-graveyard"
 物种: "Humans"
 性别: "Male,，女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "portrait-of-two-lovers-in-a-graveyard"
 | 物种 | Humans |
 | 性别 | Male,，女 |
 | 逝世 | Prior to 1993 |
+| 肤色 | Light |
 
 ## 关联
 

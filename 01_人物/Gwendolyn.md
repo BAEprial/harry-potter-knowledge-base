@@ -7,6 +7,7 @@ slug: "gwendolyn"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Muriel"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "gwendolyn"
 | 出生 | Late 19th or early 20th century |
 | 国籍 | British or Irish |
 | 别名与绰号 | Gwen |
+| 恋情 | Muriel |
 
 ## 关联
 

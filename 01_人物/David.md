@@ -5,6 +5,7 @@
 slug: "david-saint"
 物种: "人类"
 性别: "男"
+头衔: "Saint"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "david-saint"
 | 性别 | 男 |
 | 出生 | c. 500 |
 | 逝世 | c. 589 |
+| 头衔 | Saint |
 
 ## 关联
 

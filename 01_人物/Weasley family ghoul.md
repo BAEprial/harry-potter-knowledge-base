@@ -5,6 +5,7 @@
 slug: "weasley-family-ghoul"
 物种: "Ghoul"
 性别: "男"
+肤色: "Greenish"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "weasley-family-ghoul"
 | 出生 | Before 1992 |
 | 头发颜色 | Yellow |
 | 别名与绰号 | Ronald Weasley |
+| 肤色 | Greenish |
 
 ## 关联
 

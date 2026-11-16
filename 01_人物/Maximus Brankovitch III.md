@@ -6,6 +6,7 @@ slug: "maximus-brankovitch-iii"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Seeker； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "maximus-brankovitch-iii"
 | 性别 | 男 |
 | 国籍 | American |
 | 职业 | Seeker for the Fitchburg Finches； Seeker and Captain for the American National Quidditch team |
+| 头衔 | Seeker； Captain |
 
 ## 关联
 

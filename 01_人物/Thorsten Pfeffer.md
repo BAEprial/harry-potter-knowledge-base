@@ -6,6 +6,7 @@ slug: "thorsten-pfeffer"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "thorsten-pfeffer"
 | 出生 | After 1976,，Germany (possibly) |
 | 国籍 | 德国人 |
 | 职业 | Seeker for the German National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

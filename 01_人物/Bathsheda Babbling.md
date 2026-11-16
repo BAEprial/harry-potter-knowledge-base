@@ -6,6 +6,7 @@ slug: "bathsheda-babbling"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "bathsheda-babbling"
 | 出生 | Before 1976 |
 | 国籍 | British or Irish |
 | 职业 | Professor of the Study of Ancient Runes (before 1993–?) |
+| 头衔 | Professor |
 
 ## 关联
 

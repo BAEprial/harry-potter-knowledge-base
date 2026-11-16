@@ -4,6 +4,7 @@
 英文名: "Gringotts spokesgoblin"
 slug: "unidentified-gringotts-spokesgoblin"
 物种: "妖精"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-gringotts-spokesgoblin"
 |---|---|
 | 物种 | 妖精 |
 | 职业 | Spokesgoblin |
+| 肤色 | Light |
 
 ## 关联
 

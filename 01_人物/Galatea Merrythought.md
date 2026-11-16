@@ -6,6 +6,7 @@ slug: "galatea-merrythought"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "galatea-merrythought"
 | 出生 | Pre-1878 |
 | 国籍 | British or Irish |
 | 职业 | Professor of Defence Against the Dark Arts at Hogwarts School of Witchcraft and Wizardry (?-1945) |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "peter-hansen"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "peter-hansen"
 | 眼睛颜色 | Blue-green |
 | 头发颜色 | Blond |
 | 职业 | Chaser for the Nordic National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

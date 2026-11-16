@@ -5,6 +5,8 @@
 slug: "miriam-fig"
 物种: "人类"
 性别: "女"
+恋情: "Eleazar Fig (husband) †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "miriam-fig"
 | 逝世 | Between September 1889 and 1 September 1890 |
 | 魔杖 | Unknown length,，wood,，and core |
 | 家庭成员 | [[Eleazar Fig]] (husband) † |
+| 恋情 | Eleazar Fig (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

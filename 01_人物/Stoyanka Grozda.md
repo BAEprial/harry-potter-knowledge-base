@@ -6,6 +6,7 @@ slug: "stoyanka-grozda"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "stoyanka-grozda"
 | 出生 | After 1976,，Bulgaria |
 | 国籍 | 保加利亚人 |
 | 职业 | Chaser for the Bulgarian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

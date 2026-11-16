@@ -5,6 +5,8 @@
 slug: "leana"
 物种: "人类"
 性别: "女"
+恋情: "Loen (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "leana"
 | 出生 | 19th century or earlier |
 | 职业 | Potioneer |
 | 家庭成员 | Loen (husband)； Children； [[Harriet]] (sister-in-law) |
+| 恋情 | Loen (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

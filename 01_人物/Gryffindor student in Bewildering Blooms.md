@@ -7,6 +7,7 @@ slug: "gryffindor-student-in-bewildering-blooms"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "gryffindor-student-in-bewildering-blooms"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Green |
 | 头发颜色 | Dark brown |
+| 肤色 | Light |
 
 ## 关联
 

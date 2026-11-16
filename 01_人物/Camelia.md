@@ -7,6 +7,9 @@ slug: "camelia"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Professor"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "camelia"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Employee at Hogwarts School (c. 1994–1998)； Invigilator of the Great Hall (c. 1994–1998) |
+| 肤色 | White |
+| 头衔 | Professor |
+| 婚姻状况 | Married |
 
 ## 关联
 

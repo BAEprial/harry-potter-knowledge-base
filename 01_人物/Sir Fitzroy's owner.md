@@ -7,6 +7,7 @@ slug: "sir-fitzroy-s-owner"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "sir-fitzroy-s-owner"
 | 出生 | Between 1 September 1872 and 31 August 1879 |
 | 国籍 | British or Irish |
 | 头发颜色 | Dark brown |
+| 肤色 | White |
 
 ## 关联
 

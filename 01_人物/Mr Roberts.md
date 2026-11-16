@@ -7,6 +7,7 @@ slug: "roberts-20th-century"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "roberts-20th-century"
 | 国籍 | 英国人 |
 | 职业 | Campsite manager |
 | 家庭成员 | Mrs Roberts (wife)； Two children |
+| 婚姻状况 | Married |
 
 ## 关联
 

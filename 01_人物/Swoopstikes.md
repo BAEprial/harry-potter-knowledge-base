@@ -6,6 +6,8 @@ slug: "swoopstikes"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Potions Master"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "swoopstikes"
 | 国籍 | British or Irish |
 | 头发颜色 | Grey |
 | 职业 | Potions Master at Hogwarts School of Witchcraft and Wizardry； Entomologist |
+| 肤色 | White |
+| 头衔 | Professor； Potions Master |
 
 ## 关联
 

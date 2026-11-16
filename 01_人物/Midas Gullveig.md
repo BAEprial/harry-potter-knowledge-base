@@ -8,6 +8,7 @@ slug: "midas-gullveig"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "midas-gullveig"
 | 头发颜色 | Grey with black streaks |
 | 魔杖 | 13¼',，maple,，phoenix feather |
 | 职业 | Entrepreneur； Loan shark |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "mabel-gurnhart"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Assistant Head of the Hogwarts Gobstone Club"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "mabel-gurnhart"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Green |
 | 头发颜色 | Red |
+| 肤色 | Light |
+| 头衔 | Assistant Head of the Hogwarts Gobstone Club |
 
 ## 关联
 

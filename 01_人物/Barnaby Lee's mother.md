@@ -8,6 +8,8 @@ slug: "barnaby-lee-s-mother"
 物种: "人类"
 性别: "女"
 守护神: "无"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "barnaby-lee-s-mother"
 | 出生 | Before 1970s |
 | 守护神 | 无 |
 | 家庭成员 | Husband； Barnaby Lee (son)； Mother-in-law †； Leah Lee (sister-in-law)； Cecil Lee (brother-in-law)； Lee family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

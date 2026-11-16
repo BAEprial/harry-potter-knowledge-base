@@ -8,6 +8,9 @@ slug: "amos-diggory"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+恋情: "Wife"
+肤色: "Ruddy"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "amos-diggory"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Employee of the Department for the Regulation and Control of Magical Creatures |
 | 家庭成员 | Wife； Cedric Diggory (son) †； [[Eldritch Diggory]] (relative) †； Diggory family |
+| 恋情 | Wife |
+| 肤色 | Ruddy |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "albert-tillyman"
 物种: "人类"
 性别: "男"
+恋情: "Violet Tillyman (formerly)"
+婚姻状况: "Estranged"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "albert-tillyman"
 | 性别 | 男 |
 | 逝世 | 1875 |
 | 家庭成员 | Violet Tillyman (wife)； Mother-in-law |
+| 恋情 | Violet Tillyman (formerly) |
+| 婚姻状况 | Estranged |
 
 ## 关联
 

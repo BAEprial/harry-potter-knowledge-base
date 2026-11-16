@@ -5,6 +5,7 @@
 slug: "nigelle-le-narcissique"
 物种: "Homo amphibia (purportedly)"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "nigelle-le-narcissique"
 | 物种 | Homo amphibia (purportedly) |
 | 性别 | 女 |
 | 职业 | Circus performer |
+| 肤色 | Green |
 
 ## 关联
 

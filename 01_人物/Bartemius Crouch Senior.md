@@ -8,6 +8,7 @@ slug: "bartemius-crouch-senior"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +33,7 @@ slug: "bartemius-crouch-senior"
 | 职业 | Head of the Department of Magical Law Enforcement (?–after 1981)； Head of the Department of International Magical Co-operation (1990–1995) |
 | 别名与绰号 | Barty |
 | 家庭成员 | Mrs Crouch (wife) †； [[Bartemius Crouch Junior]] (son) †； Grandfather †； Caspar Crouch (possible relative) †； Charis Crouch (née Black) (possible relative) †； Possible relative †； Possible relatives； Crouch family； House of Black (possibly) |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

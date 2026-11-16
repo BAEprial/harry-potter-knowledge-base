@@ -6,6 +6,8 @@ slug: "agnes-coffey"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "agnes-coffey"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Light brown |
 | 职业 | Fashion model； Garment seller |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

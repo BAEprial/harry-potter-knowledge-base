@@ -6,6 +6,8 @@ slug: "horace-slughorn-s-father"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "horace-slughorn-s-father"
 | 逝世 | Before 1896 |
 | 职业 | High-ranking Ministry official in the Department of International Magical Co-operation |
 | 家庭成员 | Wife； [[Horace]] Slughorn (son)； Slughorn family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

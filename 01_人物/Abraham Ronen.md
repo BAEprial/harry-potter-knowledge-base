@@ -8,6 +8,9 @@ slug: "abraham-ronen"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor； Charms Master； Head of Slytherin House"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +34,9 @@ slug: "abraham-ronen"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Charms Master at Hogwarts School of Witchcraft and Wizardry； Head of Slytherin House at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Father； M. Ronen (wife)； Ronen family |
+| 肤色 | Light |
+| 头衔 | Professor； Charms Master； Head of Slytherin House |
+| 婚姻状况 | Married |
 
 ## 关联
 

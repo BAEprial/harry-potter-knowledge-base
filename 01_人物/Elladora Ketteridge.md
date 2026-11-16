@@ -5,6 +5,7 @@
 slug: "elladora-ketteridge"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "elladora-ketteridge"
 | 逝世 | 1729 (aged 62–63) |
 | 眼睛颜色 | Dark blue |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

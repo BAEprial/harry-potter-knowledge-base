@@ -5,6 +5,8 @@
 slug: "celestina-warbeck-s-first-husband"
 物种: "人类"
 性别: "男"
+恋情: "Celestina Warbeck (formerly)"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "celestina-warbeck-s-first-husband"
 | 性别 | 男 |
 | 职业 | Backing dancer for Celestina Warbeck |
 | 家庭成员 | [[Celestina Warbeck]] (ex-wife)； Ex-father-in-law； Ex-mother-in-law； Warbeck family (ex-in-laws) |
+| 恋情 | Celestina Warbeck (formerly) |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

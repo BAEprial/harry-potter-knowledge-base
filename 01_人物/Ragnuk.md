@@ -5,6 +5,7 @@
 slug: "ragnuk"
 物种: "Goblin,，Ghost goblin"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ragnuk"
 | 出生 | Before or during the Middle Ages |
 | 逝世 | Unknown time |
 | 职业 | Goblin king |
+| 头衔 | King |
 
 ## 关联
 

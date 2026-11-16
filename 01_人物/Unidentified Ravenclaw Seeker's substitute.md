@@ -7,6 +7,8 @@ slug: "unidentified-ravenclaw-seeker-s-substitute"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Seeker (substitute)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "unidentified-ravenclaw-seeker-s-substitute"
 | 出生 | 31 August 1979 or earlier |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 肤色 | Light |
+| 头衔 | Seeker (substitute) |
 
 ## 关联
 

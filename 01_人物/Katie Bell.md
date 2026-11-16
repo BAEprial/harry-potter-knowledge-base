@@ -9,6 +9,7 @@ slug: "katie-bell"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "katie-bell"
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Mr [[Bell]] (father)； Mrs Bell (mother)； [[Cassius Bell]] (possibly)； Bell family |
+| 头衔 | Chaser |
 
 ## 关联
 

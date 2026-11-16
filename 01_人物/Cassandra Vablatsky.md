@@ -5,6 +5,7 @@
 slug: "cassandra-vablatsky"
 物种: "人类"
 性别: "女"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "cassandra-vablatsky"
 | 眼睛颜色 | Purple |
 | 头发颜色 | Light brown |
 | 职业 | Seer； Author |
+| 肤色 | Tan |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "chinese-fireball-at-the-magical-creatures-reserve"
 物种: "Chinese Fireball"
 性别: "女"
+肤色: "Red"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "chinese-fireball-at-the-magical-creatures-reserve"
 | 物种 | Chinese Fireball |
 | 性别 | 女 |
 | 眼睛颜色 | Green |
+| 肤色 | Red |
 
 ## 关联
 

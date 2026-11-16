@@ -5,6 +5,7 @@
 slug: "scagglethorpe-the-heedless"
 物种: "人类"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "scagglethorpe-the-heedless"
 | 性别 | 男 |
 | 出生 | Before 1890 |
 | 职业 | Knight |
+| 头衔 | Sir |
 
 ## 关联
 

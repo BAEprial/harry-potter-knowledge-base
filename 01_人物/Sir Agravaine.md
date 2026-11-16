@@ -6,6 +6,7 @@ slug: "agravaine"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "agravaine"
 | 国籍 | 英国人 |
 | 职业 | Knight |
 | 家庭成员 | Arthur (uncle) |
+| 头衔 | Sir |
 
 ## 关联
 

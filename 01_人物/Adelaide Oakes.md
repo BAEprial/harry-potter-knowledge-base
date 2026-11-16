@@ -7,6 +7,7 @@ slug: "adelaide-oakes"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "adelaide-oakes"
 | 头发颜色 | Light brown |
 | 别名与绰号 | Addie |
 | 家庭成员 | Father †； Mother †； Rowland Oakes (uncle)； Oakes family |
+| 肤色 | Light |
 
 ## 关联
 

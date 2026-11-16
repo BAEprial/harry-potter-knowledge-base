@@ -6,6 +6,8 @@ slug: "brian-gagwilde"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry； Wizard's Chess master"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "brian-gagwilde"
 | 头发颜色 | Brown |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (formerly)； Author |
 | 家庭成员 | [[Brian]] Gagwilde III (descendant) †； Gagwilde family |
+| 肤色 | Light |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry； Wizard's Chess master |
 
 ## 关联
 

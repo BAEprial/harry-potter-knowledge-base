@@ -7,6 +7,7 @@ slug: "trolley-witch"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "trolley-witch"
 | 头发颜色 | Grey |
 | 职业 | Honeydukes Express trolley operator |
 | 别名与绰号 | Honeydukes Express lady |
+| 肤色 | White |
 
 ## 关联
 

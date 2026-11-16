@@ -6,6 +6,7 @@ slug: "eunice-murray"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "eunice-murray"
 | 逝世 | 1942 |
 | 国籍 | 英国人 |
 | 职业 | Seeker for the Montrose Magpies |
+| 头衔 | Seeker |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "grawp"
 血统: "Giant"
 物种: "Giant"
 性别: "男"
+肤色: "Grey"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "grawp"
 | 身高 | Sixteen feet |
 | 别名与绰号 | Grawpy (by Hagrid) |
 | 家庭成员 | Father； Fridwulfa (mother) †； Rubeus Hagrid (half-brother) |
+| 肤色 | Grey |
+| 婚姻状况 | Single |
 
 ## 关联
 

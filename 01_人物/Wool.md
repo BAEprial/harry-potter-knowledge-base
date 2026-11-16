@@ -5,6 +5,7 @@
 slug: "wool"
 血统: "Muggle (possibly)"
 物种: "人类"
+头衔: "Owner of Wool's Orphanage"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "wool"
 | 血统 | Muggle (possibly) |
 | 物种 | 人类 |
 | 职业 | Owner of Wool's Orphanage |
+| 头衔 | Owner of Wool's Orphanage |
 
 ## 关联
 

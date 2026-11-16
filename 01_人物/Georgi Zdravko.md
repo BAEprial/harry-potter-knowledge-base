@@ -5,6 +5,7 @@
 slug: "georgi-zdravko"
 物种: "人类"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "georgi-zdravko"
 | 性别 | 男 |
 | 出生 | After 1976,，Bulgaria |
 | 职业 | Keeper for the Bulgarian National Quidditch team |
+| 头衔 | Keeper |
 
 ## 关联
 

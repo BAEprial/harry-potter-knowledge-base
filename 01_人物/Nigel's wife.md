@@ -6,6 +6,7 @@ slug: "nigel-s-wife"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nigel-s-wife"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | [[Nigel]] (husband)； Nephew； Brother-in-law or husband's brother-in-law |
+| 婚姻状况 | Married |
 
 ## 关联
 

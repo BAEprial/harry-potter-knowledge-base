@@ -6,6 +6,7 @@ slug: "darius-smackhammer"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "darius-smackhammer"
 | 出生 | After 1976,，United States of America (possibly) |
 | 国籍 | American |
 | 职业 | Seeker for the American National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

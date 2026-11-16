@@ -6,6 +6,8 @@ slug: "gianni-fedele"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "gianni-fedele"
 | 眼睛颜色 | Light Brown |
 | 头发颜色 | Black |
 | 职业 | Chaser for the American National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

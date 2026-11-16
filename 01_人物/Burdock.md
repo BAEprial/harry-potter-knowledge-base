@@ -5,6 +5,7 @@
 slug: "burdock-bowtruckle"
 物种: "Bowtruckle"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "burdock-bowtruckle"
 | 出生 | Before the 1980s |
 | 眼睛颜色 | Black |
 | 家庭成员 | Family of Bowtruckles |
+| 肤色 | Green |
 
 ## 关联
 

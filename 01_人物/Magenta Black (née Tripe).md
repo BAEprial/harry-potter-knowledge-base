@@ -7,6 +7,8 @@ slug: "magenta-tripe"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Licorus Black (husband) †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "magenta-tripe"
 | 逝世 | Before 1995 (possibly) |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Licorus Black]] (husband) †； Tripe family； House of Black |
+| 恋情 | Licorus Black (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

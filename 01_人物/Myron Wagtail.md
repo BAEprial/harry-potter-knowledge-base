@@ -7,6 +7,7 @@ slug: "myron-wagtail"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "myron-wagtail"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Lead singer for The Weird Sisters |
+| 肤色 | White |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "richard-jackdaw"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Apollonia Black (unrequited)； Anne Thisbe"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "richard-jackdaw"
 | 眼睛颜色 | Brown |
 | 魔杖 | Unknown length,，apple,，fairy wing (stolen) |
 | 职业 | Assistant at Ollivanders in Hogsmeade (formerly)； Member of the Headless Hunt |
+| 恋情 | Apollonia Black (unrequited)； Anne Thisbe |
+| 肤色 | Light |
 
 ## 关联
 

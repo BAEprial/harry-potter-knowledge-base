@@ -6,6 +6,7 @@ slug: "lakshmi-singh"
 物种: "人类"
 国籍: "Indian"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "lakshmi-singh"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Chaser for the Indian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

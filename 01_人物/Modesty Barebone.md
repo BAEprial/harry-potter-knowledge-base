@@ -7,6 +7,7 @@ slug: "modesty-barebone"
 物种: "人类"
 国籍: "American"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "modesty-barebone"
 | 出生 | Between 8 December 1917 and 7 December 1918,，United States of America (presumably) |
 | 国籍 | American |
 | 家庭成员 | Biological father； Biological mother； [[Mary]] Lou Barebone (adoptive mother) †； Nine biological siblings； [[Chas]]tity Barebone (adoptive sister) †； Aurelius Dumbledore (adoptive brother)； [[Bartholomew]] Barebone (adoptive ancestor) †； Adoptive ancestor †； Biological family； Barebone family (adoptive family) |
+| 婚姻状况 | Single |
 
 ## 关联
 

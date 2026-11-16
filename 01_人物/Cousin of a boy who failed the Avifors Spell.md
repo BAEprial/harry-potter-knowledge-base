@@ -7,6 +7,7 @@ slug: "boy-who-failed-the-avifors-spell-s-cousin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "boy-who-failed-the-avifors-spell-s-cousin"
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
 | 家庭成员 | Cousin |
+| 肤色 | Light |
 
 ## 关联
 

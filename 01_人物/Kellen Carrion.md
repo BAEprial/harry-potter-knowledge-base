@@ -8,6 +8,8 @@ slug: "kellen-carrion"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Temporary Special Investigator"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "kellen-carrion"
 | 头发颜色 | Light brown (formerly),，Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Thief； Inventor； Wizard poacher； Investigator working with the British Ministry of Magic |
+| 肤色 | Light |
+| 头衔 | Temporary Special Investigator |
 
 ## 关联
 

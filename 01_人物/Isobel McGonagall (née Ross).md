@@ -7,6 +7,9 @@ slug: "isobel-mcgonagall"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+恋情: "Robert McGonagall Senior (husband)"
+头衔: "Quidditch Captain"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "isobel-mcgonagall"
 | 国籍 | Scottish |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Father； Mother； Robert McGonagall Senior (husband)； Minerva McGonagall (daughter)； Malcolm McGonagall (son)； Robert McGonagall Junior (son) †； Father-in-law； Mother-in-law； [[Elphinstone Urquart]] (son-in-law) †； Minerva (grandmother)； Grandchildren； Ms Ross (possible relative)； M. G. McGonagall (possible relative)； Ross family； McGonagall family (in-laws/descendants) |
+| 恋情 | Robert McGonagall Senior (husband) |
+| 头衔 | Quidditch Captain |
+| 婚姻状况 | Married |
 
 ## 关联
 

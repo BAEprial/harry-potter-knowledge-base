@@ -7,6 +7,7 @@ slug: "arabella-figg"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married, divorced or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "arabella-figg"
 | 头发颜色 | Grey |
 | 职业 | Dealer of cross-bred cats and kneazles |
 | 家庭成员 | Parents |
+| 婚姻状况 | Married, divorced or widowed |
 
 ## 关联
 

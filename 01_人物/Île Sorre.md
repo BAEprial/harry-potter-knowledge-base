@@ -6,6 +6,7 @@ slug: "ile-sorre"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "ile-sorre"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | 法国人 |
+| 头衔 | Madame |
 
 ## 关联
 

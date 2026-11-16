@@ -6,6 +6,7 @@ slug: "tour-guide-at-the-magical-congress-of-the-united-states-of-america-headqu
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "tour-guide-at-the-magical-congress-of-the-united-states-of-america-headqu
 | 国籍 | American |
 | 眼睛颜色 | Brown |
 | 职业 | Tour guide for the Magical Congress of the United States of America |
+| 肤色 | Dark |
 
 ## 关联
 

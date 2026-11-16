@@ -6,6 +6,7 @@ slug: "quong-po"
 物种: "人类"
 国籍: "Chinese"
 性别: "男"
+肤色: "Olive"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "quong-po"
 | 国籍 | Chinese |
 | 头发颜色 | White |
 | 职业 | Dragonologist |
+| 肤色 | Olive |
 
 ## 关联
 

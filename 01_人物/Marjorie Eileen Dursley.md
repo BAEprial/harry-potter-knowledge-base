@@ -7,6 +7,9 @@ slug: "marjorie-dursley"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Fubster (unrequited)"
+肤色: "Light"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "marjorie-dursley"
 | 职业 | Dog breeder |
 | 别名与绰号 | Auntie Marge (by Dudley Dursley)； Aunt Marge (by Harry Potter)； Marge (by family)； Margie (by Vernon Dursley) |
 | 家庭成员 | Mother； Vernon Dursley (younger brother)； Petunia Dursley (née Evans) (sister-in-law) †； [[Dudley]] Dursley (nephew)； Dursley family |
+| 恋情 | Fubster (unrequited) |
+| 肤色 | Light |
+| 婚姻状况 | Single |
 
 ## 关联
 

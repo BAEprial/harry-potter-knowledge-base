@@ -5,6 +5,7 @@
 slug: "merton-graves"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "merton-graves"
 | 头发颜色 | Brown |
 | 职业 | Cellist for the Weird Sisters |
 | 家庭成员 | [[Gondulphus Graves]] (possibly)； Percival Graves (possibly)； Graves family |
+| 肤色 | White |
 
 ## 关联
 

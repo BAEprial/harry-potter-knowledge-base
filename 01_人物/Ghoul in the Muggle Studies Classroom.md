@@ -4,6 +4,7 @@
 英文名: "Ghoul in the Muggle Studies Classroom"
 slug: "ghoul-in-the-muggle-studies-classroom"
 物种: "Ghoul"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "ghoul-in-the-muggle-studies-classroom"
 | 出生 | Before 1993 |
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Brown |
+| 肤色 | Brown |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "justus-pilliwickle"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "justus-pilliwickle"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
 | 职业 | Head of the Department of Magical Law Enforcement |
+| 肤色 | Fair |
 
 ## 关联
 

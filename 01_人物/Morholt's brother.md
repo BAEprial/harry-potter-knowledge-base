@@ -5,6 +5,7 @@
 slug: "morholt-s-brother"
 物种: "Giant"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "morholt-s-brother"
 | 物种 | Giant |
 | 性别 | 男 |
 | 家庭成员 | [[Morholt]] (brother) |
+| 头衔 | King |
 
 ## 关联
 

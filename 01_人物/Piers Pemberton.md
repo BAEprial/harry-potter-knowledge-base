@@ -6,6 +6,7 @@ slug: "piers-pemberton"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "piers-pemberton"
 | 眼睛颜色 | Brown |
 | 头发颜色 | 黑暗 |
 | 别名与绰号 | Pigtails Piers |
+| 肤色 | Light |
 
 ## 关联
 

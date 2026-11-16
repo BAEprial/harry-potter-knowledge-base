@@ -5,6 +5,7 @@
 slug: "deek"
 物种: "家养小精灵"
 性别: "男"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "deek"
 | 出生 | Before 1986 |
 | 眼睛颜色 | Green |
 | 职业 | Hogwarts School of Witchcraft and Wizardry employee |
+| 肤色 | Brown |
 
 ## 关联
 

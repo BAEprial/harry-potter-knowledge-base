@@ -6,6 +6,7 @@ slug: "antoine-charrier"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "antoine-charrier"
 | 出生 | Before 1927 |
 | 国籍 | 法国人 |
 | 职业 | Professor at École D'Apparition Démoniste Limus |
+| 头衔 | Professor |
 
 ## 关联
 

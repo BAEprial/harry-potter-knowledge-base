@@ -5,6 +5,7 @@
 slug: "gabbey"
 物种: "家养小精灵"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "gabbey"
 | 出生 | Before 2010 |
 | 眼睛颜色 | Yellow |
 | 职业 | Assistant at Bewildering Blooms |
+| 肤色 | Light |
 
 ## 关联
 

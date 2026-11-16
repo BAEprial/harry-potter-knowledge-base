@@ -6,6 +6,7 @@ slug: "friar"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Friar"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "friar"
 | 性别 | 男 |
 | 出生 | Middle Ages |
 | 职业 | Franciscan Friar |
+| 头衔 | Friar |
 
 ## 关联
 

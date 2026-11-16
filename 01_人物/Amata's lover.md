@@ -5,6 +5,7 @@
 slug: "amata-s-lover"
 物种: "人类"
 性别: "男"
+恋情: "Amata (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "amata-s-lover"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 男 |
+| 恋情 | Amata (formerly) |
 
 ## 关联
 

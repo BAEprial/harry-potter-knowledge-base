@@ -5,6 +5,7 @@
 slug: "marlene-mckinnon"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "marlene-mckinnon"
 | 眼睛颜色 | Orange |
 | 头发颜色 | Red |
 | 家庭成员 | Angus McKinnon； [[Elspeth McKinnon]]； McKinnon family |
+| 肤色 | Light |
 
 ## 关联
 

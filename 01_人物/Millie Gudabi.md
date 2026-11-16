@@ -6,6 +6,8 @@ slug: "millie-gudabi"
 物种: "人类"
 国籍: "Australian"
 性别: "女"
+肤色: "White"
+头衔: "Keeper (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "millie-gudabi"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 职业 | Keeper for the Thundelarra Thunderers (formerly)； Quidditch commentator |
+| 肤色 | White |
+| 头衔 | Keeper (formerly) |
 
 ## 关联
 

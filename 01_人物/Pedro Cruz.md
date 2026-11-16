@@ -6,6 +6,8 @@ slug: "pedro-cruz"
 物种: "人类"
 国籍: "Mexican"
 性别: "男"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "pedro-cruz"
 | 国籍 | Mexican |
 | 头发颜色 | Brown |
 | 职业 | Chaser for the Mexican National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

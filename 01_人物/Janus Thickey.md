@@ -6,6 +6,8 @@ slug: "janus-thickey"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Wife (formerly)； Landlady of the Green Dragon pub"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "janus-thickey"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 家庭成员 | Wife； Children |
+| 恋情 | Wife (formerly)； Landlady of the Green Dragon pub |
+| 婚姻状况 | Married |
 
 ## 关联
 

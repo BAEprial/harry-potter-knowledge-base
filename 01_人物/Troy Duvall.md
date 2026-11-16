@@ -6,6 +6,8 @@ slug: "troy-duvall"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "Black"
+头衔: "Beater； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "troy-duvall"
 | 眼睛颜色 | Light Brown |
 | 职业 | Beater and Captain for the American National Quidditch team |
 | 别名与绰号 | Tank |
+| 肤色 | Black |
+| 头衔 | Beater； Captain |
 
 ## 关联
 

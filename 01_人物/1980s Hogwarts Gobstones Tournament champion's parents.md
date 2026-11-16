@@ -5,6 +5,7 @@
 slug: "1980s-hogwarts-gobstones-tournament-champion-s-parents"
 物种: "人类"
 性别: "Male,，female"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "1980s-hogwarts-gobstones-tournament-champion-s-parents"
 | 物种 | 人类 |
 | 性别 | Male,，female |
 | 家庭成员 | Son |
+| 婚姻状况 | Married |
 
 ## 关联
 

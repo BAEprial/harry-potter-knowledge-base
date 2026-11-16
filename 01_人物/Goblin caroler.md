@@ -5,6 +5,7 @@
 slug: "unidentified-goblin-caroler-i"
 物种: "妖精"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-goblin-caroler-i"
 | 性别 | 男 |
 | 眼睛颜色 | Black |
 | 职业 | Caroler |
+| 肤色 | Pale |
 
 ## 关联
 

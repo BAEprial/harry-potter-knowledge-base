@@ -8,6 +8,8 @@ slug: "patricia-rakepick"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Lioness"
+肤色: "Light"
+头衔: "Madam； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "patricia-rakepick"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head Curse-Breaker at Gringotts Wizarding Bank (?–1988)； Professor of Defence Against the Dark Arts at Hogwarts School of Witchcraft and Wizardry (1988–1989) |
 | 家庭成员 | Mother； Family † |
+| 肤色 | Light |
+| 头衔 | Madam； Professor |
 
 ## 关联
 

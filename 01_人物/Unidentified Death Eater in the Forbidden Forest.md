@@ -7,6 +7,8 @@ slug: "unidentified-death-eater-in-the-forbidden-forest"
 血统: "Pure-blood or Half-blood"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Death Eater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "unidentified-death-eater-in-the-forbidden-forest"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 头发颜色 | Blond |
+| 肤色 | Light |
+| 头衔 | Death Eater |
 
 ## 关联
 

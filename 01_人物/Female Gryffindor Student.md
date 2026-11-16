@@ -7,6 +7,7 @@ slug: "unidentified-gryffindor-girl-vii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-gryffindor-girl-vii"
 | 出生 | between 1 September 1979 and 31 August 1980 |
 | 国籍 | British or Irish |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

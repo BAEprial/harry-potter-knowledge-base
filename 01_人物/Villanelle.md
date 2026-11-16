@@ -5,6 +5,8 @@
 slug: "villanelle"
 物种: "人类"
 性别: "女"
+肤色: "Dark"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "villanelle"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Employee at Flourish and Blotts |
+| 肤色 | Dark |
+| 头衔 | Madam |
 
 ## 关联
 

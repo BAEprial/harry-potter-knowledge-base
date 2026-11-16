@@ -5,6 +5,8 @@
 slug: "merqueen"
 物种: "Selkie"
 性别: "女"
+肤色: "Grey"
+头衔: "Merqueen"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "merqueen"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White with dark blue tips |
 | 职业 | Queen of the Great Lake Selkie colony |
+| 肤色 | Grey |
+| 头衔 | Merqueen |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "sugarplum"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sugarplum"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Blue |
 | 职业 | Owner of Sugarplum's Sweets Shop |
+| 肤色 | White |
 
 ## 关联
 

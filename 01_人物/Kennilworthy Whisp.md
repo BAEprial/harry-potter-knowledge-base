@@ -6,6 +6,7 @@ slug: "kennilworthy-whisp"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "kennilworthy-whisp"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown (graying) |
 | 职业 | Author； Biographical author |
+| 肤色 | Light |
 
 ## 关联
 

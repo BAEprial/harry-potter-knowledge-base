@@ -6,6 +6,7 @@ slug: "artemisia-blackwood-s-mother"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+恋情: "Muggle man"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "artemisia-blackwood-s-mother"
 | 性别 | 女 |
 | 出生 | 15th century |
 | 家庭成员 | Artemisia Blackwood (née Black) (daughter) †； Eunon Blackwood (son-in-law)； Lysandra Blackwood (granddaughter)； House of Black |
+| 恋情 | Muggle man |
 
 ## 关联
 

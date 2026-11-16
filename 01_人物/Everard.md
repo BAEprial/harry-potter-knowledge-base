@@ -6,6 +6,8 @@ slug: "everard"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Headmaster； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "everard"
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
 | 职业 | Headmaster of Hogwarts |
+| 肤色 | Light |
+| 头衔 | Headmaster； Professor |
 
 ## 关联
 

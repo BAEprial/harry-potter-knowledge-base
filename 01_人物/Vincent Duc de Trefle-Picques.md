@@ -6,6 +6,7 @@ slug: "vincent-duc-de-trefle-picques"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Duc"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "vincent-duc-de-trefle-picques"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Nobleman |
 | 家庭成员 | Unnamed Duc |
+| 头衔 | Duc |
 
 ## 关联
 

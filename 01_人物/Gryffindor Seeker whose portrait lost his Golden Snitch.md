@@ -7,6 +7,8 @@ slug: "gryffindor-seeker-whose-portrait-lost-his-golden-snitch"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Seeker； Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "gryffindor-seeker-whose-portrait-lost-his-golden-snitch"
 | 国籍 | British or Irish |
 | 头发颜色 | Red |
 | 职业 | Head of Gryffindor House |
+| 肤色 | Light |
+| 头衔 | Seeker； Head of Gryffindor House |
 
 ## 关联
 

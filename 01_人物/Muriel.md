@@ -7,6 +7,7 @@ slug: "muriel-slytherin-student"
 物种: "人类"
 国籍: "British or Irish (formerly),，American"
 性别: "女"
+恋情: "Gwendolyn"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "muriel-slytherin-student"
 | 性别 | 女 |
 | 出生 | Late 19th or early 20th century |
 | 国籍 | British or Irish (formerly),，American |
+| 恋情 | Gwendolyn |
 
 ## 关联
 

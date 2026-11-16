@@ -6,6 +6,8 @@ slug: "celestina-warbeck-s-father"
 物种: "人类"
 国籍: "Welsh"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "celestina-warbeck-s-father"
 | 国籍 | Welsh |
 | 职业 | Minor functionary in the Department of Muggle Relations |
 | 家庭成员 | Wife； [[Celestina Warbeck]] (daughter)； First son-in-law； Second son-in-law； [[Irving Warble]] (third son-in-law)； Grandson； Warbeck family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

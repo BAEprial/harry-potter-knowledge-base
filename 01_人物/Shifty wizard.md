@@ -7,6 +7,7 @@ slug: "shifty-wizard"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "shifty-wizard"
 | 守护神 | Non-corporeal |
 | 博格特（恐惧之物） | Lord Voldemort |
 | 国籍 | 英国人 |
+| 肤色 | Pale |
 
 ## 关联
 

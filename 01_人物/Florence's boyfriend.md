@@ -6,6 +6,7 @@ slug: "florence-s-boyfriend"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Florence (girlfriend)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "florence-s-boyfriend"
 | 性别 | 男 |
 | 出生 | 1950s - 1960s |
 | 国籍 | British or Irish |
+| 恋情 | Florence (girlfriend) |
 
 ## 关联
 

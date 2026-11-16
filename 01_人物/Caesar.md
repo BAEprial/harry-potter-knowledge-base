@@ -5,6 +5,7 @@
 slug: "caesar"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "caesar"
 | 逝世 | Before 1991 |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
+| 肤色 | Dark |
 
 ## 关联
 

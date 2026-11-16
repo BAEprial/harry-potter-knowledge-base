@@ -6,6 +6,8 @@ slug: "agnes-scribner"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Head Librarian"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "agnes-scribner"
 | 国籍 | British or Irish |
 | 头发颜色 | Grey |
 | 职业 | Hogwarts librarian |
+| 肤色 | Light |
+| 头衔 | Head Librarian |
 
 ## 关联
 

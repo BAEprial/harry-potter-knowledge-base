@@ -6,6 +6,7 @@ slug: "winky-crockett-slytherin"
 学院: "斯莱特林"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "winky-crockett-slytherin"
 | 出生 | c. 1920s–1930s |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Winky]] Crockett (Gryffindor) (possibly)； Winky Crockett (Elbow Grease) (possibly) |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

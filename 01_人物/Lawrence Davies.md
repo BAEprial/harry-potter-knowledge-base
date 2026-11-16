@@ -7,6 +7,7 @@ slug: "lawrence-davies"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "lawrence-davies"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Davies]] family； Roger Davies (possible relative)； [[Chester Davies]] (possible relative) |
+| 肤色 | Light |
 
 ## 关联
 

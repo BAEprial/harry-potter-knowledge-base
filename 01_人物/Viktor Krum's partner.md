@@ -5,6 +5,7 @@
 slug: "viktor-krum-s-partner"
 物种: "人类"
 国籍: "保加利亚人"
+恋情: "Viktor Krum"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "viktor-krum-s-partner"
 | 物种 | 人类 |
 | 出生 | Before 2007 |
 | 国籍 | 保加利亚人 |
+| 恋情 | Viktor Krum |
 
 ## 关联
 

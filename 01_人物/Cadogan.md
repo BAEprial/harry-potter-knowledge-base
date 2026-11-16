@@ -8,6 +8,9 @@ slug: "cadogan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Three ex-wives"
+头衔: "Sir"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "cadogan"
 | 魔杖 | 9',，Blackthorn,，troll whisker (according to legend) |
 | 职业 | Knight of the Round Table； Gryffindor Tower door guard (temporarily) |
 | 家庭成员 | Father； Mother； Three ex-wives； Seventeen rumoured children |
+| 恋情 | Three ex-wives |
+| 头衔 | Sir |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

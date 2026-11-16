@@ -4,6 +4,7 @@
 英文名: "Troll who attacked the Hippogriff Club demonstration"
 slug: "troll-who-attacked-the-hippogriff-club-demonstration"
 物种: "Troll"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "troll-who-attacked-the-hippogriff-club-demonstration"
 |---|---|
 | 物种 | Troll |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

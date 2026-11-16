@@ -7,6 +7,7 @@ slug: "michael"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "michael"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blond |
 | 家庭成员 | Female escort (possibly) |
+| 肤色 | White |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "gregor-mcqueen"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "gregor-mcqueen"
 | 逝世 | Before 1890 |
 | 国籍 | British or Irish |
 | 职业 | Knight |
+| 头衔 | Sir |
 
 ## 关联
 

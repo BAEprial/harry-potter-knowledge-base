@@ -7,6 +7,7 @@ slug: "andrew-kirke"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "andrew-kirke"
 | 性别 | 男 |
 | 出生 | 31 August 1983 or earlier |
 | 国籍 | British or Irish |
+| 头衔 | Beater |
 
 ## 关联
 

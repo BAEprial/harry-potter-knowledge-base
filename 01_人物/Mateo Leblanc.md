@@ -6,6 +6,8 @@ slug: "mateo-leblanc"
 物种: "人类"
 国籍: "Canadian"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "mateo-leblanc"
 | 头发颜色 | Blond |
 | 职业 | Chaser for the Canadian National Quidditch team |
 | 家庭成员 | Possible relative； Possible relative †； Qui LeBlanc (possible relative)； LeBlanc family (possible relatives) |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

@@ -8,6 +8,10 @@ slug: "celestina-warbeck"
 物种: "人类"
 国籍: "Welsh"
 性别: "女"
+恋情: "First husband； Second husband； Irving Warble (third husband)"
+肤色: "Dark"
+头衔: "Madam； Club president"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +35,10 @@ slug: "celestina-warbeck"
 | 职业 | Singer |
 | 别名与绰号 | The Singing Sorceress |
 | 家庭成员 | Father； Mother； First husband； Second husband； Irving Warble (third husband)； Son； Warbeck family |
+| 恋情 | First husband； Second husband； Irving Warble (third husband) |
+| 肤色 | Dark |
+| 头衔 | Madam； Club president |
+| 婚姻状况 | Married |
 
 ## 关联
 

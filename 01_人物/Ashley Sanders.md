@@ -7,6 +7,7 @@ slug: "ashley-sanders"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "ashley-sanders"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

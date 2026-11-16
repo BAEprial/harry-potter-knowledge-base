@@ -5,6 +5,7 @@
 slug: "fingal-the-fearless"
 物种: "人类"
 性别: "男"
+头衔: "Aingingein Champion (allegedly)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "fingal-the-fearless"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Aingingein player (allegedly) |
+| 头衔 | Aingingein Champion (allegedly) |
 
 ## 关联
 

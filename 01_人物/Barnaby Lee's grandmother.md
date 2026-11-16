@@ -7,6 +7,7 @@ slug: "barnaby-lee-s-grandmother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "barnaby-lee-s-grandmother"
 | 头发颜色 | Grey,，Brown (eyebrows) |
 | 别名与绰号 | Grandmum (by Barnaby Lee)； Madam Lee (by Jacob's sibling) |
 | 家庭成员 | Leah Lee (daughter)； Cecil Lee (son)； Son； Possible grandfather； Daughter-in-law； Barnaby Lee (grandson)； Lee family |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "scarlett-sparks"
 物种: "Human (werewolf)"
 国籍: "英国人"
 性别: "女"
+肤色: "Bronze"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "scarlett-sparks"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Red |
+| 肤色 | Bronze |
 
 ## 关联
 

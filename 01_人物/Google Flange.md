@@ -5,6 +5,8 @@
 slug: "google-flange"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "google-flange"
 | 性别 | 男 |
 | 逝世 | In or before 1991 |
 | 头发颜色 | Brown |
+| 肤色 | Light |
+| 头衔 | Sir |
 
 ## 关联
 

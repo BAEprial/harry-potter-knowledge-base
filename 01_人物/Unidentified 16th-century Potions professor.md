@@ -4,6 +4,7 @@
 英文名: "Unidentified 16th-century Potions professor"
 slug: "unidentified-16th-century-potions-professor"
 物种: "人类"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-16th-century-potions-professor"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Potions Master at Hogwarts School of Witchcraft and Wizardry (c. 16th century) |
+| 头衔 | Professor |
 
 ## 关联
 

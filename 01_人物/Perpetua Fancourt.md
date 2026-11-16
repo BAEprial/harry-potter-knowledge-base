@@ -7,6 +7,7 @@ slug: "perpetua-fancourt"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "perpetua-fancourt"
 | 眼睛颜色 | Green |
 | 头发颜色 | Red (dyed blue at one point) |
 | 职业 | Astronomer； Inventor |
+| 肤色 | White |
 
 ## 关联
 

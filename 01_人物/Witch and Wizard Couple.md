@@ -5,6 +5,8 @@
 slug: "witch-and-wizard-couple"
 物种: "Humans"
 性别: "Male,，女"
+肤色: "Light"
+婚姻状况: "Married (possibly)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "witch-and-wizard-couple"
 | 性别 | Male,，女 |
 | 逝世 | Prior to 1991 |
 | 头发颜色 | Brown |
+| 肤色 | Light |
+| 婚姻状况 | Married (possibly) |
 
 ## 关联
 

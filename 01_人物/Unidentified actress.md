@@ -6,6 +6,7 @@ slug: "unidentified-actress"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-actress"
 | 出生 | In or before 1979 |
 | 职业 | Actor |
 | 家庭成员 | Ex-husband |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

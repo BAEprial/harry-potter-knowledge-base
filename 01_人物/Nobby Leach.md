@@ -6,6 +6,7 @@ slug: "nobby-leach"
 血统: "麻瓜出身"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "nobby-leach"
 | 性别 | 男 |
 | 出生 | Pre-1945 |
 | 职业 | Minister for Magic (1962–1968) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

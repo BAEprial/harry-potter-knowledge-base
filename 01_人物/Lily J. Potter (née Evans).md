@@ -9,6 +9,9 @@ slug: "lily-potter-i"
 国籍: "英国人"
 性别: "女"
 守护神: "牝鹿"
+恋情: "James Potter (I) (late husband) †"
+头衔: "Head Girl"
+婚姻状况: "Widowed (briefly)"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +35,9 @@ slug: "lily-potter-i"
 | 头发颜色 | Dark red |
 | 魔杖 | 10¼',，Willow,，unknown core |
 | 家庭成员 | Father †； Mother †； Petunia Dursley (née Evans) (older sister) †； [[James]] Potter (I) (husband) †； Harry Potter (son)； [[Fleamont Potter]] (father-in-law) †； [[Euphemia Potter]] (mother-in-law) †； Vernon Dursley (brother-in-law)； [[Dudley]] Dursley (nephew)； Ginevra Potter (née Weasley) (daughter-in-law)； James Potter (II) (grandson)； Albus Potter (grandson)； Lily Potter (II) (granddaughter)； Evans family； Potter family (in-laws/descendants) |
+| 恋情 | James Potter (I) (late husband) † |
+| 头衔 | Head Girl |
+| 婚姻状况 | Widowed (briefly) |
 
 ## 关联
 

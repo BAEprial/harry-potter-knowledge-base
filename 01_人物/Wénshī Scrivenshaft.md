@@ -7,6 +7,7 @@ slug: "wenshi-scrivenshaft"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "wenshi-scrivenshaft"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Dark brown |
 | 家庭成员 | Father； Scrivenshaft family |
+| 肤色 | Light |
 
 ## 关联
 

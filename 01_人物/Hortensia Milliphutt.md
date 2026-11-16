@@ -6,6 +6,7 @@ slug: "hortensia-milliphutt"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "hortensia-milliphutt"
 | 性别 | 女 |
 | 出生 | Before 1824 |
 | 职业 | Minister for Magic (1841–1849) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

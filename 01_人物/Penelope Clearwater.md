@@ -9,6 +9,8 @@ slug: "penelope-clearwater"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+恋情: "Percy Weasley (ex-boyfriend)"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "penelope-clearwater"
 | 国籍 | British or Irish |
 | 别名与绰号 | Penny (by Percy Weasley) |
 | 家庭成员 | [[Chauncey Clearwater]] (possible relative)； Clearwater family |
+| 恋情 | Percy Weasley (ex-boyfriend) |
+| 头衔 | Prefect |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "poonima-shah"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "poonima-shah"
 | 眼睛颜色 | Green |
 | 头发颜色 | Black |
 | 家庭成员 | Satyavati Shah (possibly)； Suchrita (possibly)； Shah family |
+| 肤色 | Dark |
 
 ## 关联
 

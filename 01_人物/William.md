@@ -5,6 +5,7 @@
 slug: "william-occamy"
 物种: "Occamy"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "william-occamy"
 | 出生 | Before 1990 |
 | 眼睛颜色 | Yellow |
 | 家庭成员 | [[Silvanus Kettleburn]] (owner) |
+| 肤色 | Green |
 
 ## 关联
 

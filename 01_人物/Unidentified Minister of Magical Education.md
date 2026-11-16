@@ -5,6 +5,7 @@
 slug: "unidentified-minister-of-magical-education"
 物种: "人类"
 国籍: "英国人"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-minister-of-magical-education"
 | 物种 | 人类 |
 | 国籍 | 英国人 |
 | 职业 | Head of the Department of Magical Education |
+| 头衔 | Minister |
 
 ## 关联
 

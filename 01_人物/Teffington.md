@@ -6,6 +6,7 @@ slug: "teffington"
 血统: "Pure-blood or half-blood (most likely)"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "teffington"
 | 逝世 | 1 May 1998,，Malfoy Manor,，Wiltshire,，England |
 | 头发颜色 | 黑暗 |
 | 职业 | Guard at Gringotts Wizarding Bank |
+| 肤色 | Light |
 
 ## 关联
 

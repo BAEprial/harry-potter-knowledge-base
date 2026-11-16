@@ -5,6 +5,8 @@
 slug: "theophilus-harlow"
 物种: "人类"
 性别: "男"
+恋情: "Lady friend"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "theophilus-harlow"
 | 性别 | 男 |
 | 出生 | Before 1890 |
 | 魔杖 | Unknown length,，wood and core |
+| 恋情 | Lady friend |
+| 肤色 | Light |
 
 ## 关联
 

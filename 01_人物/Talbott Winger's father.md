@@ -6,6 +6,8 @@ slug: "talbott-winger-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Wife †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "talbott-winger-s-father"
 | 国籍 | 英国人 |
 | 职业 | Writer for the Daily Prophet |
 | 家庭成员 | Wife †； Talbott Winger (son)； Winger family |
+| 恋情 | Wife † |
+| 婚姻状况 | Married |
 
 ## 关联
 

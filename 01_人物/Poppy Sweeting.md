@@ -8,6 +8,7 @@ slug: "poppy-sweeting"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "poppy-sweeting"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Angus Sweeting (father)； Violet Sweeting (mother)； Grandmother； [[Havelock Sweeting]] (possible relative)； Sweeting family |
+| 肤色 | Light |
 
 ## 关联
 

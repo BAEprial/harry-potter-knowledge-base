@@ -7,6 +7,8 @@ slug: "angus-matlock"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Duelling Club Captain； Gryffindor House Champion"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "angus-matlock"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Dark brown |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | White |
+| 头衔 | Duelling Club Captain； Gryffindor House Champion |
 
 ## 关联
 

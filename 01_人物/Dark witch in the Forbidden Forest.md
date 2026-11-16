@@ -5,6 +5,7 @@
 slug: "dark-witch-in-the-forbidden-forest"
 物种: "人类"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "dark-witch-in-the-forbidden-forest"
 | 性别 | 女 |
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Pale |
 
 ## 关联
 

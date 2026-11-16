@@ -6,6 +6,7 @@ slug: "joan-maguire-cook"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "joan-maguire-cook"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 女 |
+| 婚姻状况 | Single |
 
 ## 关联
 

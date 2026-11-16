@@ -6,6 +6,7 @@ slug: "chiara-lobosca-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Mrs Lobosca (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "chiara-lobosca-s-father"
 | 国籍 | 英国人 |
 | 职业 | Arithmancer |
 | 家庭成员 | [[Chiara Lobosca]] (daughter)； Lobosca family |
+| 恋情 | Mrs Lobosca (uncertain relationship) |
 
 ## 关联
 

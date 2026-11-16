@@ -8,6 +8,7 @@ slug: "pius-thicknesse"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "pius-thicknesse"
 | 头发颜色 | Black and silver |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head of the Department of Magical Law Enforcement (formerly)； Minister for Magic (formerly) |
+| 头衔 | Minister |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "warlock-s-friends"
 物种: "Humans"
 性别: "Males"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "warlock-s-friends"
 | 物种 | Humans |
 | 性别 | Males |
 | 家庭成员 | Wives； Children |
+| 婚姻状况 | Married |
 
 ## 关联
 

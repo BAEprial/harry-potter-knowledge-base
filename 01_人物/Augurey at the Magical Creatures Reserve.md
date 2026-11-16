@@ -4,6 +4,7 @@
 英文名: "Augurey at the Magical Creatures Reserve"
 slug: "augurey-at-the-magical-creatures-reserve"
 物种: "Augurey"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "augurey-at-the-magical-creatures-reserve"
 | 物种 | Augurey |
 | 眼睛颜色 | Black |
 | 头发颜色 | Blue |
+| 肤色 | Grey |
 
 ## 关联
 

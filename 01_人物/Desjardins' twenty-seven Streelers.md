@@ -4,6 +4,7 @@
 英文名: "Desjardins' twenty-seven Streelers"
 slug: "desjardins-twenty-seven-streelers"
 物种: "Streelers"
+肤色: "Varies"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "desjardins-twenty-seven-streelers"
 | 物种 | Streelers |
 | 出生 | 19th and 20th centuries |
 | 眼睛颜色 | Varies |
+| 肤色 | Varies |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "female-death-eater-at-the-little-hangleton-graveyard"
 物种: "人类"
 性别: "女"
 守护神: "无"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "female-death-eater-at-the-little-hangleton-graveyard"
 | 性别 | 女 |
 | 守护神 | 无 |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

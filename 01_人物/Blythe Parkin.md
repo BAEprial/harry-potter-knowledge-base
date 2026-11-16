@@ -6,6 +6,8 @@ slug: "blythe-parkin"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "blythe-parkin"
 | 头发颜色 | Black |
 | 职业 | Seeker for the English National Quidditch team |
 | 家庭成员 | Walter Parkin (possibly)； Walter Parkin's children (possibly)； Parkin family |
+| 肤色 | White |
+| 头衔 | Seeker |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "lucius-malfoy-i"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Elizabeth I (unrequited) †"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "lucius-malfoy-i"
 | 逝世 | After 1558 |
 | 国籍 | 英国人 |
 | 家庭成员 | Armand Malfoy (ancestor) †； Nicholas Malfoy (ancestor) †； [[Brutus Malfoy]] (descendant) †； Septimus Malfoy (descendant) †； [[Abraxas Malfoy]] (descendant) †； Lucius Malfoy (descendant)； Draco Malfoy (descendant)； Scorpius Malfoy (descendant)； Malfoy family |
+| 恋情 | Elizabeth I (unrequited) † |
 
 ## 关联
 

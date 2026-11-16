@@ -7,6 +7,9 @@ slug: "mary-i"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+头衔: "Lady； Queen of England"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +32,9 @@ slug: "mary-i"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Mary Tudor； Bloody Mary |
 | 家庭成员 | [[Henry]] VIII (father) †； Anne Boleyn (paternal ex-stepmother) †； [[Eliza]]beth I (paternal half-sister) †； Henry VII (paternal grandfather) †； William the Conqueror (ancestor) †； House of Tudor； British royal family |
+| 肤色 | White |
+| 头衔 | Lady； Queen of England |
+| 婚姻状况 | Married |
 
 ## 关联
 

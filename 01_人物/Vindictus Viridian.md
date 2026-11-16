@@ -6,6 +6,8 @@ slug: "vindictus-viridian"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "vindictus-viridian"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black (formerly),，Grey |
 | 职业 | Potioneer； Author； Head of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | White |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

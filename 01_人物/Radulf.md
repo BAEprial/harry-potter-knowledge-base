@@ -5,6 +5,7 @@
 slug: "radulf"
 物种: "人类"
 性别: "男"
+头衔: "Catcher"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "radulf"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Blacksmith |
+| 头衔 | Catcher |
 
 ## 关联
 

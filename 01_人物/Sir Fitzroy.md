@@ -5,6 +5,7 @@
 slug: "sir-fitzroy"
 物种: "Toad"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "sir-fitzroy"
 | 性别 | 男 |
 | 出生 | 1890 or earlier |
 | 别名与绰号 | Fitzroy |
+| 肤色 | Green |
 
 ## 关联
 

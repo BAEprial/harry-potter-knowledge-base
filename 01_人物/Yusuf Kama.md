@@ -7,6 +7,7 @@ slug: "yusuf-kama"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "yusuf-kama"
 | 国籍 | 法国人 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Mustafa Kama]] (father) †； [[Lauren]]a Kama (mother) †； Leta [[Lestrange]] (maternal half-sister) †； Kama family |
+| 肤色 | Brown |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "hesper-starkey"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "hesper-starkey"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Potioneer； Astronomer |
+| 肤色 | White |
 
 ## 关联
 

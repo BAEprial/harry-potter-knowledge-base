@@ -5,6 +5,7 @@
 slug: "common-welsh-green-in-the-romanian-dragon-sanctuary"
 物种: "Common Welsh Green"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "common-welsh-green-in-the-romanian-dragon-sanctuary"
 | 性别 | 女 |
 | 出生 | Pre 1990 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

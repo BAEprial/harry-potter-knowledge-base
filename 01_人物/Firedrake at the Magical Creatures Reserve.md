@@ -4,6 +4,7 @@
 英文名: "Firedrake at the Magical Creatures Reserve"
 slug: "firedrake-at-the-magical-creatures-reserve"
 物种: "Firedrake"
+肤色: "Yellow and brown"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "firedrake-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Firedrake |
 | 家庭成员 | The Flying Sparks |
+| 肤色 | Yellow and brown |
 
 ## 关联
 

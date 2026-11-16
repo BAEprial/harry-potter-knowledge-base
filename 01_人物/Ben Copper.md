@@ -8,6 +8,9 @@ slug: "ben-copper"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Ismelda Murk"
+肤色: "Light"
+头衔: "Student guide； Duelling Club Referee"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +35,9 @@ slug: "ben-copper"
 | 职业 | Obliviator for the Magical Congress of the United States of America |
 | 别名与绰号 | Muggle Celestina Warbeck； Flat Face (By Fred and George Weasley) |
 | 家庭成员 | Father； Mother； Uncles； Tinnie (aunt)； Copper family |
+| 恋情 | Ismelda Murk |
+| 肤色 | Light |
+| 头衔 | Student guide； Duelling Club Referee |
 
 ## 关联
 

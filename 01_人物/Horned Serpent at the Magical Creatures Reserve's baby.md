@@ -4,6 +4,7 @@
 英文名: "Horned Serpent at the Magical Creatures Reserve's baby"
 slug: "horned-serpent-at-the-magical-creatures-reserve-s-baby"
 物种: "Horned Serpent"
+肤色: "Purple"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "horned-serpent-at-the-magical-creatures-reserve-s-baby"
 | 物种 | Horned Serpent |
 | 眼睛颜色 | Turquoise |
 | 家庭成员 | Father； Red (mother) |
+| 肤色 | Purple |
 
 ## 关联
 

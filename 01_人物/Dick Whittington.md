@@ -7,6 +7,7 @@ slug: "dick-whittington"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Alice Fitzwarren"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "dick-whittington"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 国籍 | 英国人 |
+| 恋情 | Alice Fitzwarren |
 
 ## 关联
 

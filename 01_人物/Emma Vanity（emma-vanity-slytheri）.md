@@ -7,6 +7,7 @@ slug: "emma-vanity-slytherin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "emma-vanity-slytherin"
 | 出生 | c. 1960s |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Emma Vanity]] (Gryffindor) (possibly) |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

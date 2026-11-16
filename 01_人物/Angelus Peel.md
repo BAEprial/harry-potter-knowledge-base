@@ -6,6 +6,7 @@ slug: "angelus-peel"
 物种: "人类"
 国籍: "Canadian"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "angelus-peel"
 | 出生 | Before 1860 |
 | 国籍 | Canadian |
 | 职业 | Seeker for the Canadian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

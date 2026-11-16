@@ -6,6 +6,8 @@ slug: "tamotsu-iwamoto"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Pale"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "tamotsu-iwamoto"
 | 国籍 | Japanese |
 | 头发颜色 | Green (Mohican) |
 | 职业 | Keeper for the Japanese National Quidditch team |
+| 肤色 | Pale |
+| 头衔 | Keeper |
 
 ## 关联
 

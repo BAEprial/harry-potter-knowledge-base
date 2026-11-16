@@ -5,6 +5,8 @@
 slug: "asgeir-knutsen"
 物种: "人类"
 性别: "女"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "asgeir-knutsen"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
 | 职业 | Beater for the Nordic National Quidditch team |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

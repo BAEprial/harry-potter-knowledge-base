@@ -6,6 +6,7 @@ slug: "unidentified-male-snatcher-at-diagon-alley"
 血统: "Pure-blood or half-Blood"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-male-snatcher-at-diagon-alley"
 | 逝世 | 2 May 1998 |
 | 头发颜色 | Reddish |
 | 职业 | Snatcher |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "armando-dippet"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Head of Hogwarts School of Witchcraft and Wizardry； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "armando-dippet"
 | 国籍 | British or Irish |
 | 头发颜色 | Brown (youth),，White |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (early 20th century–between 1965 & 1971) |
+| 肤色 | Light |
+| 头衔 | Head of Hogwarts School of Witchcraft and Wizardry； Professor |
 
 ## 关联
 

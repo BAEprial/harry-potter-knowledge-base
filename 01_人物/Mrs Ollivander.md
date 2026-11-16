@@ -6,6 +6,7 @@ slug: "garrick-ollivander-s-mother"
 血统: "麻瓜出身"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "garrick-ollivander-s-mother"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Gervaise Ollivander]] (husband)； [[Garrick Ollivander]] (son)； Grandson； Granddaughter †； Ollivander family |
+| 婚姻状况 | Married |
 
 ## 关联
 

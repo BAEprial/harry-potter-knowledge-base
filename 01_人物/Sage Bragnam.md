@@ -7,6 +7,7 @@ slug: "sage-bragnam"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "sage-bragnam"
 | 头发颜色 | Reddish brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Magical historian； British Ministry of Magic official； Head Curator of the Department of Magical Artefacts |
+| 肤色 | White |
 
 ## 关联
 

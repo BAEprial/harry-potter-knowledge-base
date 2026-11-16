@@ -6,6 +6,7 @@ slug: "aurora-sinistra"
 物种: "人类"
 性别: "女"
 守护神: "Non-corporeal"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "aurora-sinistra"
 | 博格特（恐惧之物） | Lord Voldemort |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Astronomer； Member of the Astronomy department (Pre 1985) |
+| 头衔 | Professor |
 
 ## 关联
 

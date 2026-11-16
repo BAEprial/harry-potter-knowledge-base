@@ -5,6 +5,7 @@
 slug: "lodgok"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "lodgok"
 | 头发颜色 | Grey |
 | 职业 | Metal trader (formerly) |
 | 家庭成员 | Ranrok (older brother) †； Bragbor (ancestor) †； Family |
+| 肤色 | Light |
 
 ## 关联
 

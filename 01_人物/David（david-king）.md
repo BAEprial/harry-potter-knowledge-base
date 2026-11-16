@@ -5,6 +5,7 @@
 slug: "david-king"
 物种: "人类"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "david-king"
 | 性别 | 男 |
 | 出生 | IsraelBiblical times |
 | 职业 | King of Isreal |
+| 头衔 | King |
 
 ## 关联
 

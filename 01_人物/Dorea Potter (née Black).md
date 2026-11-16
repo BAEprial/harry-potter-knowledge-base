@@ -8,6 +8,9 @@ slug: "dorea-black"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Charlus Potter (husband) †"
+肤色: "Light"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "dorea-black"
 | 逝世 | 1977 (aged 56-57) |
 | 国籍 | 英国人 |
 | 家庭成员 | Cygnus Black (II) (father) †； Violetta Bulstrode (née Bulstrode) (mother)； Pollux Black (older brother) †； Cassiopeia Black (older sister) †； Marius Black (older brother) †； [[Charlus Potter]] (husband) †； Son †； Irma Black (née Crabbe) (sister-in-law)； Walburga Black (niece;，paternal first cousin once removed-in-law) †； Alphard Black (nephew) †； Cygnus Black (III) (nephew) †； [[Araminta Meliflua Black]] (possible niece)； Sirius Black (II) (paternal uncle) †； Phineas Black (paternal uncle) †； Arcturus Black (II) (paternal uncle) †； Belvina Burke (née Black) (paternal aunt) †； Hesper Black (née Gamp) (paternal aunt by marriage)； Lysandra Yaxley (née Yaxley) (paternal aunt by marriage)； Herbert Burke (paternal uncle by marriage)； Arcturus Black (III) (paternal first cousin) †； Lycoris Black (paternal first cousin) †； Regulus Black (I) (paternal first cousin) †； Callidora Longbottom (née Black) (paternal first cousin)； Cedrella Weasley (née Black) (paternal first cousin)； Charis Crouch (née Black) (paternal first cousin) †； Two paternal first cousins； Paternal first cousin； Phineas Nigellus Black (paternal grandfather) †； Ursula Black (née Flint) (paternal grandmother)； House of Black； Bulstrode family (maternal family)； Potter family (in-laws/descendants) |
+| 恋情 | Charlus Potter (husband) † |
+| 肤色 | Light |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

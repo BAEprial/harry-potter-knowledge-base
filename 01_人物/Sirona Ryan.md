@@ -7,6 +7,9 @@ slug: "sirona-ryan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Seeker"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "sirona-ryan"
 | 魔杖 | Unknown core,，length and wood |
 | 职业 | Proprietress of the Three Broomsticks Inn |
 | 家庭成员 | Father； Mother； [[Barry Ryan]] (possibly)； Ryan family |
+| 肤色 | Light |
+| 头衔 | Seeker |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

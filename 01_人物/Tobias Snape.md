@@ -6,6 +6,9 @@ slug: "tobias-snape"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Eileen Prince (wife)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +24,9 @@ slug: "tobias-snape"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Eileen Prince (wife)； Severus Snape (son) †； Snape family； Prince family (in-laws) |
+| 恋情 | Eileen Prince (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

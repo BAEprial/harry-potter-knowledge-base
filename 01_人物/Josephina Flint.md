@@ -7,6 +7,7 @@ slug: "josephina-flint"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "josephina-flint"
 | 国籍 | 英国人 |
 | 职业 | British Minister for Magic (1819–1827) |
 | 家庭成员 | Flint family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "shanice-higgins"
 物种: "人类"
 国籍: "Jamaican"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "shanice-higgins"
 | 出生 | After 1976,，Jamaica (possibly) |
 | 国籍 | Jamaican |
 | 职业 | Seeker for the Jamaican National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

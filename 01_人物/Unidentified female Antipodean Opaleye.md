@@ -5,6 +5,7 @@
 slug: "unidentified-female-antipodean-opaleye-ii"
 物种: "Antipodean Opaleye"
 性别: "女"
+肤色: "Pearly"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-female-antipodean-opaleye-ii"
 | 性别 | 女 |
 | 出生 | Pre 1970s |
 | 眼睛颜色 | Multi-coloured |
+| 肤色 | Pearly |
 
 ## 关联
 

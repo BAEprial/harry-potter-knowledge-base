@@ -5,6 +5,7 @@
 slug: "primpernelle"
 物种: "人类"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "primpernelle"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Shop owner |
+| 头衔 | Madam |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "tertius"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "tertius"
 | 魔杖 | Unknown length,，wood and core； Unknown length,，wood and core |
 | 职业 | Curse-Breaker for Gringotts Wizarding Bank |
 | 家庭成员 | Parents †； Two older brothers |
+| 肤色 | Fair |
 
 ## 关联
 

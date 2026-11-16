@@ -6,6 +6,8 @@ slug: "johannes-chauke"
 物种: "人类"
 国籍: "South African"
 性别: "男"
+肤色: "Dark"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "johannes-chauke"
 | 国籍 | South African |
 | 头发颜色 | 黑暗 |
 | 职业 | Beater for the South African National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Beater |
 
 ## 关联
 

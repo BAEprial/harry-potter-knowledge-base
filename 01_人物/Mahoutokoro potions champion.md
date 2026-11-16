@@ -6,6 +6,8 @@ slug: "mahoutokoro-potions-champion"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Pale"
+头衔: "Potions Champion"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "mahoutokoro-potions-champion"
 | 性别 | 男 |
 | 国籍 | Japanese |
 | 头发颜色 | Black |
+| 肤色 | Pale |
+| 头衔 | Potions Champion |
 
 ## 关联
 

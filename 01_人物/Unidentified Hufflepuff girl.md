@@ -8,6 +8,7 @@ slug: "unidentified-hufflepuff-girl-at-the-battle-of-hogwarts"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "unidentified-hufflepuff-girl-at-the-battle-of-hogwarts"
 | 出生 | On or prior to 2 May 1981 (likely) |
 | 国籍 | British or Irish |
 | 头发颜色 | Red |
+| 肤色 | Pale |
 
 ## 关联
 

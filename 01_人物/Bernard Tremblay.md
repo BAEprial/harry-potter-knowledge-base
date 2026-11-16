@@ -7,6 +7,8 @@ slug: "bernard-tremblay"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "bernard-tremblay"
 | 国籍 | 法国人 |
 | 头发颜色 | Brown |
 | 家庭成员 | Leonie Tremblay (née Lestrange) (wife)； [[Clarisse Lestrange (née Tremblay)]] (daughter)； Falco Tremblay (son)； Falco Lestrange (father-in-law)； Salomé Lestrange (née Volant) (mother-in-law)； [[Eglantine Lestrange]] (sister-in-law)； [[Corvus Lestrange]] (nephew/son-in-law)； Leta Lestrange (grandniece/step-granddaughter) †； Corvus Lestrange (grandson) †； Mason Tremblay (possibly)； Tremblay family； Lestrange family (in-laws) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

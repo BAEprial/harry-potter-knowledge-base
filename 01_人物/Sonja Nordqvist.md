@@ -6,6 +6,8 @@ slug: "sonja-nordqvist"
 物种: "人类"
 国籍: "Swedish"
 性别: "女"
+肤色: "White"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "sonja-nordqvist"
 | 性别 | 女 |
 | 国籍 | Swedish |
 | 职业 | Seeker for the Swedish National Quidditch team |
+| 肤色 | White |
+| 头衔 | Seeker |
 
 ## 关联
 

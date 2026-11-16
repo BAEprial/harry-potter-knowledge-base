@@ -7,6 +7,9 @@ slug: "irma-pince"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+恋情: "Argus Filch"
+肤色: "Like parchment"
+头衔: "Madam； Librarian"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "irma-pince"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Hogwarts librarian (pre-1991–?)； Study Hall overseer (pre-1993–?) |
 | 别名与绰号 | The Dementor of the library (by Jacob's sibling) |
+| 恋情 | Argus Filch |
+| 肤色 | Like parchment |
+| 头衔 | Madam； Librarian |
 
 ## 关联
 

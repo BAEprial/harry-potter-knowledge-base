@@ -5,6 +5,7 @@
 slug: "unidentified-giant-at-the-battle-of-hogwarts-ii"
 物种: "Giant"
 性别: "男"
+肤色: "Reddish-brown"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-giant-at-the-battle-of-hogwarts-ii"
 | 物种 | Giant |
 | 性别 | 男 |
 | 逝世 | 2 May 1998,，Hogwarts Castle |
+| 肤色 | Reddish-brown |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "leesk"
 物种: "人类"
 国籍: "American"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "leesk"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | American |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "e-limus-ii"
 国籍: "法国人"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "e-limus-ii"
 | 国籍 | 法国人 |
 | 职业 | Founder of École D'Apparition Démoniste Limus |
 | 家庭成员 | Limus family |
+| 头衔 | Warlock |
 
 ## 关联
 

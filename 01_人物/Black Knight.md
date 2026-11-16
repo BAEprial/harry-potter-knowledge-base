@@ -5,6 +5,7 @@
 slug: "black-knight"
 物种: "Human (formerly),，幽灵"
 性别: "Male (likely)"
+头衔: "Knight"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "black-knight"
 |---|---|
 | 物种 | Human (formerly),，幽灵 |
 | 性别 | Male (likely) |
+| 头衔 | Knight |
 
 ## 关联
 

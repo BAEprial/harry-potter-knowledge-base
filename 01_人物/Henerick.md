@@ -5,6 +5,7 @@
 slug: "henerick"
 物种: "人类"
 性别: "男"
+肤色: "Fair"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "henerick"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 逝世 | Before 1991 |
+| 肤色 | Fair |
 
 ## 关联
 

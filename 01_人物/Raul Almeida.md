@@ -6,6 +6,7 @@ slug: "raul-almeida"
 物种: "人类"
 国籍: "Brazilian"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "raul-almeida"
 | 国籍 | Brazilian |
 | 职业 | Keeper for the Brazilian National Quidditch team |
 | 家庭成员 | [[Edward]] Almeida Peidus (possibly) |
+| 头衔 | Keeper |
 
 ## 关联
 

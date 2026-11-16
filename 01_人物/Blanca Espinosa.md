@@ -6,6 +6,8 @@ slug: "blanca-espinosa"
 物种: "人类"
 国籍: "Mexican"
 性别: "女"
+肤色: "Olive"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "blanca-espinosa"
 | 出生 | 20th century |
 | 国籍 | Mexican |
 | 职业 | Keeper for the Mexican National Quidditch team |
+| 肤色 | Olive |
+| 头衔 | Keeper |
 
 ## 关联
 

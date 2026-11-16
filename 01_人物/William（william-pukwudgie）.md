@@ -5,6 +5,7 @@
 slug: "william-pukwudgie"
 物种: "Pukwudgie"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "william-pukwudgie"
 | 头发颜色 | Brown |
 | 职业 | Caretaker at Ilvermorny School of Witchcraft and Wizardry |
 | 家庭成员 | Unnamed Pukwudgies |
+| 肤色 | Grey |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "goblet-of-fire-casket-carriers"
 物种: "Humans"
 国籍: "英国人"
 性别: "Males"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "goblet-of-fire-casket-carriers"
 | 国籍 | 英国人 |
 | 头发颜色 | Brown |
 | 职业 | British Ministry of Magic employees |
+| 肤色 | Light |
 
 ## 关联
 

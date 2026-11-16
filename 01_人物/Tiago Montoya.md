@@ -6,6 +6,8 @@ slug: "tiago-montoya"
 物种: "人类"
 国籍: "Spanish"
 性别: "男"
+肤色: "White (Tanned)"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "tiago-montoya"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Beater of the Spanish National Quidditch team |
+| 肤色 | White (Tanned) |
+| 头衔 | Beater |
 
 ## 关联
 

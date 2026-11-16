@@ -6,6 +6,7 @@ slug: "carlos-clodoaldo"
 物种: "人类"
 国籍: "Brazilian"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "carlos-clodoaldo"
 | 出生 | After 1976,，Brazil (possibly) |
 | 国籍 | Brazilian |
 | 职业 | Beater for the Brazilian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

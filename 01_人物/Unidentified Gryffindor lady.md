@@ -7,6 +7,8 @@ slug: "unidentified-gryffindor-lady"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "unidentified-gryffindor-lady"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Grey |
 | 职业 | Head of Gryffindor House (?–before 1971) |
+| 肤色 | Light |
+| 头衔 | Head of Gryffindor House |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "adda"
 物种: "人类"
 性别: "男"
+恋情: "Eve"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "adda"
 | 性别 | 男 |
 | 职业 | Caretaker of Eden (formerly) |
 | 家庭成员 | Eve (wife)； Cain (son)； Abel (son)； Seth (son) |
+| 恋情 | Eve |
+| 婚姻状况 | Married |
 
 ## 关联
 

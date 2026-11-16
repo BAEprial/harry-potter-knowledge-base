@@ -7,6 +7,8 @@ slug: "evans-sisters-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Husband †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "evans-sisters-mother"
 | 逝世 | Between 1 September 1971 and 31 October 1981 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband †； Petunia Dursley (née Evans) (daughter) †； Lily Potter (I) (née Evans) (daughter) †； Vernon Dursley (son-in-law)； [[James]] Potter (I) (son-in-law) †； [[Dudley]] Dursley (grandson)； Harry Potter (grandson)； Evans family (in-laws/descendants) |
+| 恋情 | Husband † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

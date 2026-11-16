@@ -7,6 +7,7 @@ slug: "lavender-brown-s-father"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "lavender-brown-s-father"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | [[Mrs Brown]] (wife)； Lavender Brown (daughter) †； [[Kelly]] Brown (possible nephew) |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "garvin-lugner"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "garvin-lugner"
 | 性别 | 男 |
 | 国籍 | 德国人 |
 | 职业 | Inventor |
+| 头衔 | Warlock |
 
 ## 关联
 

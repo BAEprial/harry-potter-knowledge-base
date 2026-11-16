@@ -5,6 +5,7 @@
 slug: "tenebrus"
 物种: "Thestral"
 性别: "男"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "tenebrus"
 | 眼睛颜色 | White |
 | 头发颜色 | Black |
 | 家庭成员 | Unidentified Thestrals |
+| 肤色 | Black |
 
 ## 关联
 

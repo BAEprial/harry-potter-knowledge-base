@@ -7,6 +7,8 @@ slug: "gilbert-bingley"
 物种: "人类"
 国籍: "American"
 性别: "男"
+恋情: "Mrs Bingley (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "gilbert-bingley"
 | 国籍 | American |
 | 职业 | Loan officer at Steen National Bank |
 | 家庭成员 | Mrs Bingley (wife) |
+| 恋情 | Mrs Bingley (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

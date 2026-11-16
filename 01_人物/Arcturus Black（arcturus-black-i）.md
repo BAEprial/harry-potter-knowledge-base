@@ -7,6 +7,8 @@ slug: "arcturus-black-i"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "White"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "arcturus-black-i"
 | 出生 | 1835 |
 | 逝世 | 1893 (aged 57–58) |
 | 家庭成员 | House of Black |
+| 肤色 | White |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

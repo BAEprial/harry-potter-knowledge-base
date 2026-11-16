@@ -5,6 +5,7 @@
 slug: "unidentified-kidnapper-rookwood-gang"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-kidnapper-rookwood-gang"
 | 性别 | 男 |
 | 逝世 | 1891,，Highlands,，Scotland,，Great Britain (possibly) |
 | 头发颜色 | Brown |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "amarillo-lestoat"
 物种: "吸血鬼"
 国籍: "American"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "amarillo-lestoat"
 | 国籍 | American |
 | 头发颜色 | Blond |
 | 职业 | Author |
+| 肤色 | Pale |
 
 ## 关联
 

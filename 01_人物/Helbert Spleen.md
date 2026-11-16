@@ -6,6 +6,7 @@ slug: "helbert-spleen"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "helbert-spleen"
 | 出生 | Before 1975 |
 | 国籍 | 英国人 |
 | 职业 | Healer at St Mungo's Hospital for Magical Maladies and Injuries； Advice columnist for the Daily Prophet |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "rowan-khanna"
 血统: "Pure-blood or half-blood (most likely)"
 物种: "人类"
 国籍: "British or Irish"
+恋情: "William Weasley (possible crush)"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "rowan-khanna"
 | 头发颜色 | Black |
 | 别名与绰号 | Mr/Miss Connor (by Cuthbert Binns) |
 | 家庭成员 | Mother； Father； Brother； [[Ollie]] (uncle)； Uncle； Ashok Khanna (possible relative)； Khanna family |
+| 恋情 | William Weasley (possible crush) |
+| 肤色 | Brown |
 
 ## 关联
 

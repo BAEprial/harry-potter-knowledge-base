@@ -7,6 +7,7 @@ slug: "angelina-appleby"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "angelina-appleby"
 | 性别 | 女 |
 | 出生 | Between 1681 and 1685 |
 | 国籍 | British or Irish |
+| 头衔 | Captain |
 
 ## 关联
 

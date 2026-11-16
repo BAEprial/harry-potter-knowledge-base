@@ -5,6 +5,8 @@
 slug: "dulcibella-philbert"
 物种: "人类"
 性别: "女"
+恋情: "Agabus Philbert"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "dulcibella-philbert"
 | 性别 | 女 |
 | 逝世 | Before 1890 |
 | 家庭成员 | Agabus Philbert (husband) |
+| 恋情 | Agabus Philbert |
+| 婚姻状况 | Married |
 
 ## 关联
 

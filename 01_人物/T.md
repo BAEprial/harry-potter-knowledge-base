@@ -5,6 +5,7 @@
 slug: "t-individual"
 物种: "人类"
 国籍: "British or Irish"
+恋情: "A"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "t-individual"
 | 物种 | 人类 |
 | 出生 | Between 963 and 1879 |
 | 国籍 | British or Irish |
+| 恋情 | A |
 
 ## 关联
 

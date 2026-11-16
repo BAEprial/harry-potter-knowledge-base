@@ -6,6 +6,7 @@ slug: "isaiah"
 物种: "人类"
 国籍: "Jewish"
 性别: "男"
+头衔: "Prophet"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "isaiah"
 | 出生 | 8th century B.C. |
 | 国籍 | Jewish |
 | 职业 | Prophet |
+| 头衔 | Prophet |
 
 ## 关联
 

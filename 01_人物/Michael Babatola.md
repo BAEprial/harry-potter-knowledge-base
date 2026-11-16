@@ -7,6 +7,7 @@ slug: "michael-babatola"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "michael-babatola"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Dark brown |
 | 职业 | Nurse at St. David's Hospital |
+| 肤色 | Dark |
 
 ## 关联
 

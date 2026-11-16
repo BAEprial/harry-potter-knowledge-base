@@ -6,6 +6,7 @@ slug: "african-prince"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Prince"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "african-prince"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 男 |
+| 头衔 | Prince |
 
 ## 关联
 

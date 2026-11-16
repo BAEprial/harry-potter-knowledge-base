@@ -5,6 +5,8 @@
 slug: "unidentified-medieval-witch"
 物种: "Humans"
 性别: "女"
+恋情: "Unidentified beekeeper's son"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "unidentified-medieval-witch"
 | 性别 | 女 |
 | 出生 | Before or during the Middle Ages |
 | 家庭成员 | Parents |
+| 恋情 | Unidentified beekeeper's son |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

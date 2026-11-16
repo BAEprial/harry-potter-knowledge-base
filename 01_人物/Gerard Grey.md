@@ -7,6 +7,8 @@ slug: "gerard-grey"
 物种: "Human (Werewolf)"
 性别: "男"
 守护神: "狼"
+恋情: "Diana Grey (wife)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "gerard-grey"
 | 魔杖 | 12',，Ash,，dragon heartstring |
 | 职业 | Pack leader |
 | 家庭成员 | [[Diana Grey]] (wife)； Abigail Grey (daughter)； Other children； Grey family |
+| 恋情 | Diana Grey (wife) |
+| 肤色 | Light |
 
 ## 关联
 

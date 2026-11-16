@@ -5,6 +5,7 @@
 slug: "kevin-s-father"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "kevin-s-father"
 | 性别 | 男 |
 | 魔杖 | Unknown length,，wood and core materials |
 | 家庭成员 | Wife； [[Kevin]] (son) |
+| 婚姻状况 | Married |
 
 ## 关联
 

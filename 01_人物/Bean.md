@@ -6,6 +6,8 @@ slug: "bean"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "bean"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
+| 肤色 | Pale |
+| 头衔 | Beater |
 
 ## 关联
 

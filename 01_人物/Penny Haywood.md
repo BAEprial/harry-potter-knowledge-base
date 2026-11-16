@@ -8,6 +8,9 @@ slug: "penny-haywood"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Jacob's sibling (possibly)"
+肤色: "White"
+头衔: "Student guide"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +35,9 @@ slug: "penny-haywood"
 | 职业 | Potioneer at the Apothecary |
 | 别名与绰号 | Miss Chirpy (by Ismelda Murk) |
 | 家庭成员 | Father； Mother； [[Beatrice]] Haywood (younger sister)； Winifred Haywood (step-grandmother)； Haywood family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | White |
+| 头衔 | Student guide |
 
 ## 关联
 

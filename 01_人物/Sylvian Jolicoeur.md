@@ -6,6 +6,7 @@ slug: "sylvian-jolicoeur"
 物种: "人类"
 国籍: "Haitiian"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sylvian-jolicoeur"
 | 出生 | after 1976,，Haiti (possibly) |
 | 国籍 | Haitiian |
 | 职业 | Seeker for the Haitian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

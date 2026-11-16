@@ -4,6 +4,7 @@
 英文名: "Vaults Guardian"
 slug: "vaults-guardian"
 物种: "Giant Fire Crab"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "vaults-guardian"
 | 物种 | Giant Fire Crab |
 | 出生 | Before 1992 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Grey |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "dean-thomas-s-mother"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Mr Thomas (first husband) †； Second husband"
+婚姻状况: "Widowed (previously), Remarried"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "dean-thomas-s-mother"
 | 出生 | Before 1979 |
 | 国籍 | British or Irish |
 | 家庭成员 | First husband †； Second husband； Dean Thomas (son)； Children； Thomas family |
+| 恋情 | Mr Thomas (first husband) †； Second husband |
+| 婚姻状况 | Widowed (previously), Remarried |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "garrick-ollivander-s-wife"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "garrick-ollivander-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Garrick Ollivander]] (husband)； Son； Daughter  †； [[Gervaise Ollivander]] (father-in-law)； Mother-in-law； Ollivander family |
+| 婚姻状况 | Married |
 
 ## 关联
 

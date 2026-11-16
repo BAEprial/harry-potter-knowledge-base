@@ -7,6 +7,7 @@ slug: "mark-sommertime"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "mark-sommertime"
 | 性别 | 男 |
 | 出生 | Between 1723 and 1727 |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

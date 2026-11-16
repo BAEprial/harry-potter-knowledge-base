@@ -6,6 +6,7 @@ slug: "glenda-chittock"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "glenda-chittock"
 | 国籍 | 英国人 |
 | 头发颜色 | Black and silver |
 | 职业 | Host of Witching Hour on the Wizarding Wireless Network |
+| 肤色 | Pale |
 
 ## 关联
 

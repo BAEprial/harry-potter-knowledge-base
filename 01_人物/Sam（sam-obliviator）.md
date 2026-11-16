@@ -6,6 +6,7 @@ slug: "sam-obliviator"
 物种: "人类"
 国籍: "American"
 性别: "男"
+恋情: "Cecily； Ruby"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "sam-obliviator"
 | 性别 | 男 |
 | 国籍 | American |
 | 职业 | Obliviator |
+| 恋情 | Cecily； Ruby |
 
 ## 关联
 

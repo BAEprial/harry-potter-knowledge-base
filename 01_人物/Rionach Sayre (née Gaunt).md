@@ -7,6 +7,8 @@ slug: "rionach-sayre"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+恋情: "William Sayre (husband) †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "rionach-sayre"
 | 逝世 | c. 1608 |
 | 国籍 | 爱尔兰人 |
 | 家庭成员 | [[Gormlaith Gaunt]] (sister) †； William Sayre (husband) †； Isolt Sayre (daughter) †； [[James]] Steward (son-in-law) †； [[Chadwick Boot]] (adoptive grandson)； Webster Boot (adoptive grandson)； [[Martha]] Steward (granddaughter)； Rionach Steward (granddaughter)； Salazar Slytherin (ancestor) †； [[Cadmus]] Peverell (ancestor) †； House of Gaunt； Sayre family |
+| 恋情 | William Sayre (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

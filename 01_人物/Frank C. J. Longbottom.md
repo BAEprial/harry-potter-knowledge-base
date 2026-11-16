@@ -7,6 +7,8 @@ slug: "frank-longbottom"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Alice Longbottom (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "frank-longbottom"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror (?-1981) |
 | 家庭成员 | Father †； Augusta Longbottom (mother)； [[Alice]] Longbottom (wife)； Neville Longbottom (son)； [[Algie Longbottom]] (paternal uncle)； [[Enid Longbottom]] (paternal aunt by marriage)； Hannah [[Abbott]] (daughter-in-law)； Harfang Longbottom (possible relative)； Callidora Longbottom (née Black) (possible relative)； Possible relative； Possible relative； Longbottom family |
+| 恋情 | Alice Longbottom (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

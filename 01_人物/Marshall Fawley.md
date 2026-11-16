@@ -7,6 +7,7 @@ slug: "marshall-fawley"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Lucretia Fawley (wife) †"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "marshall-fawley"
 | 逝世 | Between 1 September 1996 and 2 May 1998 |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Lucretia Fawley]] (wife) †； Grim Fawley (son)； Penelope Padgett (daughter-in-law)； Addison Fawley (grandson)； [[Melody Fawley]] (granddaughter)； Fawley family |
+| 恋情 | Lucretia Fawley (wife) † |
 
 ## 关联
 

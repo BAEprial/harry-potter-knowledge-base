@@ -6,6 +6,7 @@ slug: "westenberg-s-wife"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "westenberg-s-wife"
 | 逝世 | Summer,，1997 |
 | 国籍 | 英国人 |
 | 家庭成员 | Mr Westenberg (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

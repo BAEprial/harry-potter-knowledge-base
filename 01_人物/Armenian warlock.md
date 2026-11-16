@@ -6,6 +6,7 @@ slug: "armenian-warlock"
 物种: "人类"
 国籍: "Armenian"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "armenian-warlock"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 国籍 | Armenian |
+| 头衔 | Warlock |
 
 ## 关联
 

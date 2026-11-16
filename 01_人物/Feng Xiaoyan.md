@@ -6,6 +6,7 @@ slug: "feng-xiaoyan"
 物种: "人类"
 国籍: "Chinese"
 性别: "男"
+肤色: "Light tan"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "feng-xiaoyan"
 | 性别 | 男 |
 | 国籍 | Chinese |
 | 职业 | Player for the Chinese National Quidditch team |
+| 肤色 | Light tan |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "valentina-vazquez"
 物种: "人类"
 国籍: "Argentinian"
 性别: "女"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "valentina-vazquez"
 | 出生 | Before 1997 (most likely),，Argentina |
 | 国籍 | Argentinian |
 | 职业 | President of the Argentinian Council of Magic |
+| 头衔 | President |
 
 ## 关联
 

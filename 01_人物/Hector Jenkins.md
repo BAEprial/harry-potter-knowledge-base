@@ -7,6 +7,7 @@ slug: "hector-jenkins"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "hector-jenkins"
 | 头发颜色 | Red |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Eugenia Jenkins]] (possibly)； Matthew Jenkins (possibly)； Karl Jenkins (possibly)； Joey Jenkins (possibly)； Jenkins family |
+| 肤色 | Light |
 
 ## 关联
 

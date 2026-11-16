@@ -7,6 +7,7 @@ slug: "george-w-bush"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "george-w-bush"
 | 出生 | 6 July,，1946 |
 | 国籍 | American |
 | 职业 | President of the United States of America (formerly) |
+| 头衔 | President |
 
 ## 关联
 

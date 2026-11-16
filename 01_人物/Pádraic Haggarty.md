@@ -7,6 +7,7 @@ slug: "padraic-haggarty"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "padraic-haggarty"
 | 头发颜色 | Grey |
 | 职业 | Shop owner |
 | 家庭成员 | Agatha Haggarty (ancestor)； [[Catrin Haggarty]] (sister)； Haggarty family |
+| 肤色 | Light |
 
 ## 关联
 

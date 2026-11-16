@@ -7,6 +7,7 @@ slug: "robyn-thistlethwaite-s-mother"
 物种: "人类"
 国籍: "Chinese"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "robyn-thistlethwaite-s-mother"
 | 性别 | 女 |
 | 国籍 | Chinese |
 | 家庭成员 | Mother； Husband； Robyn Thistlethwaite (daughter)； Sons； Thistlethwaite family |
+| 婚姻状况 | Married |
 
 ## 关联
 

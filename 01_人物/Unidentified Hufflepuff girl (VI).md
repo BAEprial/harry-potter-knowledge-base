@@ -7,6 +7,7 @@ slug: "unidentified-hufflepuff-girl-vi"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-hufflepuff-girl-vi"
 | 性别 | 女 |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "aged-goblin"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "aged-goblin"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Black |
 | 职业 | Banker at Gringotts Wizarding Bank |
+| 肤色 | White |
 
 ## 关联
 

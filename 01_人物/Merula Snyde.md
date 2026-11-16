@@ -9,6 +9,8 @@ slug: "merula-snyde"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+恋情: "Jacob's sibling (possibly subconsiously)"
+肤色: "White, Gold (temporarily)"
 资料来源: hogwarts-api
 ---
 
@@ -33,6 +35,8 @@ slug: "merula-snyde"
 | 职业 | Barmaid at the Three Broomsticks Inn (formerly)； Employee at Zonko's Joke Shop(formerly)； Barmaid at the Hog's Head Inn(formerly)； Employee of Department of Magical Maintenance |
 | 别名与绰号 | The Most Powerful Witch at Hogwarts (by herself)； Murtrula (by Rowan Khanna)； The Most Powerful Stirrer at Hogwarts (by herself)； The Most Delicious Witch at Hogwarts (by herself)； The Most Powerful Snyde (by herself)； The Most Powerful Puffskein at Hogwarts (by Jacob's sibling)； Merula Goldenhands； The Creature from the Black Lake |
 | 家庭成员 | Father； Mother； Verucca Buckthorn-Snyde (maternal aunt)； Snyde family |
+| 恋情 | Jacob's sibling (possibly subconsiously) |
+| 肤色 | White, Gold (temporarily) |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "third-floor-corridor-slytherin-prefect-ii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "third-floor-corridor-slytherin-prefect-ii"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
+| 肤色 | White |
+| 头衔 | Prefect |
 
 ## 关联
 

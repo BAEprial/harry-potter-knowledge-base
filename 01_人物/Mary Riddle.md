@@ -7,6 +7,8 @@ slug: "mary-riddle"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Thomas Riddle (husband) †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "mary-riddle"
 | 逝世 | August 1943 (aged 59/60),，Riddle House,，Little Hangleton,，England,，Great Britain |
 | 国籍 | 英国人 |
 | 家庭成员 | Thomas Riddle (husband) †； Tom Riddle Snr (son) †； Merope Gaunt (daughter-in-law) †； Tom Marvolo Riddle (grandson) †； Riddle family |
+| 恋情 | Thomas Riddle (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

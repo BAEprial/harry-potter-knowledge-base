@@ -5,6 +5,7 @@
 slug: "ringkull"
 物种: "家养小精灵"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ringkull"
 | 出生 | Before 1981 |
 | 眼睛颜色 | Green |
 | 职业 | Hogwarts kitchens worker |
+| 肤色 | Light |
 
 ## 关联
 

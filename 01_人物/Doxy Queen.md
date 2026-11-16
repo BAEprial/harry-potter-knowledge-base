@@ -5,6 +5,8 @@
 slug: "doxy-queen"
 物种: "Doxy"
 性别: "女"
+肤色: "Brown"
+头衔: "Queen"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "doxy-queen"
 | 眼睛颜色 | Green |
 | 头发颜色 | Pink |
 | 家庭成员 | Many Doxy children |
+| 肤色 | Brown |
+| 头衔 | Queen |
 
 ## 关联
 

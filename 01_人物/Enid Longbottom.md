@@ -5,6 +5,7 @@
 slug: "enid-longbottom"
 物种: "人类"
 性别: "女"
+恋情: "Algie Longbottom (husband)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "enid-longbottom"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Algie Longbottom (husband)； Brother-in-law †； Augusta Longbottom (sister-in-law)； Frank Longbottom (nephew)； Longbottom family |
+| 恋情 | Algie Longbottom (husband) |
 
 ## 关联
 

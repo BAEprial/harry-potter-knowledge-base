@@ -5,6 +5,7 @@
 slug: "unidentified-1985-1986-defence-against-the-dark-arts-professor"
 物种: "人类"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-1985-1986-defence-against-the-dark-arts-professor"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Professor of Defence Against the Dark Arts (1985–1986) |
+| 头衔 | Professor |
 
 ## 关联
 

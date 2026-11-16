@@ -6,6 +6,7 @@ slug: "jules-egwu"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "jules-egwu"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Egwu Two (by Merula Snyde) |
 | 家庭成员 | Parents； Uncle and aunt； Andre Egwu (cousin)； Cousin； Egwu family |
+| 肤色 | Brown |
 
 ## 关联
 

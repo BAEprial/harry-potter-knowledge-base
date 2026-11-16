@@ -6,6 +6,8 @@ slug: "catriona-mccormack"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+头衔: "Captain； Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "catriona-mccormack"
 | 头发颜色 | Brown |
 | 职业 | Chaser and Captain for the Pride of Portree； Chaser for the Scottish National Quidditch team |
 | 家庭成员 | Meaghan McCormack (daughter)； Kirley Duke (son)； McCormack family |
+| 肤色 | Light |
+| 头衔 | Captain； Chaser |
 
 ## 关联
 

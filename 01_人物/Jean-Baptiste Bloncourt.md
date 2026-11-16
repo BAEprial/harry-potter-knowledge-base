@@ -6,6 +6,7 @@ slug: "jean-baptiste-bloncourt"
 物种: "人类"
 国籍: "Haitian"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "jean-baptiste-bloncourt"
 | 出生 | After 1976,，Haiti (possibly) |
 | 国籍 | Haitian |
 | 职业 | Beater for the Haitian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "fabian-prewett"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "fabian-prewett"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Red |
 | 家庭成员 | Mr Prewett (father)； Gideon Prewett (brother) †； Molly Weasley (sister)； [[Bilius]] (possible brother)； Arthur Weasley (brother-in-law)； Bill Weasley (nephew)； Charlie Weasley (nephew)； Percy Weasley (nephew)； Fred Weasley (nephew) †； George Weasley (nephew)； Ron Weasley (nephew)； Ginny Weasley (niece)； Tessie (possible aunt)； Ignatius Prewett (paternal uncle)； Lucretia Prewett (paternal aunt by marriage) †； Second cousin； Possible relative； Leander Prewett (possible relative)； J. E. Prewitt (possible relative)； Prewett family |
+| 肤色 | Light |
 
 ## 关联
 

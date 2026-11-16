@@ -7,6 +7,7 @@ slug: "alma"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "alma"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Purple |
 | 头发颜色 | Black (formerly),，Blue and pink |
+| 肤色 | Light |
 
 ## 关联
 

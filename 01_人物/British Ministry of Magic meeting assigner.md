@@ -7,6 +7,7 @@ slug: "british-ministry-of-magic-meeting-assigner"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "british-ministry-of-magic-meeting-assigner"
 | 国籍 | 英国人 |
 | 头发颜色 | Grey |
 | 职业 | British Ministry of Magic official |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "astor-bellchant"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "astor-bellchant"
 | 头发颜色 | Dark and silver |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Albert [[Bell]]chant (son)； Bellchant family |
+| 肤色 | White |
 
 ## 关联
 

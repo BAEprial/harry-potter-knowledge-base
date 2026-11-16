@@ -5,6 +5,7 @@
 slug: "nerieids"
 物种: "Selkie"
 性别: "女"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nerieids"
 | 出生 | Before 2010 |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Green |
+| 肤色 | Blue |
 
 ## 关联
 

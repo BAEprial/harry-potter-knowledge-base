@@ -7,6 +7,8 @@ slug: "manon-lestrange"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+恋情: "Sebastien Perrot (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "manon-lestrange"
 | 性别 | 女 |
 | 国籍 | 法国人 |
 | 家庭成员 | Corvus [[Lestrange]] (father)； [[Minette Lestrange (née Rosier)]] (mother)； [[Josette Gage (née Lestrange)]] (sister)； Corvus Lestrange (brother)； Sebastien Perrot (husband)； Odile Perrot (daughter)； [[Laurel]]le Perrot (daughter)； [[Huguette Perrot]] (daughter)； Reynard Gage (brother-in-law)； [[Mathis Gage]] (nephew)； [[Louis Gage]] (nephew)； Corvus Lestrange (nephew)； [[Falco Lestrange]] (paternal uncle)； Salomé Lestrange (née Volant (maternal aunt by marriage)； [[Eglantine Lestrange]] (paternal first cousin/sister-in-law)； [[Leon]]ie Tremblay (née Lestrange) (paternal first cousin)； Corvus Lestrange (paternal grandfather) †； [[Heloise Lestrange (née Beaufort)]] (paternal grandmother)； Lestrange family； Rosier family (maternal family)； Beaufort family (paternal relatives)； Perrot family |
+| 恋情 | Sebastien Perrot (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

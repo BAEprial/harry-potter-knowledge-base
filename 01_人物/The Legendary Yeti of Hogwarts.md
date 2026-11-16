@@ -5,6 +5,7 @@
 slug: "the-legendary-yeti-of-hogwarts"
 物种: "Yeti"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "the-legendary-yeti-of-hogwarts"
 | 出生 | Many years before 1984 |
 | 眼睛颜色 | Black |
 | 别名与绰号 | Mr Yeti (By Barnaby Lee) (Possibly) |
+| 肤色 | White |
 
 ## 关联
 

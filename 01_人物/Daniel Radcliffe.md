@@ -6,6 +6,7 @@ slug: "daniel-radcliffe-in-universe"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "daniel-radcliffe-in-universe"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Actor |
+| 肤色 | Pale |
 
 ## 关联
 

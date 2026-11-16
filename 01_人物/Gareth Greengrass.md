@@ -7,6 +7,10 @@ slug: "gareth-greengrass"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Aquila Greengrass (wife) †"
+肤色: "White"
+头衔: "Minister； Lead Liaison Minister (as 'Edward Scot')"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +32,10 @@ slug: "gareth-greengrass"
 | 职业 | Senior Unspeakable (formerly)； Head of the Department of Mysteries (formerly) |
 | 别名与绰号 | Edward Scot |
 | 家庭成员 | Brother； Aquila Greengrass (wife) †； Cereus Greengrass (daughter)； Possible ancestor †； [[Daphne Greengrass]] (possible relative)； [[Astoria Malfoy (née Greengrass)]] (possible relative) †； Scorpius Malfoy (possible relative)； Greengrass family |
+| 恋情 | Aquila Greengrass (wife) † |
+| 肤色 | White |
+| 头衔 | Minister； Lead Liaison Minister (as 'Edward Scot') |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

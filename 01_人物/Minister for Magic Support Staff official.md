@@ -6,6 +6,7 @@ slug: "minister-for-magic-support-staff-official"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "minister-for-magic-support-staff-official"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | British Ministry of Magic Official |
+| 肤色 | Pale |
 
 ## 关联
 

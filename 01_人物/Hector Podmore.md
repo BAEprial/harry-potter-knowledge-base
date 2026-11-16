@@ -6,6 +6,7 @@ slug: "hector-podmore"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "hector-podmore"
 | 国籍 | 英国人 |
 | 职业 | Minister in the British Ministry of Magic； British Envoy to the International Confederation of Wizards |
 | 家庭成员 | Sturgis Podmore (possible relative)； Jugson Podmore (possible relative)； Podmore family |
+| 头衔 | Minister |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "judges-of-the-1379-duelling-contest"
 物种: "Humans"
 性别: "Males"
+头衔: "Warlocks"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "judges-of-the-1379-duelling-contest"
 |---|---|
 | 物种 | Humans |
 | 性别 | Males |
+| 头衔 | Warlocks |
 
 ## 关联
 

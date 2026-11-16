@@ -6,6 +6,7 @@ slug: "walter-parkin-s-children"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "Male (4),，Female (3)"
+头衔: "3 Chasers； 2 Beaters； 1 Keeper； 1 Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "walter-parkin-s-children"
 | 性别 | Male (4),，Female (3) |
 | 出生 | c. 15th century |
 | 家庭成员 | Walter [[Parkin]] (father)； Parkin family |
+| 头衔 | 3 Chasers； 2 Beaters； 1 Keeper； 1 Seeker |
 
 ## 关联
 

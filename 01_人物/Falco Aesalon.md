@@ -6,6 +6,7 @@ slug: "falco-aesalon"
 物种: "人类"
 国籍: "Greek"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "falco-aesalon"
 | 阿尼马格斯 | Falcon |
 | 国籍 | Greek |
 | 头发颜色 | Brown |
+| 肤色 | White |
 
 ## 关联
 

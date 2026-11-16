@@ -5,6 +5,7 @@
 slug: "george-von-rheticus"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "george-von-rheticus"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Astronomer |
+| 肤色 | Light |
 
 ## 关联
 

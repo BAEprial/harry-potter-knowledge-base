@@ -6,6 +6,8 @@ slug: "avery-hawksworth"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Dark"
+头衔: "Captain； Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "avery-hawksworth"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Chaser and Captain of the English National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Captain； Chaser |
 
 ## 关联
 

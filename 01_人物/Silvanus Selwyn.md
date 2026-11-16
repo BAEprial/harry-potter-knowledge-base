@@ -6,6 +6,7 @@ slug: "silvanus-selwyn"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "silvanus-selwyn"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Lieutenant of the Ashwinders |
 | 家庭成员 | [[Selwyn]] (possible relative)； Selwyn family |
+| 肤色 | White |
 
 ## 关联
 

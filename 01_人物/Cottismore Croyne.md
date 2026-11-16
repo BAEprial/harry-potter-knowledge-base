@@ -5,6 +5,8 @@
 slug: "cottismore-croyne"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
+头衔: "Supreme Mugwump"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "cottismore-croyne"
 | 头发颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Supreme Mugwump of the International Confederation of Wizards |
+| 肤色 | Pale |
+| 头衔 | Supreme Mugwump |
 
 ## 关联
 

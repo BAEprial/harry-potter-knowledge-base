@@ -7,6 +7,7 @@ slug: "betty-bickering"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "betty-bickering"
 | 性别 | 女 |
 | 出生 | Between 1693 and 1697 |
 | 国籍 | British or Irish |
+| 头衔 | Captain |
 
 ## 关联
 

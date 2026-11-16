@@ -5,6 +5,7 @@
 slug: "silvanus-kettleburn-s-bowtruckle"
 物种: "Bowtruckle"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "silvanus-kettleburn-s-bowtruckle"
 | 性别 | 男 |
 | 出生 | Before 1987 |
 | 眼睛颜色 | Black |
+| 肤色 | Green |
 
 ## 关联
 

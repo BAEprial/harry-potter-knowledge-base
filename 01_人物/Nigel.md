@@ -6,6 +6,7 @@ slug: "nigel"
 血统: "Pure-blood (most likely)"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nigel"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Wife； Nephew； Brother or brother-in-law |
+| 婚姻状况 | Married |
 
 ## 关联
 

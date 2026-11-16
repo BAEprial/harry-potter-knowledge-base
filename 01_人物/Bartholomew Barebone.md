@@ -7,6 +7,7 @@ slug: "bartholomew-barebone"
 物种: "人类"
 国籍: "American"
 性别: "男"
+恋情: "Dorcus Twelvetrees (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "bartholomew-barebone"
 | 性别 | 男 |
 | 国籍 | American |
 | 家庭成员 | Mary Lou Barebone (descendant) †； Aurelius Dumbledore (adoptive descendant)； [[Chas]]tity Barebone (adoptive descendant) †； Modesty Barebone (adoptive descendant)； Ancestor †； Barebone family |
+| 恋情 | Dorcus Twelvetrees (formerly) |
 
 ## 关联
 

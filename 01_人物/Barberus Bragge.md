@@ -6,6 +6,8 @@ slug: "barberus-bragge"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Chief"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "barberus-bragge"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown (formerly),，Grey |
 | 职业 | Chief of the Wizards' Council |
+| 肤色 | White |
+| 头衔 | Chief |
 
 ## 关联
 

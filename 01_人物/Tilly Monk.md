@@ -6,6 +6,7 @@ slug: "tilly-monk"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "tilly-monk"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Dave Monk]] (husband)； [[Jack]] Monk (son)； Tom Monk (son) |
+| 婚姻状况 | Married |
 
 ## 关联
 

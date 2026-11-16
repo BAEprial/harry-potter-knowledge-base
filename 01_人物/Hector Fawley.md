@@ -8,6 +8,8 @@ slug: "hector-fawley"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "hector-fawley"
 | 职业 | British Minister for Magic (1925-1939) |
 | 别名与绰号 | Flamboyant Fawley |
 | 家庭成员 | Fawley family |
+| 肤色 | Light |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

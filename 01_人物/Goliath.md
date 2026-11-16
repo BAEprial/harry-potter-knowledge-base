@@ -6,6 +6,7 @@ slug: "goliath"
 物种: "Giant"
 国籍: "Philistine"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "goliath"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Grey |
 | 职业 | Mercenary |
+| 肤色 | Light |
 
 ## 关联
 

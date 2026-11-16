@@ -5,6 +5,8 @@
 slug: "sylvie-garnier"
 物种: "人类"
 性别: "女"
+肤色: "Brown"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "sylvie-garnier"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 头发颜色 | Brown |
+| 肤色 | Brown |
+| 头衔 | Beater |
 
 ## 关联
 

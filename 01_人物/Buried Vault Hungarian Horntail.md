@@ -4,6 +4,7 @@
 英文名: "Buried Vault Hungarian Horntail"
 slug: "hungarian-horntail-in-the-cursed-vault"
 物种: "Hungarian Horntail"
+肤色: "Black and yellow"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "hungarian-horntail-in-the-cursed-vault"
 | 物种 | Hungarian Horntail |
 | 出生 | Pre 1981 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Black and yellow |
 
 ## 关联
 

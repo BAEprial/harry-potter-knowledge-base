@@ -7,6 +7,9 @@ slug: "tom-riddle-senior"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Cecilia； Merope Riddle (separated/late wife) †"
+肤色: "Pale"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "tom-riddle-senior"
 | 国籍 | 英国人 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Thomas Riddle (father) †； [[Mary]] Riddle (mother) †； [[Merope Riddle (née Gaunt)]] (wife) †； [[Tom]] Riddle (son) †； [[Marvolo Gaunt]] (father-in-law) †； [[Morfin Gaunt]] (brother-in-law) †； [[Delphini]] (granddaughter)； Riddle family； House of Gaunt (in-laws) |
+| 恋情 | Cecilia； Merope Riddle (separated/late wife) † |
+| 肤色 | Pale |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

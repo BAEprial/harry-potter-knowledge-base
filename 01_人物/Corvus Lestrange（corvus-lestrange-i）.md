@@ -7,6 +7,9 @@ slug: "corvus-lestrange-i"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+恋情: "Heloise Lestrange (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "corvus-lestrange-i"
 | 国籍 | 法国人 |
 | 头发颜色 | Grey |
 | 家庭成员 | Cyrille Lestrange (brother)； Heloise Lestrange (née Beaufort) (wife)； [[Corvus Lestrange]] (son)； Falco Lestrange (son)； [[Darenne Lestrange (née Moreau)]] (sister-in-law)； Cyrille Lestrange (nephew)； Fulcran Lestrange (nephew)； Minette Lestrange (née Rosier) (daughter-in-law)； Salomé Lestrange (née Volant) (daughter-in-law)； [[Eglantine Lestrange]] (granddaughter)； Leonie Tremblay (née Lestrange) (granddaughter)； Manon Perrot (née Lestrange) (granddaughter)； Josette Gage (née Lestrange) (granddaughter)； Corvus Lestrange (grandson)； Lestrange family； Beaufort family (in-laws) |
+| 恋情 | Heloise Lestrange (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

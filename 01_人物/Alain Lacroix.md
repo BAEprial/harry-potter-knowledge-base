@@ -6,6 +6,8 @@ slug: "alain-lacroix"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "alain-lacroix"
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
 | 职业 | Beater for the French National Quidditch team |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

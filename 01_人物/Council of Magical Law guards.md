@@ -5,6 +5,7 @@
 slug: "council-of-magical-law-guards"
 物种: "Humans"
 性别: "Males"
+肤色: "Light (three of them), Dark (one of them)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "council-of-magical-law-guards"
 | 性别 | Males |
 | 头发颜色 | Dark (all) |
 | 职业 | Guards in Council of Magical Law |
+| 肤色 | Light (three of them), Dark (one of them) |
 
 ## 关联
 

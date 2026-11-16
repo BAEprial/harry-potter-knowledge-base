@@ -5,6 +5,7 @@
 slug: "eris-foxglove"
 物种: "人类"
 性别: "女"
+恋情: "Ruby Honeysuckle (ex-girlfriend)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "eris-foxglove"
 | 性别 | 女 |
 | 职业 | Socialite |
 | 别名与绰号 | Felix Grooves |
+| 恋情 | Ruby Honeysuckle (ex-girlfriend) |
 
 ## 关联
 

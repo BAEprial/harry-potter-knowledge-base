@@ -7,6 +7,7 @@ slug: "bathilda-bagshot"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Professor； Madam"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "bathilda-bagshot"
 | 职业 | Author； Historian |
 | 别名与绰号 | 'Batty' Bagshot (by Rita Skeeter) |
 | 家庭成员 | Gellert Grindelwald (great-nephew) †； [[Bagshot]] (possible relative)； Bagshot family |
+| 头衔 | Professor； Madam |
 
 ## 关联
 

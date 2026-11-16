@@ -7,6 +7,9 @@ slug: "isidora-morganach"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "isidora-morganach"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Professor of Defence Against the Dark Arts at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Father； Brother †； Morganach family |
+| 肤色 | Light |
+| 头衔 | Professor |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

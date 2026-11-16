@@ -5,6 +5,7 @@
 slug: "marigold"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "marigold"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Spouse； Tulip Karasu (cousin)； Karasu family |
+| 婚姻状况 | Married |
 
 ## 关联
 

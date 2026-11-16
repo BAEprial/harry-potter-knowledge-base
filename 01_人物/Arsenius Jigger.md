@@ -6,6 +6,8 @@ slug: "arsenius-jigger"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "arsenius-jigger"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Brown |
 | 职业 | Author； Potioneer； Professor of Defence Against the Dark Arts at Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | White |
+| 头衔 | Professor |
 
 ## 关联
 

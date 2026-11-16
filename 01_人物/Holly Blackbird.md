@@ -7,6 +7,8 @@ slug: "holly-blackbird"
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "holly-blackbird"
 | 魔杖 | Unknown length,，wood and Thunderbird tail feather |
 | 职业 | Magizoologist； Employee of the Body for Protection of Magical Species |
 | 别名与绰号 | Agent Blackbird |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

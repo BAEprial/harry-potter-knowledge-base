@@ -8,6 +8,9 @@ slug: "sirius-black-ii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Hesper Gamp (wife)"
+肤色: "Light"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +30,9 @@ slug: "sirius-black-ii"
 | 逝世 | 1952 (aged 74–75) |
 | 国籍 | British or Irish |
 | 家庭成员 | Phineas Nigellus Black (father) †； Ursula Black (née Flint) (mother)； [[Phineas Black]] (younger brother) †； Arcturus Black (II) (younger brother) †； Belvina Burke (younger sister) †； [[Cygnus Black]] (II) (youngest brother) †； [[Hesper Black]] (née Gamp) (wife)； Arcturus Black (III) (son) †； [[Lycoris Black]] (daughter) †； [[Regulus Black]] (I) (son) †； [[Lysandra Black (née Yaxley)]] (sister-in-law)； [[Herbert Burke]] (brother-in-law)； Violetta Black (née Bulstrode) (sister-in-law)； [[Pollux Black]] (nephew) †； [[Callidora Longbottom (née Black)]] (niece)； [[Cassiopeia Black]] (niece) †； [[Cedrella Weasley (née Black)]] (niece)； [[Marius]] Black (nephew) †； [[Charis Crouch (née Black)]] (niece)； [[Dorea Potter (née Black)]] (niece) †； [[Sirius Black]] (I) (paternal uncle) †； [[Elladora Black]] (paternal aunt) †； [[Iola Hitchens (née Black)]] (paternal aunt)； [[Bob]] Hitchens (paternal uncle by marriage)； [[Melania Black (née Macmillan)]] (daughter-in-law)； [[Lucretia Prewett (née Black)]] (granddaughter) †； Walburga Black (grandniece) †； [[Orion Black]] (grandson) †； Sirius Black (great-grandson) †； Regulus Black (great-grandson) †； House of Black； Flint family (maternal family)； Gamp family (in-laws) |
+| 恋情 | Hesper Gamp (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "boil-ridden-house-elf"
 物种: "家养小精灵"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "boil-ridden-house-elf"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Blue-grey |
 | 职业 | Hogwarts house-elf |
+| 肤色 | Pale |
 
 ## 关联
 

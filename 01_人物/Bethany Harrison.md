@@ -7,6 +7,7 @@ slug: "bethany-harrison"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "bethany-harrison"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
 | 家庭成员 | [[Don Harrison]] (father) |
+| 肤色 | White |
 
 ## 关联
 

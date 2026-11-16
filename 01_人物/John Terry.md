@@ -6,6 +6,7 @@ slug: "john-terry"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "john-terry"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Footballer |
+| 头衔 | Captain |
 
 ## 关联
 

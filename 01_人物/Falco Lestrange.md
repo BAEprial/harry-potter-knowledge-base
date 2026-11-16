@@ -7,6 +7,8 @@ slug: "falco-lestrange"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "falco-lestrange"
 | 国籍 | 法国人 |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Corvus Lestrange]] (father) †； Heloise Lestrange (née Beaufort) (mother)； Corvus Lestrange (brother)； Salomé Lestrange (née Volant) (wife)； [[Eglantine Lestrange]] (daughter)； Leonie Tremblay (née Lestrange) (daughter)； Minette Lestrange (née Rosier) (sister-in-law)； Manon Perrot (née Lestrange) (niece)； Josette Gage (née Lestrange) (niece)； Corvus Lestrange (nephew/son-in-law)； [[Cyrille Lestrange]] (paternal uncle)； [[Darenne Lestrange (née Moreau)]] (paternal aunt by marriage)； Cyrille Lestrange (paternal first cousin)； Fulcran Lestrange (paternal first cousin)； [[Bernard Tremblay]] (son-in-law)； [[Clarisse Lestrange (née Tremblay)]] (granddaughter)； Falco Tremblay (grandson)； Lestrange family； Beaufort family (maternal family)； Volant family (in-laws) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "e-pinecoffin"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "e-pinecoffin"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 女 |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

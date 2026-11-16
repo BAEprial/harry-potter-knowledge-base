@@ -7,6 +7,7 @@ slug: "edmund-gaddlegate-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "edmund-gaddlegate-s-mother"
 | 出生 | 15th century |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Edmund Gaddlegate]] (son) |
+| 肤色 | White |
 
 ## 关联
 

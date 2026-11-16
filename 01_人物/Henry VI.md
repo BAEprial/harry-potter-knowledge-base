@@ -6,6 +6,7 @@ slug: "henry-vi"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King of England"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "henry-vi"
 | 出生 | 6 December 1421 |
 | 逝世 | 21 May 1471 (aged 49) |
 | 家庭成员 | British royal family； William the Conqueror (ancestor)； [[Henry]] VII (half-nephew) |
+| 头衔 | King of England |
 
 ## 关联
 

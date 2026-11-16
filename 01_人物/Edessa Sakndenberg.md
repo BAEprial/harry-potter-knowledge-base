@@ -6,6 +6,8 @@ slug: "edessa-sakndenberg"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "edessa-sakndenberg"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blonde |
 | 职业 | Social historian specialising in Muggles； Head of Hogwarts (formerly) |
+| 肤色 | White |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "unidentified-fourth-year-chaser"
 物种: "人类"
 国籍: "British or Irish"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "unidentified-fourth-year-chaser"
 | 物种 | 人类 |
 | 出生 | Between 1 September 1974 and 31 August 1975 |
 | 国籍 | British or Irish |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

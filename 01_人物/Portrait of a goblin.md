@@ -5,6 +5,7 @@
 slug: "portrait-of-a-goblin"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "portrait-of-a-goblin"
 | 逝世 | Prior to 1991 |
 | 眼睛颜色 | Black |
 | 头发颜色 | Blond |
+| 肤色 | Light |
 
 ## 关联
 

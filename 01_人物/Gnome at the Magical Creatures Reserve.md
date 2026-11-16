@@ -4,6 +4,7 @@
 英文名: "Gnome at the Magical Creatures Reserve"
 slug: "gnome-at-the-magical-creatures-reserve"
 物种: "Gnome"
+肤色: "Light green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "gnome-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Gnome |
 | 眼睛颜色 | Black |
+| 肤色 | Light green |
 
 ## 关联
 

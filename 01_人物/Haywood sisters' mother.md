@@ -7,6 +7,7 @@ slug: "haywood-sisters-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "haywood-sisters-mother"
 | 出生 | Before 1973 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband； Penny Haywood (daughter)； [[Beatrice]] Haywood (daughter)； Haywood family |
+| 婚姻状况 | Married |
 
 ## 关联
 

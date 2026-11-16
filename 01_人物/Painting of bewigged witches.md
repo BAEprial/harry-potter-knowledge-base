@@ -5,6 +5,7 @@
 slug: "painting-of-bewigged-witches"
 物种: "Humans"
 性别: "Females"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "painting-of-bewigged-witches"
 | 物种 | Humans |
 | 性别 | Females |
 | 逝世 | Prior to 1991 |
+| 肤色 | Light |
 
 ## 关联
 

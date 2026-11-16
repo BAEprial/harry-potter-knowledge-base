@@ -10,17 +10,19 @@ An Obsidian vault for the Harry Potter series, in Chinese with original English 
 
 | 类别 / Category | 数量 / Count | 来源 / Source |
 |---|---|---|
-| 人物 / Characters | 约 5355 | hogwarts-api（全量 5410 条）|
-| 书籍 / Books | 9 | hogwarts-api（7 册）+ 总览 |
-| 电影 / Films | 12 | hogwarts-api（11 部）+ 总览 |
-| 咒语与魔药 / Spells & Potions | 522 | hogwarts-api（345 + 168）|
-| 生物与地点 / Creatures & Places | 147 | hogwarts-api（143 生物）+ 地点 |
+| 人物 / Characters | 约 5372 | hogwarts-api（5410 条）+ Leo555 中文传记补充 |
+| 书籍 / Books | 9 | hogwarts-api（7 册 / 199 章）+ 总览 |
+| 电影 / Films | 12 | hogwarts-api（11 部）+ Leo555 中文花絮台词 |
+| 咒语与魔药 / Spells & Potions | 约 551 | hogwarts-api（345 + 168）+ Leo555 中文详解 |
+| 生物与地点 / Creatures & Places | 约 195 | hogwarts-api（143 生物）+ Leo555 中文条目与地点 |
+| 魔法物品 / Magical items | 71 | Leo555 中文原创整理 |
 | 读物清单 / Reading list | 148 条 / entries | 仓库所有者整理 / compiled by the owner |
 | 组织清单 / Organizations | 73 条 / entries | 仓库所有者整理 / compiled by the owner |
-| 时间线 / 专题 / 模板 / Timeline, topics, templates | 约 10 | 通用知识 / General reference |
+| 番外故事 / 题库 / 专题 / Extra stories, quizzes, topics | 约 20 | Leo555 条目索引 + 互动题库 |
+| 时间线 / 模板 / Timeline, templates | 约 5 | 通用知识 / General reference |
 
-全库约 6000 篇笔记、8500 余条双向链接。
-Around 6,000 notes and 8,500+ wikilinks in total.
+全库约 6230 篇笔记、8700 余条双向链接。
+Around 6,230 notes and 8,700+ wikilinks in total.
 
 ## 目录结构 / Folder structure
 
@@ -32,7 +34,8 @@ Around 6,000 notes and 8,500+ wikilinks in total.
 04_生物与地点/     神奇动物、场景 / Magical creatures and places
 05_电影/          电影卡片 / Film notes
 06_时间线与事件/   大事年表、学年 / Timeline and school years
-07_专题研究/      关系分析、组织清单 / Topics and organization list
+07_专题研究/      关系分析、组织清单、番外故事索引、互动题库 / Topics, organizations, extra-story index, quizzes
+08_魔法物品/      魂器、魔杖、道具 / Magical items, Horcruxes, wands
 99_模板与附件/     人物卡、书籍卡、咒语卡模板 / Note templates
 ```
 
@@ -60,6 +63,8 @@ Plugin binaries are not included (third-party code). Install them from Obsidian'
   Incantations (e.g. `Expecto Patronum`) are kept in their original form.
 - 字段值（学院、血统等）的常见项做了英译中，其余保留英文原文。
   Common field values (house, blood status, etc.) are translated; the rest remain in English.
+- 部分卡片带有「中文百科（Leo555 整理）」段，为中文原创的传记、台词、花絮等；不同译名的条目另建独立卡，互为补充。
+  Some notes include a "中文百科（Leo555 整理）" section with original Chinese biographies, quotes and trivia; entries under alternative translations are separate, complementary notes.
 
 ## 数据来源 / Data sources
 
@@ -67,12 +72,16 @@ Plugin binaries are not included (third-party code). Install them from Obsidian'
 |---|---|
 | [hogwarts-api](https://github.com/ivopauly/hogwarts-api) | 人物、书籍、电影、咒语、魔药、生物的字段数据 / Character, book, film, spell, potion, creature data |
 | [potter-db](https://github.com/danielschuster-muc/potter-db) | 备用校验 / Cross-check |
+| [Leo555/harrypotter](https://github.com/Leo555/harrypotter) | 中文原创整理：人物传记、魔法物品、地点、中文咒语魔药、番外故事索引、互动题库 / Original Chinese content: biographies, magical items, places, spells, potions, extra-story index, quizzes |
 | [Knowledge_Graph_Harry_Potter](https://github.com/AmrinKareem/Knowledge_Graph_Harry_Potter) | 人物关系的共现网络方法 / Co-occurrence approach for character relations |
 | [Harry-Potter-Dialogue-Dataset](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset) | 角色对白与说话风格参考 / Dialogue and speaking style reference |
 | 通用知识 / General reference | 部分经典条目、地点、时间线 / Some classic entries, places, timeline |
 
 标注「资料来源: 通用知识（非API）」的笔记不是来自上述 GitHub 仓库，是通行知识整理。
 Notes marked "资料来源: 通用知识（非API）" are general reference, not from the repositories above.
+
+番外故事（extraStories）仅保留条目索引与官方来源链接，不复制罗琳在 Wizarding World 发表的作品正文。
+Extra stories are indexed with official source links only; the text of J.K. Rowling's Wizarding World writings is not reproduced.
 
 ## 版权 / License
 

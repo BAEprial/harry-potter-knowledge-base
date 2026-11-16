@@ -7,6 +7,8 @@ slug: "kendra-dumbledore"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Percival Dumbledore (husband) †"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "kendra-dumbledore"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Jet-black |
 | 家庭成员 | [[Honoria]] (sister or sister-in-law)； Percival Dumbledore (husband) †； Albus Dumbledore (son) †； [[Aberforth Dumbledore]] (son)； [[Ariana Dumbledore]] (daughter) †； [[Aurelius Dumbledore]] (biological grandson)； Dumbledore family (in-laws/descendants) |
+| 恋情 | Percival Dumbledore (husband) † |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

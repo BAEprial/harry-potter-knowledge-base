@@ -6,6 +6,8 @@ slug: "apolline-delacour-s-mother"
 物种: "媚娃"
 国籍: "法国人"
 性别: "女"
+肤色: "Lustrous white"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "apolline-delacour-s-mother"
 | 眼睛颜色 | Blue (possibly) |
 | 头发颜色 | White-gold |
 | 家庭成员 | Apolline Delacour (daughter)； At least one other child； Son-in-law； Fleur Delacour (granddaughter)； Gabrielle Delacour (granddaughter)； Two granddaughters； William Weasley (grandson-in-law) |
+| 肤色 | Lustrous white |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

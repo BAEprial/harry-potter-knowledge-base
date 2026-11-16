@@ -8,6 +8,9 @@ slug: "bartemius-crouch-junior"
 国籍: "British or Irish"
 性别: "男"
 守护神: "无"
+肤色: "Pale"
+头衔: "Professor (as Alastor Moody) (formerly)"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +35,9 @@ slug: "bartemius-crouch-junior"
 | 职业 | Professor of Defence Against the Dark Arts at Hogwarts School of Witchcraft and Wizardry (as Alastor Moody) (1994-1995) |
 | 别名与绰号 | Barty Crouch Jnr； Alastor 'Mad-Eye' Moody (under disguise of Polyjuice Potion) |
 | 家庭成员 | Bartemius Crouch Senior (father) †； Mother †； Caspar Crouch (possible relative) †； Possible relative †； Possible relatives †； Crouch family |
+| 肤色 | Pale |
+| 头衔 | Professor (as Alastor Moody) (formerly) |
+| 婚姻状况 | Single |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "edgar-wallace"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "edgar-wallace"
 | 逝世 | 10 February 1932 (aged 56),，Beverly Hills,，USA |
 | 国籍 | 英国人 |
 | 职业 | Author,，journalist,，screenwriter,，playwright |
+| 肤色 | White |
 
 ## 关联
 

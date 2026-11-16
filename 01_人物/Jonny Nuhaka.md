@@ -6,6 +6,8 @@ slug: "jonny-nuhaka"
 物种: "人类"
 国籍: "Australian"
 性别: "男"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "jonny-nuhaka"
 | 国籍 | Australian |
 | 头发颜色 | Brown |
 | 职业 | Keeper for the Australian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

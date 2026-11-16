@@ -7,6 +7,7 @@ slug: "vaisey"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "vaisey"
 | 性别 | 男 |
 | 出生 | 31 August 1984 or earlier |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

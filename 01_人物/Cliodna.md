@@ -6,6 +6,7 @@ slug: "cliodna"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "cliodna"
 | 眼睛颜色 | Green |
 | 职业 | Druidess |
 | 别名与绰号 | Cliodne |
+| 肤色 | White |
 
 ## 关联
 

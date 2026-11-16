@@ -8,6 +8,8 @@ slug: "badeea-ali"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "badeea-ali"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Magical tea shop employee |
 | 家庭成员 | Mother； Uncle； Ali family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Pale |
 
 ## 关联
 

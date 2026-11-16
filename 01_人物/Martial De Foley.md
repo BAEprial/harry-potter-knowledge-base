@@ -6,6 +6,7 @@ slug: "martial-de-foley"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "martial-de-foley"
 | 出生 | Before the late 1920s |
 | 国籍 | 法国人 |
 | 职业 | French Minister for Magic (c. 1920s) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "scamander-brothers-mother"
 学院: "Hufflepuff (possibly)"
 物种: "人类"
 性别: "女"
+恋情: "Scamander brothers' father (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "scamander-brothers-mother"
 | 出生 | In or before 1872 |
 | 职业 | Hippogriff breeder |
 | 家庭成员 | [[Newt]] Scamander (son)； Theseus Scamander (son)； Porpentina Scamander (née Goldstein) (daughter-in-law)； At least one grandchild； Scamander family |
+| 恋情 | Scamander brothers' father (uncertain relationship) |
 
 ## 关联
 

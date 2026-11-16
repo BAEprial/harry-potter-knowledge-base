@@ -6,6 +6,9 @@ slug: "perseus-ecklington"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Daisy Twemlove (wife)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +26,9 @@ slug: "perseus-ecklington"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Daisy Twemlove (wife) |
+| 恋情 | Daisy Twemlove (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

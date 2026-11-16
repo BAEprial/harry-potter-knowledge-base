@@ -4,6 +4,7 @@
 英文名: "Gringott's Dragon"
 slug: "gringott-s-dragon"
 物种: "Dragon (Ukrainian Ironbelly)"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "gringott-s-dragon"
 | 物种 | Dragon (Ukrainian Ironbelly) |
 | 出生 | During or before 1996 |
 | 眼睛颜色 | Pale |
+| 肤色 | Grey |
 
 ## 关联
 

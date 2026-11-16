@@ -5,6 +5,7 @@
 slug: "old-mother-hubbard"
 物种: "Hag"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "old-mother-hubbard"
 | 逝世 | Medieval times |
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
+| 肤色 | Pale |
 
 ## 关联
 

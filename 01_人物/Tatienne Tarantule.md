@@ -6,6 +6,7 @@ slug: "tatienne-tarantule"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "tatienne-tarantule"
 | 出生 | Before 1920s |
 | 国籍 | 法国人 |
 | 职业 | President |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "gulliver-pokeby"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "gulliver-pokeby"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
 | 职业 | Magizoologist； Author |
+| 肤色 | White |
 
 ## 关联
 

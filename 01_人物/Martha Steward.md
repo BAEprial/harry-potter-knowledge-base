@@ -7,6 +7,9 @@ slug: "martha-steward-ii"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Husband"
+肤色: "Fair"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "martha-steward-ii"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | [[James]] Steward (father) †； [[Isolt Steward (née Sayre)]] (mother) †； Rionach Steward (younger twin sister)； [[Chadwick Boot]] (adoptive older brother)； Webster Boot (adoptive older brother)； Husband； Sibling-in-law； Josefina Calderon (adoptive sister-in-law)； Adoptive sister-in-law； At least two adoptive niece/s and/or nephew/s； [[Martha]] Steward (paternal grandmother) †； William Sayre (maternal grandfather) †； Rionach Sayre (née Gaunt) (maternal grandmother) †； Morrigan (maternal ancestor)； Salazar Slytherin (maternal ancestor)； [[Cadmus]] Peverell (maternal ancestor) †； Steward family； Sayre family (maternal family) |
+| 恋情 | Husband |
+| 肤色 | Fair |
+| 婚姻状况 | Married |
 
 ## 关联
 

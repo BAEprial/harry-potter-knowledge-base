@@ -8,6 +8,7 @@ slug: "ewan-ward"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "ewan-ward"
 | 头发颜色 | Grey |
 | 魔杖 | 15',，Ash,，unicorn hair |
 | 职业 | Auror |
+| 肤色 | White |
 
 ## 关联
 

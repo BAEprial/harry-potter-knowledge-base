@@ -5,6 +5,7 @@
 slug: "unidentified-pumpkin-juice-seller-at-the-1994-quidditch-world-cup"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-pumpkin-juice-seller-at-the-1994-quidditch-world-cup"
 | 眼睛颜色 | Black |
 | 头发颜色 | 黑暗 |
 | 职业 | Seller of pumpkin juice |
+| 肤色 | Dark |
 
 ## 关联
 

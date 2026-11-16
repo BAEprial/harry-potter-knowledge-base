@@ -8,6 +8,7 @@ slug: "garreth-weasley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "garreth-weasley"
 | 眼睛颜色 | Green |
 | 头发颜色 | Red |
 | 家庭成员 | G. Weasley (father)； Younger sister； Brothers and/or cousins； Matilda Weasley (paternal aunt)； Weasley family |
+| 肤色 | Light |
 
 ## 关联
 

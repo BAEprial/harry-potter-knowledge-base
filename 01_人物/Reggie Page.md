@@ -7,6 +7,7 @@ slug: "reggie-page"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "reggie-page"
 | 国籍 | British or Irish |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | [[Gorman Page]] (father)； [[Kaleena Page]] (mother)； [[Esme Page]] (sister)； [[Dan]]iel Page (younger brother)； Page family |
+| 肤色 | White |
 
 ## 关联
 

@@ -8,6 +8,7 @@ slug: "fay-dunbar"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "fay-dunbar"
 | 出生 | Between 1 September 1978 and 31 August 1979 (most likey) |
 | 国籍 | British or Irish |
 | 头发颜色 | Black (formerly),，Blonde |
+| 肤色 | Light |
 
 ## 关联
 

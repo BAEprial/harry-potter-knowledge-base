@@ -7,6 +7,7 @@ slug: "venusia-crickerly"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "venusia-crickerly"
 | 逝世 | 1912 |
 | 国籍 | 英国人 |
 | 职业 | Auror (pre-1903)； British Minister for Magic (1903–1912) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "tina-lundstrom"
 物种: "人类"
 性别: "女"
+肤色: "White"
+头衔: "Captain； Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "tina-lundstrom"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blonde |
 | 职业 | Captain and Seeker for the Nordic National Quidditch team |
+| 肤色 | White |
+| 头衔 | Captain； Seeker |
 
 ## 关联
 

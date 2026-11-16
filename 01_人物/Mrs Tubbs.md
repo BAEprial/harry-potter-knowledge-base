@@ -5,6 +5,7 @@
 slug: "tubbs"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "tubbs"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Owner of the Tuck Shop |
+| 婚姻状况 | Married |
 
 ## 关联
 

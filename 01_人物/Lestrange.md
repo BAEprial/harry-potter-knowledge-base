@@ -8,6 +8,7 @@ slug: "lestrange"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "lestrange"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Rodolphus Lestrange (I) (ancestor)； [[F. Lestrange]] (ancestor)； R. Lestrange (ancestor)； Rodolphus Lestrange (possible relative)； Rabastan Lestrange (possible relative)； [[Bell]]atrix Lestrange (née Black) (possible relative)； [[Delphini]] (possible relative)； Lestrange family |
+| 肤色 | Light |
 
 ## 关联
 

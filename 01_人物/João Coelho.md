@@ -5,6 +5,7 @@
 slug: "joao-coelho"
 物种: "人类"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "joao-coelho"
 | 性别 | 男 |
 | 出生 | Before 1999 |
 | 职业 | Captain for the Tarapoto Tree-Skimmers |
+| 头衔 | Captain |
 
 ## 关联
 

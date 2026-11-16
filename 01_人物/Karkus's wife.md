@@ -5,6 +5,8 @@
 slug: "karkus-s-wife"
 物种: "Giant"
 性别: "女"
+恋情: "Karkus (husband)†"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "karkus-s-wife"
 | 物种 | Giant |
 | 性别 | 女 |
 | 家庭成员 | [[Karkus]] (husband)† |
+| 恋情 | Karkus (husband)† |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "unidentified-third-year-slytherin-boy"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-third-year-slytherin-boy"
 | 出生 | Between 1 September 1974 and 31 August 1975 |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 肤色 | White |
 
 ## 关联
 

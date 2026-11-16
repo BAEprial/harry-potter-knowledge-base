@@ -7,6 +7,9 @@ slug: "aurelius-dumbledore"
 物种: "人类"
 国籍: "English (possibly),，French (possibly),，American"
 性别: "男"
+恋情: "Nagini (formerly)"
+肤色: "Pale and slick"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "aurelius-dumbledore"
 | 职业 | Worker at Circus Arcanus (formerly) |
 | 别名与绰号 | Credence Barebone (adoptive name)； Corvus Lestrange V (mistakenly believed identity) |
 | 家庭成员 | Aberforth Dumbledore (biological father)； Biological mother； Mary Lou Barebone (adoptive mother) †； [[Chas]]tity Barebone (adoptive sister) †； Modesty Barebone (adoptive sister)； Albus Dumbledore (biological paternal uncle) †； [[Ariana Dumbledore]] (biological paternal aunt) †； Biological maternal aunt †； Percival Dumbledore (biological paternal grandfather) †； Kendra Dumbledore (biological paternal grandmother) †； [[Bartholomew]] Barebone (adoptive ancestor) †； Adoptive ancestor †； Dumbledore family (biological paternal family)； Barebone family (adoptive family) |
+| 恋情 | Nagini (formerly) |
+| 肤色 | Pale and slick |
+| 婚姻状况 | Single |
 
 ## 关联
 

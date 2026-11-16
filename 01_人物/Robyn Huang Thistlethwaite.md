@@ -9,6 +9,9 @@ slug: "robyn-thistlethwaite"
 国籍: "Half-Chinese and half-British"
 性别: "女"
 守护神: "Polar Bear"
+恋情: "Kevin Farrell (seemingly a couple)"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +34,9 @@ slug: "robyn-thistlethwaite"
 | 头发颜色 | Brown |
 | 魔杖 | 14',，dogwood,，unicorn hair |
 | 家庭成员 | Mother； Father； Brothers； Grandmother； Thistlethwaite family |
+| 恋情 | Kevin Farrell (seemingly a couple) |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "elise-martin"
 物种: "人类"
 性别: "女"
+肤色: "Brown"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "elise-martin"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 头发颜色 | Black |
+| 肤色 | Brown |
+| 头衔 | Chaser |
 
 ## 关联
 

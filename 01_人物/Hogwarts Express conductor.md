@@ -7,6 +7,7 @@ slug: "hogwarts-express-conductor"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hogwarts-express-conductor"
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
 | 职业 | Conductor of the Hogwarts Express |
+| 肤色 | Light |
 
 ## 关联
 

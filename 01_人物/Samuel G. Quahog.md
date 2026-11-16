@@ -6,6 +6,7 @@ slug: "samuel-g-quahog"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "President"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "samuel-g-quahog"
 | 出生 | 1997 or earlier |
 | 国籍 | American |
 | 职业 | President of the Magical Congress of the United States of America (c. 2014) |
+| 头衔 | President |
 
 ## 关联
 

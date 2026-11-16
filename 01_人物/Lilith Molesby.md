@@ -6,6 +6,7 @@ slug: "lilith-molesby"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "lilith-molesby"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | 英国人 |
+| 婚姻状况 | Single |
 
 ## 关联
 

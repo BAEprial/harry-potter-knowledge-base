@@ -6,6 +6,7 @@ slug: "wilhemina-twigge"
 物种: "人类"
 国籍: "Bohemian"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "wilhemina-twigge"
 | 国籍 | Bohemian |
 | 头发颜色 | Red |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Pale |
 
 ## 关联
 

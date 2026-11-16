@@ -7,6 +7,7 @@ slug: "muriel"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "muriel"
 | 国籍 | 英国人 |
 | 头发颜色 | Red (possibly,，originally),，Light grey |
 | 家庭成员 | Mother； Possible grandson,，great-nephew or great-nephew by marriage； Nephew or nephew by marriage； [[Lancelot]] (cousin)； [[Ignatius Prewett]] (possible nephew)； Tessie (possible niece or niece by marriage)； Possible relative； [[Leander Prewett]] (possible relative)； J. E. Prewitt (possible relative) |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "leonard-spencer-moon"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "leonard-spencer-moon"
 | 出生 | Before 1922 |
 | 职业 | Tea-boy in the Department of Magical Accidents and Catastrophes (formerly)； British Minister for Magic (1939–1948) |
 | 家庭成员 | [[Gladwin Moon]] (possibly)； Lily Moon (possibly)； [[Dennis]] Moon (possibly)； [[Cole Spencer]] (possibly)； Moon family |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

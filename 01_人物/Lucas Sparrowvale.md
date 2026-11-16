@@ -6,6 +6,8 @@ slug: "lucas-sparrowvale"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Constance Pickering (girlfriend)"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "lucas-sparrowvale"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | British Ministry of Magic employee |
+| 恋情 | Constance Pickering (girlfriend) |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

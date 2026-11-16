@@ -7,6 +7,7 @@ slug: "filemina-alchin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "filemina-alchin"
 | 性别 | 女 |
 | 出生 | Between 1 September 1677 and 31 August 1681 |
 | 国籍 | British or Irish |
+| 头衔 | Captain |
 
 ## 关联
 

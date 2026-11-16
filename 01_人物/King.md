@@ -6,6 +6,7 @@ slug: "king-babbitty-rabbitty-and-her-cackling-stump"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "king-babbitty-rabbitty-and-her-cackling-stump"
 | 性别 | 男 |
 | 头发颜色 | 黑暗 |
 | 职业 | King |
+| 头衔 | King |
 
 ## 关联
 

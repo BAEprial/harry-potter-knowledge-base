@@ -6,6 +6,7 @@ slug: "ackley-barnes"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "ackley-barnes"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Thief； Businessman |
+| 肤色 | Light |
 
 ## 关联
 

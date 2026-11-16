@@ -5,6 +5,7 @@
 slug: "chauncey-oldridge"
 物种: "人类"
 性别: "男"
+肤色: "Green (from Dragon pox)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "chauncey-oldridge"
 | 逝世 | 1379 (aged 36-37) |
 | 眼睛颜色 | Bright Blue |
 | 头发颜色 | Reddish brown |
+| 肤色 | Green (from Dragon pox) |
 
 ## 关联
 

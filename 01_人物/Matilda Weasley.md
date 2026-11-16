@@ -8,6 +8,9 @@ slug: "matilda-weasley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Paul (formerly)"
+肤色: "Light"
+头衔: "Professor； Deputy Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "matilda-weasley"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Curse-Breaker (?-pre 1890)； Professor of Transfiguration at Hogwarts School of Witchcraft and Wizardry； Deputy Headmistress at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | [[G. Weasley]] (brother)； [[Garreth Weasley]] (nephew)； Niece； Other nephews； Weasley family |
+| 恋情 | Paul (formerly) |
+| 肤色 | Light |
+| 头衔 | Professor； Deputy Headmistress |
 
 ## 关联
 

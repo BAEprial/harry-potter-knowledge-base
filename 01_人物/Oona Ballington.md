@@ -7,6 +7,7 @@ slug: "oona-ballington"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "oona-ballington"
 | 性别 | 女 |
 | 出生 | Between 1685 and 1689 |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "chavelle-arbelo-cartaya"
 物种: "人类"
 国籍: "Spanish"
 性别: "女"
+肤色: "White (Tanned)"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "chavelle-arbelo-cartaya"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Chaser for the Spanish National Quidditch team |
+| 肤色 | White (Tanned) |
+| 头衔 | Chaser |
 
 ## 关联
 

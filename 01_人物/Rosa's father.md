@@ -6,6 +6,7 @@ slug: "rosa-s-father"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "rosa-s-father"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Black |
 | 家庭成员 | Wife †； [[Rosa]] (daughter) † |
+| 肤色 | Light |
 
 ## 关联
 

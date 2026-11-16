@@ -6,6 +6,7 @@ slug: "eupraxia-mole"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "eupraxia-mole"
 | 出生 | Before 1859 |
 | 国籍 | British or Irish |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

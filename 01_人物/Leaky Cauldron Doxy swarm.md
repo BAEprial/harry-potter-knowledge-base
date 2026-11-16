@@ -4,6 +4,7 @@
 英文名: "Leaky Cauldron Doxy swarm"
 slug: "leaky-cauldron-doxy-swarm"
 物种: "Doxies"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "leaky-cauldron-doxy-swarm"
 | 物种 | Doxies |
 | 出生 | Before 1 September,，1990 |
 | 眼睛颜色 | Black |
+| 肤色 | Blue |
 
 ## 关联
 

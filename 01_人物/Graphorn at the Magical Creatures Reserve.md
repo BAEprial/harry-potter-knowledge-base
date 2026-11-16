@@ -5,6 +5,7 @@
 slug: "graphorn-at-the-magical-creatures-reserve"
 物种: "Graphorn"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "graphorn-at-the-magical-creatures-reserve"
 | 性别 | 女 |
 | 眼睛颜色 | Black |
 | 家庭成员 | Baby |
+| 肤色 | Brown |
 
 ## 关联
 

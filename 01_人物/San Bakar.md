@@ -7,6 +7,8 @@ slug: "san-bakar"
 物种: "人类"
 国籍: "Yemeni (at one point),，英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "san-bakar"
 | 眼睛颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Beasts at Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

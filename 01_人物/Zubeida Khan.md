@@ -7,6 +7,7 @@ slug: "zubeida-khan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "zubeida-khan"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 家庭成员 | Akshay Khan (possible relative) |
+| 肤色 | Dark |
 
 ## 关联
 

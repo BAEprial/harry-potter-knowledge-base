@@ -6,6 +6,7 @@ slug: "hamish-macfarlan"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Captain (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "hamish-macfarlan"
 | 出生 | Before 1940 |
 | 国籍 | 英国人 |
 | 职业 | Professional Quidditch player； Head of the Department of Magical Games and Sports |
+| 头衔 | Captain (formerly) |
 
 ## 关联
 

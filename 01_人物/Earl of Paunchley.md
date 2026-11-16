@@ -7,6 +7,8 @@ slug: "earl-of-paunchley"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Earl"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "earl-of-paunchley"
 | 头发颜色 | Blond |
 | 职业 | Feudal noble |
 | 别名与绰号 | Hairy Cyril |
+| 肤色 | White |
+| 头衔 | Earl |
 
 ## 关联
 

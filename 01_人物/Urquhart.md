@@ -7,6 +7,7 @@ slug: "urquhart"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Quidditch Captain； Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "urquhart"
 | 出生 | Between 1 September 1978 and 31 August 1984 |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Elphinstone Urquart]] (possible relative) |
+| 头衔 | Quidditch Captain； Chaser |
 
 ## 关联
 

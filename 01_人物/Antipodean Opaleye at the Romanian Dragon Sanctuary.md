@@ -4,6 +4,7 @@
 英文名: "Antipodean Opaleye at the Romanian Dragon Sanctuary"
 slug: "antipodean-opaleye-at-the-romanian-dragon-sanctuary"
 物种: "Antipodean Opaleye"
+肤色: "Pearlescent"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "antipodean-opaleye-at-the-romanian-dragon-sanctuary"
 | 物种 | Antipodean Opaleye |
 | 出生 | 1989–1990 school year |
 | 眼睛颜色 | Multicolored |
+| 肤色 | Pearlescent |
 
 ## 关联
 

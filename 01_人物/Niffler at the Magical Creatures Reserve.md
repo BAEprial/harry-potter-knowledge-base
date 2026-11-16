@@ -4,6 +4,7 @@
 英文名: "Niffler at the Magical Creatures Reserve"
 slug: "niffler-at-the-magical-creatures-reserve"
 物种: "Niffler"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "niffler-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Niffler |
 | 眼睛颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

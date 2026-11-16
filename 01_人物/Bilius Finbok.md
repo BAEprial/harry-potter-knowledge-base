@@ -7,6 +7,7 @@ slug: "bilius-finbok"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "bilius-finbok"
 | 眼睛颜色 | Green |
 | 头发颜色 | Greyish brown |
 | 职业 | Employee in the Department of Intoxicating Substances； Amateur Potioneer |
+| 肤色 | White |
 
 ## 关联
 

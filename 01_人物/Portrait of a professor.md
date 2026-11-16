@@ -6,6 +6,8 @@ slug: "portrait-of-a-professor"
 学院: "Gryffindor (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "portrait-of-a-professor"
 | 性别 | 男 |
 | 逝世 | Prior to 1991 |
 | 职业 | Professor at Hogwarts |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

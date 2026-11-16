@@ -4,6 +4,7 @@
 英文名: "Newton Scamander's Runespoor"
 slug: "newton-scamander-s-runespoor"
 物种: "Runespoor"
+肤色: "Orange (scales)"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "newton-scamander-s-runespoor"
 |---|---|
 | 物种 | Runespoor |
 | 出生 | Before 1926 |
+| 肤色 | Orange (scales) |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Figgy"
 slug: "figgy"
 物种: "Frog"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "figgy"
 | 物种 | Frog |
 | 出生 | In or prior to 1986 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Green |
 
 ## 关联
 

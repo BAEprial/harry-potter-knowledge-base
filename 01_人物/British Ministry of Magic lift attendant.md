@@ -6,6 +6,7 @@ slug: "british-ministry-of-magic-lift-attendant"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "british-ministry-of-magic-lift-attendant"
 | 出生 | 1978 or earlier |
 | 国籍 | 英国人 |
 | 职业 | Lift attendant |
+| 肤色 | Pale |
 
 ## 关联
 

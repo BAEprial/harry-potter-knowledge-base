@@ -7,6 +7,7 @@ slug: "unidentified-gryffindor-chaser-iv"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-gryffindor-chaser-iv"
 | 性别 | 女 |
 | 出生 | Between 1 September 2001 and 31 August 2008 |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

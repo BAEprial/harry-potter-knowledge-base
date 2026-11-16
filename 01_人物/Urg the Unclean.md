@@ -5,6 +5,7 @@
 slug: "urg-the-unclean"
 物种: "妖精"
 性别: "男"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "urg-the-unclean"
 | 出生 | c. 18th century |
 | 头发颜色 | White |
 | 职业 | Goblin rebel leader |
+| 肤色 | Tan |
 
 ## 关联
 

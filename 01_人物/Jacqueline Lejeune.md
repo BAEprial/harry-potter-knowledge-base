@@ -6,6 +6,7 @@ slug: "jacqueline-lejeune"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "jacqueline-lejeune"
 | 眼睛颜色 | Brown |
 | 头发颜色 | 黑暗 |
 | 职业 | Quidditch commentator |
+| 肤色 | White |
 
 ## 关联
 

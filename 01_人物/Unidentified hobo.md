@@ -7,6 +7,7 @@ slug: "unidentified-hobo"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-hobo"
 | 性别 | 男 |
 | 国籍 | American |
 | 头发颜色 | Grey |
+| 肤色 | White |
 
 ## 关联
 

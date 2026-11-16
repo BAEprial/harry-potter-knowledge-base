@@ -6,6 +6,7 @@ slug: "troy"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "troy"
 | 出生 | Before 1977 |
 | 国籍 | 爱尔兰人 |
 | 职业 | Chaser for the Irish National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "jane-austen"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "jane-austen"
 | 逝世 | 18 July 1817 (aged 41) |
 | 国籍 | 英国人 |
 | 职业 | Author |
+| 婚姻状况 | Single |
 
 ## 关联
 

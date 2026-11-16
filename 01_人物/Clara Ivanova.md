@@ -6,6 +6,8 @@ slug: "clara-ivanova"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "女"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "clara-ivanova"
 | 眼睛颜色 | Green |
 | 头发颜色 | Red |
 | 职业 | Chaser for the Bulgarian National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

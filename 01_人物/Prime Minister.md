@@ -7,6 +7,7 @@ slug: "british-prime-minister-in-1996"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Prime Minister"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "british-prime-minister-in-1996"
 | 国籍 | 英国人 |
 | 职业 | Prime Minister of the United Kingdom |
 | 家庭成员 | Niece |
+| 头衔 | Prime Minister |
 
 ## 关联
 

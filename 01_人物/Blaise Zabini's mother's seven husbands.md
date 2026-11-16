@@ -5,6 +5,8 @@
 slug: "blaise-zabini-s-mother-s-seven-husbands"
 物种: "Humans"
 性别: "Males"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "blaise-zabini-s-mother-s-seven-husbands"
 | 性别 | Males |
 | 逝世 | Before 1 September 1996 |
 | 家庭成员 | Wife； [[Blaise Zabini]] (son/stepson)； Zabini family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

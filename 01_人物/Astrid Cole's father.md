@@ -6,6 +6,8 @@ slug: "astrid-cole-s-father"
 物种: "人类"
 国籍: "麻瓜"
 性别: "男"
+恋情: "Wife †"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "astrid-cole-s-father"
 | 国籍 | 麻瓜 |
 | 职业 | Criminal investigator |
 | 家庭成员 | Wife †； Astrid Cole (daughter)； Possible relative； [[Angelica Cole]] (possibly)； Cole family |
+| 恋情 | Wife † |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

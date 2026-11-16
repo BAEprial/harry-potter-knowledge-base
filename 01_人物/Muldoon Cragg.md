@@ -7,6 +7,8 @@ slug: "muldoon-cragg"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "muldoon-cragg"
 | 头发颜色 | Grey |
 | 职业 | Head of Gryffindor House (?–before 1991) |
 | 家庭成员 | [[Elfrida Cragg]] (possibly) |
+| 肤色 | White |
+| 头衔 | Head of Gryffindor House |
 
 ## 关联
 

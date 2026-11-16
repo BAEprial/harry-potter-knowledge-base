@@ -6,6 +6,7 @@ slug: "babayaga"
 物种: "Hag"
 国籍: "Russian"
 性别: "女"
+肤色: "Yellow"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "babayaga"
 | 国籍 | Russian |
 | 眼睛颜色 | Black |
 | 头发颜色 | 黑暗 |
+| 肤色 | Yellow |
 
 ## 关联
 

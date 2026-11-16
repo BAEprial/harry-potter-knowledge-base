@@ -7,6 +7,8 @@ slug: "floxel-lestrange"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "floxel-lestrange"
 | 性别 | 男 |
 | 国籍 | 法国人 |
 | 家庭成员 | [[Cyrille Lestrange]] (father)； Luminosa Lestrange (née Trouche) (mother)； Cyrille Lestrange (brother)； Jodelle Lestrange (née Volant) (wife)； Quintilla Lestrange (daughter)； Fulcran Lestrange (son-in-law/second cousin)； Cyrille Lestrange (paternal grandfather)； [[Balbine Lestrange]] (née Leroy) (paternal grandmother)； Nozéa Lestrange (granddaughter)； Lestrange family； Trouche family (maternal family)； Volant family (in-laws) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

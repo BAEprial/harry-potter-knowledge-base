@@ -6,6 +6,7 @@ slug: "sigrid-kristoffersen"
 物种: "人类"
 国籍: "Norwegian"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sigrid-kristoffersen"
 | 出生 | After 1976,，Norway |
 | 国籍 | Norwegian |
 | 职业 | Seeker for the Norwegian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

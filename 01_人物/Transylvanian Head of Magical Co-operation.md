@@ -5,6 +5,7 @@
 slug: "transylvanian-head-of-magical-co-operation"
 物种: "人类"
 国籍: "Romanian"
+头衔: "Head of Magical Co-operation"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "transylvanian-head-of-magical-co-operation"
 | 物种 | 人类 |
 | 国籍 | Romanian |
 | 职业 | Head of Magical Co-operation |
+| 头衔 | Head of Magical Co-operation |
 
 ## 关联
 

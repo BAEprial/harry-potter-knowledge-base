@@ -7,6 +7,7 @@ slug: "arthur-plummly"
 血统: "混血"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Medium"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "arthur-plummly"
 | 眼睛颜色 | Light brown |
 | 头发颜色 | Black |
 | 家庭成员 | Father； Mother； Plummly family |
+| 肤色 | Medium |
 
 ## 关联
 

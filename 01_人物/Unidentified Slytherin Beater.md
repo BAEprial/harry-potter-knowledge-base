@@ -7,6 +7,8 @@ slug: "unidentified-slytherin-beater-i"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "unidentified-slytherin-beater-i"
 | 出生 | between 1 September 1974 and 31 August 1980 |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Light |
+| 头衔 | Beater |
 
 ## 关联
 

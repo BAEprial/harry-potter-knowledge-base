@@ -5,6 +5,8 @@
 slug: "cadmus-peverell-s-fiancee"
 物种: "人类"
 性别: "女"
+恋情: "Cadmus Peverell (fiancé)"
+婚姻状况: "Engaged"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "cadmus-peverell-s-fiancee"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 逝世 | c. 13th century |
+| 恋情 | Cadmus Peverell (fiancé) |
+| 婚姻状况 | Engaged |
 
 ## 关联
 

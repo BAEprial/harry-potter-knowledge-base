@@ -4,6 +4,7 @@
 英文名: "Rubeus Hagrid's Fire Crab"
 slug: "british-ministry-of-magic-s-fire-crab"
 物种: "Fire Crab"
+肤色: "Blue-grey"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "british-ministry-of-magic-s-fire-crab"
 |---|---|
 | 物种 | Fire Crab |
 | 眼睛颜色 | Yellow |
+| 肤色 | Blue-grey |
 
 ## 关联
 

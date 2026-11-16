@@ -6,6 +6,7 @@ slug: "stevens"
 血统: "Muggle (most likely)"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married, divorced or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "stevens"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 出生 | Before 1990 |
+| 婚姻状况 | Married, divorced or widowed |
 
 ## 关联
 

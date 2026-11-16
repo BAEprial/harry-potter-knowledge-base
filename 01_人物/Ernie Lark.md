@@ -5,6 +5,7 @@
 slug: "ernie-lark"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "ernie-lark"
 | 性别 | 男 |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Busker |
+| 肤色 | Dark |
 
 ## 关联
 

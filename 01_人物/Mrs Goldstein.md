@@ -5,6 +5,8 @@
 slug: "goldstein-sisters-mother"
 物种: "人类"
 性别: "女"
+恋情: "Husband †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "goldstein-sisters-mother"
 | 出生 | 1884 or earlier |
 | 逝世 | 1900s or 1910s |
 | 家庭成员 | Father or father-in-law； Husband †； Porpentina Scamander (née Goldstein) (daughter)； Queenie Goldstein (daughter)； [[Jacob]] [[Kowalski]] (son-in-law)； [[Newt]]on Scamander (son-in-law)； At least one grandchild； Goldstein family |
+| 恋情 | Husband † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "podric-batworthy"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Grand Sorcerer"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "podric-batworthy"
 | 逝世 | After 1401 |
 | 头发颜色 | Black |
 | 家庭成员 | Podric Batworthy XXIII (descendant)； Batworthy family |
+| 肤色 | Light |
+| 头衔 | Grand Sorcerer |
 
 ## 关联
 

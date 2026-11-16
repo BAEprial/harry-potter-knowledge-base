@@ -4,6 +4,7 @@
 英文名: "Unidentified Ukrainian Ironbelly"
 slug: "unidentified-ukrainian-ironbelly"
 物种: "Ukrainian Ironbelly"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-ukrainian-ironbelly"
 |---|---|
 | 物种 | Ukrainian Ironbelly |
 | 出生 | Pre-1799 |
+| 肤色 | Grey |
 
 ## 关联
 

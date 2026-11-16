@@ -4,6 +4,7 @@
 英文名: "Leucrotta at the Magical Creatures Reserve"
 slug: "leucrotta-at-the-magical-creatures-reserve"
 物种: "Leucrotta"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "leucrotta-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Leucrotta |
 | 出生 | In or before 1988–1989 school year |
+| 肤色 | Brown |
 
 ## 关联
 

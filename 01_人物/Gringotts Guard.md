@@ -6,6 +6,7 @@ slug: "gringotts-guard"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "gringotts-guard"
 | 国籍 | 英国人 |
 | 头发颜色 | Grey |
 | 职业 | Gringotts guard |
+| 肤色 | Light |
 
 ## 关联
 

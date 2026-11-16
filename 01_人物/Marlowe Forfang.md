@@ -5,6 +5,7 @@
 slug: "marlowe-forfang"
 物种: "人类"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "marlowe-forfang"
 | 性别 | 男 |
 | 出生 | England |
 | 职业 | Authority on werewolves |
+| 头衔 | Professor |
 
 ## 关联
 

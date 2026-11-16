@@ -5,6 +5,7 @@
 slug: "john"
 物种: "人类"
 性别: "男"
+头衔: "Saint"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "john"
 | 性别 | 男 |
 | 职业 | Writer |
 | 别名与绰号 | John the Evangelist |
+| 头衔 | Saint |
 
 ## 关联
 

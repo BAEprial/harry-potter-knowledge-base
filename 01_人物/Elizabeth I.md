@@ -6,6 +6,8 @@ slug: "elizabeth-i"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+头衔: "Queen"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "elizabeth-i"
 | 出生 | 7 September 1533 |
 | 逝世 | 24 March 1603 (aged 69) |
 | 家庭成员 | Henry VIII (father) †； Anne Boleyn (mother) †； Mary I (paternal half-sister) †； William the Conqueror (ancestor) †； British royal familyHouse of Tudor； House of Tudor |
+| 头衔 | Queen |
+| 婚姻状况 | Single |
 
 ## 关联
 

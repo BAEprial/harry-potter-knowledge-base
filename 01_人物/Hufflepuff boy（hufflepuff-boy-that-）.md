@@ -7,6 +7,7 @@ slug: "hufflepuff-boy-that-blamed-harry-potter-ii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "hufflepuff-boy-that-blamed-harry-potter-ii"
 | 出生 | 31 August 1983 or earlier |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Light |
 
 ## 关联
 

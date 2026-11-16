@@ -5,6 +5,7 @@
 slug: "unidentified-female-swedish-short-snout"
 物种: "Dragon (Swedish Short-Snout)"
 性别: "女"
+肤色: "Blue-grey"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-female-swedish-short-snout"
 | 性别 | 女 |
 | 出生 | Pre 1994 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Blue-grey |
 
 ## 关联
 

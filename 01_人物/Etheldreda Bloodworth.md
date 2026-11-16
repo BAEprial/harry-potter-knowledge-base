@@ -5,6 +5,9 @@
 slug: "etheldreda-bloodworth"
 物种: "人类"
 性别: "女"
+恋情: "Ex-fiancé"
+肤色: "Light"
+头衔: "Lady"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +24,9 @@ slug: "etheldreda-bloodworth"
 | 逝世 | Before 2008 |
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
+| 恋情 | Ex-fiancé |
+| 肤色 | Light |
+| 头衔 | Lady |
 
 ## 关联
 

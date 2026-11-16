@@ -5,6 +5,7 @@
 slug: "unidentified-florist-in-diagon-alley"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-florist-in-diagon-alley"
 | 性别 | 女 |
 | 头发颜色 | Black |
 | 职业 | Florist in Diagon Alley |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "daisy-hookum"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "daisy-hookum"
 | 头发颜色 | Red |
 | 职业 | Author |
 | 家庭成员 | Tilden Toots (husband) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

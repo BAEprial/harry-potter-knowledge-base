@@ -6,6 +6,7 @@ slug: "john-talisker"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "john-talisker"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Captain of the Scottish National Quidditch team； Statute of Secrecy Task Force member |
+| 头衔 | Captain |
 
 ## 关联
 

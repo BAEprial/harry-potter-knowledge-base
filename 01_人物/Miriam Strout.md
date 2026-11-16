@@ -7,6 +7,8 @@ slug: "miriam-strout"
 国籍: "British or Irish"
 性别: "女"
 守护神: "White Swan"
+肤色: "White"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "miriam-strout"
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Healer |
+| 肤色 | White |
+| 头衔 | Madam |
 
 ## 关联
 

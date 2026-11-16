@@ -4,6 +4,7 @@
 英文名: "Unidentified Appleby Arrows Chaser"
 slug: "unidentified-appleby-arrows-chaser"
 物种: "人类"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "unidentified-appleby-arrows-chaser"
 | 物种 | 人类 |
 | 出生 | Before 1972 |
 | 职业 | Chaser for the Appleby Arrows |
+| 头衔 | Chaser |
 
 ## 关联
 

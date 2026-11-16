@@ -6,6 +6,8 @@ slug: "herbert-varney"
 物种: "吸血鬼"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "herbert-varney"
 | 逝世 | 1889 (aged 30–31) |
 | 国籍 | 英国人 |
 | 头发颜色 | Black |
+| 肤色 | White |
+| 头衔 | Sir |
 
 ## 关联
 

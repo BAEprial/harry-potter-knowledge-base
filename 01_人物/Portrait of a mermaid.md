@@ -5,6 +5,7 @@
 slug: "portrait-of-a-mermaid"
 物种: "Mermaid"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "portrait-of-a-mermaid"
 | 性别 | 女 |
 | 出生 | Prior to 1890 |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

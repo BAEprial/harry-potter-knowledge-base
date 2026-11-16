@@ -6,6 +6,7 @@ slug: "unidentified-hufflepuff-lady"
 学院: "赫奇帕奇"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-hufflepuff-lady"
 | 性别 | 女 |
 | 逝世 | Prior to 1991 |
 | 头发颜色 | Brown |
+| 肤色 | White |
 
 ## 关联
 

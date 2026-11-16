@@ -4,6 +4,7 @@
 英文名: "Head of Beauxbatons Academy"
 slug: "headteacher-of-beauxbatons-academy-of-magic-during-1792"
 物种: "人类"
+头衔: "Headmaster or Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "headteacher-of-beauxbatons-academy-of-magic-during-1792"
 | 物种 | 人类 |
 | 出生 | 18th century or earlier |
 | 职业 | Head of Beauxbatons Academy of Magic (1792 or earlier-?) |
+| 头衔 | Headmaster or Headmistress |
 
 ## 关联
 

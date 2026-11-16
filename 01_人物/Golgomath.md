@@ -5,6 +5,7 @@
 slug: "golgomath"
 物种: "Giant"
 性别: "男"
+头衔: "Gurg"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "golgomath"
 | 出生 | Before 1995 |
 | 身高 | c. 25 feet |
 | 职业 | Gurg of the giant colony |
+| 头衔 | Gurg |
 
 ## 关联
 

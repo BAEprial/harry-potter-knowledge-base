@@ -7,6 +7,7 @@ slug: "karl-limpley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "karl-limpley"
 | 出生 | 31 August 1982 or earlier |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 肤色 | White |
 
 ## 关联
 

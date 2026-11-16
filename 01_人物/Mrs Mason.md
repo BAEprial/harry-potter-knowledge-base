@@ -7,6 +7,8 @@ slug: "mason-s-wife"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "mason-s-wife"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband； Mason family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

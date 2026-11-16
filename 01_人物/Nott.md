@@ -7,6 +7,7 @@ slug: "nott"
 物种: "人类"
 性别: "男"
 守护神: "无"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "nott"
 | 出生 | Between 1925–1934 (possibly) |
 | 守护神 | 无 |
 | 家庭成员 | Wife †； Theodore Nott (son)； [[Cantankerus Nott]] (possibly)； Nott family |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

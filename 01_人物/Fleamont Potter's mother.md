@@ -6,6 +6,7 @@ slug: "fleamont-potter-s-mother"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+恋情: "Henry Potter (uncertain relationship) †"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "fleamont-potter-s-mother"
 | 出生 | Before 1892 |
 | 逝世 | Before 31 October 1981 |
 | 家庭成员 | [[Fleamont Potter]] (son) †； Euphemia Potter (daughter-in-law) †； James Potter (I) (grandson) †； Potter family (descendants) |
+| 恋情 | Henry Potter (uncertain relationship) † |
 
 ## 关联
 

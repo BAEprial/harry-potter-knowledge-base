@@ -7,6 +7,7 @@ slug: "unidentified-hufflepuff-girl-v"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-hufflepuff-girl-v"
 | 博格特（恐惧之物） | Snake (possibly) |
 | 国籍 | British or Irish |
 | 头发颜色 | Blonde |
+| 肤色 | White |
 
 ## 关联
 

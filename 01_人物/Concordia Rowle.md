@@ -6,6 +6,8 @@ slug: "concordia-rowle"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "concordia-rowle"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Muggle Studies (21st century) |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

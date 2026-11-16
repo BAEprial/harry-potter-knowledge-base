@@ -6,6 +6,7 @@ slug: "duke-of-wellington"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Duke of Wellington"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "duke-of-wellington"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 男 |
+| 头衔 | Duke of Wellington |
 
 ## 关联
 

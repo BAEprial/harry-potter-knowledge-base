@@ -6,6 +6,7 @@ slug: "anton-vogel"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+头衔: "Minister for Magic； Supreme Mugwump"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "anton-vogel"
 | 国籍 | 德国人 |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | German Minister for Magic； Supreme Mugwump of the International Confederation of Wizards (-1932) |
+| 头衔 | Minister for Magic； Supreme Mugwump |
 
 ## 关联
 

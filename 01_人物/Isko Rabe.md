@@ -6,6 +6,9 @@ slug: "isko-rabe"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Daisy Rabe (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +27,9 @@ slug: "isko-rabe"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Gringotts Wizarding Bank employee |
 | 家庭成员 | [[Daisy Rabe]] (wife) |
+| 恋情 | Daisy Rabe (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

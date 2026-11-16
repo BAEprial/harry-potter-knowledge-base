@@ -7,6 +7,7 @@ slug: "unidentified-hogwarts-students-killed-on-the-seventh-floor"
 物种: "Humans"
 国籍: "British or Irish"
 性别: "Two girls,，One boy"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-hogwarts-students-killed-on-the-seventh-floor"
 | 逝世 | 2 May 1998 |
 | 国籍 | British or Irish |
 | 头发颜色 | Two dark,，One blond |
+| 肤色 | Light |
 
 ## 关联
 

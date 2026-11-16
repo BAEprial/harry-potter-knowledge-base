@@ -5,6 +5,7 @@
 slug: "august-quill"
 物种: "人类"
 性别: "男"
+头衔: "Auror"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "august-quill"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Auror |
+| 头衔 | Auror |
 
 ## 关联
 

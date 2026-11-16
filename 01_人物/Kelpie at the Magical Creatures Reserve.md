@@ -4,6 +4,7 @@
 英文名: "Kelpie at the Magical Creatures Reserve"
 slug: "kelpie-at-the-magical-creatures-reserve"
 物种: "Kelpie"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "kelpie-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Kelpie |
 | 眼睛颜色 | Green |
+| 肤色 | Green |
 
 ## 关联
 

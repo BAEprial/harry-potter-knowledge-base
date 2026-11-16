@@ -5,6 +5,7 @@
 slug: "bozo"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "bozo"
 | 性别 | 男 |
 | 头发颜色 | Brown |
 | 职业 | Cameraman for the Daily Prophet |
+| 肤色 | White |
 
 ## 关联
 

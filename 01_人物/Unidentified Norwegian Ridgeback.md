@@ -4,6 +4,7 @@
 英文名: "Unidentified Norwegian Ridgeback"
 slug: "unidentified-norwegian-ridgeback"
 物种: "Norwegian Ridgeback"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-norwegian-ridgeback"
 |---|---|
 | 物种 | Norwegian Ridgeback |
 | 出生 | 1802 or earlier |
+| 肤色 | Black |
 
 ## 关联
 

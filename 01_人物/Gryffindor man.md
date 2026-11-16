@@ -7,6 +7,8 @@ slug: "unidentified-gryffindor-man-iii"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Head of Gryffindor House"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "unidentified-gryffindor-man-iii"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
 | 职业 | Head of Gryffindor House (? - before 1991) |
+| 肤色 | White |
+| 头衔 | Head of Gryffindor House |
 
 ## 关联
 

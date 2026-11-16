@@ -7,6 +7,8 @@ slug: "esme-page"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Griffith"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "esme-page"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Auburn |
 | 家庭成员 | Gorman Page (father)； Kaleena Page (mother)； Reggie Page (brother)； [[Dan]]iel Page (younger brother)； Page family |
+| 恋情 | Griffith |
+| 肤色 | White |
 
 ## 关联
 

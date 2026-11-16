@@ -6,6 +6,8 @@ slug: "maria-monteith"
 物种: "人类"
 国籍: "Australian"
 性别: "女"
+肤色: "Tanned"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "maria-monteith"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Chaser for the Australian National Quidditch team |
+| 肤色 | Tanned |
+| 头衔 | Chaser |
 
 ## 关联
 

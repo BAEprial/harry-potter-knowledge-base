@@ -6,6 +6,7 @@ slug: "odbert"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "odbert"
 | 头发颜色 | Grey |
 | 职业 | Employee at Gringotts Wizarding Bank |
 | 家庭成员 | Father |
+| 肤色 | White |
 
 ## 关联
 

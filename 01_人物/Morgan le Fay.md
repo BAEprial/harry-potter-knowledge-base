@@ -5,6 +5,8 @@
 slug: "morgan-le-fay"
 物种: "人类"
 性别: "女"
+肤色: "White"
+头衔: "Queen of Avalon"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "morgan-le-fay"
 | 职业 | Ruler of Avalon |
 | 别名与绰号 | Morgana |
 | 家庭成员 | [[King]] Arthur (half-brother) |
+| 肤色 | White |
+| 头衔 | Queen of Avalon |
 
 ## 关联
 

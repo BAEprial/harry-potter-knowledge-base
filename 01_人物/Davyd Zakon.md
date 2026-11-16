@@ -6,6 +6,8 @@ slug: "davyd-zakon"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "davyd-zakon"
 | 出生 | 20th century |
 | 眼睛颜色 | Brown |
 | 头发颜色 | 黑暗 |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

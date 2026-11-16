@@ -5,6 +5,7 @@
 slug: "sebastian-niffler"
 物种: "Niffler"
 性别: "男"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "sebastian-niffler"
 | 物种 | Niffler |
 | 性别 | 男 |
 | 眼睛颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

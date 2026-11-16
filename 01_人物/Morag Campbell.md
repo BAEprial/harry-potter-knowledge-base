@@ -5,6 +5,7 @@
 slug: "morag-campbell"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "morag-campbell"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Light brown |
 | 职业 | Auror |
+| 肤色 | White |
 
 ## 关联
 

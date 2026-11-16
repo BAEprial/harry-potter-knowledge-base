@@ -6,6 +6,7 @@ slug: "mnemone-radford"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "mnemone-radford"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
 | 职业 | Obliviator |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "red-horned-serpent"
 物种: "Horned Serpent"
 性别: "女"
+肤色: "Dark red"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "red-horned-serpent"
 | 性别 | 女 |
 | 眼睛颜色 | Yellow |
 | 家庭成员 | Mate； Child |
+| 肤色 | Dark red |
 
 ## 关联
 

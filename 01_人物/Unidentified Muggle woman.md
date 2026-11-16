@@ -7,6 +7,7 @@ slug: "unidentified-muggle-woman-i"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-muggle-woman-i"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 头发颜色 | White |
+| 肤色 | Pale |
 
 ## 关联
 

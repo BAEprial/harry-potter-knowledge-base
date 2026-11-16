@@ -5,6 +5,7 @@
 slug: "midas"
 物种: "人类"
 国籍: "Greek"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "midas"
 | 国籍 | Greek |
 | 职业 | King |
 | 家庭成员 | Daughter |
+| 头衔 | King |
 
 ## 关联
 

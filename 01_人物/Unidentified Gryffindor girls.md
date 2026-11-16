@@ -7,6 +7,7 @@ slug: "unidentified-girls-in-the-gryffindor-girls-dormitory"
 物种: "Humans"
 国籍: "British or Irish"
 性别: "Females"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-girls-in-the-gryffindor-girls-dormitory"
 | 博格特（恐惧之物） | Rat,，Rattlesnake,，Bloody eyeball |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown,，blonde |
+| 肤色 | Pale |
 
 ## 关联
 

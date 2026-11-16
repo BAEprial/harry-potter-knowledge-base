@@ -6,6 +6,8 @@ slug: "greg-ruczinski"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "greg-ruczinski"
 | 头发颜色 | Light Blond |
 | 职业 | Beater for the American National Quidditch team |
 | 别名与绰号 | 'Crash' |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "mordicus-egg"
 物种: "人类"
 国籍: "British or Ireland"
 性别: "男"
+肤色: "White"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "mordicus-egg"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Muggle expert； Author； Professor at Hogwarts School of Witchcraft and Wizardry； Headmaster at Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | White |
+| 头衔 | Professor |
 
 ## 关联
 

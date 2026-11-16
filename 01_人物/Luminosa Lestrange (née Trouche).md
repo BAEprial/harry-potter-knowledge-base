@@ -7,6 +7,7 @@ slug: "luminosa-trouche"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "luminosa-trouche"
 | 性别 | 女 |
 | 国籍 | 法国人 |
 | 家庭成员 | [[Cyrille Lestrange]] (husband)； Cyrille Lestrange (son)； [[Floxel Lestrange]] (son)； Cyrille Lestrange (father-in-law)； [[Balbine Lestrange]] (née Leroy) (mother-in-law)； Quintilla Lestrange (granddaughter)； Nozéa Lestrange (great-granddaughter)； Trouche family； Lestrange family |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

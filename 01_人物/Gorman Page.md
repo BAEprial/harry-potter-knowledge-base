@@ -6,6 +6,9 @@ slug: "gorman-page"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Kaleena Page (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +25,9 @@ slug: "gorman-page"
 | 性别 | 男 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Kaleena Page (wife)； Reggie Page (son)； [[Esme Page]] (daughter)； [[Dan]]iel Page (son)； Page family |
+| 恋情 | Kaleena Page (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

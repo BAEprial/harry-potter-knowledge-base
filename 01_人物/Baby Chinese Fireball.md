@@ -5,6 +5,7 @@
 slug: "baby-chinese-fireball"
 物种: "Dragon (Chinese Fireball)"
 性别: "女"
+肤色: "Various"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "baby-chinese-fireball"
 | 出生 | Early 2010s |
 | 眼睛颜色 | 多种 |
 | 家庭成员 | Chinese Fireball who burned Long Shouren's arm (possible mother) |
+| 肤色 | Various |
 
 ## 关联
 

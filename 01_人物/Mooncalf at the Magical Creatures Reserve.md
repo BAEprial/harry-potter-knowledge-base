@@ -4,6 +4,7 @@
 英文名: "Mooncalf at the Magical Creatures Reserve"
 slug: "mooncalf-at-the-magical-creatures-reserve"
 物种: "Mooncalf"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "mooncalf-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Mooncalf |
 | 眼睛颜色 | Blue-green |
+| 肤色 | Light |
 
 ## 关联
 

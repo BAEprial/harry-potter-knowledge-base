@@ -5,6 +5,7 @@
 slug: "shane-golding"
 物种: "人类"
 性别: "男"
+恋情: "Glenna Golding (wife)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "shane-golding"
 | 性别 | 男 |
 | 逝世 | Between 2 May 1998 and 25 December pre-2011 |
 | 家庭成员 | [[Glen]]na Golding (née Merriweather) (wife)； Nyle Golding (son)； [[Tiburon Merriweather]] (father-in-law) †； Mother-in-law； Golding family |
+| 恋情 | Glenna Golding (wife) |
 
 ## 关联
 

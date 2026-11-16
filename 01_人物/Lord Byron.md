@@ -5,6 +5,8 @@
 slug: "lord-byron"
 物种: "人类"
 性别: "男"
+头衔: "Baron； Lord"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "lord-byron"
 | 出生 | 22 January 1788,，London,，England |
 | 逝世 | 19 April 1824 (aged 36),，Missolonghi,，Aetolia-Acarnania,，Ottoman Empire |
 | 职业 | Writer |
+| 头衔 | Baron； Lord |
+| 婚姻状况 | Married |
 
 ## 关联
 

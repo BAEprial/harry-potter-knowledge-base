@@ -6,6 +6,7 @@ slug: "unidentified-teacher-at-st-grogory-s-primary-school"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-teacher-at-st-grogory-s-primary-school"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Teacher |
+| 肤色 | White |
 
 ## 关联
 

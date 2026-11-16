@@ -6,6 +6,7 @@ slug: "orabella-nuttley"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "orabella-nuttley"
 | 国籍 | 英国人 |
 | 头发颜色 | Red |
 | 职业 | Clerk in the Improper Use of Magic Office |
+| 肤色 | White |
 
 ## 关联
 

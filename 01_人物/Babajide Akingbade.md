@@ -5,6 +5,7 @@
 slug: "babajide-akingbade"
 物种: "人类"
 性别: "男"
+头衔: "Supreme Mugwump"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "babajide-akingbade"
 | 性别 | 男 |
 | 出生 | Before 1978 |
 | 职业 | Supreme Mugwump of the International Confederation of Wizards |
+| 头衔 | Supreme Mugwump |
 
 ## 关联
 

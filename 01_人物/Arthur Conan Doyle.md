@@ -6,6 +6,7 @@ slug: "arthur-conan-doyle"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "arthur-conan-doyle"
 | 性别 | 男 |
 | 国籍 | Scottish |
 | 职业 | Author； Physician |
+| 头衔 | Sir |
 
 ## 关联
 

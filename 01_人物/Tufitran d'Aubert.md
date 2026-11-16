@@ -5,6 +5,7 @@
 slug: "tufitran-d-aubert"
 物种: "人类"
 性别: "女"
+头衔: "Quidditch commentator"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "tufitran-d-aubert"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Mother † |
+| 头衔 | Quidditch commentator |
 
 ## 关联
 

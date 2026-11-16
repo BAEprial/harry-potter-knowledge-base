@@ -6,6 +6,7 @@ slug: "mercy-ojukwu"
 物种: "人类"
 国籍: "Nigerian"
 性别: "女"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "mercy-ojukwu"
 | 出生 | After 1976,，Nigeria (possibly) |
 | 国籍 | Nigerian |
 | 职业 | Beater for the Nigerian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

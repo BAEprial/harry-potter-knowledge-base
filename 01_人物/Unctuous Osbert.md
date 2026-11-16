@@ -6,6 +6,7 @@ slug: "unctuous-osbert"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unctuous-osbert"
 | 性别 | 男 |
 | 出生 | Before 1772 |
 | 职业 | Minister for Magic (1789–1798) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

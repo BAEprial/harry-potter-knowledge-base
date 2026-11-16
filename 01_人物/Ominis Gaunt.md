@@ -8,6 +8,7 @@ slug: "ominis-gaunt"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "ominis-gaunt"
 | 头发颜色 | Dark blond |
 | 魔杖 | Unknown length,，wood,，and core |
 | 家庭成员 | Father †； Mother †； Older siblings †； Noctua Gaunt (paternal aunt) †； Salazar Slytherin (paternal ancestor) †； [[Cadmus]] Peverell (paternal ancestor) †； House of Gaunt |
+| 肤色 | Light |
 
 ## 关联
 

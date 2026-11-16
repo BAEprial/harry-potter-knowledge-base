@@ -6,6 +6,7 @@ slug: "desjardins"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "desjardins"
 | 逝世 | 1908 (aged 84/85) |
 | 国籍 | 法国人 |
 | 职业 | Care of Magical Creatures Professor at Beauxbatons Academy of Magic |
+| 头衔 | Professor |
 
 ## 关联
 

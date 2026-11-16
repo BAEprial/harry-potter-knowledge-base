@@ -6,6 +6,8 @@ slug: "vasily-dimitrov"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+肤色: "White"
+头衔: "Chaser； Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "vasily-dimitrov"
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
 | 职业 | Chaser and Captain for the Bulgarian National Quidditch team (formerly) |
+| 肤色 | White |
+| 头衔 | Chaser； Quidditch Captain |
 
 ## 关联
 

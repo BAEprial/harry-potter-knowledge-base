@@ -6,6 +6,7 @@ slug: "margaretta-ironbark"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "margaretta-ironbark"
 | 国籍 | British or Irish |
 | 头发颜色 | 黑暗 |
 | 别名与绰号 | Marge |
+| 肤色 | Light |
 
 ## 关联
 

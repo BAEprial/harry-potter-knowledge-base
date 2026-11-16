@@ -5,6 +5,8 @@
 slug: "murcus"
 物种: "Selkie"
 性别: "女"
+肤色: "Grey"
+头衔: "Merchieftainess"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "murcus"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Green (formerly),，Grey |
 | 职业 | Merchieftainess of the Great Lake Selkie colony |
+| 肤色 | Grey |
+| 头衔 | Merchieftainess |
 
 ## 关联
 

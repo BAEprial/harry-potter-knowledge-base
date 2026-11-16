@@ -8,6 +8,7 @@ slug: "amelia-fittleworth"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "amelia-fittleworth"
 | 出生 | On or before 31 August 1982 |
 | 国籍 | British or Irish |
 | 头发颜色 | Red |
+| 肤色 | White |
 
 ## 关联
 

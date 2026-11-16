@@ -6,6 +6,8 @@ slug: "lucy-karoonda"
 物种: "人类"
 国籍: "Australian"
 性别: "女"
+肤色: "Light"
+头衔: "Captain； Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "lucy-karoonda"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blonde |
 | 职业 | Seeker and Captain for the Australian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Captain； Seeker |
 
 ## 关联
 

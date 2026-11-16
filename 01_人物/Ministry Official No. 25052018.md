@@ -4,6 +4,7 @@
 英文名: "Ministry Official No. 25052018"
 slug: "ministry-official-no-25052018"
 物种: "人类"
+头衔: "British Ministry of Magic Official"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "ministry-official-no-25052018"
 |---|---|
 | 物种 | 人类 |
 | 职业 | British Ministry of Magic official |
+| 头衔 | British Ministry of Magic Official |
 
 ## 关联
 

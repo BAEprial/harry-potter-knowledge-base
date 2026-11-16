@@ -6,6 +6,8 @@ slug: "jack-monk"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+体重: "4 lbs"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "jack-monk"
 | 眼睛颜色 | Brown |
 | 头发颜色 | 无 |
 | 家庭成员 | [[Dave Monk]] (father)； Tilly Monk (mother)； Tom Monk (twin brother) |
+| 肤色 | Light |
+| 体重 | 4 lbs |
 
 ## 关联
 

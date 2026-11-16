@@ -5,6 +5,7 @@
 slug: "dorran"
 物种: "马人"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "dorran"
 | 性别 | 男 |
 | 出生 | Before 1890 |
 | 头发颜色 | Black |
+| 肤色 | Dark |
 
 ## 关联
 

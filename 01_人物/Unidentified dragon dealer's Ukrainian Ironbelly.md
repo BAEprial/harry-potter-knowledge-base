@@ -4,6 +4,7 @@
 英文名: "Unidentified dragon dealer's Ukrainian Ironbelly"
 slug: "unidentified-dragon-dealer-s-ukrainian-ironbelly"
 物种: "Dragon (Ukrainian Ironbelly)"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-dragon-dealer-s-ukrainian-ironbelly"
 |---|---|
 | 物种 | Dragon (Ukrainian Ironbelly) |
 | 眼睛颜色 | Blue |
+| 肤色 | Pale |
 
 ## 关联
 

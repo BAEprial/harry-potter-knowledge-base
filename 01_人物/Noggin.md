@@ -5,6 +5,7 @@
 slug: "noggin"
 物种: "Nogtail"
 性别: "男"
+肤色: "Grey-brown"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "noggin"
 | 出生 | Before the 1980s |
 | 眼睛颜色 | Black |
 | 头发颜色 | Grey-brown |
+| 肤色 | Grey-brown |
 
 ## 关联
 

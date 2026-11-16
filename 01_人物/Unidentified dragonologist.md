@@ -5,6 +5,7 @@
 slug: "unidentified-dragonologist"
 物种: "Human (werewolf)"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-dragonologist"
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Dragonologist |
+| 肤色 | Light |
 
 ## 关联
 

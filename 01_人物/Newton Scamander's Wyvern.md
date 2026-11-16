@@ -4,6 +4,7 @@
 英文名: "Newton Scamander's Wyvern"
 slug: "newton-scamander-s-wyvern"
 物种: "Wyvern"
+肤色: "Blue and pink"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "newton-scamander-s-wyvern"
 |---|---|
 | 物种 | Wyvern |
 | 出生 | 1932 or earlier |
+| 肤色 | Blue and pink |
 
 ## 关联
 

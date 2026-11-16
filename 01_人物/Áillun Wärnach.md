@@ -6,6 +6,7 @@ slug: "aillun-warnach"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+头衔: "Quidditch commentator"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "aillun-warnach"
 | 血统 | 纯血统 |
 | 物种 | 人类 |
 | 性别 | 男 |
+| 头衔 | Quidditch commentator |
 
 ## 关联
 

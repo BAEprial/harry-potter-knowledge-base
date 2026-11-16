@@ -6,6 +6,7 @@ slug: "indira-wolff"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "indira-wolff"
 | 头发颜色 | Black |
 | 职业 | Proprietor of a beast-products shop |
 | 家庭成员 | Father † |
+| 肤色 | Brown |
 
 ## 关联
 

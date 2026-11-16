@@ -6,6 +6,7 @@ slug: "hanae-kato"
 物种: "人类"
 国籍: "Japanese"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hanae-kato"
 | 头发颜色 | Dark brown |
 | 魔杖 | 11¼',，Aspen,，Unicorn hair |
 | 别名与绰号 | Hanae-chan (by Yumi Ito) |
+| 肤色 | White |
 
 ## 关联
 

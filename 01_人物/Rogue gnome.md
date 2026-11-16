@@ -4,6 +4,7 @@
 英文名: "Rogue gnome"
 slug: "rogue-gnome"
 物种: "Gnome"
+肤色: "Light green"
 资料来源: hogwarts-api
 ---
 
@@ -16,6 +17,7 @@ slug: "rogue-gnome"
 | 项目 | 内容 |
 |---|---|
 | 物种 | Gnome |
+| 肤色 | Light green |
 
 ## 关联
 

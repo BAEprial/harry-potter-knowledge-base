@@ -5,6 +5,7 @@
 slug: "garnuff"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "garnuff"
 | 眼睛颜色 | One black,，one blue |
 | 职业 | Activist |
 | 家庭成员 | Garnuff's family |
+| 肤色 | Light |
 
 ## 关联
 

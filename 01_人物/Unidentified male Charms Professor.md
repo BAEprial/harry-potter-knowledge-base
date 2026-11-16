@@ -5,6 +5,7 @@
 slug: "unidentified-male-charms-professor"
 物种: "人类"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-male-charms-professor"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Charms Master |
+| 头衔 | Professor |
 
 ## 关联
 

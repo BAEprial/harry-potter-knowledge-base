@@ -6,6 +6,7 @@ slug: "zaccaria-innocenti"
 物种: "人类"
 国籍: "Roman"
 性别: "男"
+头衔: "Warlock"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "zaccaria-innocenti"
 | 性别 | 男 |
 | 出生 | Before 79 AD |
 | 国籍 | Roman |
+| 头衔 | Warlock |
 
 ## 关联
 

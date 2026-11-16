@@ -6,6 +6,7 @@ slug: "scrope"
 物种: "家养小精灵"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "scrope"
 | 头发颜色 | Grey |
 | 职业 | Servant of Apollonia Black and later Phineas Nigellus Black |
 | 家庭成员 | Scrope's relatives |
+| 肤色 | Light |
 
 ## 关联
 

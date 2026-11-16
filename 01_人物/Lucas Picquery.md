@@ -5,6 +5,7 @@
 slug: "lucas-picquery"
 物种: "人类"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "lucas-picquery"
 | 出生 | After 1976,，United States of America |
 | 职业 | Beater for the American National Quidditch team |
 | 家庭成员 | Seraphina Picquery (possible relative)； Picquery family |
+| 头衔 | Beater |
 
 ## 关联
 

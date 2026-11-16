@@ -8,6 +8,7 @@ slug: "daniel-page"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Black cat"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +32,7 @@ slug: "daniel-page"
 | 魔杖 | 13',，Vine,，Phoenix feather |
 | 别名与绰号 | Danny |
 | 家庭成员 | Gorman Page (father)； Kaleena Page (mother)； Reggie Page (older brother)； Esme Page (older sister)； Grant Page (possible relative)； Page family |
+| 肤色 | White |
 
 ## 关联
 

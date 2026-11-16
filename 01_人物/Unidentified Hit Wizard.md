@@ -6,6 +6,8 @@ slug: "unidentified-hit-wizard"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Tan"
+头衔: "Beater (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "unidentified-hit-wizard"
 | 头发颜色 | Brown |
 | 职业 | Hit Wizard |
 | 家庭成员 | Mother |
+| 肤色 | Tan |
+| 头衔 | Beater (formerly) |
 
 ## 关联
 

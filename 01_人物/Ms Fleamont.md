@@ -7,6 +7,7 @@ slug: "henry-potter-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Partner (uncertain relationship) †"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "henry-potter-s-mother"
 | 逝世 | Before 29 November 1909 |
 | 国籍 | 英国人 |
 | 家庭成员 | Husband †； [[Henry]] Potter (son) †； [[Fleamont Potter]] (grandson) †； Fleamont family； Potter family (descendants) |
+| 恋情 | Partner (uncertain relationship) † |
 
 ## 关联
 

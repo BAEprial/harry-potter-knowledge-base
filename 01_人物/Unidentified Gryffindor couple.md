@@ -7,6 +7,8 @@ slug: "unidentified-gryffindor-couple"
 物种: "Humans"
 国籍: "British or Irish"
 性别: "Male,，女"
+恋情: "Each other"
+肤色: "Light (both)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "unidentified-gryffindor-couple"
 | 出生 | Between 1 September 1977 and 31 August 1984 |
 | 国籍 | British or Irish |
 | 头发颜色 | Dark (both) |
+| 恋情 | Each other |
+| 肤色 | Light (both) |
 
 ## 关联
 

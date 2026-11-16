@@ -6,6 +6,7 @@ slug: "unidentified-muggle-witness"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-muggle-witness"
 | 出生 | Before 1990 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
+| 肤色 | Brown |
 
 ## 关联
 

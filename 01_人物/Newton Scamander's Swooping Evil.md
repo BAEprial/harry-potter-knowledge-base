@@ -5,6 +5,7 @@
 slug: "newton-scamander-s-swooping-evil"
 物种: "Swooping Evil"
 性别: "男"
+肤色: "Green and blue"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "newton-scamander-s-swooping-evil"
 | 物种 | Swooping Evil |
 | 性别 | 男 |
 | 出生 | Pre 1926 |
+| 肤色 | Green and blue |
 
 ## 关联
 

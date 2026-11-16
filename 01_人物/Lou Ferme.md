@@ -5,6 +5,7 @@
 slug: "lou-ferme"
 物种: "人类"
 国籍: "法国人"
+头衔: "Auror"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lou-ferme"
 | 魔杖 | Unknown length,，core,，and wood |
 | 职业 | Auror |
 | 别名与绰号 | Badge No. 58063 |
+| 头衔 | Auror |
 
 ## 关联
 

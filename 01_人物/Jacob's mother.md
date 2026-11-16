@@ -6,6 +6,8 @@ slug: "jacob-s-mother"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Peregrine (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "jacob-s-mother"
 | 性别 | 女 |
 | 国籍 | British or Irish |
 | 家庭成员 | Peregrine (husband,，estranged)； [[Jacob]] (son)； Child； [[Lynn]] (relative)； American relatives； Her family |
+| 恋情 | Peregrine (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

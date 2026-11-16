@@ -6,6 +6,7 @@ slug: "percival-pratt"
 学院: "Gryffindor (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "percival-pratt"
 | 头发颜色 | Brown |
 | 职业 | Poet |
 | 家庭成员 | [[Ferdinand Octavius Pratt]] (possibly) |
+| 肤色 | White |
 
 ## 关联
 

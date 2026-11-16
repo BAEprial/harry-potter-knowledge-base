@@ -6,6 +6,8 @@ slug: "linderina-crane"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Lead investigator"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "linderina-crane"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Investigator for the Improper Use of Magic Office |
 | 家庭成员 | Walter Crane (possibly)； Lucy Crane (possibly) |
+| 肤色 | Light |
+| 头衔 | Lead investigator |
 
 ## 关联
 

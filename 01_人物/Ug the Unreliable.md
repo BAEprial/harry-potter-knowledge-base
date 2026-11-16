@@ -5,6 +5,7 @@
 slug: "ug-the-unreliable"
 物种: "妖精"
 性别: "男"
+肤色: "Drab"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ug-the-unreliable"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
 | 职业 | Con artist |
+| 肤色 | Drab |
 
 ## 关联
 

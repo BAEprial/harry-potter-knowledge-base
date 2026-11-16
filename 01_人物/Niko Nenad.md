@@ -6,6 +6,7 @@ slug: "niko-nenad"
 物种: "人类"
 国籍: "Romanian"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "niko-nenad"
 | 逝世 | 1809,，Siberia |
 | 国籍 | Romanian |
 | 职业 | Beater for the Romanian National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

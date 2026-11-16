@@ -6,6 +6,7 @@ slug: "tarobo-amachi"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "tarobo-amachi"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Red |
 | 别名与绰号 | Amachi-kun (by Yumi Ito) |
+| 肤色 | White |
 
 ## 关联
 

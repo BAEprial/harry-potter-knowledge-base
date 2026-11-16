@@ -8,6 +8,8 @@ slug: "artemisia-lufkin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "artemisia-lufkin"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Minister for Magic (1798–1811) |
+| 肤色 | Pale |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

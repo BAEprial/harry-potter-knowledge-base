@@ -4,6 +4,7 @@
 英文名: "Weasley family pigs"
 slug: "weasley-family-pigs"
 物种: "Pigs"
+肤色: "Pink"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "weasley-family-pigs"
 |---|---|
 | 物种 | Pigs |
 | 出生 | Before 1987 |
+| 肤色 | Pink |
 
 ## 关联
 

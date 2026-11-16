@@ -4,6 +4,7 @@
 英文名: "Frost Salamander at the Magical Creatures Reserve"
 slug: "frost-salamander-at-the-magical-creatures-reserve"
 物种: "Frost Salamander"
+肤色: "Blue"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "frost-salamander-at-the-magical-creatures-reserve"
 | 物种 | Frost Salamander |
 | 出生 | Before or during the 1980s |
 | 眼睛颜色 | Blue |
+| 肤色 | Blue |
 
 ## 关联
 

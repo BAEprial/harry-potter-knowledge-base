@@ -8,6 +8,8 @@ slug: "liz-tuttle"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Lenny Pindlebrook"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "liz-tuttle"
 | 职业 | Magizoologist； Employee of the Department for the Regulation and Control of Magical Creatures |
 | 别名与绰号 | Lizard； Coach Tuttle |
 | 家庭成员 | Mother； Lana Tuttle (older sister)； Grandmother； Grandfather； Tuttle family |
+| 恋情 | Lenny Pindlebrook |
+| 肤色 | Dark |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "dennis-moon"
 物种: "人类"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "dennis-moon"
 | 出生 | After 1976,，New Zealand |
 | 职业 | Chaser for the New Zealand National Quidditch team |
 | 家庭成员 | Lily Moon (possibly) |
+| 头衔 | Chaser |
 
 ## 关联
 

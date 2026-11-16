@@ -5,6 +5,7 @@
 slug: "h-knighton-s-wife"
 物种: "人类"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "h-knighton-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Husband †； At least one child； [[Hamish Knighton]] (possible relative)； Knighton family |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

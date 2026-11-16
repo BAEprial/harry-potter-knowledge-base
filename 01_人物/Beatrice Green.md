@@ -5,6 +5,8 @@
 slug: "beatrice-green"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "beatrice-green"
 | 头发颜色 | Grey |
 | 职业 | Proprietress of Dogweed and Deathcap |
 | 家庭成员 | Olivia Green (possibly)； Robert Green (possibly)； Green family |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

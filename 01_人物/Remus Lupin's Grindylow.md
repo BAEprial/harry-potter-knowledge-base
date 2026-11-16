@@ -4,6 +4,7 @@
 英文名: "Remus Lupin's Grindylow"
 slug: "remus-lupin-s-grindylow"
 物种: "Grindylow"
+肤色: "Sickly green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "remus-lupin-s-grindylow"
 |---|---|
 | 物种 | Grindylow |
 | 出生 | Pre-1993 |
+| 肤色 | Sickly green |
 
 ## 关联
 

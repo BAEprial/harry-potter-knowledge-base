@@ -4,6 +4,7 @@
 英文名: "E. Lamb"
 slug: "e-lamb"
 物种: "人类"
+头衔: "Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "e-lamb"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Writer for The Wizard's Voice |
+| 头衔 | Doctor |
 
 ## 关联
 

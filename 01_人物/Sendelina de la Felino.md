@@ -6,6 +6,8 @@ slug: "sendelina-de-la-felino"
 物种: "人类"
 国籍: "Spanish"
 性别: "女"
+肤色: "White (Tanned)"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "sendelina-de-la-felino"
 | 国籍 | Spanish |
 | 头发颜色 | Dark brown |
 | 职业 | Keeper for the Spanish National Quidditch team |
+| 肤色 | White (Tanned) |
+| 头衔 | Keeper |
 
 ## 关联
 

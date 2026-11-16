@@ -5,6 +5,7 @@
 slug: "third-semi-finalist-of-the-1379-duelling-contest"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "third-semi-finalist-of-the-1379-duelling-contest"
 | 性别 | 男 |
 | 头发颜色 | Brown |
 | 职业 | Duellist |
+| 肤色 | Light |
 
 ## 关联
 

@@ -8,6 +8,8 @@ slug: "imelda-reyes"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Captain； Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "imelda-reyes"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | Father； Grandfather； Reyes family |
+| 肤色 | Light |
+| 头衔 | Captain； Chaser |
 
 ## 关联
 

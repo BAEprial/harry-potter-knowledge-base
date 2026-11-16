@@ -7,6 +7,7 @@ slug: "imelda-reyes-s-father"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "imelda-reyes-s-father"
 | 出生 | Before 31 August 1875 |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Imelda Reyes]] (daughter)； Father or father-in-law； Reyes family |
+| 头衔 | Chaser |
 
 ## 关联
 

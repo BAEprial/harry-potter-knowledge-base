@@ -5,6 +5,7 @@
 slug: "elphinstone-forgot"
 物种: "人类"
 性别: "男"
+头衔: "Admiral"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "elphinstone-forgot"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Naval officer |
+| 头衔 | Admiral |
 
 ## 关联
 

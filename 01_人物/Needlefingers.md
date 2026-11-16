@@ -4,6 +4,7 @@
 英文名: "Needlefingers"
 slug: "needlefingers"
 物种: "Bowtruckle"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "needlefingers"
 |---|---|
 | 物种 | Bowtruckle |
 | 眼睛颜色 | Black |
+| 肤色 | Green |
 
 ## 关联
 

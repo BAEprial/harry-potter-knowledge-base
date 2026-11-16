@@ -6,6 +6,7 @@ slug: "noriko-sato"
 物种: "人类"
 国籍: "Japanese"
 性别: "女"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "noriko-sato"
 | 国籍 | Japanese |
 | 职业 | Seeker for the Japanese National Quidditch team |
 | 家庭成员 | Noriyuki Sato (possibly)； Sato family |
+| 头衔 | Seeker |
 
 ## 关联
 

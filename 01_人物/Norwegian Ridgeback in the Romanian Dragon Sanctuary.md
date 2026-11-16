@@ -5,6 +5,7 @@
 slug: "norwegian-ridgeback-in-the-romanian-dragon-sanctuary-ii"
 物种: "Norwegian Ridgeback"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "norwegian-ridgeback-in-the-romanian-dragon-sanctuary-ii"
 | 性别 | 男 |
 | 出生 | Pre December 1991 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Grey |
 
 ## 关联
 

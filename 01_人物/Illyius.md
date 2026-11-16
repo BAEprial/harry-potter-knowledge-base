@@ -6,6 +6,8 @@ slug: "illyius"
 物种: "人类"
 性别: "男"
 守护神: "Mouse"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "illyius"
 | 守护神 | Mouse |
 | 头发颜色 | Blond |
 | 家庭成员 | [[Eliana]] (wife)； Parents-in-law |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

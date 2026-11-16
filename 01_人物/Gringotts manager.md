@@ -6,6 +6,8 @@ slug: "gringotts-manager"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Manager"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "gringotts-manager"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | White |
 | 职业 | Manager at Gringotts Wizarding Bank |
+| 肤色 | Light |
+| 头衔 | Manager |
 
 ## 关联
 

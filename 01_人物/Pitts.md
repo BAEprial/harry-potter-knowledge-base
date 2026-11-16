@@ -6,6 +6,7 @@ slug: "pitts"
 物种: "家养小精灵"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "pitts"
 | 出生 | 1980s or earlier |
 | 国籍 | 英国人 |
 | 职业 | Hogwarts kitchens employee |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "lord-of-the-manor"
 物种: "Human (formerly),，Inferius"
 国籍: "英国人"
 性别: "男"
+头衔: "Lord"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lord-of-the-manor"
 | 逝世 | Before 1890 |
 | 国籍 | 英国人 |
 | 眼睛颜色 | Blue (as an Inferius) |
+| 头衔 | Lord |
 
 ## 关联
 

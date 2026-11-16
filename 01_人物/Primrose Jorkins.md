@@ -5,6 +5,7 @@
 slug: "primrose-jorkins"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "primrose-jorkins"
 | 性别 | 女 |
 | 出生 | before 1981 |
 | 家庭成员 | Albert Jorkins (husband)； [[Grimwold Jorkins]] (son)； [[Granville Jorkins]] (son)； Griselda Jorkins (daughter)； [[Bertha Jorkins]] (possible in-law)； Stamford Jorkins (possible in-law)； Jorkins family |
+| 婚姻状况 | Married |
 
 ## 关联
 

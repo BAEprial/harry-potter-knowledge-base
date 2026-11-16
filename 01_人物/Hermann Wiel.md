@@ -6,6 +6,8 @@ slug: "hermann-wiel"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "hermann-wiel"
 | 头发颜色 | White |
 | 职业 | Keeper for the German National Quidditch team |
 | 家庭成员 | Ruby Wiel (possible) |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

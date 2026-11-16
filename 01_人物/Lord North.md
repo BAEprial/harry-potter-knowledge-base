@@ -7,6 +7,7 @@ slug: "lord-north"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Lord； Earl of Guilford； Prime Minister"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "lord-north"
 | 逝世 | 5 August 1792 |
 | 国籍 | 英国人 |
 | 职业 | Prime Minister of Great Britain (1770–1782) |
+| 头衔 | Lord； Earl of Guilford； Prime Minister |
 
 ## 关联
 

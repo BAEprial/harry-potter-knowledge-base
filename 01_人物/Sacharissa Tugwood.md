@@ -7,6 +7,7 @@ slug: "sacharissa-tugwood"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +30,7 @@ slug: "sacharissa-tugwood"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Potioneer |
 | 家庭成员 | Felicitania Tugwood (possibly)； Tugwood family |
+| 肤色 | Light |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Herpo the Foul's snake"
 slug: "herpo-the-foul-s-snakes"
 物种: "Snakes"
+肤色: "Varies"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "herpo-the-foul-s-snakes"
 | 物种 | Snakes |
 | 出生 | Ancient Greek |
 | 眼睛颜色 | Varies |
+| 肤色 | Varies |
 
 ## 关联
 

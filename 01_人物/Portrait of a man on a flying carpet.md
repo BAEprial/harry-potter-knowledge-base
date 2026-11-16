@@ -5,6 +5,7 @@
 slug: "portrait-of-a-man-on-a-flying-carpet"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "portrait-of-a-man-on-a-flying-carpet"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 逝世 | Prior to 1993 |
+| 肤色 | Pale |
 
 ## 关联
 

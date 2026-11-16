@@ -5,6 +5,8 @@
 slug: "oliver-wood-s-mother"
 物种: "人类"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +21,8 @@ slug: "oliver-wood-s-mother"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Mr Wood (husband)； Oliver Wood (son)； Wood family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

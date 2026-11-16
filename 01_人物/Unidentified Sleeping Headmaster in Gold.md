@@ -6,6 +6,8 @@ slug: "unidentified-sleeping-headmaster-in-gold"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Dark"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-sleeping-headmaster-in-gold"
 | 逝世 | Prior to 1991 |
 | 国籍 | 英国人 |
 | 职业 | Headmaster of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Dark |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

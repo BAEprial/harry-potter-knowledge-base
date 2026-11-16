@@ -9,6 +9,7 @@ slug: "merula-snyde-s-father"
 国籍: "British or Irish"
 性别: "男"
 守护神: "无"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "merula-snyde-s-father"
 | 守护神 | 无 |
 | 国籍 | British or Irish |
 | 家庭成员 | Wife； [[Merula Snyde]] (daughter)； Verucca Buckthorn-Snyde (sister-in-law)； Snyde family |
+| 婚姻状况 | Married |
 
 ## 关联
 

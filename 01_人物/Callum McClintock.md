@@ -8,6 +8,8 @@ slug: "callum-mcclintock"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Olive"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "callum-mcclintock"
 | 头发颜色 | Black |
 | 职业 | Curse-Breaker for Gringotts Wizarding Bank (formerly)； Agent of the Rare,，Obscure,，and Confounding Case Division |
 | 家庭成员 | Parents； Catriona McClintock (older sister)； Cameron McClintock (younger sister)； McClintock family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Olive |
 
 ## 关联
 

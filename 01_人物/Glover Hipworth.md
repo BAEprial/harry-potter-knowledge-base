@@ -5,6 +5,7 @@
 slug: "glover-hipworth"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "glover-hipworth"
 | 逝世 | 1805 (aged 62  - 63) |
 | 头发颜色 | Grey (formerly dirty blond) |
 | 职业 | Potioneer |
+| 肤色 | Light |
 
 ## 关联
 

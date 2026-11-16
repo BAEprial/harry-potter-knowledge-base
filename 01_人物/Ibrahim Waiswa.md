@@ -6,6 +6,8 @@ slug: "ibrahim-waiswa"
 物种: "人类"
 国籍: "Ugandan"
 性别: "男"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "ibrahim-waiswa"
 | 性别 | 男 |
 | 出生 | 20th century |
 | 国籍 | Ugandan |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

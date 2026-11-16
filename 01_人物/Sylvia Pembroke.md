@@ -5,6 +5,7 @@
 slug: "sylvia-pembroke"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sylvia-pembroke"
 | 头发颜色 | Black |
 | 职业 | Aurologist |
 | 家庭成员 | [[Eldon Pembroke]] (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

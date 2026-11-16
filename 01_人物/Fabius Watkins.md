@@ -6,6 +6,8 @@ slug: "fabius-watkins"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Chaser； Captain"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "fabius-watkins"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Red |
 | 职业 | Chaser and Captain for the Montrose Magpies |
+| 肤色 | White |
+| 头衔 | Chaser； Captain |
 
 ## 关联
 

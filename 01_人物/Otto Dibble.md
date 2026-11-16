@@ -6,6 +6,9 @@ slug: "otto-dibble"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Rosie Hill (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "otto-dibble"
 | 头发颜色 | Blond |
 | 职业 | Associate of Gladrags Wizardwear |
 | 家庭成员 | Rosie Dibble (née Hill) (wife)； Augustus Hill (father-in-law) |
+| 恋情 | Rosie Hill (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

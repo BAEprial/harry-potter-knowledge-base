@@ -5,6 +5,7 @@
 slug: "nestor-amset"
 物种: "Human (formerly),，幽灵"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nestor-amset"
 | 逝世 | Before 1890 |
 | 眼睛颜色 | Black |
 | 职业 | Member of the Headless Hunt |
+| 头衔 | Sir |
 
 ## 关联
 

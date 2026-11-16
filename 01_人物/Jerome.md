@@ -5,6 +5,7 @@
 slug: "jerome"
 物种: "人类"
 性别: "男"
+头衔: "Saint"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "jerome"
 | 出生 | c. 27 March 347 |
 | 逝世 | 30 September 420 |
 | 职业 | Theologian； Historian |
+| 头衔 | Saint |
 
 ## 关联
 

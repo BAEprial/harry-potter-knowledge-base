@@ -7,6 +7,8 @@ slug: "josette-lestrange"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+恋情: "Reynard Gage (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "josette-lestrange"
 | 性别 | 女 |
 | 国籍 | 法国人 |
 | 家庭成员 | [[Corvus Lestrange]] (father)； Minette Lestrange (née Rosier) (mother)； Manon Perrot (née Lestrange) (sister)； Corvus Lestrange (brother)； Reynard Gage (husband)； Mathis Gage (son)； [[Louis Gage]] (son)； Odile Perrot (niece)； Laurelle Perrot (niece)； [[Huguette Perrot]] (niece)； Sebastien Perrot (brother-in-law)； Corvus Lestrange (nephew)； [[Falco Lestrange]] (paternal uncle)； Salomé Lestrange (née Volant) (maternal aunt by marriage)； [[Eglantine Lestrange]] (paternal first cousin/sister-in-law)； Leonie Lestrange (née Lestrange) (paternal first cousin)； Corvus Lestrange (paternal grandfather) †； [[Heloise Lestrange (née Beaufort)]] (paternal grandmother)； Lestrange family； Rosier family (maternal family)； Beaufort family (paternal relatives)； Gage family |
+| 恋情 | Reynard Gage (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

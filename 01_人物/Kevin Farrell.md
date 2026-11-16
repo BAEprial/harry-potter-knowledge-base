@@ -9,6 +9,8 @@ slug: "kevin-farrell"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Hedgehog"
+恋情: "Robyn Thistlethwaite (seemingly a couple)"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +34,8 @@ slug: "kevin-farrell"
 | 魔杖 | 12',，larch,，dragon heartstring |
 | 别名与绰号 | Kev |
 | 家庭成员 | Milo Farrell (father)； Zola Farrell (mother)； Uncle； Farrell family |
+| 恋情 | Robyn Thistlethwaite (seemingly a couple) |
+| 肤色 | Pale |
 
 ## 关联
 

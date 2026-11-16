@@ -5,6 +5,7 @@
 slug: "unidentified-hogsmeade-witch"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-hogsmeade-witch"
 | 性别 | 女 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Dark blonde |
+| 肤色 | Light |
 
 ## 关联
 

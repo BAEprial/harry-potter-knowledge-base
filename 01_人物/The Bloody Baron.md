@@ -8,6 +8,10 @@ slug: "bloody-baron"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Helena Ravenclaw (unrequited)"
+肤色: "Light"
+头衔: "Baron"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +33,10 @@ slug: "bloody-baron"
 | 眼睛颜色 | Black |
 | 职业 | Slytherin House ghost |
 | 别名与绰号 | Mr Baron (by Ben Copper) |
+| 恋情 | Helena Ravenclaw (unrequited) |
+| 肤色 | Light |
+| 头衔 | Baron |
+| 婚姻状况 | Single |
 
 ## 关联
 

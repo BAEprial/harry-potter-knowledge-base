@@ -5,6 +5,8 @@
 slug: "gloomy-nuns"
 物种: "Humans (formerly),，Ghosts"
 性别: "Females"
+肤色: "Pale"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "gloomy-nuns"
 | 性别 | Females |
 | 逝世 | On or before 31 October 1992 |
 | 职业 | Nuns |
+| 肤色 | Pale |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

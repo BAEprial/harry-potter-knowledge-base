@@ -6,6 +6,7 @@ slug: "dan-darker"
 学院: "斯莱特林"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "dan-darker"
 | 物种 | 人类 |
 | 出生 | Between 1731 and 1735 |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

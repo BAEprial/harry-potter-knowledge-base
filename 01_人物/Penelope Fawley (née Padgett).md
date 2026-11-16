@@ -8,6 +8,9 @@ slug: "penelope-fawley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Grim Fawley (husband)"
+头衔: "Prefect； Lead Auror"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +32,9 @@ slug: "penelope-fawley"
 | 职业 | Auror |
 | 别名与绰号 | Nel |
 | 家庭成员 | Father； Mother； Grim Fawley (husband)； Addison Fawley (son)； [[Melody Fawley]] (daughter)； [[Lucretia Fawley]] (mother-in-law) †； [[Marshall Fawley]] (father-in-law) †； Padgett family； Fawley family |
+| 恋情 | Grim Fawley (husband) |
+| 头衔 | Prefect； Lead Auror |
+| 婚姻状况 | Married |
 
 ## 关联
 

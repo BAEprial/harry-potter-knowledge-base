@@ -5,6 +5,7 @@
 slug: "dorraway"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "dorraway"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 出生 | Before 1890 |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

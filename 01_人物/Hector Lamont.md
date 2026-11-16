@@ -6,6 +6,7 @@ slug: "hector-lamont"
 物种: "人类"
 国籍: "Scotland"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "hector-lamont"
 | 国籍 | Scotland |
 | 职业 | Seeker for the Scottish International Quidditch team |
 | 家庭成员 | 'Stubby' Lamont |
+| 头衔 | Seeker |
 
 ## 关联
 

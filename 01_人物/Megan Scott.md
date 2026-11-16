@@ -7,6 +7,7 @@ slug: "megan-scott"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "megan-scott"
 | 眼睛颜色 | Green |
 | 头发颜色 | Green,，Ginger (formerly) |
 | 家庭成员 | [[Catherine Tyler]] (grandmother) † |
+| 肤色 | Light |
 
 ## 关联
 

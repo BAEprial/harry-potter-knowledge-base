@@ -6,6 +6,7 @@ slug: "dunstan-trinity"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "dunstan-trinity"
 | 出生 | Before 1890 |
 | 国籍 | British or Irish |
 | 职业 | Thief |
+| 肤色 | Light |
 
 ## 关联
 

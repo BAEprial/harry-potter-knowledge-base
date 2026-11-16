@@ -6,6 +6,8 @@ slug: "lev-zograf"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "lev-zograf"
 | 国籍 | 保加利亚人 |
 | 头发颜色 | Black |
 | 职业 | Keeper for the Bulgarian National Quidditch team |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

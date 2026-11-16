@@ -5,6 +5,7 @@
 slug: "unidentified-merwoman-at-the-great-lake-i"
 物种: "Selkie"
 性别: "女"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-merwoman-at-the-great-lake-i"
 | 出生 | Before 1990 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Yellow |
+| 肤色 | Grey |
 
 ## 关联
 

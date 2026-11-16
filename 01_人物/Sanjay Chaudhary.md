@@ -6,6 +6,8 @@ slug: "sanjay-chaudhary"
 物种: "人类"
 国籍: "Indian"
 性别: "男"
+肤色: "Dark"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "sanjay-chaudhary"
 | 眼睛颜色 | Brown |
 | 职业 | Keeper for the Indian National Quidditch team |
 | 家庭成员 | Aravind Chaudhary (possible relative) |
+| 肤色 | Dark |
+| 头衔 | Keeper |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "unidentified-ilvermorny-professor"
 物种: "人类"
 性别: "女"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-ilvermorny-professor"
 | 性别 | 女 |
 | 出生 | Before 1974 |
 | 职业 | Professor at Ilvermorny School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "qui-leblanc-s-mother"
 物种: "人类"
 性别: "女"
+恋情: "Partner (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "qui-leblanc-s-mother"
 | 性别 | 女 |
 | 逝世 | Unknown year |
 | 家庭成员 | [[Qui LeBlanc]] (daughter)； [[Mateo Leblanc]] (possible relative)； LeBlanc family |
+| 恋情 | Partner (uncertain relationship) |
 
 ## 关联
 

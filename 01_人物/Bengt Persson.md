@@ -6,6 +6,8 @@ slug: "bengt-persson"
 物种: "人类"
 国籍: "Swedish"
 性别: "男"
+肤色: "Light"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "bengt-persson"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Blond |
 | 职业 | Beater for the Swedish National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Beater |
 
 ## 关联
 

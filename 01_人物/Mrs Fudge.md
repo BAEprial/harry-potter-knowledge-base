@@ -6,6 +6,7 @@ slug: "cornelius-fudge-s-wife"
 血统: "Pure-blood or half-blood (most likely)"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cornelius-fudge-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | Cornelius Fudge (husband)； Rufus Fudge (nephew)； Fudge family |
+| 婚姻状况 | Married |
 
 ## 关联
 

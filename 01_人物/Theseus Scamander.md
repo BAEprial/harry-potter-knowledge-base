@@ -8,6 +8,8 @@ slug: "theseus-scamander"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Leta Lestrange (late fiancée) †"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "theseus-scamander"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head of the British Auror Office |
 | 家庭成员 | Father； Mother； [[Newt]] Scamander (younger brother)； Porpentina Scamander (née Goldstein) (sister-in-law)； At least one niece or nephew； Scamander family |
+| 恋情 | Leta Lestrange (late fiancée) † |
+| 婚姻状况 | Single |
 
 ## 关联
 

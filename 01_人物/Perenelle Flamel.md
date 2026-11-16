@@ -6,6 +6,7 @@ slug: "perenelle-flamel"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "perenelle-flamel"
 | 国籍 | 法国人 |
 | 头发颜色 | White |
 | 家庭成员 | Nicolas Flamel (husband) †； Flamel family |
+| 婚姻状况 | Married |
 
 ## 关联
 

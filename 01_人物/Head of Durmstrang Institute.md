@@ -5,6 +5,7 @@
 slug: "headteacher-of-durmstrang-institute-during-1792"
 血统: "纯血统或混血"
 物种: "人类"
+头衔: "Professor； Headmaster or Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "headteacher-of-durmstrang-institute-during-1792"
 | 物种 | 人类 |
 | 出生 | 18th century or earlier |
 | 职业 | Headmaster of Durmstrang Institute (1792 or before -?) |
+| 头衔 | Professor； Headmaster or Headmistress |
 
 ## 关联
 

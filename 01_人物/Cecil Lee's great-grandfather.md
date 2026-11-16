@@ -6,6 +6,7 @@ slug: "cecil-lee-s-great-grandfather"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+头衔: "Toast Giver"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "cecil-lee-s-great-grandfather"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Possible granddaughter； Lee family |
+| 头衔 | Toast Giver |
 
 ## 关联
 

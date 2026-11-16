@@ -5,6 +5,7 @@
 slug: "skower"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "skower"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 职业 | Inventor or manufacturer of Mrs Skower's All-Purpose Magical Mess Remover |
+| 肤色 | White |
 
 ## 关联
 

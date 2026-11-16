@@ -5,6 +5,8 @@
 slug: "martin-helstrom"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "martin-helstrom"
 | 头发颜色 | 黑暗 |
 | 职业 | Keeper for the Nordic National Quidditch team |
 | 别名与绰号 | Tiny |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "pronk"
 血统: "Half-breed (part-giant)"
 物种: "Part-human/part-giant"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "pronk"
 | 头发颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Bodyguard for Victor Gridley |
+| 肤色 | Pale |
 
 ## 关联
 

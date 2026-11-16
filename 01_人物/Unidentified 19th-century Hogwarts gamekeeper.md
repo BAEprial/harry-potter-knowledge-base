@@ -5,6 +5,8 @@
 slug: "unidentified-19th-century-hogwarts-gamekeeper"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Gamekeeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-19th-century-hogwarts-gamekeeper"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Gamekeeper of Hogwarts (1890s) |
+| 肤色 | Light |
+| 头衔 | Gamekeeper |
 
 ## 关联
 

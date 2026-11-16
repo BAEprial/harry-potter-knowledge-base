@@ -7,6 +7,7 @@ slug: "victor-ketsueki"
 物种: "Human (formerly),，吸血鬼"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "victor-ketsueki"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Spokesperson for the Society for the Tolerance of Vampires |
 | 别名与绰号 | Handsome Victor |
+| 肤色 | Light |
 
 ## 关联
 

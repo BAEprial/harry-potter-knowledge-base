@@ -5,6 +5,7 @@
 slug: "bragbor-the-boastful"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "bragbor-the-boastful"
 | 职业 | Artisan； Metalworker |
 | 别名与绰号 | Bragbor the Boastful |
 | 家庭成员 | Ranrok (descendant) †； Lodgok (descendant) †； Family |
+| 肤色 | Light |
 
 ## 关联
 

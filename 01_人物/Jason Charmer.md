@@ -7,6 +7,7 @@ slug: "jason-charmer"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "jason-charmer"
 | 性别 | 男 |
 | 出生 | Between 1705 and 1709 |
 | 国籍 | British or Irish |
+| 头衔 | Captain |
 
 ## 关联
 

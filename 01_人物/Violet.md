@@ -5,6 +5,7 @@
 slug: "violet"
 物种: "人类"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "violet"
 | 逝世 | Before 1989 |
 | 眼睛颜色 | Purple |
 | 别名与绰号 | Vi |
+| 肤色 | Pale |
 
 ## 关联
 

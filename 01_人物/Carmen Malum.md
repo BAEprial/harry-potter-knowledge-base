@@ -6,6 +6,8 @@ slug: "carmen-malum"
 物种: "Hag"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "carmen-malum"
 | 眼睛颜色 | Green |
 | 头发颜色 | White |
 | 别名与绰号 | The Hogsmeade Hag； Auntie Carmen； Miss Malum |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "abigail-grey-s-werewolf-capture-unit-mentor"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Olive"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "abigail-grey-s-werewolf-capture-unit-mentor"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Black |
 | 职业 | Employee of the Werewolf Capture Unit |
+| 肤色 | Olive |
 
 ## 关联
 

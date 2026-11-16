@@ -7,6 +7,7 @@ slug: "jo-king-slytherin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "jo-king-slytherin"
 | 出生 | c. 1940s |
 | 国籍 | British or Irish |
 | 家庭成员 | R. J. H. [[King]] (possibly)； [[Jo King]] (possibly)； King family |
+| 头衔 | Captain |
 
 ## 关联
 

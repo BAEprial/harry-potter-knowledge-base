@@ -7,6 +7,7 @@ slug: "callum-mcclintock-s-parents"
 物种: "人类"
 国籍: "Scottish"
 性别: "Male,，female"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "callum-mcclintock-s-parents"
 | 性别 | Male,，female |
 | 国籍 | Scottish |
 | 家庭成员 | Catriona McClintock (daughter)； [[Callum]] McClintock (son)； Cameron McClintock (daughter)； McClintock family |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "unidentified-sleeping-headmaster-with-book"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-sleeping-headmaster-with-book"
 | 逝世 | Before 1943 |
 | 国籍 | 英国人 |
 | 职业 | Headmaster of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Light |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

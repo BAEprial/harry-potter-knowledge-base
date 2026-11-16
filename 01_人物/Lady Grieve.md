@@ -6,6 +6,7 @@ slug: "lady-grieve"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+头衔: "Lady"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "lady-grieve"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 性别 | 女 |
+| 头衔 | Lady |
 
 ## 关联
 

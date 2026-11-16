@@ -5,6 +5,7 @@
 slug: "susan-blancheflower"
 物种: "人类"
 性别: "女"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "susan-blancheflower"
 | 性别 | 女 |
 | 出生 | After 1976,，United States of America |
 | 职业 | Keeper for the American National Quidditch team |
+| 头衔 | Keeper |
 
 ## 关联
 

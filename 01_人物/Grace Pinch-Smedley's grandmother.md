@@ -5,6 +5,7 @@
 slug: "grace-pinch-smedley-s-grandmother"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "grace-pinch-smedley-s-grandmother"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 家庭成员 | Husband †； Son； [[Grace Pinch-Smedley]] (granddaughter)； Pinch-Smedley family |
+| 婚姻状况 | Married |
 
 ## 关联
 

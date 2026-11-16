@@ -7,6 +7,8 @@ slug: "eleazar-fig"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "eleazar-fig"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Magical Theory at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Miriam Fig (wife) † |
+| 肤色 | Light |
+| 头衔 | Professor |
 
 ## 关联
 

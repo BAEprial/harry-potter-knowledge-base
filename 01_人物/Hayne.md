@@ -6,6 +6,8 @@ slug: "hayne"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Goodman"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "hayne"
 | 出生 | 10th or 11th century |
 | 眼睛颜色 | Grey |
 | 头发颜色 | Blond |
+| 肤色 | Light |
+| 头衔 | Goodman |
 
 ## 关联
 

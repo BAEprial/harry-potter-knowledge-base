@@ -4,6 +4,7 @@
 英文名: "Glow Bug at the Magical Creatures Reserve"
 slug: "glow-bug-at-the-magical-creatures-reserve"
 物种: "Glow Bug"
+肤色: "Translucent/Luminescent"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "glow-bug-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Glow Bug |
 | 眼睛颜色 | White,，Glowing |
+| 肤色 | Translucent/Luminescent |
 
 ## 关联
 

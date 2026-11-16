@@ -6,6 +6,8 @@ slug: "dawn-withey"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "dawn-withey"
 | 国籍 | 英国人 |
 | 头发颜色 | Black |
 | 职业 | Beater for the English National Quidditch team |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "calvin-coolidge"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "President of the United States"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "calvin-coolidge"
 | 国籍 | American |
 | 职业 | President of the United States of America； Vice President of the United States of America (formerly)； Governor of Massachusetts (formerly)； Lawyer (formerly) |
 | 家庭成员 | Grace Coolidge (wife)； [[John]] (son)； Calvin Jr. (son) |
+| 头衔 | President of the United States |
+| 婚姻状况 | Married |
 
 ## 关联
 

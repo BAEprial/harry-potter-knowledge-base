@@ -6,6 +6,7 @@ slug: "victoria"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+头衔: "Queen"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "victoria"
 | 逝世 | 22 January 1901 (aged 81) |
 | 职业 | Queen of the United Kingdom of Great Britain and Ireland |
 | 家庭成员 | [[George]] III (grandfather) †； [[Will]]iam the Conqueror (ancestor) †； [[Henry]] VII (ancestor) †； [[Eliza]]beth II (descendant) †； British royal family |
+| 头衔 | Queen |
 
 ## 关联
 

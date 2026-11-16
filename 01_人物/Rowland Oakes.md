@@ -5,6 +5,7 @@
 slug: "rowland-oakes"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "rowland-oakes"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Metal trader |
 | 家庭成员 | Brother †； Sister-in-law †； Adelaide Oakes (niece)； Oakes family |
+| 肤色 | Light |
 
 ## 关联
 

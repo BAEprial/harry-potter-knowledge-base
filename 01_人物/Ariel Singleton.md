@@ -6,6 +6,8 @@ slug: "ariel-singleton"
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "White"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "ariel-singleton"
 | 国籍 | American |
 | 头发颜色 | Red |
 | 职业 | Seeker for the American National Quidditch team |
+| 肤色 | White |
+| 头衔 | Seeker |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "cho-chang-s-spouse"
 血统: "麻瓜"
 物种: "人类"
+恋情: "Cho Chang (wife)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "cho-chang-s-spouse"
 | 血统 | 麻瓜 |
 | 物种 | 人类 |
 | 家庭成员 | Cho Chang (wife)； Father-in-law； Mother-in-law； Chang family (in-laws) |
+| 恋情 | Cho Chang (wife) |
 
 ## 关联
 

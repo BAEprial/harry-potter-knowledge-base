@@ -5,6 +5,7 @@
 slug: "etheldreda-bloodworth-s-ex-fiance"
 物种: "人类"
 性别: "男"
+恋情: "Etheldreda Bloodworth (ex-fiancée)"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "etheldreda-bloodworth-s-ex-fiance"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Mother |
+| 恋情 | Etheldreda Bloodworth (ex-fiancée) |
 
 ## 关联
 

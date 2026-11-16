@@ -7,6 +7,8 @@ slug: "nicholas-de-mimsy-porpington"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "nicholas-de-mimsy-porpington"
 | 职业 | Knight； Courtier； Gryffindor House ghost |
 | 别名与绰号 | Nearly Headless Nick； Sir Nicholas (preferred)； Nick； Sir Nick |
 | 家庭成员 | [[Gwallter]] (Father) |
+| 肤色 | Pale |
+| 头衔 | Sir |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "puddifoot"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "puddifoot"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Owner of Madam Puddifoot's Tea Shop |
+| 头衔 | Madam |
 
 ## 关联
 

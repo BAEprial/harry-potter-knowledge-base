@@ -6,6 +6,7 @@ slug: "cordelia-misericordia"
 物种: "Hag"
 国籍: "英国人"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "cordelia-misericordia"
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
 | 职业 | Representative |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "dave-monk"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "dave-monk"
 | 出生 | In or prior to 1977 |
 | 职业 | Reporter for Metro |
 | 家庭成员 | Tilly Monk (wife)； Jack Monk (son)； Tom Monk (son) |
+| 婚姻状况 | Married |
 
 ## 关联
 

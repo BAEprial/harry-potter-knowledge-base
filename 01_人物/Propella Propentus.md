@@ -5,6 +5,7 @@
 slug: "propella-propentus"
 物种: "人类"
 国籍: "法国人"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "propella-propentus"
 | 出生 | Before 1898 |
 | 国籍 | 法国人 |
 | 职业 | Hex removal specialist |
+| 头衔 | Professor |
 
 ## 关联
 

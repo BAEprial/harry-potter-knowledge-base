@@ -6,6 +6,8 @@ slug: "evelyn-starling"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "evelyn-starling"
 | 头发颜色 | Silver |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professional duellist； Author |
+| 肤色 | Dark |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

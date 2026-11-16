@@ -7,6 +7,7 @@ slug: "fat-friar"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "fat-friar"
 | 头发颜色 | Brown |
 | 身高 | 'Little' |
 | 职业 | Clergyman (formerly)； Hufflepuff House ghost |
+| 肤色 | Light |
 
 ## 关联
 

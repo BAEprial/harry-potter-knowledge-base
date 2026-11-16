@@ -5,6 +5,7 @@
 slug: "unidentified-blond-twin-boys-at-platform-nine-and-three-quarters"
 物种: "Humans"
 性别: "Males"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-blond-twin-boys-at-platform-nine-and-three-quarters"
 | 性别 | Males |
 | 出生 | 2000s |
 | 头发颜色 | Blond |
+| 肤色 | White |
 
 ## 关联
 

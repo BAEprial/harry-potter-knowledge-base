@@ -6,6 +6,8 @@ slug: "gwendoline-babcocke"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "White"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "gwendoline-babcocke"
 | 头发颜色 | Purple |
 | 职业 | Shop assistant at The Magic Neep |
 | 家庭成员 | Mother |
+| 肤色 | White |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

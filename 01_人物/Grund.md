@@ -5,6 +5,7 @@
 slug: "grund"
 物种: "人类"
 国籍: "German (formerly),，法国人"
+头衔: "Doktor"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "grund"
 | 物种 | 人类 |
 | 出生 | Before the 1920s |
 | 国籍 | German (formerly),，法国人 |
+| 头衔 | Doktor |
 
 ## 关联
 

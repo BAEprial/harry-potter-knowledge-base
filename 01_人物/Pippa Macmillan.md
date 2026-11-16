@@ -8,6 +8,7 @@ slug: "pippa-macmillan"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "pippa-macmillan"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Brown |
 | 家庭成员 | [[Melania Black (née Macmillan)]] (possibly)； [[Ernest Macmillan]] (possibly)； Macmillan family |
+| 肤色 | Tan |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "artemisia-blackwood"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Eunon Blackwood (husband)"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "artemisia-blackwood"
 | 逝世 | 15th century,，Scotland |
 | 国籍 | British or Irish |
 | 家庭成员 | Mother (House of Black)； Muggle father； Eunon Blackwood (husband)； Lysandra Blackwood (daughter)； Parents-in-law； House of Black (maternal family)； Blackwood family |
+| 恋情 | Eunon Blackwood (husband) |
 
 ## 关联
 

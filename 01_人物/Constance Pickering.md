@@ -9,6 +9,10 @@ slug: "constance-pickering"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Unicorn"
+恋情: "Lucas Sparrowvale (boyfriend)"
+肤色: "White"
+头衔: "Prefect； Junior Undersecretary"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +35,10 @@ slug: "constance-pickering"
 | 头发颜色 | Light brown |
 | 职业 | Junior Undersecretary (formerly)； Leader of the Statute of Secrecy Task Force (formerly)； Leader of The Unforgivable |
 | 家庭成员 | Mother； Older brother； Sister； Brother； Grandmother； Matthias Pickering (grandfather)； Grandfather； Pickering family |
+| 恋情 | Lucas Sparrowvale (boyfriend) |
+| 肤色 | White |
+| 头衔 | Prefect； Junior Undersecretary |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

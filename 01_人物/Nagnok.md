@@ -5,6 +5,7 @@
 slug: "nagnok"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "nagnok"
 | 逝世 | Before 1801 |
 | 头发颜色 | Brown |
 | 职业 | Gringotts employee |
+| 肤色 | Light |
 
 ## 关联
 

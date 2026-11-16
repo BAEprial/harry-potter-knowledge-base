@@ -6,6 +6,8 @@ slug: "quentin-trimble"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "quentin-trimble"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Grey (formerly brown) |
 | 职业 | Author； Professor； Headmaster |
+| 肤色 | Light |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

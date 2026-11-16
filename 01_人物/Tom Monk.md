@@ -6,6 +6,7 @@ slug: "tom-monk"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+体重: "3.5 lbs"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "tom-monk"
 | 性别 | 男 |
 | 出生 | 20 May 1995 |
 | 家庭成员 | [[Dave Monk]] (father)； [[Tilly Monk]] (mother)； [[Jack]] Monk (twin brother) |
+| 体重 | 3.5 lbs |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "staring-portrait"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "staring-portrait"
 | 性别 | 男 |
 | 逝世 | Prior to 1993 |
 | 眼睛颜色 | Blue |
+| 肤色 | Light |
 
 ## 关联
 

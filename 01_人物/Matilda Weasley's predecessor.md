@@ -4,6 +4,7 @@
 英文名: "Matilda Weasley's predecessor"
 slug: "matilda-weasley-s-predecessor"
 物种: "人类"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "matilda-weasley-s-predecessor"
 | 物种 | 人类 |
 | 出生 | Before 1890 |
 | 职业 | Professor of Transfiguration or Deputy Headteacher at Hogwarts School of Witchcraft and Wizardry |
+| 头衔 | Professor |
 
 ## 关联
 

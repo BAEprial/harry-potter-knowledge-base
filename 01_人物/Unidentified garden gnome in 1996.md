@@ -5,6 +5,7 @@
 slug: "unidentified-garden-gnome-in-1996"
 物种: "Gnome"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-garden-gnome-in-1996"
 | 出生 | December 1996 or earlier |
 | 头发颜色 | Bald |
 | 身高 | Small |
+| 肤色 | Green |
 
 ## 关联
 

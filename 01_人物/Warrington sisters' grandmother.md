@@ -5,6 +5,7 @@
 slug: "warrington-sisters-grandmother"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "warrington-sisters-grandmother"
 | 魔杖 | Unknown length,，wood and core |
 | 别名与绰号 | Nana (by Ivy Warrington) |
 | 家庭成员 | Daughter； Son-in-law； [[Ivy Warrington]] (granddaughter)； Winifred Warrington (granddaughter)； Warrington family |
+| 肤色 | Light |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "sybill-trelawney-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "sybill-trelawney-s-father"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 家庭成员 | Wife； Sybill Trelawney (daughter)； [[Higglebottom]] (ex-son-in-law)； [[Cassandra Trelawney]] (great-grandmother)； Trelawney family |
+| 婚姻状况 | Married |
 
 ## 关联
 

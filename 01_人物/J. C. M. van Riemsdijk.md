@@ -6,6 +6,7 @@ slug: "j-c-m-van-riemsdijk"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Jonkheer； Meester"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "j-c-m-van-riemsdijk"
 | 出生 | 16 December 1841 |
 | 逝世 | 30 June 1895 |
 | 职业 | Musician； Author |
+| 头衔 | Jonkheer； Meester |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "j-tardy"
 国籍: "法国人"
 性别: "女"
+头衔: "Headmistress； Madame"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "j-tardy"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Headmistress |
+| 头衔 | Headmistress； Madame |
 
 ## 关联
 

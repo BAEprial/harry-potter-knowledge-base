@@ -5,6 +5,7 @@
 slug: "fawkes"
 物种: "凤凰"
 性别: "男"
+肤色: "Pink"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "fawkes"
 | 逝世 | Immortal. When he died,，he was reborn from the ashes.,，Death dates included:18 December 199218 June 1996,，18 December 1992,，18 June 1996 |
 | 眼睛颜色 | Black |
 | 身高 | 'Swan-sized' (up to sixty inches) |
+| 肤色 | Pink |
 
 ## 关联
 

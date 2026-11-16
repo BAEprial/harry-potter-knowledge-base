@@ -6,6 +6,8 @@ slug: "william-iii"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "william-iii"
 | 出生 | 14 November 1650 |
 | 逝世 | 8 March 1702 (age 51) |
 | 家庭成员 | [[Mary]] II (wife) †； [[Henry]] VII (ancestor) †； [[Will]]iam the Conqueror (ancestor) †； British royal family |
+| 头衔 | King |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

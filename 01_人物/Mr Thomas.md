@@ -7,6 +7,8 @@ slug: "dean-thomas-s-stepfather"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "dean-thomas-s-stepfather"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 家庭成员 | Wife； Dean Thomas (stepson)； Children； Thomas family |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "keiko-takahashi"
 物种: "人类"
 国籍: "Japanese"
 性别: "女"
+肤色: "Pale"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "keiko-takahashi"
 | 国籍 | Japanese |
 | 职业 | Beater for the Japanese National Quidditch team |
 | 家庭成员 | Minaka Takahashi (sister) |
+| 肤色 | Pale |
+| 头衔 | Beater |
 
 ## 关联
 

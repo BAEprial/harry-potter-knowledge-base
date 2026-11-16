@@ -5,6 +5,7 @@
 slug: "valmai-morgan"
 物种: "人类"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "valmai-morgan"
 | 出生 | 1982 or earlier |
 | 职业 | Chaser for the Holyhead Harpies |
 | 家庭成员 | [[Elsie]] Morgan (possible relative)； [[Iona Morgan]] (possible relative)； [[Gwendolyn]] Morgan (possible relative)； Morgan family |
+| 头衔 | Chaser |
 
 ## 关联
 

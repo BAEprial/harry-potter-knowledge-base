@@ -7,6 +7,7 @@ slug: "helen-thistlewood"
 国籍: "Scottish"
 性别: "女"
 守护神: "兔子"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "helen-thistlewood"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Auror (formerly) |
 | 家庭成员 | [[Eddie Thistlewood]] (brother)； [[Eldritch Diggory]] (great-uncle)； Thistlewood family |
+| 肤色 | Light |
 
 ## 关联
 

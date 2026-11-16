@@ -6,6 +6,7 @@ slug: "marcus-morhaven"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "marcus-morhaven"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Orange |
 | 头发颜色 | Dark brown |
+| 肤色 | Dark |
 
 ## 关联
 

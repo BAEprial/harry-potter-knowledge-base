@@ -4,6 +4,7 @@
 英文名: "Hogsmeade town crier"
 slug: "hogsmeade-town-crier"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "hogsmeade-town-crier"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Town crier |
+| 肤色 | Light |
 
 ## 关联
 

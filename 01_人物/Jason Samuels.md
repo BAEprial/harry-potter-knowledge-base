@@ -7,6 +7,8 @@ slug: "jason-samuels"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "jason-samuels"
 | 出生 | 31 August 1981 or earlier (most likely) |
 | 国籍 | British or Irish |
 | 头发颜色 | Blond |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

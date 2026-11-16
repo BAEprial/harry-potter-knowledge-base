@@ -5,6 +5,7 @@
 slug: "griffith"
 物种: "人类"
 性别: "男"
+恋情: "Esme Page"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "griffith"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 男 |
+| 恋情 | Esme Page |
 
 ## 关联
 

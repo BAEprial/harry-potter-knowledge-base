@@ -5,6 +5,9 @@
 slug: "todd-cribb"
 物种: "人类"
 性别: "男"
+恋情: "Corrine Cribb (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +27,9 @@ slug: "todd-cribb"
 | 职业 | Con artist； Thief |
 | 别名与绰号 | Prospero； The Count |
 | 家庭成员 | [[Corrine Cribb]] (wife) |
+| 恋情 | Corrine Cribb (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

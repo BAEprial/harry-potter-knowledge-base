@@ -5,6 +5,7 @@
 slug: "landlady-of-the-green-dragon"
 物种: "人类"
 性别: "女"
+恋情: "Janus Thickey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "landlady-of-the-green-dragon"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 职业 | Landlady of the Green Dragon pub |
+| 恋情 | Janus Thickey |
 
 ## 关联
 

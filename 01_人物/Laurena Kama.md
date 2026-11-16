@@ -7,6 +7,7 @@ slug: "laurena-kama"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "laurena-kama"
 | 逝世 | Between September 1896 and late April 1897,，Lestrange Manor |
 | 国籍 | 法国人 |
 | 家庭成员 | Mustafa Kama (first husband) †； Corvus [[Lestrange]] (second husband,，unwillingly) †； Yusuf Kama (son)； [[Leta Lestrange]] (daughter) †； Corvus Lestrange (father-in-law)； [[Eglantine Lestrange]] (mother-in-law)； Kama family； Lestrange family |
+| 婚姻状况 | Married |
 
 ## 关联
 

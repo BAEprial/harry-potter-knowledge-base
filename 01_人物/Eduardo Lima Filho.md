@@ -6,6 +6,7 @@ slug: "eduardo-lima-filho"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "eduardo-lima-filho"
 | 身高 | 5'9' |
 | 职业 | Worker in the Runes & Symbols department |
 | 家庭成员 | [[Eduardo]] Lima (possible father)； Mina Lima (possibly)； E. Lima (possibly)； Edwardus Lima (possibly)； Lima family |
+| 肤色 | Light |
 
 ## 关联
 

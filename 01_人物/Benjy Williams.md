@@ -6,6 +6,7 @@ slug: "benjy-williams"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "benjy-williams"
 | 出生 | before 1982 |
 | 国籍 | 英国人 |
 | 职业 | Seeker for Puddlemere United |
+| 头衔 | Seeker |
 
 ## 关联
 

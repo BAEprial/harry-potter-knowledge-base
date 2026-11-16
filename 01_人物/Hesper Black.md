@@ -7,6 +7,7 @@ slug: "hesper-black"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hesper-black"
 | 出生 | 1810s-1820s (possibly) |
 | 逝世 | Before 1996 (possibly) |
 | 家庭成员 | House of Black |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

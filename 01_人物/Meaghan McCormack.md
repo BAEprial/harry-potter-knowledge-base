@@ -6,6 +6,7 @@ slug: "meaghan-mccormack"
 血统: "Half-blood or pure-blood (possibly)"
 物种: "人类"
 性别: "女"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "meaghan-mccormack"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Catriona McCormack]] (mother)； Kirley Duke (brother)； McCormack family |
+| 头衔 | Keeper |
 
 ## 关联
 

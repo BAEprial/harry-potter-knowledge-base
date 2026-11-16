@@ -5,6 +5,7 @@
 slug: "wild-hippocampus-herd"
 物种: "Hippocampi"
 性别: "多种"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "wild-hippocampus-herd"
 | 性别 | 多种 |
 | 出生 | Before the late 1980s |
 | 头发颜色 | Pink,，Red |
+| 肤色 | White |
 
 ## 关联
 

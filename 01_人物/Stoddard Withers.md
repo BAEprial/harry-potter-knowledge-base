@@ -5,6 +5,8 @@
 slug: "stoddard-withers"
 物种: "人类"
 性别: "男"
+肤色: "White"
+头衔: "Lord"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "stoddard-withers"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
 | 职业 | Magizoologist |
+| 肤色 | White |
+| 头衔 | Lord |
 
 ## 关联
 

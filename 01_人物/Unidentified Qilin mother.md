@@ -5,6 +5,7 @@
 slug: "unidentified-qilin-mother"
 物种: "Qilin"
 性别: "女"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-qilin-mother"
 | 出生 | Before 1932 |
 | 逝世 | Winter of 1932,，Tianzi Mountains,，Kweilin,，China |
 | 家庭成员 | Daughter (I) †； Daughter (II) |
+| 肤色 | Brown |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "roger-davies-s-girlfriend"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Roger Davies (boyfriend)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "roger-davies-s-girlfriend"
 | 出生 | Between 1 September 1978 and 31 August 1985 (most likely) |
 | 国籍 | British or Irish |
 | 头发颜色 | Blonde |
+| 恋情 | Roger Davies (boyfriend) |
 
 ## 关联
 

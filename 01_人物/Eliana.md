@@ -5,6 +5,9 @@
 slug: "eliana"
 物种: "人类"
 性别: "女"
+恋情: "Illyius (husband)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +23,9 @@ slug: "eliana"
 | 性别 | 女 |
 | 头发颜色 | Dark brown |
 | 家庭成员 | Parents； Illyius (husband) |
+| 恋情 | Illyius (husband) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

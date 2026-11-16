@@ -6,6 +6,7 @@ slug: "kenji-kobayashi"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "kenji-kobayashi"
 | 魔杖 | 11¼,，Acacia,，dragon heartstring |
 | 别名与绰号 | Kobayashi-kun (by Yumi Ito) |
 | 家庭成员 | Father； Kobayashi family |
+| 肤色 | Light |
 
 ## 关联
 

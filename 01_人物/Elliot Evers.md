@@ -8,6 +8,7 @@ slug: "elliot-evers"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Raven or Crow"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "elliot-evers"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Leader of the Nocturnal Order of Tricks and Magical Exhibitions |
 | 别名与绰号 | Lord Evermore |
+| 肤色 | Light |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "wilkie-twycross"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "wilkie-twycross"
 | 头发颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | British Ministry of Magic employee； Apparition Instructor |
+| 肤色 | Light |
 
 ## 关联
 

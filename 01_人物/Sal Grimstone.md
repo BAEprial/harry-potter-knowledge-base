@@ -5,6 +5,7 @@
 slug: "sal-grimstone"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sal-grimstone"
 | 魔杖 | Unknown length,，Driftwood and unknown core |
 | 职业 | Magizoologist |
 | 家庭成员 | Great-grandfather； Grimstone family |
+| 肤色 | Dark |
 
 ## 关联
 

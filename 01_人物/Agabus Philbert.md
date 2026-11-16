@@ -6,6 +6,9 @@ slug: "agabus-philbert"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+恋情: "Dulcibella Philbert"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +26,9 @@ slug: "agabus-philbert"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | Dulcibella Philbert (wife) † |
+| 恋情 | Dulcibella Philbert |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

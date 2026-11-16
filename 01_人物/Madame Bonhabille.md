@@ -6,6 +6,7 @@ slug: "bonhabille"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Madame"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "bonhabille"
 | 出生 | c. 19th century |
 | 国籍 | 法国人 |
 | 职业 | Hat-maker |
+| 头衔 | Madame |
 
 ## 关联
 

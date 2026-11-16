@@ -5,6 +5,7 @@
 slug: "qui-leblanc-s-father"
 物种: "吸血鬼"
 性别: "男"
+恋情: "Partner (uncertain relationship) †"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "qui-leblanc-s-father"
 | 物种 | 吸血鬼 |
 | 性别 | 男 |
 | 家庭成员 | [[Qui LeBlanc]] (daughter)； [[Mateo Leblanc]] (possible relative)； LeBlanc family |
+| 恋情 | Partner (uncertain relationship) † |
 
 ## 关联
 

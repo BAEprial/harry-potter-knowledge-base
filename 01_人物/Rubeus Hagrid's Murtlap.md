@@ -4,6 +4,7 @@
 英文名: "Rubeus Hagrid's Murtlap"
 slug: "british-ministry-of-magic-s-murtlap"
 物种: "Murtlap"
+肤色: "Peachy"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "british-ministry-of-magic-s-murtlap"
 |---|---|
 | 物种 | Murtlap |
 | 眼睛颜色 | Red |
+| 肤色 | Peachy |
 
 ## 关联
 

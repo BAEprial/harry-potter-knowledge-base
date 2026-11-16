@@ -6,6 +6,7 @@ slug: "cuthbert-mockridge"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Head of the Goblin Liaison Office"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "cuthbert-mockridge"
 | 出生 | Before 1976 |
 | 国籍 | 英国人 |
 | 职业 | Head of the Goblin Liaison Office (before 22 August,，1994 - before summer 1996) |
+| 头衔 | Head of the Goblin Liaison Office |
 
 ## 关联
 

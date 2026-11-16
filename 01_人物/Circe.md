@@ -6,6 +6,7 @@ slug: "circe"
 物种: "人类"
 国籍: "Greek"
 性别: "女"
+肤色: "Tanned"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "circe"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 别名与绰号 | Circe of Aeaea |
+| 肤色 | Tanned |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "heathcote-barbary"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "heathcote-barbary"
 | 出生 | 1974 |
 | 头发颜色 | Grey |
 | 职业 | Rhythm guitarist for the Weird Sisters |
+| 肤色 | White |
 
 ## 关联
 

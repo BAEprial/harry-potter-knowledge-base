@@ -4,6 +4,7 @@
 英文名: "Norwegian Ridgeback at the Magical Creatures Reserve"
 slug: "norwegian-ridgeback-at-the-magical-creatures-reserve"
 物种: "Norwegian Ridgeback"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "norwegian-ridgeback-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Norwegian Ridgeback |
 | 眼睛颜色 | Green |
+| 肤色 | Brown |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "william-mcgonagall"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "william-mcgonagall"
 | 国籍 | Scottish |
 | 职业 | Poet； Weaver； Actor |
 | 家庭成员 | Possible relative； Possible relative； [[Robert McGonagall Senior]] (possible relative)； [[Isobel McGonagall (née Ross)]] (possible relative)； [[Minerva]] McGonagall (possible relative)； [[Malcolm]] McGonagall (possible relative)； [[Robert McGonagall Junior]] (possible relative)； Possible relatives； [[M. G. McGonagall]] (possible relative)； McGonagall family |
+| 婚姻状况 | Married |
 
 ## 关联
 

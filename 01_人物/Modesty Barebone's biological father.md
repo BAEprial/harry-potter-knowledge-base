@@ -5,6 +5,7 @@
 slug: "modesty-barebone-s-biological-father"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "modesty-barebone-s-biological-father"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Wife； [[Modesty Barebone]] (daughter)； Nine other children |
+| 婚姻状况 | Married |
 
 ## 关联
 

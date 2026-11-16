@@ -8,6 +8,7 @@ slug: "cassandra-vole-s-mother"
 物种: "Human or part-human/quarter-Veela"
 国籍: "British or Irish"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "cassandra-vole-s-mother"
 | 出生 | Before 1 September 1978 |
 | 国籍 | British or Irish |
 | 家庭成员 | Brother or brother-in-law； Husband； [[Cassandra Vole]] (daughter)； [[Delila]] (possible grandmother)； Vole family |
+| 婚姻状况 | Married |
 
 ## 关联
 

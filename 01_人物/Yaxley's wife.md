@@ -6,6 +6,7 @@ slug: "yaxley-s-wife"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "yaxley-s-wife"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 家庭成员 | [[Yaxley]] (husband)； [[Corban Yaxley]] (possible relative)； Yaxley family (in-laws) |
+| 婚姻状况 | Married |
 
 ## 关联
 

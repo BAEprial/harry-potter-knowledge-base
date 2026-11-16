@@ -6,6 +6,7 @@ slug: "sun-li"
 物种: "人类"
 国籍: "Chinese"
 性别: "女"
+肤色: "Light tan"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "sun-li"
 | 国籍 | Chinese |
 | 头发颜色 | Brown |
 | 职业 | Player for the Chinese National Quidditch team |
+| 肤色 | Light tan |
 
 ## 关联
 

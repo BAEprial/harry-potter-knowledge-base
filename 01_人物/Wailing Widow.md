@@ -6,6 +6,7 @@ slug: "wailing-widow"
 物种: "Human (formerly),，幽灵"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "wailing-widow"
 | 性别 | 女 |
 | 逝世 | Before 31 October 1992 |
 | 国籍 | 英国人 |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

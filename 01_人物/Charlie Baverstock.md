@@ -5,6 +5,7 @@
 slug: "charlie-baverstock"
 物种: "人类"
 性别: "男"
+头衔: "Manager"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "charlie-baverstock"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Manager of the New Zealand National Quidditch team |
+| 头衔 | Manager |
 
 ## 关联
 

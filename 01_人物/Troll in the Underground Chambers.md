@@ -4,6 +4,7 @@
 英文名: "Troll in the Underground Chambers"
 slug: "troll-in-the-underground-chambers"
 物种: "Mountain Troll"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "troll-in-the-underground-chambers"
 | 物种 | Mountain Troll |
 | 出生 | Before 1991 |
 | 身高 | Over twelve feet |
+| 肤色 | Grey |
 
 ## 关联
 

@@ -5,6 +5,8 @@
 slug: "unidentified-balding-muggle"
 物种: "人类"
 性别: "男"
+恋情: "Wife"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "unidentified-balding-muggle"
 | 出生 | Long before 1997 |
 | 头发颜色 | Grey,，Balding |
 | 家庭成员 | Wife |
+| 恋情 | Wife |
+| 婚姻状况 | Married |
 
 ## 关联
 

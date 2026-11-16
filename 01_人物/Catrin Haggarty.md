@@ -7,6 +7,7 @@ slug: "catrin-haggarty"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "catrin-haggarty"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Thief |
 | 家庭成员 | Pádraic Haggarty (brother)； Agatha Haggarty (ancestor)； Haggarty family |
+| 肤色 | Light |
 
 ## 关联
 

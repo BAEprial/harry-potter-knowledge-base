@@ -7,6 +7,9 @@ slug: "cygnus-black-i"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+恋情: "Ella Max (wife)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "cygnus-black-i"
 | 出生 | 1829 |
 | 逝世 | 1851 (aged 21–22) |
 | 家庭成员 | Ella Black (née Max) (wife)； House of Black； Max family (in-laws) |
+| 恋情 | Ella Max (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

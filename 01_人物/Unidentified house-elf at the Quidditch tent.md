@@ -5,6 +5,7 @@
 slug: "unidentified-house-elf-at-the-quidditch-tent"
 物种: "家养小精灵"
 性别: "Female (possibly)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-house-elf-at-the-quidditch-tent"
 | 性别 | Female (possibly) |
 | 眼睛颜色 | Grey |
 | 职业 | Hogwarts Quidditch Changing Rooms worker |
+| 肤色 | Light |
 
 ## 关联
 

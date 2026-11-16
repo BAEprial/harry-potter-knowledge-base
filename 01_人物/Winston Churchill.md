@@ -6,6 +6,7 @@ slug: "winston-churchill"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Sir； Prime Minister"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "winston-churchill"
 | 出生 | 30 November 1874 |
 | 逝世 | 24 January 1965 |
 | 职业 | Prime Minister of United Kingdom (1940–1945,，1951–1955) |
+| 头衔 | Sir； Prime Minister |
 
 ## 关联
 

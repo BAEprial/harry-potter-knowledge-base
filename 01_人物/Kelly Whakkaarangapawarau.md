@@ -6,6 +6,8 @@ slug: "kelly-whakkaarangapawarau"
 物种: "人类"
 国籍: "Australian"
 性别: "女"
+肤色: "Dark"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "kelly-whakkaarangapawarau"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Beater for the Australian National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Beater |
 
 ## 关联
 

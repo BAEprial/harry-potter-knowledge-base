@@ -7,6 +7,7 @@ slug: "constance-dagworth"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "constance-dagworth"
 | 头发颜色 | Medium blonde |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Hector Dagworth-Granger (possibly)； Dagworth family |
+| 肤色 | Light |
 
 ## 关联
 

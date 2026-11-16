@@ -7,6 +7,10 @@ slug: "annalena-gleam"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Prefect"
+体重: "130lbs"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +32,10 @@ slug: "annalena-gleam"
 | 身高 | 5ft,，4' |
 | 职业 | British Ministry of Magic official |
 | 家庭成员 | Father； Mother； Ismelda Murk (younger sister)； Spouse； Grandmother； Murk family； Gleam family (in-laws) |
+| 肤色 | Light |
+| 头衔 | Prefect |
+| 体重 | 130lbs |
+| 婚姻状况 | Married |
 
 ## 关联
 

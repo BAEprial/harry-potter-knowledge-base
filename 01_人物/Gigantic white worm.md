@@ -4,6 +4,7 @@
 英文名: "Gigantic white worm"
 slug: "gigantic-white-worm"
 物种: "Unknown magical species of worm"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -16,6 +17,7 @@ slug: "gigantic-white-worm"
 | 项目 | 内容 |
 |---|---|
 | 物种 | Unknown magical species of worm |
+| 肤色 | White |
 
 ## 关联
 

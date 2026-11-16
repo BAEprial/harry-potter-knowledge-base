@@ -5,6 +5,7 @@
 slug: "frank-thunderbird"
 物种: "Thunderbird"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "frank-thunderbird"
 | 性别 | 男 |
 | 出生 | before 6 December 1926 |
 | 头发颜色 | Gold |
+| 肤色 | White |
 
 ## 关联
 

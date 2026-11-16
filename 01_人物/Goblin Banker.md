@@ -5,6 +5,7 @@
 slug: "goblin-banker"
 物种: "妖精"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "goblin-banker"
 | 眼睛颜色 | Black |
 | 头发颜色 | Grey-blue-green |
 | 职业 | Banker at Gringotts Wizarding Bank |
+| 肤色 | Light |
 
 ## 关联
 

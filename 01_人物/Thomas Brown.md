@@ -6,6 +6,7 @@ slug: "thomas-brown"
 血统: "Pure-blood or half-blood (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "thomas-brown"
 | 头发颜色 | Grey |
 | 职业 | Proprietor of Tomes and Scrolls |
 | 家庭成员 | [[Belinda Brown]] (possibly)； Lavender Brown (possibly)； [[Kelly]] Brown (possibly)； Brown family |
+| 肤色 | Brown |
 
 ## 关联
 

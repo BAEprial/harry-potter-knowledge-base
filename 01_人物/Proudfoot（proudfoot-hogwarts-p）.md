@@ -5,6 +5,7 @@
 slug: "proudfoot-hogwarts-professor"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Professor； Head of House"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "proudfoot-hogwarts-professor"
 | 国籍 | British or Irish |
 | 职业 | Professor at Hogwarts School of Witchcraft and Wizardry； Head of House at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Possible relative； Joel [[Proudfoot]] (possible relative)； Proudfoot family |
+| 头衔 | Professor； Head of House |
 
 ## 关联
 

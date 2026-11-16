@@ -6,6 +6,7 @@ slug: "ernest-hawkworth"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "ernest-hawkworth"
 | 职业 | Member of the Wizengamot |
 | 别名与绰号 | The Drip |
 | 家庭成员 | Errol  Hawkworth (father)； [[Emmett Hawkworth]] (grandfather)； Hawkworth family |
+| 肤色 | White |
 
 ## 关联
 

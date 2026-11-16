@@ -5,6 +5,7 @@
 slug: "darren-floyd"
 物种: "人类"
 性别: "男"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "darren-floyd"
 | 性别 | 男 |
 | 出生 | Between 1976 and 1997 |
 | 职业 | Beater for the Welsh National Quidditch team |
+| 头衔 | Beater |
 
 ## 关联
 

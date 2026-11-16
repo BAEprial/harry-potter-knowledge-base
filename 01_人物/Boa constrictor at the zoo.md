@@ -5,6 +5,7 @@
 slug: "boa-constrictor-at-the-zoo"
 物种: "Boa constrictor"
 性别: "男"
+肤色: "Brown and glistening"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "boa-constrictor-at-the-zoo"
 | 物种 | Boa constrictor |
 | 性别 | 男 |
 | 出生 | 1991 or earlier |
+| 肤色 | Brown and glistening |
 
 ## 关联
 

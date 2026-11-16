@@ -7,6 +7,8 @@ slug: "cho-chang-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "cho-chang-s-mother"
 | 国籍 | 英国人 |
 | 职业 | British Ministry of Magic employee |
 | 家庭成员 | Husband； Father-in-law； Cho [[Chang]] (daughter)； Child-in-law； Chang family |
+| 头衔 | Madam |
+| 婚姻状况 | Married |
 
 ## 关联
 

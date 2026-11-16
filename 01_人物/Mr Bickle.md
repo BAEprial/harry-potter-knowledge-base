@@ -5,6 +5,7 @@
 slug: "johanna-bickle-s-husband"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "johanna-bickle-s-husband"
 | 出生 | Before 1890 |
 | 逝世 | 1890/1891 |
 | 家庭成员 | [[Johanna Bickle]] (wife)； Archie Bickle (son)； Bickle family |
+| 婚姻状况 | Married |
 
 ## 关联
 

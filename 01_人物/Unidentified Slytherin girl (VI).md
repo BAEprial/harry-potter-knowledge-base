@@ -7,6 +7,7 @@ slug: "unidentified-slytherin-girl-vi"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-slytherin-girl-vi"
 | 出生 | Between 1 September 1872 and 31 August 1879 |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Dark |
 
 ## 关联
 

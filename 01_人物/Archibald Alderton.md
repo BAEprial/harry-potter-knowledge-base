@@ -5,6 +5,7 @@
 slug: "archibald-alderton"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "archibald-alderton"
 | 头发颜色 | Red |
 | 职业 | Cook |
 | 家庭成员 | Arkie Alderton (possibly)； Alderton (possibly) |
+| 肤色 | White |
 
 ## 关联
 

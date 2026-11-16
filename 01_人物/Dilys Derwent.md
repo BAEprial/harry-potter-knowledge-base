@@ -6,6 +6,7 @@ slug: "dilys-derwent"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Healer； Professor； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "dilys-derwent"
 | 国籍 | British or Irish |
 | 头发颜色 | Silver |
 | 职业 | Healer； Head of Hogwarts |
+| 头衔 | Healer； Professor； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

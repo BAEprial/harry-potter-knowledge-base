@@ -6,6 +6,7 @@ slug: "algie-longbottom"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+恋情: "Enid Longbottom (wife)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "algie-longbottom"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Brother †； Enid Longbottom (wife)； Augusta Longbottom (sister-in-law)； Frank Longbottom (nephew)； Harfang Longbottom (possible relative)； Harfang's son (possible relative)； Harfang's daughter (possible relative)； Longbottom family |
+| 恋情 | Enid Longbottom (wife) |
 
 ## 关联
 

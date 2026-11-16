@@ -4,6 +4,7 @@
 英文名: "Holly Blackbird's lost Hodags"
 slug: "holly-blackbird-s-lost-hodags"
 物种: "Hodags"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "holly-blackbird-s-lost-hodags"
 | 物种 | Hodags |
 | 眼睛颜色 | Red |
 | 头发颜色 | Grey |
+| 肤色 | Black |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Thestrals ridden by Dumbledore's Army"
 slug: "thestrals-ridden-by-dumbledore-s-army"
 物种: "Thestral"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "thestrals-ridden-by-dumbledore-s-army"
 | 眼睛颜色 | White |
 | 头发颜色 | Black |
 | 家庭成员 | Tenebrus |
+| 肤色 | Black |
 
 ## 关联
 

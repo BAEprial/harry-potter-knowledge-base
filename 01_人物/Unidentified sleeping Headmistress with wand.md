@@ -6,6 +6,8 @@ slug: "unidentified-sleeping-headmistress-with-wand"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-sleeping-headmistress-with-wand"
 | 逝世 | Before 1990s |
 | 国籍 | British or Irish |
 | 职业 | Headmistress of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Light |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

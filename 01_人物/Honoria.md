@@ -6,6 +6,9 @@ slug: "honoria"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Ex-fiancé"
+肤色: "Light"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +25,9 @@ slug: "honoria"
 | 国籍 | 英国人 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Percival Dumbledore (brother or brother-in-law) †； Kendra Dumbledore (sister or sister-in-law) †； Albus Dumbledore (nephew) †； [[Aberforth Dumbledore]] (nephew)； [[Ariana Dumbledore]] (niece) †； Possible great-grandfather †； Dumbledore family |
+| 恋情 | Ex-fiancé |
+| 肤色 | Light |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

@@ -8,6 +8,9 @@ slug: "grim-fawley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Penelope Fawley (wife)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "grim-fawley"
 | 职业 | Research assistant in the Department of Magical Law Enforcement (formerly)； Head research assistant in the Department of Magical Law Enforcement (formerly)； Unspeakable |
 | 别名与绰号 | Barghest (possibly) |
 | 家庭成员 | Lucretia Fawley (mother) †； Marshall Fawley (father) †； Penelope Fawley (née Padgett) (wife)； Addison Fawley (son)； Melody Fawley (daughter)； Mother-in-law； Father-in-law； Possible relative； Sullivan Fawley (possible relative)； [[Eustace Fawley]] (possible relative)； Fawley family； Padgett family (in-laws) |
+| 恋情 | Penelope Fawley (wife) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

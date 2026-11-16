@@ -6,6 +6,7 @@ slug: "old-banshee"
 物种: "Banshee"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "old-banshee"
 | 逝世 | Amortal |
 | 国籍 | 爱尔兰人 |
 | 头发颜色 | 黑暗 |
+| 肤色 | Green |
 
 ## 关联
 

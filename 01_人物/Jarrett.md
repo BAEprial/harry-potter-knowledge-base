@@ -5,6 +5,7 @@
 slug: "jarrett"
 物种: "人类"
 国籍: "British or Irish"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "jarrett"
 | 物种 | 人类 |
 | 出生 | c. 1970s |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

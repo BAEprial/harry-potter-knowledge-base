@@ -7,6 +7,7 @@ slug: "dursleys-female-neighbour"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "dursleys-female-neighbour"
 | 国籍 | 英国人 |
 | 别名与绰号 | Mrs Next Door (by Petunia Dursley) |
 | 家庭成员 | Daughter； Dursleys' male neighbour (possible husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

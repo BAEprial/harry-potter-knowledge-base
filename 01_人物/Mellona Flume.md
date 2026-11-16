@@ -7,6 +7,7 @@ slug: "mellona-flume"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "mellona-flume"
 | 头发颜色 | Blonde |
 | 别名与绰号 | Mel (by Fatima Al-Eryani) |
 | 家庭成员 | Ambrosius Flume (grandfather)； Grandmother； Flume family |
+| 肤色 | Light |
 
 ## 关联
 

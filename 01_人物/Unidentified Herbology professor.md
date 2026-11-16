@@ -6,6 +6,7 @@ slug: "unidentified-herbology-professor"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Professor； Outskirts Greenhouse Caretaker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-herbology-professor"
 | 出生 | Before the 1980s |
 | 国籍 | British or Irish |
 | 职业 | Professor of Herbology at Hogwarts School of Witchcraft and Wizardry (formerly) |
+| 头衔 | Professor； Outskirts Greenhouse Caretaker |
 
 ## 关联
 

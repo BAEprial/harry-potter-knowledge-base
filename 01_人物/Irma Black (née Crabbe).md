@@ -8,6 +8,8 @@ slug: "irma-crabbe"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Pollux Black (husband) †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "irma-crabbe"
 | 逝世 | In or before 1995 (possibly) |
 | 国籍 | 英国人 |
 | 家庭成员 | Pollux Black (husband) †； Walburga Black (daughter) †； Alphard Black (son) †； [[Cygnus Black]] (III) (son) †； Cygnus Black (II) (father-in-law) †； Violetta Black (née Bulstrode) (mother-in-law)； [[Cassiopeia Black]] (sister-in-law) †； Marius Black (brother-in-law) †； [[Dorea Potter (née Black)]] (sister-in-law) †； [[Charlus Potter]] (brother-in-law by marriage) †； Nephew by marriage †； [[Araminta Meliflua Black]] (possible niece or niece by marriage) †； Orion Black (son-in-law) †； [[Druella Black (née Rosier)]] (daughter-in-law)； [[Bell]]atrix Lestrange (née Black) (granddaughter) †； [[Andromeda Tonks (née Black)]] (granddaughter)； Narcissa Malfoy (née Black) (granddaughter)； Sirius Black (grandson) †； Regulus Black (grandson) †； Possible relative； Vincent [[Crabbe]] (possible relative) †； Crabbe family； House of Black (in-laws/descendants) |
+| 恋情 | Pollux Black (husband) † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

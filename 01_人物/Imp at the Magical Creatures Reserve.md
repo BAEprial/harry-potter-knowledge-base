@@ -5,6 +5,7 @@
 slug: "imp-at-the-magical-creatures-reserve"
 物种: "Imp"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "imp-at-the-magical-creatures-reserve"
 | 物种 | Imp |
 | 性别 | 男 |
 | 眼睛颜色 | Black |
+| 肤色 | Grey |
 
 ## 关联
 

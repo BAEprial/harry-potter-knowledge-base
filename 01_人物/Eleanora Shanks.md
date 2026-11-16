@@ -5,6 +5,7 @@
 slug: "eleanora-shanks"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "eleanora-shanks"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 别名与绰号 | Crazy Lamb |
+| 肤色 | Light |
 
 ## 关联
 

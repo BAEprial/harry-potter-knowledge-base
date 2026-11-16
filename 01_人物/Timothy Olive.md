@@ -6,6 +6,7 @@ slug: "timothy-olive"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "timothy-olive"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
 | 别名与绰号 | Tim |
+| 肤色 | White |
 
 ## 关联
 

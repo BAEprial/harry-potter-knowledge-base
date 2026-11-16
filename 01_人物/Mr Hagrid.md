@@ -5,6 +5,7 @@
 slug: "rubeus-hagrid-s-father"
 物种: "人类"
 性别: "男"
+婚姻状况: "Separated"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "rubeus-hagrid-s-father"
 | 眼睛颜色 | Black |
 | 身高 | Short |
 | 家庭成员 | [[Fridwulfa]] (ex-wife) †； Rubeus Hagrid (son)； Hagrid family |
+| 婚姻状况 | Separated |
 
 ## 关联
 

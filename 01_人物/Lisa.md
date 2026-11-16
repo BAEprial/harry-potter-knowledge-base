@@ -6,6 +6,8 @@ slug: "lisa"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Ex-boyfriend"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "lisa"
 | 性别 | 女 |
 | 国籍 | American |
 | 头发颜色 | Brown |
+| 恋情 | Ex-boyfriend |
+| 肤色 | White |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "goncalo-flores"
 物种: "人类"
 国籍: "Brazilian"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "goncalo-flores"
 | 出生 | After 1976  Brazil (possibly) |
 | 国籍 | Brazilian |
 | 职业 | Chaser for the Brazilian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

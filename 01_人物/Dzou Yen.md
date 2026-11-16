@@ -6,6 +6,7 @@ slug: "dzou-yen"
 物种: "人类"
 国籍: "Chinese"
 性别: "男"
+肤色: "Olive"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "dzou-yen"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Black |
 | 职业 | Alchemist |
+| 肤色 | Olive |
 
 ## 关联
 

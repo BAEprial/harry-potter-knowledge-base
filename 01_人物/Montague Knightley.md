@@ -5,6 +5,8 @@
 slug: "montague-knightley"
 物种: "人类"
 性别: "男"
+肤色: "Fair"
+头衔: "Wizard Chess Champion"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "montague-knightley"
 | 眼睛颜色 | Green |
 | 头发颜色 | 黑暗 |
 | 职业 | Professional Wizard's Chess player |
+| 肤色 | Fair |
+| 头衔 | Wizard Chess Champion |
 
 ## 关联
 

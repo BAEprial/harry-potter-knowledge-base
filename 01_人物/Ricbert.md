@@ -5,6 +5,7 @@
 slug: "ricbert"
 物种: "妖精"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "ricbert"
 | 眼睛颜色 | Black |
 | 头发颜色 | White |
 | 职业 | Chief Bank Teller at Gringotts Wizarding Bank |
+| 肤色 | Pale |
 
 ## 关联
 

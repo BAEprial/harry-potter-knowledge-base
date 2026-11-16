@@ -6,6 +6,7 @@ slug: "unidentified-council-of-magical-law-clerk"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-council-of-magical-law-clerk"
 | 国籍 | 英国人 |
 | 头发颜色 | White |
 | 职业 | Clerk for the Council of Magical Law |
+| 肤色 | Light |
 
 ## 关联
 

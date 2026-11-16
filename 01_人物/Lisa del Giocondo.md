@@ -6,6 +6,7 @@ slug: "mona-lisa"
 物种: "人类"
 国籍: "Italian (presumably)"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "mona-lisa"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | 黑暗 |
 | 别名与绰号 | Mona Lisa |
+| 肤色 | White |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "karen-crowley"
 物种: "人类"
 国籍: "American"
 性别: "女"
+肤色: "White"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "karen-crowley"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Grey |
 | 职业 | Professor at Ilvermorny School of Witchcraft and Wizardry |
+| 肤色 | White |
+| 头衔 | Professor |
 
 ## 关联
 

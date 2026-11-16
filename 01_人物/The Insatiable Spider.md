@@ -5,6 +5,7 @@
 slug: "the-insatiable-spider"
 物种: "Thornback"
 性别: "女"
+肤色: "Purple"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "the-insatiable-spider"
 | 出生 | Pre-1890 |
 | 逝世 | 1890–1891 school year |
 | 眼睛颜色 | Orange |
+| 肤色 | Purple |
 
 ## 关联
 

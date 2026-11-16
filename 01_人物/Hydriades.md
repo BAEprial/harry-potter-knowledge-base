@@ -5,6 +5,7 @@
 slug: "hydriades"
 物种: "Selkie"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "hydriades"
 | 出生 | Before 2010 |
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Green with red tips |
+| 肤色 | Grey |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "lars-lundekvam"
 物种: "人类"
 国籍: "Norwegian"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "lars-lundekvam"
 | 出生 | After 1976 |
 | 国籍 | Norwegian |
 | 职业 | Chaser for the Norwegian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "hermione-granger-s-mother"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "hermione-granger-s-mother"
 | 职业 | Dentist |
 | 别名与绰号 | Monica Wilkins (1997–1998) |
 | 家庭成员 | Husband； Hermione Granger (daughter)； Ronald Weasley (son-in-law)； Rose Granger-Weasley (granddaughter)； [[Hugo Granger-Weasley]] (grandson)； [[Hector Dagworth-Granger]] (possible relative)； Granger family； Granger-Weasley family (descendants) |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

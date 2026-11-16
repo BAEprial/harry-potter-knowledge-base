@@ -5,6 +5,8 @@
 slug: "kquewanda-bailey"
 物种: "人类"
 性别: "女"
+肤色: "Dark"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "kquewanda-bailey"
 | 出生 | After 1976,，Jamaica (possibly) |
 | 头发颜色 | Black |
 | 职业 | Keeper for the Jamaican National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Keeper |
 
 ## 关联
 

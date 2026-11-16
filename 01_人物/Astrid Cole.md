@@ -8,6 +8,7 @@ slug: "astrid-cole"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "astrid-cole"
 | 魔杖 | 11½',，willow,，unicorn hair |
 | 职业 | Herbologist； Plant-based Healer at St Mungo's |
 | 家庭成员 | Father； Mother †； Possible relative； Angelica Cole (possibly)； Cole family |
+| 肤色 | Pale |
 
 ## 关联
 

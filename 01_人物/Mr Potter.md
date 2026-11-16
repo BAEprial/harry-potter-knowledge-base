@@ -7,6 +7,7 @@ slug: "henry-potter-s-father"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Partner (uncertain relationship) †"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "henry-potter-s-father"
 | 逝世 | Before 31 October 1981 |
 | 国籍 | 英国人 |
 | 家庭成员 | Wife †； [[Henry]] Potter (son) †； [[Fleamont Potter]] (grandson) †； [[Linfred of Stinchcombe]] (ancestor) †； [[Ignotus Peverell]] (ancestor) †； Ancestor †； [[Hardwin Potter]] (ancestor) †； Iolanthe Peverell (ancestor) †； [[Charlus Potter]] (possible relative) †； [[Dorea Potter (née Black)]] (possible relative) †； Possible relative †； Potter family |
+| 恋情 | Partner (uncertain relationship) † |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "dark-wizard-in-knockturn-alley"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "dark-wizard-in-knockturn-alley"
 | 国籍 | 英国人 |
 | 眼睛颜色 | 黑暗 |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Pale |
 
 ## 关联
 

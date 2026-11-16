@@ -6,6 +6,7 @@ slug: "silvio-astolfi"
 物种: "Human (transfigured to chicken)"
 国籍: "Italian"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "silvio-astolfi"
 | 国籍 | Italian |
 | 头发颜色 | Black |
 | 职业 | Broomstick flyer |
+| 肤色 | Light |
 
 ## 关联
 

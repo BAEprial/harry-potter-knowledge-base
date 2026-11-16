@@ -6,6 +6,7 @@ slug: "akshay-khan"
 物种: "人类"
 国籍: "Indian"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "akshay-khan"
 | 头发颜色 | Light Brown |
 | 职业 | Chaser for the Indian National Quidditch team |
 | 家庭成员 | Zubeida Khan (possible relative) |
+| 头衔 | Chaser |
 
 ## 关联
 

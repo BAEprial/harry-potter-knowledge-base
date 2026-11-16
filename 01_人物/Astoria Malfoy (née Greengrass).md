@@ -7,6 +7,8 @@ slug: "astoria-malfoy"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Draco Malfoy (widowed husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "astoria-malfoy"
 | 逝世 | August 2019 (aged 36/37) |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Daphne Greengrass]] (sister)； Draco Malfoy (husband)； Scorpius Malfoy (son)； Lucius Malfoy (father-in-law)； Narcissa Malfoy (née Black) (mother-in-law)； Ancestor †； Possible relative； Gareth Greengrass (possible relative) †； [[Aquila Greengrass]] (possible relative) †； Cereus Greengrass (possible relative)； Greengrass family； Malfoy family (in-laws/descendants) |
+| 恋情 | Draco Malfoy (widowed husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

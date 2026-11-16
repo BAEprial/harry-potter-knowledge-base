@@ -6,6 +6,8 @@ slug: "raczidian"
 物种: "人类"
 性别: "男"
 守护神: "无"
+肤色: "Pale"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "raczidian"
 | 守护神 | 无 |
 | 头发颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Pale |
+| 婚姻状况 | Single |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "unidentified-ravenclaw-student-asked-to-the-yule-ball-by-a-durmstrang-stu
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-ravenclaw-student-asked-to-the-yule-ball-by-a-durmstrang-stu
 | 出生 | Between 1 September 1977 and 31 August 1983 (most likely) |
 | 国籍 | British or Irish |
 | 头发颜色 | Red |
+| 肤色 | Light |
 
 ## 关联
 

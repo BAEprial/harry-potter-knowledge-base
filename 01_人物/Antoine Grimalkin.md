@@ -6,6 +6,8 @@ slug: "antoine-grimalkin"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+恋情: "Bedilia Grimalkin"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "antoine-grimalkin"
 | 性别 | 男 |
 | 魔杖 | Unknown length,，wood,，and core |
 | 家庭成员 | Bedilia Grimalkin (wife) |
+| 恋情 | Bedilia Grimalkin |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "donaghan-tremlett-s-mother"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "donaghan-tremlett-s-mother"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Mr Tremlett (husband)； [[Donaghan Tremlett]] (son)； Mrs or Mr Tremlett (son or daughter-in-law) |
+| 婚姻状况 | Married |
 
 ## 关联
 

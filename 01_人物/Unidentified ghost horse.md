@@ -4,6 +4,7 @@
 英文名: "Unidentified ghost horse"
 slug: "unidentified-ghost-horse-i"
 物种: "Horse (formerly),，Ghost horse"
+肤色: "Greyish-silver"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-ghost-horse-i"
 | 逝世 | Before 1993 |
 | 眼睛颜色 | Greyish-silver |
 | 头发颜色 | Greyish-silver |
+| 肤色 | Greyish-silver |
 
 ## 关联
 

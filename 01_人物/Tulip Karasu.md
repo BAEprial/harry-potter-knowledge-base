@@ -8,6 +8,7 @@ slug: "tulip-karasu"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -31,6 +32,7 @@ slug: "tulip-karasu"
 | 职业 | Inventor of prank devices |
 | 别名与绰号 | Little Sproutling (by Mary and Rosa Karasu) |
 | 家庭成员 | Mother； Father； [[Iris]] (aunt)； [[Marigold]] (cousin)； [[Mary]] Karasu (grandmother)； Rosa Karasu (grandmother)； Hana (grandmother) (possibly)； Karasu family |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "baglan-wellnelly"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "baglan-wellnelly"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | Gruffyd Wellnelly (twin brother)； Dai Llewellyn (ancestor)； Wellnelly family |
+| 肤色 | Light |
+| 头衔 | Beater |
 
 ## 关联
 

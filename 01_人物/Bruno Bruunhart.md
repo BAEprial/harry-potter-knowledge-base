@@ -6,6 +6,7 @@ slug: "bruno-bruunhart"
 物种: "人类"
 国籍: "Liechtenstein"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "bruno-bruunhart"
 | 出生 | After 1976 |
 | 国籍 | Liechtenstein |
 | 职业 | Seeker for the Liechtenstein National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

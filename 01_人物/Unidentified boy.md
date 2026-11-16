@@ -7,6 +7,7 @@ slug: "unidentified-card-playing-boy"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-card-playing-boy"
 | 出生 | Between 1 September 1977 and 31 August 1984 |
 | 国籍 | British or Irish |
 | 头发颜色 | Brown |
+| 肤色 | Light |
 
 ## 关联
 

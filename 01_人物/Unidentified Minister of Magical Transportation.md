@@ -6,6 +6,7 @@ slug: "unidentified-minister-of-magical-transportation"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Minister"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-minister-of-magical-transportation"
 | 出生 | Between 1 September 1940 and 31 August 1941 |
 | 国籍 | British or Irish |
 | 职业 | Head of the Department of Magical Transportation |
+| 头衔 | Minister |
 
 ## 关联
 

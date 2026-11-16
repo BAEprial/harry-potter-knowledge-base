@@ -7,6 +7,8 @@ slug: "basil-fronsac"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "basil-fronsac"
 | 国籍 | British or Irish |
 | 头发颜色 | Grey |
 | 职业 | Headmaster of Hogwarts School |
+| 肤色 | White |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

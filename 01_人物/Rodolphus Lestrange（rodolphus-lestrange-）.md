@@ -9,6 +9,8 @@ slug: "rodolphus-lestrange-ii"
 国籍: "英国人"
 性别: "男"
 守护神: "无"
+恋情: "Bellatrix Lestrange (wife) †"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "rodolphus-lestrange-ii"
 | 国籍 | 英国人 |
 | 头发颜色 | 黑暗 |
 | 家庭成员 | Rabastan [[Lestrange]] (brother)； [[Bell]]atrix Lestrange (née Black) (wife) †； [[Delphini]] (stepdaughter)； [[Cygnus Black]] (III) (father-in-law) †； [[Druella Black (née Rosier)]] (mother-in-law)； Andromeda Tonks (née Black) (sister-in-law)； Narcissa Malfoy (née Black) (sister-in-law)； [[Edward]] Tonks (brother-in-law by marriage) †； Lucius Malfoy (brother-in-law by marriage)； Nymphadora Tonks (niece by marriage) †； Draco Malfoy (nephew by marriage)； [[Rodolphus Lestrange]] (I) (ancestor)； [[F. Lestrange]] (ancestor)； [[R. Lestrange]] (ancestor)； [[Leta Lestrange]] (possible relative)； Possible relative； Lestrange family； House of Black (in-laws) |
+| 恋情 | Bellatrix Lestrange (wife) † |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

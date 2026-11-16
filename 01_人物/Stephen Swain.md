@@ -6,6 +6,7 @@ slug: "stephen-swain"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Reverend； Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "stephen-swain"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | Parochial vicar |
+| 头衔 | Reverend； Doctor |
 
 ## 关联
 

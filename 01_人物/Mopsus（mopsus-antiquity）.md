@@ -6,6 +6,7 @@ slug: "mopsus-antiquity"
 物种: "人类"
 国籍: "Greek"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "mopsus-antiquity"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Grey |
 | 职业 | Seer |
+| 肤色 | White |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "basil-aurelius-iii"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "basil-aurelius-iii"
 | 逝世 | Before 2008 |
 | 头发颜色 | Brown |
 | 职业 | Scholar |
+| 肤色 | Light |
 
 ## 关联
 

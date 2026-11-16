@@ -5,6 +5,8 @@
 slug: "d-shaman"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "d-shaman"
 | 出生 | 1909 or earlier |
 | 头发颜色 | Black (also long beard) |
 | 职业 | Advice columnist for the Daily Prophet |
+| 肤色 | Light |
+| 头衔 | Doctor |
 
 ## 关联
 

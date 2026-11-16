@@ -6,6 +6,7 @@ slug: "ellie-peck"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "ellie-peck"
 | 头发颜色 | Black |
 | 职业 | Proprietor of Brood and Peck |
 | 家庭成员 | Parents |
+| 肤色 | Dark |
 
 ## 关联
 

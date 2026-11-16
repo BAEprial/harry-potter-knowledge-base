@@ -5,6 +5,7 @@
 slug: "unidentified-andorran-minister-for-magic"
 物种: "人类"
 国籍: "Andorran"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-andorran-minister-for-magic"
 | 出生 | Before 1978 (likely) |
 | 国籍 | Andorran |
 | 职业 | Andorran Minister for Magic |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

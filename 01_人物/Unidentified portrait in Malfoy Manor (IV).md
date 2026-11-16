@@ -6,6 +6,7 @@ slug: "unidentified-portrait-in-malfoy-manor-iv"
 血统: "Pure-blood (likely)"
 物种: "人类"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "unidentified-portrait-in-malfoy-manor-iv"
 | 逝世 | Before 1997 |
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Brown |
+| 肤色 | Pale |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "knight-with-an-arrow-sticking-out-of-his-forehead"
 物种: "Human (formerly),，幽灵"
 性别: "男"
+头衔: "Knight"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "knight-with-an-arrow-sticking-out-of-his-forehead"
 | 性别 | 男 |
 | 逝世 | Before 1992 |
 | 职业 | Knight |
+| 头衔 | Knight |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "burgock"
 物种: "妖精"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "burgock"
 | 国籍 | 英国人 |
 | 头发颜色 | Red |
 | 职业 | Employee at Gringotts Wizarding Bank |
+| 肤色 | White |
 
 ## 关联
 

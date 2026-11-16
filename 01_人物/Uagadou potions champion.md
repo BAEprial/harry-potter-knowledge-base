@@ -5,6 +5,8 @@
 slug: "uagadou-potions-champion"
 物种: "人类"
 性别: "男"
+肤色: "Dark"
+头衔: "Potions Champion"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "uagadou-potions-champion"
 | 出生 | Year unknown,，Africa |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
+| 肤色 | Dark |
+| 头衔 | Potions Champion |
 
 ## 关联
 

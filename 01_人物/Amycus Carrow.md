@@ -9,6 +9,8 @@ slug: "amycus-carrow"
 国籍: "British or Irish"
 性别: "男"
 守护神: "无"
+肤色: "Pallid"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "amycus-carrow"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Dark Arts at Hogwarts School of Witchcraft and Wizardry (1997–1998)； Deputy Headmaster at Hogwarts School of Witchcraft and Wizardry (1997–1998) |
 | 家庭成员 | Alecto Carrow (sister)； Carrow (possible relative)； Flora Carrow (possible relative)； Hestia Carrow (possible relative)； Carrow family |
+| 肤色 | Pallid |
+| 头衔 | Professor |
 
 ## 关联
 

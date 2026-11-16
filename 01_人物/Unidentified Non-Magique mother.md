@@ -7,6 +7,8 @@ slug: "unidentified-non-magique-mother"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+恋情: "Husband †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "unidentified-non-magique-mother"
 | 逝世 | August 1927,，Paris,，France |
 | 国籍 | 法国人 |
 | 家庭成员 | Husband †； Son † |
+| 恋情 | Husband † |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "hengist-of-woodcroft"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "hengist-of-woodcroft"
 | 国籍 | 英国人 |
 | 头发颜色 | Red |
 | 职业 | Founder of Hogsmeade |
+| 肤色 | White |
 
 ## 关联
 

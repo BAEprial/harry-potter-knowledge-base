@@ -5,6 +5,7 @@
 slug: "waiter-serving-dragon-tartare"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "waiter-serving-dragon-tartare"
 | 眼睛颜色 | 黑暗 |
 | 头发颜色 | Red |
 | 职业 | Waiter at Slug Club Christmas party |
+| 肤色 | Light |
 
 ## 关联
 

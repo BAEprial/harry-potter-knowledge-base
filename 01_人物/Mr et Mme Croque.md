@@ -5,6 +5,7 @@
 slug: "mr-et-mme-croque"
 国籍: "法国人"
 性别: "Female,，男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "mr-et-mme-croque"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Sous-chef |
+| 婚姻状况 | Married |
 
 ## 关联
 

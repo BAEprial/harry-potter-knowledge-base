@@ -5,6 +5,7 @@
 slug: "riya-patel"
 物种: "人类"
 国籍: "英国人"
+头衔: "Investigative Assistant"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "riya-patel"
 | 国籍 | 英国人 |
 | 职业 | Auror |
 | 家庭成员 | Ashish Patel (possible relative)； Bhavana Patel (possible relative)； [[Navira Patel]] (possible relative)； Patel family |
+| 头衔 | Investigative Assistant |
 
 ## 关联
 

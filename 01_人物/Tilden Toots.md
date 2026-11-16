@@ -6,6 +6,9 @@ slug: "tilden-toots"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Daisy Hookum (wife)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "tilden-toots"
 | 头发颜色 | Brown |
 | 职业 | Herbologist； Potioneer； Presenter of Toots,，Shoots 'n' Roots |
 | 家庭成员 | [[Daisy Hookum]] (wife) |
+| 恋情 | Daisy Hookum (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

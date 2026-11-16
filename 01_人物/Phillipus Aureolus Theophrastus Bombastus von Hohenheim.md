@@ -5,6 +5,7 @@
 slug: "phillipus-von-hohenheim"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "phillipus-von-hohenheim"
 | 头发颜色 | Red (formerly),，Grey |
 | 职业 | Alchemist； Physician |
 | 别名与绰号 | Paracelsus |
+| 肤色 | White |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "vinda-rosier"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "vinda-rosier"
 | 国籍 | 法国人 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Minette [[Lestrange]] (née [[Rosier]]) (possible relative)； Rosier (possible relative)； [[Druella Black (née Rosier)]] (possible relative)； Possible relative； [[Evan Rosier]] (possible relative) †； [[Felix]] Rosier (possible relative)； Rosier family |
+| 婚姻状况 | Single |
 
 ## 关联
 

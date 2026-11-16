@@ -8,6 +8,8 @@ slug: "reginald-cattermole"
 国籍: "英国人"
 性别: "男"
 守护神: "Non-corporeal"
+恋情: "Mary Cattermole (wife)"
+体重: "168 pounds"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +34,8 @@ slug: "reginald-cattermole"
 | 职业 | Department of Magical Maintenance employee |
 | 别名与绰号 | Reg |
 | 家庭成员 | Father； [[Mary]] Cattermole (wife)； [[Maisie Cattermole]] (daughter)； [[Ellie Cattermole]] (daughter)； Alfred Cattermole (son)； Father-in-law； Mother-in-law； Cattermole family |
+| 恋情 | Mary Cattermole (wife) |
+| 体重 | 168 pounds |
 
 ## 关联
 

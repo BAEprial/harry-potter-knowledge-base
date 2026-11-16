@@ -6,6 +6,8 @@ slug: "unidentified-head-girl"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Unidentified Head Boy"
+头衔: "Head Girl"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "unidentified-head-girl"
 | 性别 | 女 |
 | 出生 | Between 1 September 1968 and 31 August 1969 |
 | 国籍 | British or Irish |
+| 恋情 | Unidentified Head Boy |
+| 头衔 | Head Girl |
 
 ## 关联
 

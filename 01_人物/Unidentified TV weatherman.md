@@ -7,6 +7,7 @@ slug: "unidentified-tv-weatherman"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-tv-weatherman"
 | 国籍 | 英国人 |
 | 头发颜色 | Black |
 | 职业 | Meteorologist |
+| 肤色 | White |
 
 ## 关联
 

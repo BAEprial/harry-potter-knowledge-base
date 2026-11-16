@@ -7,6 +7,8 @@ slug: "reynard-gage"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "reynard-gage"
 | 性别 | 男 |
 | 国籍 | 法国人 |
 | 家庭成员 | Josette Gage (née [[Lestrange]]) (wife)； [[Louis Gage]] (son)； [[Mathis Gage]] (son)； [[Corvus Lestrange]] (father-in-law)； [[Minette Lestrange (née Rosier)]] (mother-in-law)； Perrot (née Lestrange) (sister-in-law by marriage)； Corvus Lestrange (brother-in-law by marriage)； [[Laurel]]le Perrot (niece by marriage)； Odile Perrot (niece by marriage)； [[Huguette Perrot]] (niece by marriage)； Corvus Lestrange (nephew by marriage) †； Gage family； Lestrange family (in-laws) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

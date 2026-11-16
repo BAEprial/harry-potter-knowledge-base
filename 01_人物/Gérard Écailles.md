@@ -6,6 +6,7 @@ slug: "gerard-ecailles"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Monsieur"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "gerard-ecailles"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Editor in chief |
+| 头衔 | Monsieur |
 
 ## 关联
 

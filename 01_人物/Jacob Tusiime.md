@@ -6,6 +6,7 @@ slug: "jacob-tusiime"
 物种: "人类"
 国籍: "Ugandan"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "jacob-tusiime"
 | 出生 | 20th century |
 | 国籍 | Ugandan |
 | 头发颜色 | Black |
+| 头衔 | Keeper |
 
 ## 关联
 

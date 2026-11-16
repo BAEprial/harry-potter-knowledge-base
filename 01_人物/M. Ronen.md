@@ -5,6 +5,8 @@
 slug: "m-ronen"
 物种: "人类"
 性别: "女"
+恋情: "Abraham Ronen (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "m-ronen"
 | 性别 | 女 |
 | 出生 | Before 1890 |
 | 家庭成员 | Abraham Ronen (husband)； Father-in-law； Ronen family |
+| 恋情 | Abraham Ronen (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

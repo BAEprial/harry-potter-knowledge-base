@@ -5,6 +5,7 @@
 slug: "edmund-grubb"
 物种: "Human (formerly),，幽灵"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "edmund-grubb"
 | 物种 | Human (formerly),，幽灵 |
 | 性别 | 男 |
 | 逝世 | c. 1837–1901,，Great Hall,，Hogwarts Castle |
+| 肤色 | Pale |
 
 ## 关联
 

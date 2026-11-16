@@ -4,6 +4,7 @@
 英文名: "Dugbog at the Magical Creatures Reserve"
 slug: "dugbog-at-the-magical-creatures-reserve"
 物种: "Dugbog"
+肤色: "Dark green and tan"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "dugbog-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Dugbog |
 | 眼睛颜色 | Orange and yellow |
+| 肤色 | Dark green and tan |
 
 ## 关联
 

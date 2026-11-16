@@ -6,6 +6,7 @@ slug: "clodagh-dromgoole-s-father"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "clodagh-dromgoole-s-father"
 | 出生 | Before 1955 |
 | 逝世 | August 1984,，London,，England |
 | 家庭成员 | Wife †； Sister； [[Clodagh Dromgoole]] (daughter)； Dromgoole family |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

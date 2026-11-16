@@ -7,6 +7,7 @@ slug: "c-roemmele"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "c-roemmele"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 职业 | Headmistress of St. Grogory's Primary School |
+| 头衔 | Headmistress |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "gervaise-ollivander"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "gervaise-ollivander"
 | 出生 | Before 1890 (likely) |
 | 职业 | Wandmaker |
 | 家庭成员 | Gerbold Ollivander (father)； Wife； [[Garrick Ollivander]] (son)； Grandson； Granddaughter †； Ollivander (ancestor)； [[Geraint Ollivander]] (ancestor)； Ollivander family |
+| 婚姻状况 | Married |
 
 ## 关联
 

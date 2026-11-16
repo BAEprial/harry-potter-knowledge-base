@@ -5,6 +5,8 @@
 slug: "johanna-bickle"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "johanna-bickle"
 | 出生 | Before 1890 |
 | 头发颜色 | Brown |
 | 家庭成员 | Husband †； Archie Bickle (son)； Bickle family |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

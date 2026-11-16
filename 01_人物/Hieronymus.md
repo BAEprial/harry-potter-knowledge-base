@@ -5,6 +5,7 @@
 slug: "hieronymus"
 物种: "Fire Crab"
 性别: "男"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "hieronymus"
 | 性别 | 男 |
 | 出生 | Pre-1987 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Grey |
 
 ## 关联
 

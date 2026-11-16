@@ -7,6 +7,10 @@ slug: "james-steward"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Isolt Sayre (wife) †"
+肤色: "White"
+头衔: "Founder； Headmaster"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +31,10 @@ slug: "james-steward"
 | 头发颜色 | 黑暗 |
 | 职业 | Stonemason； Founder and co-Headmaster of Ilvermorny School of Witchcraft and Wizardry； Wandmaker |
 | 家庭成员 | Martha Steward (mother) †； [[Isolt Steward (née Sayre)]] (wife) †； [[Chadwick Boot]] (adoptive son)； Webster Boot (adoptive son)； Martha Steward (II) (daughter)； Rionach Steward (daughter)； William Sayre (father-in-law) †； Rionach Sayre (née Gaunt) (mother-in-law) †； Josefina Calderon (adoptive daughter-in-law)； Adoptive daughter-in-law； Son-in-law； Steward family； Sayre family (in-laws) |
+| 恋情 | Isolt Sayre (wife) † |
+| 肤色 | White |
+| 头衔 | Founder； Headmaster |
+| 婚姻状况 | Married |
 
 ## 关联
 

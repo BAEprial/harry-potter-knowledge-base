@@ -4,6 +4,7 @@
 英文名: "Painting of a hippopotamus"
 slug: "painting-of-a-hippopotamus"
 物种: "Hippopotamus"
+肤色: "Dark grey"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "painting-of-a-hippopotamus"
 | 物种 | Hippopotamus |
 | 逝世 | Before 1993 (possibly) |
 | 眼睛颜色 | 黑暗 |
+| 肤色 | Dark grey |
 
 ## 关联
 

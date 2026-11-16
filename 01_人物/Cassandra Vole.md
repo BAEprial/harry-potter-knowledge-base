@@ -9,6 +9,7 @@ slug: "cassandra-vole"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Mink"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -32,6 +33,7 @@ slug: "cassandra-vole"
 | 魔杖 | 10',，Holly,，Veela hair |
 | 别名与绰号 | Cass (by Winifred Warrington and unidentified Muggle-born Hogwarts student) |
 | 家庭成员 | Father； Mother； Uncle； Vole family |
+| 肤色 | White |
 
 ## 关联
 

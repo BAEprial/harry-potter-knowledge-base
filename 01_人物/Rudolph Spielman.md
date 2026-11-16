@@ -6,6 +6,7 @@ slug: "rudolph-spielman"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "rudolph-spielman"
 | 头发颜色 | Grey |
 | 魔杖 | Unknown length,，wood and core (formerly)； Unknown length,，wood and core |
 | 职业 | Head of Incarceration at the International Confederation of Wizards |
+| 肤色 | Light |
 
 ## 关联
 

@@ -8,6 +8,9 @@ slug: "edward-lupin"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Victoire Weasley (girlfriend)"
+肤色: "Variable"
+头衔: "Head Boy"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +32,9 @@ slug: "edward-lupin"
 | 头发颜色 | Variable |
 | 别名与绰号 | Teddy (by family and friends)； Ted |
 | 家庭成员 | Remus Lupin (father) †； Nymphadora Lupin (née Tonks) (mother) †； Lyall Lupin (paternal grandfather)； Hope Lupin (née Howell) (paternal grandmother) †； [[Edward]] Tonks (maternal grandfather) †； Andromeda Tonks (née Black) (maternal grandmother)； Lupin family； Tonks family (maternal family) |
+| 恋情 | Victoire Weasley (girlfriend) |
+| 肤色 | Variable |
+| 头衔 | Head Boy |
 
 ## 关联
 

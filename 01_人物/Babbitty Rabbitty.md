@@ -5,6 +5,7 @@
 slug: "babbitty-rabbitty"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "babbitty-rabbitty"
 | 阿尼马格斯 | 兔子 |
 | 头发颜色 | 黑暗 |
 | 职业 | Washerwoman |
+| 肤色 | White |
 
 ## 关联
 

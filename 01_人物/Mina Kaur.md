@@ -6,6 +6,8 @@ slug: "mina-kaur"
 物种: "人类"
 国籍: "Indian"
 性别: "女"
+肤色: "Bronze"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "mina-kaur"
 | 国籍 | Indian |
 | 头发颜色 | Black |
 | 职业 | Seeker for the Indian National Quidditch team |
+| 肤色 | Bronze |
+| 头衔 | Seeker |
 
 ## 关联
 

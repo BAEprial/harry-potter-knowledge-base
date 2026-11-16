@@ -6,6 +6,8 @@ slug: "cassandra-mason"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "cassandra-mason"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Shopkeeper (formerly) |
 | 家庭成员 | Mason family |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

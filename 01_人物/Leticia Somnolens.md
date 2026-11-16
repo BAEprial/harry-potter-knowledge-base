@@ -5,6 +5,7 @@
 slug: "leticia-somnolens"
 物种: "Hag"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "leticia-somnolens"
 | 逝世 | Middle Ages |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Grey |
+| 肤色 | White |
 
 ## 关联
 

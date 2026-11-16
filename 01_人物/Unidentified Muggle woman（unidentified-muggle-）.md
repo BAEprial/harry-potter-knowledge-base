@@ -6,6 +6,8 @@ slug: "unidentified-muggle-woman-looking-at-rubeus-hagrid-in-1991"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-muggle-woman-looking-at-rubeus-hagrid-in-1991"
 | 性别 | 女 |
 | 头发颜色 | Blonde |
 | 家庭成员 | Husband |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

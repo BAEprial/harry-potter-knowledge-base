@@ -4,6 +4,7 @@
 英文名: "Hodag at the Magical Creatures Reserve"
 slug: "hodag-at-the-magical-creatures-reserve"
 物种: "Hodag"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "hodag-at-the-magical-creatures-reserve"
 | 出生 | In or before the 1988–1989 school year |
 | 眼睛颜色 | Red |
 | 头发颜色 | Dark grey |
+| 肤色 | Black |
 
 ## 关联
 

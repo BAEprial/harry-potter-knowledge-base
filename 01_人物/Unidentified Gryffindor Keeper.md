@@ -5,6 +5,7 @@
 slug: "unidentified-gryffindor-keeper"
 学院: "格兰芬多"
 国籍: "British or Irish"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-gryffindor-keeper"
 | 学院 | 格兰芬多 |
 | 出生 | Late 1960s - early 1970s |
 | 国籍 | British or Irish |
+| 头衔 | Keeper |
 
 ## 关联
 

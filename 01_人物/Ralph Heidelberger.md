@@ -6,6 +6,7 @@ slug: "ralph-heidelberger"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ralph-heidelberger"
 | 性别 | 男 |
 | 国籍 | American |
 | 职业 | Keeper for the American National Quidditch team |
+| 头衔 | Keeper |
 
 ## 关联
 

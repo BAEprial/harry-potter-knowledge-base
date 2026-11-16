@@ -5,6 +5,8 @@
 slug: "jakub-gorski"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "jakub-gorski"
 | 头发颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of History of Magic |
+| 肤色 | Pale |
+| 头衔 | Professor |
 
 ## 关联
 

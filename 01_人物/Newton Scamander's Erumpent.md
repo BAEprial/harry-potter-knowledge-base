@@ -5,6 +5,7 @@
 slug: "newton-scamander-s-erumpent"
 物种: "Erumpent"
 性别: "女"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "newton-scamander-s-erumpent"
 | 物种 | Erumpent |
 | 性别 | 女 |
 | 出生 | Before December 1926 |
+| 肤色 | Grey |
 
 ## 关联
 

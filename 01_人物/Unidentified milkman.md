@@ -7,6 +7,7 @@ slug: "little-hangleton-milkman"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "little-hangleton-milkman"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Milkman |
+| 肤色 | White |
 
 ## 关联
 

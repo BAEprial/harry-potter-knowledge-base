@@ -7,6 +7,7 @@ slug: "corban-yaxley"
 物种: "人类"
 性别: "男"
 守护神: "无"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "corban-yaxley"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head of the Department of Magical Law Enforcement (formerly) |
 | 家庭成员 | Wife； Yaxley (possibly)； Yaxley's wife (possibly)； Lysandra Black  (née Yaxley) (possibly)； Yaxley family |
+| 肤色 | Light |
 
 ## 关联
 

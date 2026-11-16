@@ -6,6 +6,7 @@ slug: "joshua-sankara"
 物种: "人类"
 国籍: "Burkinabé"
 性别: "男"
+头衔: "Seeker； Minister for Magic (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "joshua-sankara"
 | 出生 | Before 1989 |
 | 国籍 | Burkinabé |
 | 职业 | Seeker for Burkina Faso； Minister for Magic (formerly) |
+| 头衔 | Seeker； Minister for Magic (formerly) |
 
 ## 关联
 

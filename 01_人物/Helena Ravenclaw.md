@@ -8,6 +8,8 @@ slug: "helena-ravenclaw"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Lady"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "helena-ravenclaw"
 | 职业 | Ravenclaw House ghost |
 | 别名与绰号 | The Ghost of Ravenclaw； Grey Lady |
 | 家庭成员 | Rowena Ravenclaw (mother) †； Ravenclaw family |
+| 肤色 | White |
+| 头衔 | Lady |
 
 ## 关联
 

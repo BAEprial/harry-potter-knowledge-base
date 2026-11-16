@@ -6,6 +6,7 @@ slug: "oblansk"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "oblansk"
 | 国籍 | 保加利亚人 |
 | 职业 | Bulgarian Minister for Magic |
 | 别名与绰号 | Obalonsk (by Cornelius Fudge) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

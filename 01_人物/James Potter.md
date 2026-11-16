@@ -9,6 +9,9 @@ slug: "james-potter-i"
 国籍: "英国人"
 性别: "男"
 守护神: "牡鹿"
+恋情: "Lily Potter (née Evans) (wife) †"
+头衔: "Chaser； Head Boy"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -34,6 +37,9 @@ slug: "james-potter-i"
 | 魔杖 | 11',，Mahogany,，unknown core |
 | 别名与绰号 | Prongs (by Marauders) |
 | 家庭成员 | [[Fleamont Potter]] (father) †； [[Euphemia Potter]] (mother) †； Lily Potter (I) (née Evans) (wife) †； Harry Potter (son)； Father-in-law †； Mother-in-law †； Petunia Dursley (née Evans) (sister-in-law) †； Vernon Dursley (brother-in-law)； [[Dudley]] Dursley (nephew by marriage)； [[Henry]] Potter (paternal grandfather) †； Paternal grandmother †； [[James]] Potter (II) (grandson)； Albus Potter (grandson)； Lily Potter (II) (granddaughter)； Linfred of Stinchcombe (paternal ancestor) †； [[Ignotus Peverell]] (paternal ancestor) †； Paternal ancestor †； [[Hardwin Potter]] (paternal ancestor) †； Iolanthe Peverell (paternal ancestor) †； [[Charlus Potter]] (possible paternal relative) †； Possible paternal relative †； Potter family (paternal family)； Evans family (in-laws) |
+| 恋情 | Lily Potter (née Evans) (wife) † |
+| 头衔 | Chaser； Head Boy |
+| 婚姻状况 | Married |
 
 ## 关联
 

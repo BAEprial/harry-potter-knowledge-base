@@ -7,6 +7,8 @@ slug: "podric-piles"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
+头衔: "Head of House"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "podric-piles"
 | 逝世 | Before 1991 |
 | 国籍 | British or Irish |
 | 职业 | Head of Gryffindor House (? - before 1991) |
+| 肤色 | Pale |
+| 头衔 | Head of House |
 
 ## 关联
 

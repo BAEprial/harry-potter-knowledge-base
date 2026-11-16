@@ -6,6 +6,8 @@ slug: "chiyo-kogawa"
 物种: "人类"
 国籍: "Japanese"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "chiyo-kogawa"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Japanese Ministry of Magic employee (formerly)； Flying Instructor at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Brother |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "gregory-cotton"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "gregory-cotton"
 | 出生 | Before 1971 |
 | 国籍 | 英国人 |
 | 职业 | Seeker of the Appleby Arrows |
+| 头衔 | Seeker |
 
 ## 关联
 

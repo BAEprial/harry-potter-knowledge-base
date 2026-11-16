@@ -7,6 +7,8 @@ slug: "amelia-bones"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam； Interrogator"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "amelia-bones"
 | 头发颜色 | Grey |
 | 职业 | Head of the Department of Magical Law Enforcement； Member of the Wizengamot |
 | 家庭成员 | Father †； Mother †； [[Edgar]] [[Bones]] (brother) †； Sibling； Sister-in-law †； Susan Bones (niece)； Nieces and nephews； Bones family |
+| 头衔 | Madam； Interrogator |
+| 婚姻状况 | Single |
 
 ## 关联
 

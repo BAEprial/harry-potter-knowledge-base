@@ -6,6 +6,8 @@ slug: "goodwin-kneen"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Gunhilda Kneen (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "goodwin-kneen"
 | 国籍 | 英国人 |
 | 职业 | Kwidditch player |
 | 家庭成员 | Gunhilda Kneen (wife)； Olaf (cousin)； Kneen family |
+| 恋情 | Gunhilda Kneen (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

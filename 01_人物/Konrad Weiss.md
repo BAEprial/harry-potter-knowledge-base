@@ -6,6 +6,8 @@ slug: "konrad-weiss"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "White"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "konrad-weiss"
 | 头发颜色 | Blond |
 | 职业 | Seeker for the German National Quidditch team |
 | 家庭成员 | [[Helmut]] Weiss (possibly)； Weiss family |
+| 肤色 | White |
+| 头衔 | Seeker |
 
 ## 关联
 

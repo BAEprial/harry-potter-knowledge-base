@@ -6,6 +6,7 @@ slug: "harfang-munter"
 血统: "Pure-blood or half-blood (possibly)"
 物种: "人类"
 性别: "男"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "harfang-munter"
 | 性别 | 男 |
 | 出生 | Before 1294 |
 | 职业 | Headmaster of Durmstrang Institute |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

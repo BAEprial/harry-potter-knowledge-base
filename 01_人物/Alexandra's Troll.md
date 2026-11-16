@@ -4,6 +4,7 @@
 英文名: "Alexandra's Troll"
 slug: "alexandra-s-troll"
 物种: "Troll"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "alexandra-s-troll"
 | 出生 | 1890 or earlier |
 | 逝世 | 1890–1891 school year |
 | 眼睛颜色 | Yellow |
+| 肤色 | Grey |
 
 ## 关联
 

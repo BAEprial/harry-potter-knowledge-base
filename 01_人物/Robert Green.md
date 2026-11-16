@@ -6,6 +6,8 @@ slug: "robert-green"
 物种: "人类"
 国籍: "American"
 性别: "男"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "robert-green"
 | 眼睛颜色 | Brown |
 | 职业 | Chaser for the American National Quidditch team |
 | 家庭成员 | [[Beatrice]] Green (possibly)； Olivia Green (possibly)； Green family |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

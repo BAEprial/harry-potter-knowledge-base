@@ -7,6 +7,8 @@ slug: "corey-hayden"
 血统: "纯血统或混血"
 物种: "人类"
 国籍: "British or Irish"
+肤色: "Light"
+头衔: "Head Boy or Girl"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "corey-hayden"
 | 头发颜色 | Brown |
 | 职业 | Employee at the Hayden family shop |
 | 家庭成员 | Parents； Grandmother； Hayden family |
+| 肤色 | Light |
+| 头衔 | Head Boy or Girl |
 
 ## 关联
 

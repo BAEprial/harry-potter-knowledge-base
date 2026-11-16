@@ -7,6 +7,8 @@ slug: "martha-steward-ii-s-husband"
 物种: "人类"
 国籍: "Native American"
 性别: "男"
+恋情: "Martha Steward (II) (wife)"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "martha-steward-ii-s-husband"
 | 逝世 | 17th or 18th century (presumably) |
 | 国籍 | Native American |
 | 家庭成员 | Sibling； Martha Steward (II) (wife) †； [[James]] Steward (father-in-law) †； [[Isolt Steward (née Sayre)]] (mother-in-law) †； Rionach Steward (sister-in-law)； [[Chadwick Boot]] (adoptive brother-in-law)； Webster Boot (adoptive brother-in-law)； Josefina Calderon (adoptive sister-in-law by marriage)； Adoptive sister-in-law by marriage； At least two adoptive niece/s and/or nephew/s by marriage； Their family； Steward family (in-laws) |
+| 恋情 | Martha Steward (II) (wife) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

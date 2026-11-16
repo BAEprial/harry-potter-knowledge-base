@@ -5,6 +5,7 @@
 slug: "unidentified-merkid"
 物种: "Merperson (Selkie)"
 性别: "男"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-merkid"
 | 出生 | Before 1986–1987 school year |
 | 眼睛颜色 | Black |
 | 头发颜色 | Green with black tips |
+| 肤色 | Green |
 
 ## 关联
 

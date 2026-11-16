@@ -7,6 +7,7 @@ slug: "cadwallader"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "cadwallader"
 | 出生 | 31 August 1985 or earlier |
 | 国籍 | British or Irish |
 | 身高 | Unknown,，described as 'that big Hufflepuff player' |
+| 头衔 | Chaser |
 
 ## 关联
 

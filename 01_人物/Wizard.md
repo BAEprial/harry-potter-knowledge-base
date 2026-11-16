@@ -5,6 +5,7 @@
 slug: "wizard-the-wizard-and-the-hopping-pot"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "wizard-the-wizard-and-the-hopping-pot"
 | 性别 | 男 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Father |
+| 肤色 | Light |
 
 ## 关联
 

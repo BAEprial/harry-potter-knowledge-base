@@ -6,6 +6,8 @@ slug: "keaton-flitney"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "keaton-flitney"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Blond |
 | 职业 | Chaser for the English National Quidditch team |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

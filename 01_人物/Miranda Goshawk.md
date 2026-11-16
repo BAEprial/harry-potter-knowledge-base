@@ -7,6 +7,7 @@ slug: "miranda-goshawk"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "miranda-goshawk"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Author |
 | 家庭成员 | Mother； Father； [[Diadema Goshawk]] (older sister)； Romilda Goshawk (older sister)； Tangwystl Goshawk (older sister)； Five more older sisters； Several uncles； Several aunts； Several cousins； Grandmother； Goshawk family |
+| 肤色 | White |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Unidentified holidaying Hogwarts Professor"
 slug: "unidentified-holidaying-hogwarts-professor"
 物种: "人类"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "unidentified-holidaying-hogwarts-professor"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Professor |
+| 头衔 | Professor |
 
 ## 关联
 

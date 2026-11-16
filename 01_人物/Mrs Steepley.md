@@ -6,6 +6,8 @@ slug: "steepley"
 物种: "人类"
 国籍: "Scottish"
 性别: "女"
+肤色: "Light"
+婚姻状况: "Widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "steepley"
 | 头发颜色 | Brown |
 | 职业 | Proprietor of Steepley and Sons |
 | 家庭成员 | Spouse； Sons |
+| 肤色 | Light |
+| 婚姻状况 | Widowed |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "marazion"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor； Headmaster"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "marazion"
 | 性别 | 男 |
 | 国籍 | British or Irish |
 | 职业 | Head of Hogwarts |
+| 头衔 | Professor； Headmaster |
 
 ## 关联
 

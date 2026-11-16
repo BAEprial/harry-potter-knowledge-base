@@ -5,6 +5,8 @@
 slug: "mary-karasu"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "mary-karasu"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Brown |
 | 家庭成员 | Rosa Karasu； Son (possibly)； Tulip Karasu (grand-daughter) |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

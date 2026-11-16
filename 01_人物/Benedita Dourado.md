@@ -5,6 +5,7 @@
 slug: "benedita-dourado"
 物种: "人类"
 性别: "女"
+头衔: "Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "benedita-dourado"
 | 性别 | 女 |
 | 出生 | Year unknownSouth America |
 | 职业 | Headmistress of Castelobruxo (c. 1940s/50s) |
+| 头衔 | Headmistress |
 
 ## 关联
 

@@ -7,6 +7,7 @@ slug: "simon-marchand"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "simon-marchand"
 | 逝世 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Musician |
+| 肤色 | Dark |
 
 ## 关联
 

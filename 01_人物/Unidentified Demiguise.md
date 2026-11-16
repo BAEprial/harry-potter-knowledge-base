@@ -4,6 +4,7 @@
 英文名: "Unidentified Demiguise"
 slug: "unidentified-demiguise"
 物种: "Demiguise"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-demiguise"
 | 眼睛颜色 | Yellow |
 | 头发颜色 | White |
 | 别名与绰号 | Butterscotch Bandit； Prank Plunderer； Mallowsweet Marauder； Sugar Shoplifter (possibly)； Candy Crook (possibly)； Sweet Tooth Thief (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

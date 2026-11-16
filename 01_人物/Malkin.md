@@ -6,6 +6,9 @@ slug: "malkin"
 物种: "人类"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "Light"
+头衔: "Madam； Mademoiselle (in France)"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "malkin"
 | 头发颜色 | White |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Shop owner； Tailor |
+| 肤色 | Light |
+| 头衔 | Madam； Mademoiselle (in France) |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

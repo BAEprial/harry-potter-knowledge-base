@@ -7,6 +7,7 @@ slug: "victor-kidd"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "victor-kidd"
 | 头发颜色 | Light brown |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Wilfred Kidd Senior]] (possible relative)； [[Wilfred Levi Kidd]] (possible relative)； Kidd family |
+| 肤色 | White |
 
 ## 关联
 

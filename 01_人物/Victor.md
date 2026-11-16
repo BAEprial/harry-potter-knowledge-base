@@ -6,6 +6,7 @@ slug: "victor"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+头衔: "Minister for Magic"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "victor"
 | 出生 | Before 1932 |
 | 国籍 | 法国人 |
 | 职业 | French Minister for Magic (c. 1932) |
+| 头衔 | Minister for Magic |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "anthony-rickett"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Fair"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "anthony-rickett"
 | 性别 | 男 |
 | 出生 | 31 August 1982 or earlier |
 | 国籍 | British or Irish |
+| 肤色 | Fair |
+| 头衔 | Beater |
 
 ## 关联
 

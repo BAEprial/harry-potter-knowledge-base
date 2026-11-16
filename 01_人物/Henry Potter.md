@@ -7,6 +7,7 @@ slug: "henry-potter"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Partner (uncertain relationship) †"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "henry-potter"
 | 职业 | Member of the Wizengamot (1913–1921) |
 | 别名与绰号 | Harry (by family and friends) |
 | 家庭成员 | Father †； Mother †； [[Fleamont Potter]] (son) †； [[Euphemia Potter]] (daughter-in-law) †； James Potter (I) (grandson) †； Linfred of Stinchcombe (paternal ancestor) †； [[Ignotus Peverell]] (paternal ancestor) †； Paternal ancestor †； Hardwin Potter (paternal ancestor) †； Iolanthe Peverell (paternal ancestor) †； [[Charlus Potter]] (possible relative) †； [[Dorea Potter (née Black)]] (possible relative) †； Possible relative †； Potter family； Fleamont family (maternal family) |
+| 恋情 | Partner (uncertain relationship) † |
 
 ## 关联
 

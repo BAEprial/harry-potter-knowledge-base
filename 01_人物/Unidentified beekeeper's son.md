@@ -6,6 +6,8 @@ slug: "unidentified-beekeeper-s-son"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Unidentified medieval witch"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-beekeeper-s-son"
 | 性别 | 男 |
 | 出生 | Before or during the Middle Ages |
 | 家庭成员 | Unidentified beekeeper (father) |
+| 恋情 | Unidentified medieval witch |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

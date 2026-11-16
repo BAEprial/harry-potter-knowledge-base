@@ -8,6 +8,9 @@ slug: "clodagh-dromgoole"
 物种: "人类"
 国籍: "爱尔兰人"
 性别: "女"
+肤色: "Light"
+头衔: "Professor"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "clodagh-dromgoole"
 | 魔杖 | 11½',，English oak,，dragon heartstring |
 | 职业 | Professor of Study of Ancient Runes at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Father †； Mother †； Aunt； Dromgoole family |
+| 肤色 | Light |
+| 头衔 | Professor |
+| 婚姻状况 | Single |
 
 ## 关联
 

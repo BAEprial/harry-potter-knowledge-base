@@ -5,6 +5,7 @@
 slug: "caelan"
 物种: "Quintaped"
 性别: "男"
+肤色: "Brown"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "caelan"
 | 性别 | 男 |
 | 眼睛颜色 | Yellow |
 | 头发颜色 | Orange |
+| 肤色 | Brown |
 
 ## 关联
 

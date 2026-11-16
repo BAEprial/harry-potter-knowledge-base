@@ -6,6 +6,8 @@ slug: "ruby-witch"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Sam"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "ruby-witch"
 | 国籍 | American |
 | 头发颜色 | Blonde |
 | 职业 | Employee of the Magical Congress of the United States of America |
+| 恋情 | Sam |
+| 肤色 | Light |
 
 ## 关联
 

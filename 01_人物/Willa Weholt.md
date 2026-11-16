@@ -7,6 +7,8 @@ slug: "willa-weholt"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Dark"
+头衔: "Chaser (formerly)； Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "willa-weholt"
 | 头发颜色 | 黑暗 |
 | 别名与绰号 | Miss Snitch-miss |
 | 家庭成员 | Mother； Older brother； Weholt family |
+| 肤色 | Dark |
+| 头衔 | Chaser (formerly)； Seeker |
 
 ## 关联
 

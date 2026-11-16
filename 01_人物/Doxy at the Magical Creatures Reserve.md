@@ -4,6 +4,7 @@
 英文名: "Doxy at the Magical Creatures Reserve"
 slug: "doxy-at-the-magical-creatures-reserve"
 物种: "Doxy"
+肤色: "Blue and purple"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "doxy-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Doxy |
 | 眼睛颜色 | Red |
+| 肤色 | Blue and purple |
 
 ## 关联
 

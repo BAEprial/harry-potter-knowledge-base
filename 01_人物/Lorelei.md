@@ -5,6 +5,7 @@
 slug: "lorelei"
 物种: "Niffler"
 性别: "女"
+肤色: "Brown and white"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "lorelei"
 | 物种 | Niffler |
 | 性别 | 女 |
 | 眼睛颜色 | Black |
+| 肤色 | Brown and white |
 
 ## 关联
 

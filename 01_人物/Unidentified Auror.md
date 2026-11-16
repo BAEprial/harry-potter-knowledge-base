@@ -6,6 +6,7 @@ slug: "unidentified-male-auror-at-hogwarts"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "unidentified-male-auror-at-hogwarts"
 | 国籍 | 英国人 |
 | 头发颜色 | Brown |
 | 职业 | Auror |
+| 肤色 | White |
 
 ## 关联
 

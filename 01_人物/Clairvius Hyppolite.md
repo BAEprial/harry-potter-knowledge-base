@@ -6,6 +6,7 @@ slug: "clairvius-hyppolite"
 物种: "人类"
 国籍: "Haitiian"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "clairvius-hyppolite"
 | 出生 | after 1976,，Haiti (possibly) |
 | 国籍 | Haitiian |
 | 职业 | Chaser for the Haitian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

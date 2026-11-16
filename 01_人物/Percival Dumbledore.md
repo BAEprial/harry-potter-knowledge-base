@@ -7,6 +7,8 @@ slug: "percival-dumbledore"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Kendra Dumbledore (wife) †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "percival-dumbledore"
 | 逝世 | 1890s Azkaban,，North Sea |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Honoria]] (sister or sister-in-law)； [[Kendra Dumbledore]] (wife) †； Albus Dumbledore (son) †； [[Aberforth Dumbledore]] (son)； [[Ariana Dumbledore]] (daughter) †； [[Aurelius Dumbledore]] (biological grandson)； Great-grandfather †； Dumbledore family |
+| 恋情 | Kendra Dumbledore (wife) † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

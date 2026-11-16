@@ -5,6 +5,7 @@
 slug: "portrait-of-a-healer-in-st-mungo-s-hospital"
 物种: "人类"
 性别: "男"
+头衔: "Healer"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "portrait-of-a-healer-in-st-mungo-s-hospital"
 | 出生 | Middle Ages |
 | 逝世 | Middle Ages |
 | 职业 | Healer |
+| 头衔 | Healer |
 
 ## 关联
 

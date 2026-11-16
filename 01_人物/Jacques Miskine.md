@@ -6,6 +6,7 @@ slug: "jacques-miskine"
 物种: "人类"
 国籍: "Chadian"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "jacques-miskine"
 | 出生 | After 1976,，Chad (possibly) |
 | 国籍 | Chadian |
 | 职业 | Seeker for the Chadian National Quidditch team |
+| 头衔 | Seeker |
 
 ## 关联
 

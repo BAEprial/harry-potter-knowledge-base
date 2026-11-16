@@ -8,6 +8,8 @@ slug: "talbott-winger"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Jacob's sibling (possibly)"
+肤色: "Bronze"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +32,8 @@ slug: "talbott-winger"
 | 头发颜色 | Brown ombré |
 | 职业 | Hit Wizard |
 | 家庭成员 | Father †； Mother †； Grandmother； Winger family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | Bronze |
 
 ## 关联
 

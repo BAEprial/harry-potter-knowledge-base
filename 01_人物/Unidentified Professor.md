@@ -4,6 +4,7 @@
 英文名: "Unidentified Professor"
 slug: "amycus-carrow-s-successor"
 物种: "人类"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "amycus-carrow-s-successor"
 |---|---|
 | 物种 | 人类 |
 | 职业 | Professor of Defence Against the Dark Arts (1998–?) |
+| 头衔 | Professor |
 
 ## 关联
 

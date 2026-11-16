@@ -6,6 +6,9 @@ slug: "bedilia-grimalkin"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "女"
+恋情: "Antoine Grimalkin"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "bedilia-grimalkin"
 | 魔杖 | Unknown length,，wood,，and core (hers)； Unknown length,，wood,，and core (Antoine's) |
 | 别名与绰号 | Madam Grimalkin (by Jacob's sibling) |
 | 家庭成员 | Antoine Grimalkin (husband) |
+| 恋情 | Antoine Grimalkin |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

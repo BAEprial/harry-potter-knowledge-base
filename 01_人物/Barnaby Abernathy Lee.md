@@ -9,6 +9,9 @@ slug: "barnaby-lee"
 国籍: "British or Irish"
 性别: "男"
 守护神: "Non-corporeal"
+恋情: "Jacob's sibling (possibly)"
+肤色: "White"
+头衔: "Toast Giver"
 资料来源: hogwarts-api
 ---
 
@@ -33,6 +36,9 @@ slug: "barnaby-lee"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Shop assistant at Honeydukes (formerly)； Houndmaster |
 | 家庭成员 | Father； Mother； Leah Lee (paternal aunt)； Cecil Lee (paternal uncle)； Paternal grandmother †； Lee family |
+| 恋情 | Jacob's sibling (possibly) |
+| 肤色 | White |
+| 头衔 | Toast Giver |
 
 ## 关联
 

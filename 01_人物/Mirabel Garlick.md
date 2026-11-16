@@ -8,6 +8,9 @@ slug: "mirabel-garlick"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Fair"
+头衔: "Professor"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "mirabel-garlick"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Professor of Herbology at Hogwarts School of Witchcraft and Wizardry |
 | 家庭成员 | Parents； Garlick family |
+| 肤色 | Fair |
+| 头衔 | Professor |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

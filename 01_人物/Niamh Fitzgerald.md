@@ -7,6 +7,8 @@ slug: "niamh-fitzgerald"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Head of Hogwarts School of Witchcraft and Wizardry； Professor"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "niamh-fitzgerald"
 | 头发颜色 | Light brown/strawberry blonde |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Light |
+| 头衔 | Head of Hogwarts School of Witchcraft and Wizardry； Professor |
 
 ## 关联
 

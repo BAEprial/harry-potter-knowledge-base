@@ -6,6 +6,7 @@ slug: "martin-miggs"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "martin-miggs"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 别名与绰号 | The Mad Muggle |
+| 肤色 | Light |
 
 ## 关联
 

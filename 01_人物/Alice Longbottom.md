@@ -7,6 +7,8 @@ slug: "alice-longbottom"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Frank Longbottom (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "alice-longbottom"
 | 头发颜色 | Red (originally),，White |
 | 职业 | Auror (?-1981) |
 | 家庭成员 | Frank Longbottom (husband)； Neville Longbottom (son)； Father-in-law †； Augusta Longbottom (mother-in-law)； Hannah [[Abbott]] (daughter-in-law)； Longbottom family (in-laws/descendants) |
+| 恋情 | Frank Longbottom (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

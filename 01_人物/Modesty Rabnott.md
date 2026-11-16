@@ -6,6 +6,7 @@ slug: "modesty-rabnott"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "modesty-rabnott"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Prudence Rabnott]] (sister)； [[Edward]] Rabnott (possibly) |
+| 头衔 | Madam |
 
 ## 关联
 

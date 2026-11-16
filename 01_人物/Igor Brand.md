@@ -6,6 +6,8 @@ slug: "igor-brand"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "igor-brand"
 | 头发颜色 | Brown |
 | 职业 | Chaser for the German National Quidditch team |
 | 家庭成员 | Rudolf Brand (possibly)； Brand family |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

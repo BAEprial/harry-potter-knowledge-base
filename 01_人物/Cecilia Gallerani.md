@@ -5,6 +5,8 @@
 slug: "cecilia-gallerani"
 物种: "人类"
 性别: "女"
+恋情: "Ludovico Carminati dé Brambilla (husband)； Ludovico Sforza, Duke of Milan (lover)"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "cecilia-gallerani"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | Ludovico Carminati dé Brambilla (husband)； Gallerani family； Carminati family (in-laws) |
+| 恋情 | Ludovico Carminati dé Brambilla (husband)； Ludovico Sforza, Duke of Milan (lover) |
+| 肤色 | Light |
 
 ## 关联
 

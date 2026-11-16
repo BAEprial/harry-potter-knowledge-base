@@ -5,6 +5,7 @@
 slug: "unidentified-antipodean-opaleye"
 物种: "龙"
 性别: "女"
+肤色: "Pearlescent"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unidentified-antipodean-opaleye"
 | 出生 | Early 2010s |
 | 眼睛颜色 | Multi-coloured |
 | 家庭成员 | Mother † |
+| 肤色 | Pearlescent |
 
 ## 关联
 

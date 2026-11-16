@@ -5,6 +5,8 @@
 slug: "baruffio"
 物种: "人类"
 性别: "男"
+头衔: "Wizard"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "baruffio"
 | 魔杖 | Unknown length,，wood,，and core |
 | 职业 | Potioneer |
 | 家庭成员 | Wife |
+| 头衔 | Wizard |
+| 婚姻状况 | Married |
 
 ## 关联
 

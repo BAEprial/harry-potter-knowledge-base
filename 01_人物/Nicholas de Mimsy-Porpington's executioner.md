@@ -5,6 +5,7 @@
 slug: "ghost-who-played-sir-nicholas-de-mimsy-porpington-s-executioner"
 物种: "Human (formerly),，幽灵"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "ghost-who-played-sir-nicholas-de-mimsy-porpington-s-executioner"
 |---|---|
 | 物种 | Human (formerly),，幽灵 |
 | 性别 | 男 |
+| 肤色 | Pale |
 
 ## 关联
 

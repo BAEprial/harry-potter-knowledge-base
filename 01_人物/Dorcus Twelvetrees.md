@@ -7,6 +7,8 @@ slug: "dorcus-twelvetrees"
 物种: "人类"
 国籍: "American"
 性别: "女"
+恋情: "Bartholomew Barebone (formerly)"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "dorcus-twelvetrees"
 | 国籍 | American |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Aristotle Twelvetrees (father)； Twelvetrees family |
+| 恋情 | Bartholomew Barebone (formerly) |
+| 婚姻状况 | Single |
 
 ## 关联
 

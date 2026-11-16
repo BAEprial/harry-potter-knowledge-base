@@ -6,6 +6,7 @@ slug: "ogg"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Gamekeeper"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ogg"
 | 性别 | 男 |
 | 国籍 | British or Irish |
 | 职业 | Gamekeeper of Hogwarts (c. 1960s) |
+| 头衔 | Gamekeeper |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "sal-grimstone-s-great-grandfather"
 物种: "人类"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "sal-grimstone-s-great-grandfather"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | [[Sal Grimstone]] (great-grandson)； Grimstone family |
+| 头衔 | Sir |
 
 ## 关联
 

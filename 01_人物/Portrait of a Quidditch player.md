@@ -6,6 +6,8 @@ slug: "portrait-of-a-quidditch-player"
 学院: "Gryffindor (possibly)"
 物种: "人类"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser (most likely)"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "portrait-of-a-quidditch-player"
 | 逝世 | Prior to 1991 |
 | 头发颜色 | Brown |
 | 职业 | Quidditch player |
+| 肤色 | Light |
+| 头衔 | Chaser (most likely) |
 
 ## 关联
 

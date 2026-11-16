@@ -6,6 +6,7 @@ slug: "dorcas-meadowes"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "dorcas-meadowes"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
+| 肤色 | Dark |
 
 ## 关联
 

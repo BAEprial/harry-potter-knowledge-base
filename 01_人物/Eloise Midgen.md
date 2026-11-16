@@ -7,6 +7,7 @@ slug: "eloise-midgen"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light (bad case of acne)"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "eloise-midgen"
 | 出生 | Late 1970s |
 | 国籍 | British or Irish |
 | 家庭成员 | Father |
+| 肤色 | Light (bad case of acne) |
 
 ## 关联
 

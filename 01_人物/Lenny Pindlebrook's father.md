@@ -7,6 +7,7 @@ slug: "lenny-pindlebrook-s-father"
 物种: "人类"
 国籍: "Icelander,，英国人"
 性别: "男"
+恋情: "Wife"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "lenny-pindlebrook-s-father"
 | 性别 | 男 |
 | 国籍 | Icelander,，英国人 |
 | 家庭成员 | [[Lenny Pindlebrook]] (son)； Wife； Pindlebrook family |
+| 恋情 | Wife |
 
 ## 关联
 

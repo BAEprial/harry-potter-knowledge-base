@@ -6,6 +6,7 @@ slug: "unidentified-auror-killed-in-1890"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-auror-killed-in-1890"
 | 眼睛颜色 | Brown |
 | 头发颜色 | 黑暗 |
 | 职业 | Aurors |
+| 肤色 | Light |
 
 ## 关联
 

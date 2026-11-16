@@ -7,6 +7,7 @@ slug: "mark-overcliff"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "mark-overcliff"
 | 性别 | 男 |
 | 出生 | c. 1740s–1750s |
 | 国籍 | British or Irish |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

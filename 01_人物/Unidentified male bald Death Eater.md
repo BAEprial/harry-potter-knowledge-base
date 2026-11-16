@@ -8,6 +8,7 @@ slug: "unidentified-male-bald-death-eater"
 国籍: "英国人"
 性别: "男"
 守护神: "无"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "unidentified-male-bald-death-eater"
 | 守护神 | 无 |
 | 国籍 | 英国人 |
 | 头发颜色 | Bald |
+| 肤色 | White |
 
 ## 关联
 

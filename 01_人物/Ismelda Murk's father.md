@@ -5,6 +5,7 @@
 slug: "ismelda-murk-s-father"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "ismelda-murk-s-father"
 | 性别 | 男 |
 | 出生 | Before 1970s |
 | 家庭成员 | Mother； Wife； Annalena Gleam (née Murk) (daughter)； [[Ismelda Murk]] (daughter)； Murk family |
+| 婚姻状况 | Married |
 
 ## 关联
 

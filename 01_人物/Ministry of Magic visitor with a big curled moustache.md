@@ -5,6 +5,7 @@
 slug: "unidentified-moustachioed-british-ministry-visitor"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-moustachioed-british-ministry-visitor"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 头发颜色 | White |
+| 肤色 | Pale |
 
 ## 关联
 

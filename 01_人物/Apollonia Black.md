@@ -8,6 +8,8 @@ slug: "apollonia-black"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Richard Jackdaw (possibly)"
+头衔: "Mistress (by Scrope)"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "apollonia-black"
 | 逝世 | Before 1890 |
 | 国籍 | British or Irish |
 | 家庭成员 | House of Black |
+| 恋情 | Richard Jackdaw (possibly) |
+| 头衔 | Mistress (by Scrope) |
 
 ## 关联
 

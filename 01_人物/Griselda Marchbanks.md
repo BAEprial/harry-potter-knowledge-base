@@ -6,6 +6,7 @@ slug: "griselda-marchbanks"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam； Professor； Governor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "griselda-marchbanks"
 | 出生 | No later than the 1870s |
 | 国籍 | 英国人 |
 | 职业 | Governor of the Wizarding Examinations Authority； Member of the Wizengamot (formerly) |
+| 头衔 | Madam； Professor； Governor |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "emanuel-hurwitz"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "emanuel-hurwitz"
 | 逝世 | 19 November 2006 |
 | 职业 | Violinist |
 | 家庭成员 | Kay Hurwitz (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "victor-gridley"
 物种: "人类"
 性别: "男"
 守护神: "Bird"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "victor-gridley"
 | 眼睛颜色 | Black |
 | 头发颜色 | Black |
 | 魔杖 | Unknown length,，wood and core |
+| 肤色 | Light |
 
 ## 关联
 

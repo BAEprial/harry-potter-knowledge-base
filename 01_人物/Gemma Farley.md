@@ -7,6 +7,7 @@ slug: "gemma-farley"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "gemma-farley"
 | 出生 | Between 1 September 1973 and 31 August 1976 |
 | 国籍 | British or Irish |
 | 家庭成员 | [[Bell]]a Farley (possibly)； [[Charlie Farley]] (possibly)； Jake Farley (possibly)； Madge Farley (possibly)； Farley family |
+| 头衔 | Prefect |
 
 ## 关联
 

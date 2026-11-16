@@ -5,6 +5,7 @@
 slug: "wizard-with-top-hat"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "wizard-with-top-hat"
 | 眼睛颜色 | Blue |
 | 头发颜色 | White |
 | 职业 | Vendor |
+| 肤色 | Light |
 
 ## 关联
 

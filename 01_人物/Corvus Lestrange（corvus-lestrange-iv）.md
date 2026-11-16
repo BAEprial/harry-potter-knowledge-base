@@ -7,6 +7,7 @@ slug: "corvus-lestrange-iv"
 物种: "人类"
 国籍: "法国人"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "corvus-lestrange-iv"
 | 国籍 | 法国人 |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | [[Corvus Lestrange]] (father)； [[Eglantine Lestrange]] (mother)； Laurena Kama (first wife) †； [[Clarisse Lestrange (née Tremblay)]] (second wife/paternal first cousin)； Leta Lestrange (daughter) †； Corvus Lestrange (son/first cousin once removed) †； Falco Tremblay (brother-in-law/paternal first cousin)； Manon Perrot (née Lestrange) (paternal aunt)； Josette Gage (née Lestrange) (paternal aunt)； Sebastien Perrot (paternal uncle by marriage)； Reynard Gage (paternal uncle by marriage)； Leonie Tremblay (née Lestrange) (maternal aunt)； Bernard Tremblay (maternal uncle by marriage)； Odile Perrot (paternal first cousin)； Huguette Perrot (paternal first cousin)； Laurelle Perrot (paternal first cousin)； Louis Gage (paternal first cousin)； Mathis Gage (paternal first cousin)； Corvus Lestrange (paternal grandfather)； Minette Lestrange (née Rosier) (paternal grandmother)； Falco Lestrange (maternal grandfather/maternal great-uncle)； Salomé Lestrange (née Volant) (maternal grandmother/maternal great-aunt)； Lestrange family； Tremblay family (maternal relatives/in-laws)； Volant family (maternal relatives) |
+| 婚姻状况 | Married |
 
 ## 关联
 

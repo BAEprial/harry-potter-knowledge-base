@@ -5,6 +5,7 @@
 slug: "unidentified-dun-coloured-centaur"
 物种: "马人"
 性别: "男"
+肤色: "Dun-coloured"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-dun-coloured-centaur"
 | 物种 | 马人 |
 | 性别 | 男 |
 | 头发颜色 | Dun-coloured |
+| 肤色 | Dun-coloured |
 
 ## 关联
 

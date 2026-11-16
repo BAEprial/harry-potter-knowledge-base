@@ -8,6 +8,7 @@ slug: "lottie-turner"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Hummingbird"
+肤色: "Bronze"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "lottie-turner"
 | 头发颜色 | Brown |
 | 魔杖 | 10½',，Alder,，Unicorn hair |
 | 家庭成员 | Ambrose Turner † (father)； Mother； Marcus Turner (possibly)； [[Darrel Turner]] (possibly)； Turner family |
+| 肤色 | Bronze |
 
 ## 关联
 

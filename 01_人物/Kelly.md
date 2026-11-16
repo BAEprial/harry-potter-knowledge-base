@@ -6,6 +6,7 @@ slug: "kelly"
 学院: "斯莱特林"
 物种: "人类"
 国籍: "British or Irish"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "kelly"
 | 出生 | 1970s |
 | 国籍 | British or Irish |
 | 头发颜色 | Blond |
+| 肤色 | Light |
 
 ## 关联
 

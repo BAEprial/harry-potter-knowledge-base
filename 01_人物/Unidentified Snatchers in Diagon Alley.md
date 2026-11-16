@@ -6,6 +6,7 @@ slug: "unidentified-snatchers-in-diagon-alley"
 血统: "Pure-bloods or Half-bloods"
 物种: "Humans"
 性别: "Males"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "unidentified-snatchers-in-diagon-alley"
 | 眼睛颜色 | 多种 |
 | 头发颜色 | 多种 |
 | 职业 | Snatchers |
+| 肤色 | Light |
 
 ## 关联
 

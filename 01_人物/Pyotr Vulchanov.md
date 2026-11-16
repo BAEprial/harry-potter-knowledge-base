@@ -7,6 +7,8 @@ slug: "pyotr-vulchanov"
 物种: "人类"
 国籍: "保加利亚人"
 性别: "男"
+肤色: "White"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +28,8 @@ slug: "pyotr-vulchanov"
 | 眼睛颜色 | Blue |
 | 职业 | Beater for the Bulgarian National Quidditch team |
 | 家庭成员 | [[Boris Vulchanov]] (son)； [[Nerida Vulchanova]] (possible ancestor)； Vulchanov family |
+| 肤色 | White |
+| 头衔 | Beater |
 
 ## 关联
 

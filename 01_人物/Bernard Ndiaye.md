@@ -6,6 +6,7 @@ slug: "bernard-ndiaye"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "bernard-ndiaye"
 | 头发颜色 | Bald |
 | 职业 | Shop owner |
 | 家庭成员 | Daughters； Ndiaye family |
+| 肤色 | Dark |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "higglebottom"
 物种: "人类"
 性别: "男"
+婚姻状况: "Divorced"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "higglebottom"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Sybill Trelawney (ex-wife)； Ex-father-in-law； Ex-mother-law； Trelawney family (former in-laws) |
+| 婚姻状况 | Divorced |
 
 ## 关联
 

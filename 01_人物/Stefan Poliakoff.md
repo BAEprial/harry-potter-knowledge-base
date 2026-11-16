@@ -6,6 +6,8 @@ slug: "stefan-poliakoff"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+肤色: "Fair"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "stefan-poliakoff"
 | 出生 | 20th century |
 | 头发颜色 | Blond |
 | 家庭成员 | [[Poliakoff]] (possible relative) |
+| 肤色 | Fair |
+| 头衔 | Beater |
 
 ## 关联
 

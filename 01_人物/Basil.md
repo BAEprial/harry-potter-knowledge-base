@@ -6,6 +6,7 @@ slug: "basil"
 血统: "纯血统或混血"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "basil"
 | 性别 | 男 |
 | 头发颜色 | Grey |
 | 职业 | Employee of the Department of Magical Transportation |
+| 肤色 | White |
 
 ## 关联
 

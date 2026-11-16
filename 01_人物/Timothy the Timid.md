@@ -5,6 +5,7 @@
 slug: "timothy-the-timid"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "timothy-the-timid"
 | 逝世 | Before 1995 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown (sparse) |
+| 肤色 | White |
 
 ## 关联
 

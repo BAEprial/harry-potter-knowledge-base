@@ -6,6 +6,7 @@ slug: "george-iii"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "King"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "george-iii"
 | 逝世 | 29 January 1820 (aged 81) |
 | 职业 | King of Great Britain and Ireland |
 | 家庭成员 | Victoria (granddaughter) †； William the Conqueror (ancestor) †； Henry VII (ancestor) †； [[Eliza]]beth II (descendant) †； British royal family |
+| 头衔 | King |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "darya-sandstrom"
 物种: "人类"
 国籍: "Swedish"
 性别: "女"
+肤色: "White"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "darya-sandstrom"
 | 国籍 | Swedish |
 | 眼睛颜色 | Blue |
 | 职业 | Keeper for the Swedish National Quidditch team |
+| 肤色 | White |
+| 头衔 | Keeper |
 
 ## 关联
 

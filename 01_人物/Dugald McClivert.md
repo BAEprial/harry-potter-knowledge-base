@@ -5,6 +5,7 @@
 slug: "dugald-mcclivert"
 物种: "人类"
 性别: "男"
+头衔: "Head of McClivert clan"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "dugald-mcclivert"
 | 性别 | 男 |
 | 逝世 | 未知 |
 | 职业 | Head of the McClivert clan |
+| 头衔 | Head of McClivert clan |
 
 ## 关联
 

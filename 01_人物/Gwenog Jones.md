@@ -6,6 +6,9 @@ slug: "gwenog-jones"
 物种: "人类"
 国籍: "Welsh"
 性别: "女"
+肤色: "Dark"
+头衔: "Captain； Beater"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +28,9 @@ slug: "gwenog-jones"
 | 头发颜色 | Brown |
 | 职业 | Captain and Beater of the Holyhead Harpies (formerly)； Manager of the Welsh National Quidditch team |
 | 家庭成员 | [[Hestia Jones]] (possible relative)； Megan Jones (possible relative)； Peter Jones (possible relative)； Stuart Jones (possible relative)； Jones family |
+| 肤色 | Dark |
+| 头衔 | Captain； Beater |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

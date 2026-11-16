@@ -7,6 +7,7 @@ slug: "quintilla-lestrange"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "quintilla-lestrange"
 | 性别 | 女 |
 | 国籍 | 法国人 |
 | 家庭成员 | Floxel [[Lestrange]] (father)； [[Jodelle Lestrange (née Volant)]] (mother)； [[Fulcran Lestrange]] (husband/second cousin once removed)； Nozéa Lestrange (daughter)； [[Cyrille Lestrange]] (paternal uncle)； Cyrille Lestrange (paternal grandfather)； Luminosa Lestrange (paternal grandmother)； Lestrange family； Volant family (maternal family) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

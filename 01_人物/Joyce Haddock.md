@@ -7,6 +7,7 @@ slug: "joyce-haddock"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "joyce-haddock"
 | 性别 | 女 |
 | 国籍 | 英国人 |
 | 职业 | Swimming examiner at Smeltings |
+| 婚姻状况 | Married |
 
 ## 关联
 

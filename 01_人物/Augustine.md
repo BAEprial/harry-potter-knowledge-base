@@ -6,6 +6,8 @@ slug: "augustine"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+头衔: "Mademoiselle"
+婚姻状况: "Unmarried"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "augustine"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Fortune teller |
+| 头衔 | Mademoiselle |
+| 婚姻状况 | Unmarried |
 
 ## 关联
 

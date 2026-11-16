@@ -6,6 +6,7 @@ slug: "fulcran-lestrange-iii"
 血统: "纯血统"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "fulcran-lestrange-iii"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Fulcran Lestrange (father)； Sotère Lestrange (née Petit) (mother)； [[Balbine Lestrange]] (sister)； Pucine Lestrange (sister)； Quintilla Lestrange (wife/second cousin once removed)； Nozéa Lestrange (daughter)； [[Floxel Lestrange]] (father-in-law/second cousin)； Jodelle Lestrange (née Volant) (mother-in-law)； Fulcran Lestrange (paternal grandfather)； Pucine Lestrange (née Leroy) (paternal grandmother)； Lestrange family； Petit family (maternal family)； Leroy family (paternal relatives) |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

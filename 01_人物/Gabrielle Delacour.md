@@ -7,6 +7,8 @@ slug: "gabrielle-delacour"
 物种: "Part-human/quarter-Veela"
 国籍: "法国人"
 性别: "女"
+头衔: "Chaser"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +30,8 @@ slug: "gabrielle-delacour"
 | 头发颜色 | Silvery-blonde |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Father； Apolline Delacour (mother)； Fleur Delacour (older sister)； Two maternal cousins； William Weasley (brother-in-law)； Victoire Weasley (niece)； [[Dominique Weasley]] (niece)； Louis Weasley (nephew)； Maternal grandmother； Delacour family |
+| 头衔 | Chaser |
+| 婚姻状况 | Single |
 
 ## 关联
 

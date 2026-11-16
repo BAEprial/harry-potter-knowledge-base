@@ -5,6 +5,8 @@
 slug: "aidan-sprottle"
 物种: "人类"
 性别: "男"
+恋情: "Dorothy Sprottle (wife)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +22,8 @@ slug: "aidan-sprottle"
 | 性别 | 男 |
 | 逝世 | Before 1890 |
 | 家庭成员 | Dorothy Sprottle (wife) |
+| 恋情 | Dorothy Sprottle (wife) |
+| 婚姻状况 | Married |
 
 ## 关联
 

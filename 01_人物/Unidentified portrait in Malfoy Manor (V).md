@@ -6,6 +6,7 @@ slug: "unidentified-portrait-in-malfoy-manor-v"
 血统: "Pure-blood (likely)"
 物种: "人类"
 性别: "女"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "unidentified-portrait-in-malfoy-manor-v"
 | 眼睛颜色 | Green |
 | 头发颜色 | Black |
 | 家庭成员 | Malfoy family |
+| 肤色 | Pale |
 
 ## 关联
 

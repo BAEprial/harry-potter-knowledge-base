@@ -5,6 +5,7 @@
 slug: "sanguini"
 物种: "吸血鬼"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "sanguini"
 | 物种 | 吸血鬼 |
 | 性别 | 男 |
 | 头发颜色 | 黑暗 |
+| 肤色 | White |
 
 ## 关联
 

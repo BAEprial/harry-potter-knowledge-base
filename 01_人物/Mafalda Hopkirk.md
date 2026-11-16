@@ -8,6 +8,8 @@ slug: "mafalda-hopkirk"
 国籍: "英国人"
 性别: "女"
 守护神: "Non-corporeal"
+肤色: "Light"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "mafalda-hopkirk"
 | 头发颜色 | Grey |
 | 身高 | 5'4 |
 | 职业 | Assistant in the Improper Use of Magic Office |
+| 肤色 | Light |
+| 头衔 | Madam |
 
 ## 关联
 

@@ -7,6 +7,9 @@ slug: "robert-mcgonagall-senior"
 物种: "人类"
 国籍: "Scottish"
 性别: "男"
+恋情: "Isobel McGonagall (wife)"
+头衔: "Reverend"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "robert-mcgonagall-senior"
 | 国籍 | Scottish |
 | 职业 | Presbyterian minister |
 | 家庭成员 | Father； Mother； [[Isobel McGonagall (née Ross)]] (wife)； [[Minerva]] McGonagall (daughter)； [[Malcolm]] McGonagall (son)； [[Robert McGonagall Junior]] (son) †； Father-in-law； Mother-in-law； [[Elphinstone Urquart]] (son-in-law) †； Grandchildren； William McGonagall (possible relative)； [[M. G. McGonagall]] (possible relative)； McGonagall family； Ross family (in-laws) |
+| 恋情 | Isobel McGonagall (wife) |
+| 头衔 | Reverend |
+| 婚姻状况 | Married |
 
 ## 关联
 

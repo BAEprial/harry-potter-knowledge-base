@@ -7,6 +7,7 @@ slug: "silas-crump"
 物种: "Human (werewolf)"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "silas-crump"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Light brown |
 | 别名与绰号 | Silas 'Saintly' Crump |
+| 肤色 | White |
 
 ## 关联
 

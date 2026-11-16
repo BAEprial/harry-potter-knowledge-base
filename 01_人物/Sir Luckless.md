@@ -6,6 +6,9 @@ slug: "sir-luckless"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+恋情: "Amata (wife)"
+头衔: "Sir"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +24,9 @@ slug: "sir-luckless"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 家庭成员 | Amata (wife) |
+| 恋情 | Amata (wife) |
+| 头衔 | Sir |
+| 婚姻状况 | Married |
 
 ## 关联
 

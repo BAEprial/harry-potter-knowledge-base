@@ -6,6 +6,7 @@ slug: "rudolf-brand"
 物种: "人类"
 国籍: "德国人"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "rudolf-brand"
 | 国籍 | 德国人 |
 | 职业 | Captain of the Heidelberg Harriers |
 | 家庭成员 | [[Igor]] Brand (possibly)； Brand family |
+| 头衔 | Captain |
 
 ## 关联
 

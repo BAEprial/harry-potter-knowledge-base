@@ -6,6 +6,7 @@ slug: "dai-ryusaki"
 物种: "人类"
 国籍: "Japanese"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "dai-ryusaki"
 | 国籍 | Japanese |
 | 职业 | Professor at Mahoutokoro |
 | 家庭成员 | Kenji Ryusaki (descendant)； Ryusaki family |
+| 头衔 | Professor |
 
 ## 关联
 

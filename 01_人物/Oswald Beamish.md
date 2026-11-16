@@ -5,6 +5,7 @@
 slug: "oswald-beamish"
 物种: "人类"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "oswald-beamish"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Grey |
 | 职业 | Activist |
+| 肤色 | Pale |
 
 ## 关联
 

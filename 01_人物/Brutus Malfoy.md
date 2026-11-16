@@ -7,6 +7,7 @@ slug: "brutus-malfoy"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +28,7 @@ slug: "brutus-malfoy"
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Editor of Warlock at War |
 | 家庭成员 | Armand Malfoy (ancestor) †； Nicholas Malfoy (ancestor) †； Lucius Malfoy I (ancestor) †； Septimus Malfoy (descendant) †； [[Abraxas Malfoy]] (descendant) †； Lucius Malfoy (descendant)； Draco Malfoy (descendant)； Scorpius Malfoy (descendant)； Malfoy family |
+| 肤色 | Light |
 
 ## 关联
 

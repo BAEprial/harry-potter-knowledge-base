@@ -5,6 +5,8 @@
 slug: "bexelinda-bornswallow"
 物种: "人类"
 性别: "女"
+肤色: "White"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "bexelinda-bornswallow"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 职业 | Professor |
+| 肤色 | White |
+| 头衔 | Professor |
 
 ## 关联
 

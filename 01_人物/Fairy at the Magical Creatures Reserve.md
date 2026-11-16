@@ -5,6 +5,7 @@
 slug: "fairy-at-the-magical-creatures-reserve"
 物种: "Fairy"
 性别: "女"
+肤色: "Light green"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "fairy-at-the-magical-creatures-reserve"
 | 性别 | 女 |
 | 眼睛颜色 | Black |
 | 头发颜色 | Red |
+| 肤色 | Light green |
 
 ## 关联
 

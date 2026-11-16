@@ -6,6 +6,7 @@ slug: "brunhilde-stokke"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "brunhilde-stokke"
 | 眼睛颜色 | Pale |
 | 头发颜色 | Purple |
 | 职业 | Member of the Wizengamot |
+| 肤色 | Light |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Ramora at the Magical Creatures Reserve"
 slug: "ramora-at-the-magical-creatures-reserve"
 物种: "Ramora"
+肤色: "Silver scales"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "ramora-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Ramora |
 | 眼睛颜色 | Yellow |
+| 肤色 | Silver scales |
 
 ## 关联
 

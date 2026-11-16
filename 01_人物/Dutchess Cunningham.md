@@ -5,6 +5,7 @@
 slug: "dutchess-cunningham"
 物种: "人类"
 性别: "女"
+头衔: "Duchess"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "dutchess-cunningham"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 女 |
+| 头衔 | Duchess |
 
 ## 关联
 

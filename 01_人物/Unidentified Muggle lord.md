@@ -5,6 +5,8 @@
 slug: "unidentified-muggle-lord"
 物种: "人类"
 国籍: "英国人"
+肤色: "White (most likely)"
+头衔: "Lord"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +23,8 @@ slug: "unidentified-muggle-lord"
 | 国籍 | 英国人 |
 | 眼睛颜色 | 未知 |
 | 头发颜色 | 未知 |
+| 肤色 | White (most likely) |
+| 头衔 | Lord |
 
 ## 关联
 

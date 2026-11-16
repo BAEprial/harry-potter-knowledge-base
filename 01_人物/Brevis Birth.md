@@ -5,6 +5,7 @@
 slug: "brevis-birch"
 物种: "人类"
 性别: "男"
+头衔: "Captain"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "brevis-birch"
 | 出生 | Before 1981 |
 | 职业 | Captain of the Tutshill Tornados |
 | 家庭成员 | Trevor Birch (possibly)； Birch family |
+| 头衔 | Captain |
 
 ## 关联
 

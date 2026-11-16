@@ -8,6 +8,7 @@ slug: "beatrice-haywood"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "beatrice-haywood"
 | 魔杖 | Unknown wood,，length and core |
 | 别名与绰号 | Bea (by Penny) |
 | 家庭成员 | Father； Mother； Penny Haywood (older sister)； Winifred Haywood (step-grandmother)； Haywood family |
+| 肤色 | Light |
 
 ## 关联
 

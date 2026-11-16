@@ -5,6 +5,7 @@
 slug: "dorcas-wellbeloved"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "dorcas-wellbeloved"
 | 眼睛颜色 | Green |
 | 头发颜色 | Brown |
 | 职业 | Founder of the Society for Distressed Witches |
+| 肤色 | White |
 
 ## 关联
 

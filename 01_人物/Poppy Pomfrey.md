@@ -8,6 +8,7 @@ slug: "poppy-pomfrey"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Non-corporeal"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "poppy-pomfrey"
 | 国籍 | British or Irish |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Matron at Hogwarts School |
+| 头衔 | Madam |
 
 ## 关联
 

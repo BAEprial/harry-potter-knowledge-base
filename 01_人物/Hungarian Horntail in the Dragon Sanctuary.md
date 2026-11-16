@@ -5,6 +5,7 @@
 slug: "hungarian-horntail-in-the-dragon-sanctuary"
 物种: "Hungarian Horntail"
 性别: "女"
+肤色: "Black and yellow"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "hungarian-horntail-in-the-dragon-sanctuary"
 | 性别 | 女 |
 | 出生 | Pre 1990 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Black and yellow |
 
 ## 关联
 

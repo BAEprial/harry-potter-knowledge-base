@@ -6,6 +6,8 @@ slug: "tony-silva"
 物种: "人类"
 国籍: "Brazilian"
 性别: "男"
+肤色: "Light"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "tony-silva"
 | 国籍 | Brazilian |
 | 头发颜色 | Black |
 | 职业 | Seeker for the Brazilian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Seeker |
 
 ## 关联
 

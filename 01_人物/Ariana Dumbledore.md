@@ -7,6 +7,7 @@ slug: "ariana-dumbledore"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "ariana-dumbledore"
 | 国籍 | 英国人 |
 | 头发颜色 | Blonde |
 | 家庭成员 | Percival Dumbledore (father) †； Kendra Dumbledore (mother) †； Albus Dumbledore (older brother) †； [[Aberforth Dumbledore]] (older brother)； Aurelius Dumbledore (biological nephew)； Honoria (aunt)； Dumbledore family |
+| 婚姻状况 | Single |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "unicorn-at-the-magical-creatures-reserve"
 物种: "Unicorn"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "unicorn-at-the-magical-creatures-reserve"
 | 眼睛颜色 | Black |
 | 头发颜色 | White |
 | 家庭成员 | Mate； Unborn foal |
+| 肤色 | White |
 
 ## 关联
 

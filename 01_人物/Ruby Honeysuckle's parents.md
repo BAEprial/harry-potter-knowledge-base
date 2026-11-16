@@ -6,6 +6,7 @@ slug: "ruby-honeysuckle-s-parents"
 物种: "Humans"
 国籍: "American"
 性别: "Male,，female"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "ruby-honeysuckle-s-parents"
 | 性别 | Male,，female |
 | 国籍 | American |
 | 家庭成员 | Father/father-in-law； [[Ruby]] Honeysuckle (daughter)； Honeysuckle family |
+| 婚姻状况 | Married |
 
 ## 关联
 

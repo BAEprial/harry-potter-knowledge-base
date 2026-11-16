@@ -5,6 +5,7 @@
 slug: "amir"
 物种: "人类"
 性别: "男"
+恋情: "Noah Wexmore"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "amir"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 男 |
+| 恋情 | Noah Wexmore |
 
 ## 关联
 

@@ -6,6 +6,9 @@ slug: "daisy-rabe"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+恋情: "Isko Rabe (husband)"
+肤色: "Light"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +27,9 @@ slug: "daisy-rabe"
 | 头发颜色 | Black |
 | 职业 | Security Guard at Gringotts Wizarding Bank |
 | 家庭成员 | Isko Rabe (husband) |
+| 恋情 | Isko Rabe (husband) |
+| 肤色 | Light |
+| 婚姻状况 | Married |
 
 ## 关联
 

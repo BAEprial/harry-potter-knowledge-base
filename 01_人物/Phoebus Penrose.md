@@ -6,6 +6,7 @@ slug: "phoebus-penrose"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "phoebus-penrose"
 | 性别 | 男 |
 | 国籍 | 英国人 |
 | 职业 | Head of a research committee of the British Ministry of Magic |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -6,6 +6,8 @@ slug: "antonia-creaseworthy"
 物种: "Human (formerly),，幽灵"
 国籍: "British or Irish"
 性别: "女"
+肤色: "White"
+头衔: "Professor； Dame； Head of Hogwarts School of Witchcraft and Wizardry"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "antonia-creaseworthy"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Head of Hogwarts School of Witchcraft and Wizardry (unknown period) |
+| 肤色 | White |
+| 头衔 | Professor； Dame； Head of Hogwarts School of Witchcraft and Wizardry |
 
 ## 关联
 

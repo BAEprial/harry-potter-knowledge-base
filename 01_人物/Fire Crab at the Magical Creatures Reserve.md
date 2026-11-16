@@ -4,6 +4,7 @@
 英文名: "Fire Crab at the Magical Creatures Reserve"
 slug: "fire-crab-at-the-magical-creature-reserve"
 物种: "Fire Crab"
+肤色: "Greyish blue"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "fire-crab-at-the-magical-creature-reserve"
 | 物种 | Fire Crab |
 | 出生 | Before or during the 1980s |
 | 眼睛颜色 | Yellow |
+| 肤色 | Greyish blue |
 
 ## 关联
 

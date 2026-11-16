@@ -6,6 +6,7 @@ slug: "affpuddle-of-the-cheerful-countenance"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+头衔: "Sir"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "affpuddle-of-the-cheerful-countenance"
 | 逝世 | Before 1890 |
 | 国籍 | 英国人 |
 | 别名与绰号 | Waving Knight |
+| 头衔 | Sir |
 
 ## 关联
 

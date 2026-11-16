@@ -6,6 +6,7 @@ slug: "baltimore-bride"
 物种: "人类"
 国籍: "American"
 性别: "女"
+婚姻状况: "Married (presumably)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "baltimore-bride"
 | 性别 | 女 |
 | 出生 | Before 1926 |
 | 国籍 | American |
+| 婚姻状况 | Married (presumably) |
 
 ## 关联
 

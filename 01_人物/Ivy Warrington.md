@@ -8,6 +8,7 @@ slug: "ivy-warrington"
 国籍: "British or Irish"
 性别: "女"
 守护神: "Pug"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "ivy-warrington"
 | 头发颜色 | Silver |
 | 魔杖 | 12½',，Cherry,，dragon heartstring |
 | 家庭成员 | Father； Mother； Winifred Warrington (older twin sister)； Maternal grandmother； [[Cassius Warrington]] (possibly)； Warrington family |
+| 肤色 | White |
 
 ## 关联
 

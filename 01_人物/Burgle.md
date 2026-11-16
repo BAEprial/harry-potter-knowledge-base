@@ -5,6 +5,7 @@
 slug: "burgle"
 物种: "家养小精灵"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "burgle"
 | 性别 | 男 |
 | 出生 | Before 1927 |
 | 职业 | Servant in the Circus Arcanus |
+| 肤色 | Light |
 
 ## 关联
 

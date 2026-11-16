@@ -6,6 +6,8 @@ slug: "jahmari-banton"
 物种: "人类"
 国籍: "Jamaican"
 性别: "男"
+肤色: "Dark"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "jahmari-banton"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Black |
 | 职业 | Chaser for the Jamaican National Quidditch team |
+| 肤色 | Dark |
+| 头衔 | Chaser |
 
 ## 关联
 

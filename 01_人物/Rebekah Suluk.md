@@ -6,6 +6,8 @@ slug: "rebekah-suluk"
 物种: "人类"
 国籍: "Canadian"
 性别: "女"
+肤色: "Light"
+头衔: "Seeker for the Canadian National Quidditch team"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "rebekah-suluk"
 | 出生 | 20th century |
 | 国籍 | Canadian |
 | 职业 | Seeker for the Canadian National Quidditch team |
+| 肤色 | Light |
+| 头衔 | Seeker for the Canadian National Quidditch team |
 
 ## 关联
 

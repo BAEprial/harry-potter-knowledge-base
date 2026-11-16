@@ -5,6 +5,7 @@
 slug: "moliere"
 物种: "人类"
 国籍: "法国人"
+头衔: "Doctor"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "moliere"
 | 出生 | Before the 1920s |
 | 国籍 | 法国人 |
 | 职业 | Dentist |
+| 头衔 | Doctor |
 
 ## 关联
 

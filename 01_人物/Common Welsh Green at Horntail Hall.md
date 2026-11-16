@@ -4,6 +4,7 @@
 英文名: "Common Welsh Green at Horntail Hall"
 slug: "common-welsh-green-at-horntail-hall"
 物种: "Dragon (Common Welsh Green)"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "common-welsh-green-at-horntail-hall"
 |---|---|
 | 物种 | Dragon (Common Welsh Green) |
 | 出生 | Before 1890 |
+| 肤色 | Green |
 
 ## 关联
 

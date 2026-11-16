@@ -8,6 +8,8 @@ slug: "lenny-pindlebrook"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+恋情: "Liz Tuttle"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -29,6 +31,8 @@ slug: "lenny-pindlebrook"
 | 头发颜色 | Blond |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Father； Mother； Pindlebrook family |
+| 恋情 | Liz Tuttle |
+| 肤色 | White |
 
 ## 关联
 

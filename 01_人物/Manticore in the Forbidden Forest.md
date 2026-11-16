@@ -5,6 +5,7 @@
 slug: "manticore-in-the-forbidden-forest"
 物种: "Manticore"
 性别: "女"
+肤色: "Reddish orange"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "manticore-in-the-forbidden-forest"
 | 性别 | 女 |
 | 出生 | 2008/2009/2010 or earlier |
 | 眼睛颜色 | Black |
+| 肤色 | Reddish orange |
 
 ## 关联
 

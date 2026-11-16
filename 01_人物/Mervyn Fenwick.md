@@ -5,6 +5,7 @@
 slug: "mervyn-fenwick"
 物种: "人类"
 性别: "男"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "mervyn-fenwick"
 | 性别 | 男 |
 | 职业 | Keeper for the Tutshill Tornados |
 | 家庭成员 | [[Benjy Fenwick]] (possible relative)； Marcus Fenwick (possible relative)； Robbie Fenwick (possible relative) |
+| 头衔 | Keeper |
 
 ## 关联
 

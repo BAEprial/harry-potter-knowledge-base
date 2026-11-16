@@ -5,6 +5,7 @@
 slug: "cordelia-vexmoor"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "cordelia-vexmoor"
 | 头发颜色 | Blonde |
 | 魔杖 | Unknown length,，wood and core |
 | 家庭成员 | Veronica Vexmoor (younger sister)； Vexmoor family |
+| 肤色 | White |
 
 ## 关联
 

@@ -4,6 +4,7 @@
 英文名: "Shrake at the Magical Creatures Reserve"
 slug: "shrake-at-the-magical-creatures-reserve"
 物种: "Shrake"
+肤色: "Purple"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "shrake-at-the-magical-creatures-reserve"
 |---|---|
 | 物种 | Shrake |
 | 眼睛颜色 | Green |
+| 肤色 | Purple |
 
 ## 关联
 

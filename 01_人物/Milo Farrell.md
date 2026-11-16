@@ -8,6 +8,9 @@ slug: "milo-farrell"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Zola Farrell (wife)"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +33,9 @@ slug: "milo-farrell"
 | 魔杖 | 11¾',，Yew,，phoenix feather |
 | 职业 | Enchanter of broomsticks |
 | 家庭成员 | Brother or brother-in-law； Zola Farrell (wife)； [[Kevin]] Farrell (son)； Farrell family |
+| 恋情 | Zola Farrell (wife) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

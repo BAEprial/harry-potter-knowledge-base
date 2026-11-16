@@ -6,6 +6,7 @@ slug: "gwendolyn-morgan"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Quidditch Captain"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "gwendolyn-morgan"
 | 国籍 | 英国人 |
 | 职业 | Professional Quidditch player for the Holyhead Harpies |
 | 家庭成员 | Iona Morgan (possible relative)； [[Elsie]] Morgan (possible relative)； Valmai Morgan (possible relative)； Morgan family |
+| 头衔 | Quidditch Captain |
 
 ## 关联
 

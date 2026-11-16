@@ -6,6 +6,8 @@ slug: "aquila-greengrass"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+恋情: "Gareth Greengrass (husband) †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "aquila-greengrass"
 | 逝世 | Before 2019 |
 | 国籍 | 英国人 |
 | 家庭成员 | Gareth Greengrass (husband) †； Cereus Greengrass (daughter)； Brother-in-law； Greengrass family (in-laws/descendants) |
+| 恋情 | Gareth Greengrass (husband) † |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "carl-sagan"
 血统: "No-Maj"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +25,7 @@ slug: "carl-sagan"
 | 逝世 | 20 December,，1996 (aged 62) |
 | 头发颜色 | Brown |
 | 职业 | Astrophysicist； Science communicator； Author |
+| 肤色 | White |
 
 ## 关联
 

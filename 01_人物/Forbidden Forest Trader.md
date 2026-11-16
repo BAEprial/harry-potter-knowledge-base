@@ -5,6 +5,7 @@
 slug: "forbidden-forest-trader"
 物种: "人类"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "forbidden-forest-trader"
 | 头发颜色 | Blonde |
 | 职业 | Trader |
 | 别名与绰号 | Forbidden Forest Merchant； Black Market Merchant |
+| 肤色 | Light |
 
 ## 关联
 

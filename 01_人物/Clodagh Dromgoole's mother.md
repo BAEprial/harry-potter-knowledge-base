@@ -5,6 +5,7 @@
 slug: "clodagh-dromgoole-s-mother"
 物种: "人类"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "clodagh-dromgoole-s-mother"
 | 出生 | Before 1955 |
 | 逝世 | 1977 or after |
 | 家庭成员 | Husband †； Sister-in-law； [[Clodagh Dromgoole]] (daughter)； Dromgoole family |
+| 婚姻状况 | Married |
 
 ## 关联
 

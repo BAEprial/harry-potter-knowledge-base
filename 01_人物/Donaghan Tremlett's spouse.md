@@ -4,6 +4,7 @@
 英文名: "Donaghan Tremlett's spouse"
 slug: "donaghan-tremlett-s-spouse"
 物种: "人类"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "donaghan-tremlett-s-spouse"
 |---|---|
 | 物种 | 人类 |
 | 家庭成员 | [[Donaghan Tremlett]] (husband)； Mr Tremlett (father-in-law)； Mrs Tremlett (mother-in-law) |
+| 婚姻状况 | Married |
 
 ## 关联
 

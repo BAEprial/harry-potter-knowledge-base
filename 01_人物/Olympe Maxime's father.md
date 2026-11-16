@@ -6,6 +6,7 @@ slug: "olympe-maxime-s-father"
 物种: "Human or giant"
 国籍: "法国人"
 性别: "男"
+恋情: "Olympe Maxime's mother (uncertain relationship)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "olympe-maxime-s-father"
 | 性别 | 男 |
 | 国籍 | 法国人 |
 | 家庭成员 | [[Olympe Maxime]] (daughter) |
+| 恋情 | Olympe Maxime's mother (uncertain relationship) |
 
 ## 关联
 

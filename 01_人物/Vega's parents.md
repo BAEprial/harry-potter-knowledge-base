@@ -5,6 +5,7 @@
 slug: "vega-s-parents"
 物种: "Humans"
 性别: "Female,，male"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "vega-s-parents"
 | 物种 | Humans |
 | 性别 | Female,，male |
 | 家庭成员 | Vega (child) |
+| 婚姻状况 | Married |
 
 ## 关联
 

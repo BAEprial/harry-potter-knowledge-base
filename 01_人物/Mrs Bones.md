@@ -6,6 +6,8 @@ slug: "amelia-bones-s-mother"
 学院: "Hufflepuff (likely)"
 物种: "人类"
 性别: "女"
+恋情: "Husband †"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "amelia-bones-s-mother"
 | 性别 | 女 |
 | 逝世 | Before or during 1981 |
 | 家庭成员 | Husband †； Amelia [[Bones]] (daughter) †； [[Edgar]] Bones (son) †； Child； Daughter-in-law †； Grandchildren †； Susan Bones (granddaughter)； Bones family |
+| 恋情 | Husband † |
+| 婚姻状况 | Married |
 
 ## 关联
 

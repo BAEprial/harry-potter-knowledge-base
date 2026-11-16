@@ -5,6 +5,7 @@
 slug: "laurentia-fletwock"
 物种: "人类"
 性别: "女"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "laurentia-fletwock"
 | 头发颜色 | Brown |
 | 魔杖 | Unknown length,，wood and core |
 | 职业 | Winged horses breeder and racer |
+| 肤色 | White |
 
 ## 关联
 

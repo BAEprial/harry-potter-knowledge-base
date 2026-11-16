@@ -5,6 +5,7 @@
 slug: "ethelred-the-ever-ready"
 物种: "人类"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "ethelred-the-ever-ready"
 | 逝世 | Middle Ages |
 | 眼睛颜色 | Brown |
 | 头发颜色 | White |
+| 肤色 | White |
 
 ## 关联
 

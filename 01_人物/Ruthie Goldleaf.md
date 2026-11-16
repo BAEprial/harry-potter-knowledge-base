@@ -5,6 +5,7 @@
 slug: "ruthie-goldleaf"
 物种: "人类"
 性别: "女"
+恋情: "Elton Elderberry (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "ruthie-goldleaf"
 |---|---|
 | 物种 | 人类 |
 | 性别 | 女 |
+| 恋情 | Elton Elderberry (formerly) |
 
 ## 关联
 

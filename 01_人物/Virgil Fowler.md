@@ -8,6 +8,7 @@ slug: "virgil-fowler"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -30,6 +31,7 @@ slug: "virgil-fowler"
 | 魔杖 | Unknown length,，wood and core,，previously his father's wand |
 | 别名与绰号 | Mr Gloomy (by Rhys Maybury) |
 | 家庭成员 | Parents †； Uncle |
+| 肤色 | White |
 
 ## 关联
 

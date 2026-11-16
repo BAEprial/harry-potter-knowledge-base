@@ -4,6 +4,7 @@
 英文名: "Common Welsh Green at the Great Fire of London"
 slug: "common-welsh-green-at-the-great-fire-of-london"
 物种: "Common Welsh Green"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -18,6 +19,7 @@ slug: "common-welsh-green-at-the-great-fire-of-london"
 | 物种 | Common Welsh Green |
 | 出生 | September 1666 or earlier |
 | 身高 | Less than 18ft (likely) |
+| 肤色 | Green |
 
 ## 关联
 

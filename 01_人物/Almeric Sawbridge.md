@@ -6,6 +6,7 @@ slug: "almeric-sawbridge"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "almeric-sawbridge"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Troll hunter |
+| 肤色 | White |
 
 ## 关联
 

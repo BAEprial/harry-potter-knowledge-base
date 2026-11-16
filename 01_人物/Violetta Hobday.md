@@ -6,6 +6,7 @@ slug: "violetta-hobday"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "violetta-hobday"
 | 出生 | 1981 or earlier |
 | 国籍 | 英国人 |
 | 家庭成员 | [[Hilliard Hobday]] (husband)； Egmont Hobday (son)； [[Oakden Hobday]] (possibly) |
+| 婚姻状况 | Married |
 
 ## 关联
 

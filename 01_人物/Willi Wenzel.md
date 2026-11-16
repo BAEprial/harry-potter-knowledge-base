@@ -5,6 +5,7 @@
 slug: "willi-wenzel"
 物种: "人类"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "willi-wenzel"
 | 性别 | 男 |
 | 出生 | After 1976 |
 | 职业 | Chaser for the Liechtenstein National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

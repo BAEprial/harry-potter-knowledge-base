@@ -6,6 +6,7 @@ slug: "josef-wronski"
 物种: "人类"
 国籍: "Polish"
 性别: "男"
+头衔: "Seeker"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "josef-wronski"
 | 出生 | before 1978,，Poland (possibly) |
 | 国籍 | Polish |
 | 职业 | Seeker for the Grodzisk Goblins |
+| 头衔 | Seeker |
 
 ## 关联
 

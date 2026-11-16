@@ -4,6 +4,7 @@
 英文名: "Kelpie in the Hippogriff Clubhouse"
 slug: "kelpie-in-the-hippogriff-clubhouse"
 物种: "Kelpie"
+肤色: "Green"
 资料来源: hogwarts-api
 ---
 
@@ -17,6 +18,7 @@ slug: "kelpie-in-the-hippogriff-clubhouse"
 |---|---|
 | 物种 | Kelpie |
 | 眼睛颜色 | Green |
+| 肤色 | Green |
 
 ## 关联
 

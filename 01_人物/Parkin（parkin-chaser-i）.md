@@ -5,6 +5,7 @@
 slug: "parkin-chaser-i"
 物种: "人类"
 国籍: "Scottish"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "parkin-chaser-i"
 | 国籍 | Scottish |
 | 职业 | Chaser for the Wigtown Wanderers |
 | 家庭成员 | Walter [[Parkin]] (father)； Parkin (Keeper) (sibling)； Parkin ([[Chas]]er II) (sibling)； Parkin (Chaser III) (sibling)； Parkin (Beater I) (sibling)； Parkin (Beater II) (sibling)； Parkin (Seeker) (sibling)； Parkin family |
+| 头衔 | Chaser |
 
 ## 关联
 

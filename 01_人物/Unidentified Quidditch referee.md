@@ -5,6 +5,7 @@
 slug: "unidentified-quidditch-referee"
 物种: "人类"
 性别: "男"
+头衔: "Referee"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "unidentified-quidditch-referee"
 | 性别 | 男 |
 | 逝世 | After 1357 |
 | 职业 | Quidditch referee |
+| 头衔 | Referee |
 
 ## 关联
 

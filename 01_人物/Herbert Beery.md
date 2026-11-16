@@ -6,6 +6,7 @@ slug: "herbert-beery"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "herbert-beery"
 | 出生 | No later than between 1948 and 1954 |
 | 国籍 | British or Irish |
 | 职业 | Professor of Herbology (? - before 1965-1971)； Teacher at the Wizarding Academy of Dramatic Arts (before 1965-1971 - ?) |
+| 头衔 | Professor |
 
 ## 关联
 

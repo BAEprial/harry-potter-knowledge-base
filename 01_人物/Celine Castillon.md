@@ -5,6 +5,8 @@
 slug: "celine-castillon"
 物种: "人类"
 性别: "女"
+肤色: "Light"
+头衔: "Keeper"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "celine-castillon"
 | 眼睛颜色 | Grey |
 | 头发颜色 | Dark blonde |
 | 别名与绰号 | Matagot of Wizard Chess |
+| 肤色 | Light |
+| 头衔 | Keeper |
 
 ## 关联
 

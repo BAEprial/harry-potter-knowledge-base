@@ -6,6 +6,8 @@ slug: "minaka-hirakata"
 物种: "人类"
 国籍: "Japanese"
 性别: "女"
+肤色: "Pale"
+头衔: "Beater"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "minaka-hirakata"
 | 国籍 | Japanese |
 | 头发颜色 | Electric blue |
 | 职业 | Beater for the Japanese National Quidditch team |
+| 肤色 | Pale |
+| 头衔 | Beater |
 
 ## 关联
 

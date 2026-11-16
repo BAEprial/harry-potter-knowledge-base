@@ -7,6 +7,7 @@ slug: "henry-shaw-junior"
 物种: "人类"
 国籍: "American"
 性别: "男"
+头衔: "Senator"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "henry-shaw-junior"
 | 国籍 | American |
 | 职业 | U.S. Senator for the State of New York |
 | 家庭成员 | [[Henry]] Shaw Senior (father)； Langdon Shaw (brother)； Shaw family |
+| 头衔 | Senator |
 
 ## 关联
 

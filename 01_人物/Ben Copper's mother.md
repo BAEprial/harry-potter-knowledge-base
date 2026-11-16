@@ -6,6 +6,8 @@ slug: "ben-copper-s-mother"
 血统: "麻瓜"
 物种: "人类"
 性别: "女"
+恋情: "Husband"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "ben-copper-s-mother"
 | 性别 | 女 |
 | 出生 | Before 1973 |
 | 家庭成员 | Brothers or brothers-in-law； Husband； [[Ben Copper]] (son)； Copper family |
+| 恋情 | Husband |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -7,6 +7,8 @@ slug: "unidentified-gryffindor-prefect"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Fair"
+头衔: "Prefect"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "unidentified-gryffindor-prefect"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
+| 肤色 | Fair |
+| 头衔 | Prefect |
 
 ## 关联
 

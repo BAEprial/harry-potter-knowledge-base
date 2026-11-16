@@ -6,6 +6,8 @@ slug: "unidentified-sleeping-headmistress-with-sphere"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
+头衔: "Professor； Headmistress"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "unidentified-sleeping-headmistress-with-sphere"
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
 | 职业 | Headmistress of Hogwarts School of Witchcraft and Wizardry |
+| 肤色 | Light |
+| 头衔 | Professor； Headmistress |
 
 ## 关联
 

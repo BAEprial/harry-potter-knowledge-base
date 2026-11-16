@@ -7,6 +7,7 @@ slug: "delphini"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+婚姻状况: "Single"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +29,7 @@ slug: "delphini"
 | 职业 | Carer at St Oswald's Home for Old Witches and Wizards (formerly) |
 | 别名与绰号 | Delphi； Delphini Diggory； The Augurey； Hermione Granger (under disguise of Polyjuice Potion) |
 | 家庭成员 | Lord Voldemort (father) †； [[Bell]]atrix Lestrange (née Black) (mother) †； Rodolphus Lestrange (maternal step-father)； Tom Riddle Senior (paternal grandfather) †； Merope Riddle (née Gaunt) (paternal grandmother) †； Cygnus Black (III) (maternal grandfather) †； [[Druella Black (née Rosier)]] (maternal grandmother)； Andromeda Tonks (née Black) (maternal aunt)； Narcissa Malfoy (née Black) (maternal aunt)； Rabastan Lestrange (maternal step-uncle)； Edward Tonks (maternal uncle by marriage) †； Lucius Malfoy (maternal uncle by marriage)； Nymphadora Lupin (née Tonks) (maternal first cousin) †； Draco Malfoy (maternal first cousin)； Salazar Slytherin (paternal ancestor) †； [[Cadmus]] Peverell (paternal ancestor) †； Riddle family (paternal family)； House of Black (maternal family)； Lestrange family (step-family) |
+| 婚姻状况 | Single |
 
 ## 关联
 

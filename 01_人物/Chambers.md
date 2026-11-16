@@ -7,6 +7,7 @@ slug: "chambers"
 物种: "人类"
 国籍: "British or Irish"
 性别: "未知"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "chambers"
 | 性别 | 未知 |
 | 出生 | On or before 31 August 1983 |
 | 国籍 | British or Irish |
+| 头衔 | Chaser |
 
 ## 关联
 

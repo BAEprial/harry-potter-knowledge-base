@@ -7,6 +7,8 @@ slug: "hope-howell"
 物种: "人类"
 国籍: "Welsh (possibly)"
 性别: "女"
+恋情: "Lyall Lupin (husband)"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -27,6 +29,8 @@ slug: "hope-howell"
 | 国籍 | Welsh (possibly) |
 | 职业 | Insurance office worker |
 | 家庭成员 | Lyall Lupin (husband)； Remus Lupin (son) †； Nymphadora Lupin (née Tonks) (daughter-in-law) †； [[Edward]] Lupin (grandson)； Howell family； Lupin family (in-laws/descendants) |
+| 恋情 | Lyall Lupin (husband) |
+| 婚姻状况 | Married |
 
 ## 关联
 

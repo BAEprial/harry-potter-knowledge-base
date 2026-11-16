@@ -6,6 +6,7 @@ slug: "zygmunt-budge"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +26,7 @@ slug: "zygmunt-budge"
 | 职业 | Potioneer； Author |
 | 别名与绰号 | 'Fungus-face' (by his mother)； The Hermit of Hermetray (by his neighbour on the Isle of Harris) |
 | 家庭成员 | Mother； Great-grandmother |
+| 肤色 | Pale |
 
 ## 关联
 

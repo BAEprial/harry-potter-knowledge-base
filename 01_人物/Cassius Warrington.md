@@ -8,6 +8,7 @@ slug: "cassius-warrington"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "cassius-warrington"
 | 出生 | Between 1 September and 31 October 1977 (most likely) |
 | 国籍 | British or Irish |
 | 家庭成员 | Possible relative； Ivy Warrington (possible relative)； Winifred Warrington (possible relative)； Warrington family |
+| 头衔 | Chaser |
 
 ## 关联
 

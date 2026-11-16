@@ -6,6 +6,8 @@ slug: "violetta-bulstrode"
 血统: "纯血统"
 物种: "人类"
 性别: "女"
+恋情: "Cygnus Black (II) (husband) †"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +25,8 @@ slug: "violetta-bulstrode"
 | 出生 | Before 1912 |
 | 逝世 | In or before 1995 (possibly) |
 | 家庭成员 | [[Cygnus Black]] (II) (husband) †； [[Pollux Black]] (son) †； [[Cassiopeia Black]] (daughter) †； [[Marius]] Black (son) †； [[Dorea Potter (née Black)]] (daughter) †； Phineas [[Nigel]]lus Black (father-in-law) †； [[Ursula Black (née Flint)]] (mother-in-law)； [[Sirius Black]] (II) (brother-in-law) †； [[Phineas Black]] (brother-in-law) †； Arcturus Black (II) (brother-in-law) †； [[Belvina Burke (née Black)]] (sister-in-law) †； [[Hesper Black]] (née Gamp) (sister-in-law by marriage)； [[Lysandra Black (née Yaxley)]] (sister-in-law by marriage)； [[Herbert Burke]] (brother-in-law by marriage) †； Arcturus Black (III) (nephew by marriage) †； [[Lycoris Black]] (niece by marriage) †； [[Regulus Black]] (nephew by marriage) †； [[Callidora Longbottom (née Black)]] (niece by marriage)； [[Cedrella Weasley (née Black)]] (niece by marriage)； [[Charis Crouch (née Black)]] (niece by marriage) †； Two nephews by marriage； Niece by marriage； Irma Black (née [[Crabbe]]) (daughter-in-law)； [[Charlus Potter]] (son-in-law) †； [[Walburga Black]] (granddaughter) †； [[Alphard Black]] (grandson) †； Cygnus Black (III) (grandson) †； Grandson †； [[Millicent Bulstrode]] (possible relative)； [[Vulpecula Bulstrode]] (possible relative)； Bulstrode family； House of Black (in-laws/descendants) |
+| 恋情 | Cygnus Black (II) (husband) † |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

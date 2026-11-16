@@ -7,6 +7,8 @@ slug: "malcolm-preece"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -25,6 +27,8 @@ slug: "malcolm-preece"
 | 国籍 | British or Irish |
 | 眼睛颜色 | Blue |
 | 头发颜色 | Brown |
+| 肤色 | Light |
+| 头衔 | Chaser |
 
 ## 关联
 

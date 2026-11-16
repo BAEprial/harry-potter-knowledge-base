@@ -4,6 +4,7 @@
 英文名: "Mountain troll in the Forest Grove"
 slug: "mountain-troll-in-the-forest-grove"
 物种: "Mountain troll"
+肤色: "Grey"
 资料来源: hogwarts-api
 ---
 
@@ -16,6 +17,7 @@ slug: "mountain-troll-in-the-forest-grove"
 | 项目 | 内容 |
 |---|---|
 | 物种 | Mountain troll |
+| 肤色 | Grey |
 
 ## 关联
 

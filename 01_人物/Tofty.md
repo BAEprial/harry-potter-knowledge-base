@@ -6,6 +6,8 @@ slug: "tofty"
 物种: "人类"
 国籍: "英国人"
 性别: "男"
+肤色: "White"
+头衔: "Professor"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "tofty"
 | 眼睛颜色 | Brown |
 | 头发颜色 | White,，balding |
 | 职业 | Examiner for the Wizarding Examinations Authority |
+| 肤色 | White |
+| 头衔 | Professor |
 
 ## 关联
 

@@ -8,6 +8,9 @@ slug: "barnaby-lee-s-father"
 物种: "人类"
 性别: "男"
 守护神: "无"
+恋情: "Wife"
+头衔: "Toast Giver"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +29,9 @@ slug: "barnaby-lee-s-father"
 | 出生 | Before 1970s |
 | 守护神 | 无 |
 | 家庭成员 | Mother †； Leah Lee (older sister)； Cecil Lee (older brother)； Wife； Barnaby Lee (son)； Lee family |
+| 恋情 | Wife |
+| 头衔 | Toast Giver |
+| 婚姻状况 | Married |
 
 ## 关联
 

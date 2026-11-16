@@ -5,6 +5,7 @@
 slug: "vulcan"
 物种: "Fire Dwelling Salamander"
 性别: "男"
+肤色: "Red and orange"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "vulcan"
 | 物种 | Fire Dwelling Salamander |
 | 性别 | 男 |
 | 眼睛颜色 | Yellow |
+| 肤色 | Red and orange |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "unidentified-hogwarts-couple"
 物种: "Humans"
 国籍: "British or Irish"
+恋情: "Each other"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-hogwarts-couple"
 | 物种 | Humans |
 | 出生 | Between 1 September 1975 and 31 August 1982 |
 | 国籍 | British or Irish |
+| 恋情 | Each other |
 
 ## 关联
 

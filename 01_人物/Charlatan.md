@@ -6,6 +6,7 @@ slug: "charlatan"
 血统: "麻瓜"
 物种: "人类"
 性别: "男"
+头衔: "Grand Sorcerer in Chief (formerly)"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "charlatan"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 职业 | King's Private Magic Master for the King (formerly) |
+| 头衔 | Grand Sorcerer in Chief (formerly) |
 
 ## 关联
 

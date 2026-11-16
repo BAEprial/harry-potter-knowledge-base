@@ -7,6 +7,7 @@ slug: "hortense-cooper"
 物种: "人类"
 国籍: "British or Irish"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "hortense-cooper"
 | 眼睛颜色 | Green |
 | 头发颜色 | Blonde |
 | 家庭成员 | [[Buckley Cooper]] (possibly)； Mr Cooper (possibly)； [[Cooper children]] (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "wiggins"
 物种: "人类"
 性别: "女"
+肤色: "Dark"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "wiggins"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 职业 | Trainee Healer |
+| 肤色 | Dark |
 
 ## 关联
 

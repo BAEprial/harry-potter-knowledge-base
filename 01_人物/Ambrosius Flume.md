@@ -6,6 +6,8 @@ slug: "ambrosius-flume"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "White"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -24,6 +26,8 @@ slug: "ambrosius-flume"
 | 头发颜色 | Bald |
 | 职业 | Co-owner of Honeydukes |
 | 家庭成员 | Mrs Flume (wife)； Mellona Flume (granddaughter) |
+| 肤色 | White |
+| 婚姻状况 | Married |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "r-l-stevenson"
 物种: "人类"
 性别: "男"
+婚姻状况: "Married"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "r-l-stevenson"
 | 出生 | 13 November 1850,，Edinburgh,，Scotland |
 | 逝世 | 3 December 1894 (aged 44),，Vailima,，Samoa |
 | 职业 | Writer |
+| 婚姻状况 | Married |
 
 ## 关联
 

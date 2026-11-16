@@ -7,6 +7,7 @@ slug: "hamish-knighton"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -26,6 +27,7 @@ slug: "hamish-knighton"
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
 | 家庭成员 | [[H. Knighton]] (possibly) |
+| 肤色 | Light |
 
 ## 关联
 

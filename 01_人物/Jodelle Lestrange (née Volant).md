@@ -7,6 +7,7 @@ slug: "jodelle-volant"
 物种: "人类"
 国籍: "法国人"
 性别: "女"
+婚姻状况: "Married or widowed"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "jodelle-volant"
 | 性别 | 女 |
 | 国籍 | 法国人 |
 | 家庭成员 | Floxel [[Lestrange]] (husband)； Quintilla Lestrange (daughter)； [[Cyrille Lestrange]] (father-in-law)； [[Luminosa Lestrange (née Trouche)]] (mother-in-law)； Cyrille Lestrange (brother-in-law)； [[Fulcran Lestrange]] (son-in-law)； Nozéa Lestrange (granddaughter)； Volant family； Lestrange family |
+| 婚姻状况 | Married or widowed |
 
 ## 关联
 

@@ -6,6 +6,7 @@ slug: "magnus"
 物种: "马人"
 国籍: "英国人"
 性别: "男"
+肤色: "Tan"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "magnus"
 | 国籍 | 英国人 |
 | 眼睛颜色 | Brown |
 | 头发颜色 | Brown |
+| 肤色 | Tan |
 
 ## 关联
 

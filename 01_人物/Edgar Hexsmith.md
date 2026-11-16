@@ -8,6 +8,9 @@ slug: "edgar-hexsmith"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+恋情: "Wife"
+肤色: "White"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -28,6 +31,9 @@ slug: "edgar-hexsmith"
 | 眼睛颜色 | Blue |
 | 头发颜色 | Light Brown |
 | 家庭成员 | Wife； Jenna Hexsmith (daughter)； Hexsmith family |
+| 恋情 | Wife |
+| 肤色 | White |
+| 头衔 | Chaser |
 
 ## 关联
 

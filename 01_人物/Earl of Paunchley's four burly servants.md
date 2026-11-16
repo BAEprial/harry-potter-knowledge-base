@@ -7,6 +7,7 @@ slug: "earl-of-paunchley-s-four-burly-servants"
 物种: "Humans"
 国籍: "英国人"
 性别: "Males"
+肤色: "White"
 资料来源: hogwarts-api
 ---
 
@@ -23,6 +24,7 @@ slug: "earl-of-paunchley-s-four-burly-servants"
 | 性别 | Males |
 | 国籍 | 英国人 |
 | 职业 | Manservants to the Earl of Paunchley |
+| 肤色 | White |
 
 ## 关联
 

@@ -5,6 +5,7 @@
 slug: "unidentified-black-wizard-during-the-battle-of-hogwarts"
 物种: "人类"
 性别: "男"
+肤色: "Black"
 资料来源: hogwarts-api
 ---
 
@@ -19,6 +20,7 @@ slug: "unidentified-black-wizard-during-the-battle-of-hogwarts"
 | 物种 | 人类 |
 | 性别 | 男 |
 | 头发颜色 | Black |
+| 肤色 | Black |
 
 ## 关联
 

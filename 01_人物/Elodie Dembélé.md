@@ -6,6 +6,7 @@ slug: "elodie-dembele"
 物种: "人类"
 国籍: "Ivorian"
 性别: "女"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +23,7 @@ slug: "elodie-dembele"
 | 出生 | Between 14 April,，1995 and 13 April 1996,，Ivory Coast (possibly) |
 | 国籍 | Ivorian |
 | 职业 | Chaser for the Ivorian National Quidditch team |
+| 头衔 | Chaser |
 
 ## 关联
 

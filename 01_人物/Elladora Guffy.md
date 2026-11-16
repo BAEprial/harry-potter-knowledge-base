@@ -6,6 +6,7 @@ slug: "elladora-guffy"
 物种: "人类"
 国籍: "英国人"
 性别: "女"
+头衔: "Madam"
 资料来源: hogwarts-api
 ---
 
@@ -20,6 +21,7 @@ slug: "elladora-guffy"
 | 物种 | 人类 |
 | 性别 | 女 |
 | 国籍 | 英国人 |
+| 头衔 | Madam |
 
 ## 关联
 

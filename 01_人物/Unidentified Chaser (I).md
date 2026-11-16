@@ -6,6 +6,8 @@ slug: "unidentified-chaser-i"
 物种: "人类"
 国籍: "British or Irish"
 性别: "男"
+肤色: "Pale"
+头衔: "Chaser"
 资料来源: hogwarts-api
 ---
 
@@ -22,6 +24,8 @@ slug: "unidentified-chaser-i"
 | 出生 | 31 August 1973 or earlier |
 | 国籍 | British or Irish |
 | 头发颜色 | Black |
+| 肤色 | Pale |
+| 头衔 | Chaser |
 
 ## 关联
 

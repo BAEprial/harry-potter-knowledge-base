@@ -5,6 +5,7 @@
 slug: "lottie-featherbottom"
 物种: "人类"
 性别: "女"
+肤色: "Light"
 资料来源: hogwarts-api
 ---
 
@@ -21,6 +22,7 @@ slug: "lottie-featherbottom"
 | 出生 | 1873 or earlier |
 | 头发颜色 | Brown |
 | 职业 | Postmaster at the Hogsmeade Post Office |
+| 肤色 | Light |
 
 ## 关联
 
