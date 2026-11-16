@@ -1,0 +1,35 @@
+---
+类型: 人物
+姓名: "Bardolph Beaumont"
+英文名: "Bardolph Beaumont"
+slug: "bardolph-beaumont"
+物种: "Human (formerly),，Inferius"
+国籍: "英国人"
+性别: "男"
+资料来源: hogwarts-api
+---
+
+# Bardolph Beaumont
+
+> 英文名：Bardolph Beaumont
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 物种 | Human (formerly),，Inferius |
+| 性别 | 男 |
+| 出生 | Before 1873 |
+| 逝世 | 1890 |
+| 国籍 | 英国人 |
+| 头发颜色 | 黑暗 |
+| 家庭成员 | [[Claire Beaumont]] (sister)； Beaumont family |
+
+## 关联
+
+- [[人物总览]]
+
+## 资料出处
+
+- 字段数据：hogwarts-api（公开 JSON API，英文原文，中文字段名与常见值已翻译）
+- 本页为中文整理，个人非商业使用

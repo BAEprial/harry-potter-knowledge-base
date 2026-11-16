@@ -1,0 +1,33 @@
+---
+类型: 人物
+姓名: "Elodie Dembélé"
+英文名: "Elodie Dembélé"
+slug: "elodie-dembele"
+物种: "人类"
+国籍: "Ivorian"
+性别: "女"
+资料来源: hogwarts-api
+---
+
+# Elodie Dembélé
+
+> 英文名：Elodie Dembélé
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 物种 | 人类 |
+| 性别 | 女 |
+| 出生 | Between 14 April,，1995 and 13 April 1996,，Ivory Coast (possibly) |
+| 国籍 | Ivorian |
+| 职业 | Chaser for the Ivorian National Quidditch team |
+
+## 关联
+
+- [[人物总览]]
+
+## 资料出处
+
+- 字段数据：hogwarts-api（公开 JSON API，英文原文，中文字段名与常见值已翻译）
+- 本页为中文整理，个人非商业使用
